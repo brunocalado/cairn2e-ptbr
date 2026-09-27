@@ -1,0 +1,342 @@
+{
+  "label": "Mercenários",
+  "entries": {
+    "Alchemist": {
+      "name": "Alquimista",
+      "career": "Alquimista",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Torch": {
+          "name": "Tocha",
+          "description": "<p>Tocha (3 usos)</p>"
+        },
+        "Dagger": {
+          "name": "Adaga",
+          "description": "<p>Adaga (d6 de dano)</p>"
+        },
+        "Acid": {
+          "name": "Ácido",
+          "description": "<p>Ácido</p>"
+        },
+        "Lens": {
+          "name": "Lente",
+          "description": "<p>Lente</p>"
+        },
+        "Gloves": {
+          "name": "Luvas",
+          "description": "<p>Luvas (<em>miudeza</em>)</p>"
+        }
+      }
+    },
+    "Animal Handler": {
+      "name": "Tratador de Animais",
+      "career": "Tratador de Animais",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Torch": {
+          "name": "Tocha",
+          "description": "<p>Tocha (3 usos)</p>"
+        },
+        "Dagger": {
+          "name": "Adaga",
+          "description": "<p>Adaga (d6 de dano)</p>"
+        },
+        "Cage": {
+          "name": "Jaula",
+          "description": "<p>Jaula</p>"
+        },
+        "Rope": {
+          "name": "Corda",
+          "description": "<p>Corda (7,5 m)</p>"
+        },
+        "Hawk": {
+          "name": "Falcão",
+          "description": "<p>@UUID[Compendium.cairn2e.hirelings.Actor.TE0MDSG0VK7Erzvl]{Falcão} — 2 PG, 5 FOR, 16 DES, 5 VON, garras (d4+d4)</p>"
+        }
+      }
+    },
+    "Blacksmith": {
+      "name": "Ferreiro",
+      "career": "Ferreiro",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Lantern": {
+          "name": "Lanterna",
+          "description": "<p>Lanterna (comporta 6 usos de óleo, despejado de uma Lata de Óleo)</p>"
+        },
+        "Oil Can": {
+          "name": "Lata de Óleo",
+          "description": "<p>Lata de Óleo (6 usos)</p>"
+        },
+        "Hammer": {
+          "name": "Martelo",
+          "description": "<p>Martelo (d6)</p>"
+        },
+        "Iron Tongs": {
+          "name": "Tenaz de Ferro",
+          "description": "<p>Tenaz de Ferro</p>"
+        },
+        "Gambeson": {
+          "name": "Gibão",
+          "description": "<p>Gibão (+1 Armadura)</p>"
+        }
+      }
+    },
+    "Bodyguard": {
+      "name": "Guarda-Costas",
+      "career": "Guarda-Costas",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Torch": {
+          "name": "Tocha",
+          "description": "<p>Tocha (3 usos)</p>"
+        },
+        "Sword": {
+          "name": "Espada",
+          "description": "<p>Espada (d8 de dano)</p>"
+        },
+        "Helmet": {
+          "name": "Elmo",
+          "description": "<p>Elmo (+1 Armadura)</p>"
+        }
+      }
+    },
+    "Hawk": {
+      "name": "Falcão",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d4+d4)</p>"
+        }
+      }
+    },
+    "Local Guide": {
+      "name": "Guia Local",
+      "career": "Guia Local",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Torch": {
+          "name": "Tocha",
+          "description": "<p>Tocha (3 usos)</p>"
+        },
+        "Compass": {
+          "name": "Bússola",
+          "description": "<p>Bússola</p>"
+        },
+        "Rope": {
+          "name": "Corda",
+          "description": "<p>Corda (7,5 m)</p>"
+        },
+        "Shovel": {
+          "name": "Pá",
+          "description": "<p>Pá</p>"
+        }
+      }
+    },
+    "Lockpick": {
+      "name": "Arrombador",
+      "career": "Arrombador",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Lantern": {
+          "name": "Lanterna",
+          "description": "<p>Lanterna (comporta 6 usos de óleo, despejado de uma Lata de Óleo)</p>"
+        },
+        "Oil Can": {
+          "name": "Lata de Óleo",
+          "description": "<p>Lata de Óleo (6 usos)</p>"
+        },
+        "Cudgel": {
+          "name": "Porrete",
+          "description": "<p>Porrete (d6 de dano)</p>"
+        },
+        "Lockpick": {
+          "name": "Gazuas",
+          "description": "<p>Gazuas</p>"
+        },
+        "Metal File": {
+          "name": "Lima de Metal",
+          "description": "<p>Lima de Metal</p>"
+        }
+      }
+    },
+    "Navigator": {
+      "name": "Navegador",
+      "career": "Navegador",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Torch": {
+          "name": "Tocha",
+          "description": "<p>Tocha (3 usos)</p>"
+        },
+        "Dagger": {
+          "name": "Adaga",
+          "description": "<p>Adaga (d6 de dano)</p>"
+        },
+        "Compass": {
+          "name": "Bússola",
+          "description": "<p>Bússola</p>"
+        },
+        "Sextant": {
+          "name": "Sextante",
+          "description": "<p>Sextante</p>"
+        }
+      }
+    },
+    "Sailor": {
+      "name": "Marinheiro",
+      "career": "Marinheiro",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Lantern": {
+          "name": "Lanterna",
+          "description": "<p>Lanterna (comporta 6 usos de óleo, despejado de uma Lata de Óleo)</p>"
+        },
+        "Oil Can": {
+          "name": "Lata de Óleo",
+          "description": "<p>Lata de Óleo (6 usos)</p>"
+        },
+        "Sling": {
+          "name": "Funda",
+          "description": "<p>Funda (d6 de dano)</p>"
+        },
+        "Spyglass": {
+          "name": "Luneta",
+          "description": "<p>Luneta</p>"
+        },
+        "Rope": {
+          "name": "Corda",
+          "description": "<p>Corda (7,5 m)</p>"
+        }
+      }
+    },
+    "Scholar": {
+      "name": "Erudito",
+      "career": "Erudito",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Candle": {
+          "name": "Vela",
+          "description": "<p>Vela (3 usos, fraca)</p>"
+        },
+        "Parchment & Ink": {
+          "name": "Pergaminho e Tinta",
+          "description": "<p>Pergaminho e Tinta (3 usos)</p>"
+        },
+        "Stylus": {
+          "name": "Estilete",
+          "description": "<p>Estilete</p>"
+        },
+        "Staff": {
+          "name": "Cajado",
+          "description": "<p>Cajado (d6 de dano)</p>"
+        },
+        "Robes": {
+          "name": "Túnica",
+          "description": "<p>Túnica (<em>miudeza</em>)</p>"
+        }
+      }
+    },
+    "Tracker": {
+      "name": "Rastreador",
+      "career": "Rastreador",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Torch": {
+          "name": "Tocha",
+          "description": "<p>Tocha (3 usos)</p>"
+        },
+        "Crossbow": {
+          "name": "Besta",
+          "description": "<p>Besta (d8 de dano, <em>volumosa</em>)</p>"
+        },
+        "Chain": {
+          "name": "Corrente",
+          "description": "<p>Corrente (3 m)</p>"
+        }
+      }
+    },
+    "Trapper": {
+      "name": "Armadilheiro",
+      "career": "Armadilheiro",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Torch": {
+          "name": "Tocha",
+          "description": "<p>Tocha (3 usos)</p>"
+        },
+        "Bow": {
+          "name": "Arco Longo",
+          "description": "<p>Arco Longo (d6 de dano, <em>volumoso</em>)</p>"
+        },
+        "Trap": {
+          "name": "Armadilha",
+          "description": "<p>Armadilha (d6 de dano em FOR)</p>"
+        },
+        "Sack": {
+          "name": "Saco",
+          "description": "<p>Saco</p>"
+        }
+      }
+    },
+    "Veteran Bodyguard": {
+      "name": "Guarda-Costas Veterano",
+      "career": "Guarda-Costas Veterano",
+      "items": {
+        "Rations": {
+          "name": "Rações",
+          "description": "<p>Rações (3 usos)</p>"
+        },
+        "Torch": {
+          "name": "Tocha",
+          "description": "<p>Tocha (3 usos)</p>"
+        },
+        "Long Sword": {
+          "name": "Espada Longa",
+          "description": "<p>Espada Longa (d10 de dano, <em>volumosa</em>)</p>"
+        },
+        "Helmet": {
+          "name": "Elmo",
+          "description": "<p>Elmo (+1 Armadura)</p>"
+        },
+        "Gambeson": {
+          "name": "Gibão",
+          "description": "<p>Gibão (+1 Armadura)</p>"
+        }
+      }
+    }
+  }
+}

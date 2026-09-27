@@ -1,0 +1,85 @@
+{
+  "label": "Antecedentes",
+  "entries": {
+    "Aurifex": {
+      "name": "Ourives",
+      "description": "<blockquote><p>Você é um artesão do arcano, um ferreiro de forças sutis. No cadinho de sua oficina, as leis que regem este mundo se distorcem para atender às suas necessidades.</p></blockquote>"
+    },
+    "Barber-Surgeon": {
+      "name": "Barbeiro-Cirurgião",
+      "description": "<blockquote><p>Você caminha na linha entre curandeiro e flagelador, conhecendo a fragilidade da carne, mas também os segredos que residem nela. Com as ferramentas certas, vida e morte são apenas palavras.</p></blockquote>"
+    },
+    "Beast Handler": {
+      "name": "Domador de Feras",
+      "description": "<blockquote><p>Só você consegue andar entre as criaturas selvagens, destemido e no controle. Você tem uma conexão com os animais com a qual outros só podem sonhar... contanto que não vire o lanche deles.</p></blockquote>"
+    },
+    "Bonekeeper": {
+      "name": "Guarda-Ossos",
+      "description": "<blockquote><p>Você é um pastor dos que partiram. Você ouve os últimos sussurros dos mortos enquanto descem à terra fria e implacável. Você sabe que, para celebrar plenamente o dom da vida, é preciso honrar também o seu fim.</p></blockquote>"
+    },
+    "Cutpurse": {
+      "name": "Punguista",
+      "description": "<blockquote><p>Você vive no espaço cinzento entre os que têm poder e os que não têm. Encontra oportunidade onde outros veem apenas caos. Com dedos ágeis, alivia tanto o mais rico mercador quanto o mais humilde guarda.</p></blockquote>"
+    },
+    "Fieldwarden": {
+      "name": "Guarda-Campos",
+      "description": "<blockquote><p>Protetores da colheita, defesa contra pragas, ladrões e feras. Uma posição de grande honra, enquanto dura: muitos guardas não vivem até o fim natural de suas vidas. Role uma segunda vez na tabela de <strong>Vínculos</strong>.</p></blockquote>"
+    },
+    "Fletchwind": {
+      "name": "Flecheiro do Vento",
+      "description": "<blockquote><p>Você ataca de longe, mas isso não faz de você um covarde. Você é um músico: a canção da sua corda de arco não passa de um aviso, cantando a promessa silenciosa de uma morte rápida.</p></blockquote>"
+    },
+    "Foundling": {
+      "name": "Enjeitado",
+      "description": "<blockquote><p>Uma marca de nascença estranha, um cheiro incomum: de algum modo, o toque do <em>alhures</em> ainda persiste. Onde quer que esteja, você tem dificuldade para se encaixar. Role na tabela de <strong>Presságios</strong> (mesmo que você não seja o jogador mais jovem), mas mantenha o resultado em segredo por enquanto.</p></blockquote>"
+    },
+    "Fungal Forager": {
+      "name": "Coletor de Fungos",
+      "description": "<blockquote><p>Você segue os sussurros da terra profunda, o pulso rítmico da floresta de micélio que cresce sob a superfície. A escuridão não lhe traz terror algum. Além disso, você realmente ama cogumelos.</p></blockquote>"
+    },
+    "Greenwise": {
+      "name": "Herbologista",
+      "description": "<blockquote><p>Você se aprofunda no <strong>Bosque</strong>, arrancando seus segredos de entre galhos ásperos e folhas sussurrantes. Para este reino verdejante, você não é um mero estudioso, mas também seu confidente.</p></blockquote>"
+    },
+    "Half Witch": {
+      "name": "Meia-Bruxa",
+      "description": "<blockquote><p>Com raízes tanto no mundo mortal quanto no invisível, você é um enigma para alguns e motivo de medo para muitos. Sua história é a do que acontece quando dois mundos colidem.</p></blockquote>"
+    },
+    "Hexenbane": {
+      "name": "Caçador de Bruxas",
+      "description": "<blockquote><p>Você é um mero dedo na mão infalível da justiça. Vai aonde outros temem pisar, implacável e inquebrantável.</p></blockquote>"
+    },
+    "Jongleur": {
+      "name": "Trovador",
+      "description": "<blockquote><p>O que inspira mais a alma do que canções, palavras e espetáculo? Por que praticar por anos para dominar o arcano quando você já tem magia de verdade dentro de si?</p></blockquote>"
+    },
+    "Kettlewright": {
+      "name": "Caldeireiro",
+      "description": "<blockquote><p>Você é reconhecido pelo cheiro de metal derretido e pelo tilintar do estanho. Não é um mero mercador, mas um artesão do fogo e do metal.</p></blockquote>"
+    },
+    "Marchguard": {
+      "name": "Guarda-Fronteira",
+      "description": "<blockquote><p>Unidos por um Juramento de sangue para patrulhar a fronteira e proteger o reino. Uma vez feito, o Juramento não pode ser quebrado. A Guarda sempre encontra os seus.</p></blockquote>"
+    },
+    "Mountebank": {
+      "name": "Charlatão",
+      "description": "<blockquote><p>A astúcia é sua arma mais afiada; uma fachada, seu escudo mais forte. Mas, quando você perde, perde feio.</p></blockquote>"
+    },
+    "Outrider": {
+      "name": "Batedor Montado",
+      "description": "<blockquote><p>Seu dinheiro vem de escoltar caravanas, rastrear fugitivos ou emprestar sua lâmina a uma causa. Você já foi salvador, carrasco, herói e até vilão. Mas o seu não é um caminho solitário: você sempre terá seu cavalo.</p></blockquote>"
+    },
+    "Prowler": {
+      "name": "Vigilante",
+      "description": "<blockquote><p>Você é um espectro na noite, uma sombra fugaz que passa despercebida por sua presa. Cada abate é um teste de astúcia e determinação animal, uma disputa entre a vida e a morte. Você sabe que um dia perderá. E anseia por isso.</p></blockquote>"
+    },
+    "Rill Runner": {
+      "name": "Corredor do Riacho",
+      "description": "<blockquote><p>Você canta as histórias de rios e lagos, e seus talentos acalmam tanto amigos quanto os elementos. Você já viu mais do que a maioria, mas de algum modo isso nunca parece bastar.</p></blockquote>"
+    },
+    "Scrivener": {
+      "name": "Escriba",
+      "description": "<blockquote><p>Você copia textos antigos e ilumina manuscritos, registrando as vozes dos astutos, dos grandes e dos poderosos. Você provará que a pena é mesmo mais poderosa que a espada.</p></blockquote>"
+    }
+  }
+}

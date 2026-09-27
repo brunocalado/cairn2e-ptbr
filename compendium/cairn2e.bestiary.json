@@ -1,0 +1,1545 @@
+{
+  "label": "Bestiário",
+  "entries": {
+    "Acolyte": {
+      "name": "Acólito",
+      "items": {
+        "Ceremonial Dagger": {
+          "name": "Adaga Cerimonial",
+          "description": "<p>adaga cerimonial (d6)</p>"
+        },
+        "Holy servants bound to a particular deity.": {
+          "name": "Servos sagrados ligados a uma divindade.",
+          "description": "<p>Costumam viajar em grupos de quatro ou mais.</p>"
+        },
+        "Carry a holy symbol (Ward once per day).": {
+          "name": "Levam um símbolo sagrado (Proteção 1x/dia)."
+        }
+      }
+    },
+    "Aranea": {
+      "name": "Arânea",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d8)</p>"
+        },
+        "Enormous spiders with greenish-black skin and large brains.": {
+          "name": "Aranhas enormes de pele verde-negra e cérebro grande.",
+          "description": "<p>Podem assumir forma humana à vontade.</p>"
+        },
+        "Conduct their magical research in dark, web-filled caverns.": {
+          "name": "Fazem pesquisas mágicas em cavernas escuras e cheias de teias.",
+          "description": "<p>Levam sempre os grimórios <em>Enfeitiçar</em> e <em>Comando</em>.</p>"
+        },
+        "Fire damage against Aranea is enhanced.": {
+          "name": "Dano de fogo contra Arâneas é com vantagem."
+        }
+      }
+    },
+    "Bandit": {
+      "name": "Bandido",
+      "items": {
+        "Short Sword": {
+          "name": "Espada Curta",
+          "description": "<p>espada curta (d6)</p>"
+        },
+        "Short Bow": {
+          "name": "Arco Curto",
+          "description": "<p>arco curto (d6)</p>"
+        },
+        "Outlaws who raid settlements, attack ships, or ambush travelers.": {
+          "name": "Foras da lei que atacam vilas, navios ou emboscam viajantes.",
+          "description": "<p>Grupos de quatro ou mais são um <em>destacamento</em>.</p>"
+        },
+        "A detachment always travels with one leader wearing chain mail or similar (2 Armor) and a long sword (d10) or crossbow (d8).": {
+          "name": "Um destacamento sempre tem um líder de cota de malha ou similar (2 Armadura) e espada longa (d10) ou besta (d8)."
+        },
+        "Loyal": {
+          "name": "Leais",
+          "description": "<p>Em testes de Moral, use a VON do líder (13). Se o líder morrer, os outros fogem.</p>"
+        }
+      }
+    },
+    "Banshee": {
+      "name": "Banshee",
+      "items": {
+        "Ghostly Touch": {
+          "name": "Toque Fantasmal",
+          "description": "<p>toque fantasmal (d8)</p>"
+        },
+        "Incorporeal spirits that linger long after death to haunt the living.": {
+          "name": "Espíritos incorpóreos que ficam após a morte para assombrar os vivos."
+        },
+        "Unharmed by cold, heat, or the elements.": {
+          "name": "Imunes a frio, calor e aos elementos.",
+          "description": "<p>Armas de ferro causam dano <em>com vantagem</em>.</p>"
+        },
+        "Wail": {
+          "name": "Lamento",
+          "description": "<p>Quem ouvir deve fazer uma salvaguarda de VON ou cai inconsciente.</p>"
+        }
+      }
+    },
+    "Basilisk": {
+      "name": "Basilisco",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d10)</p>"
+        },
+        "Long, serpentine lizards that nest deep below the earth or in brambles just underfoot.": {
+          "name": "Lagartos longos e serpentinos que fazem ninho sob a terra ou em espinheiros rente ao chão."
+        },
+        "Fighting a Basilisk without meeting its gaze is difficult.": {
+          "name": "Lutar com um Basilisco sem cruzar seu olhar é difícil.",
+          "description": "<p>(Ataques de frente para ele têm <em>desvantagem</em>.)</p>"
+        },
+        "Gaze": {
+          "name": "Olhar",
+          "description": "<p>Um alvo de frente para o Basilisco é petrificado aos poucos, de baixo para cima, e fica totalmente imóvel após três rodadas. Um antídoto pode ser feito da moela do Basilisco. O reflexo da criatura é inofensivo.</p>"
+        }
+      }
+    },
+    "Blink Dog": {
+      "name": "Cão Piscante",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d6)</p>"
+        },
+        "Teleporting canines in service of a powerful master.": {
+          "name": "Cães teleportadores a serviço de um mestre poderoso."
+        },
+        "Can phase out of reality at will.": {
+          "name": "Podem sair da realidade à vontade.",
+          "description": "<p>Ataques corpo a corpo contra eles têm <em>desvantagem</em>.</p>"
+        }
+      }
+    },
+    "Blood Elk": {
+      "name": "Alce de Sangue",
+      "items": {
+        "Horns": {
+          "name": "Chifres",
+          "description": "<p>chifres (d8)</p>"
+        },
+        "Born from violence resulting from a greedy or selfish act.": {
+          "name": "Nascidos da violência gerada por um ato ganancioso ou egoísta."
+        },
+        "Kill their victims for sustenance, but gains no succor.": {
+          "name": "Matam as vítimas para se nutrir, mas não obtêm sustento.",
+          "description": "<p>Estão sempre famintos.</p>"
+        },
+        "Gores its victims by ripping out their entrails.": {
+          "name": "Chifra as vítimas, arrancando-lhes as entranhas."
+        }
+      }
+    },
+    "Boggart": {
+      "name": "Boggart",
+      "items": {
+        "Wild, hairy tricksters that prize shiny trinkets above coin.": {
+          "name": "Trapaceiros selvagens e peludos que preferem bugigangas a ouro."
+        },
+        "Boggarts have true names that describe their true nature.": {
+          "name": "Boggarts têm nomes verdadeiros que revelam sua real natureza.",
+          "description": "<p>Quem sabe esses nomes ganha controle sobre eles.</p>"
+        },
+        "Magic": {
+          "name": "Magia",
+          "description": "<p>O Boggart pode <em>dar vida a objetos</em>,  <em>semear confusão</em>, <em>criar disfarces mágicos</em>, usar <em>telecinese</em> e <em>se teleportar</em>.</p>"
+        }
+      }
+    },
+    "Bone Construct": {
+      "name": "Constructo Ósseo",
+      "items": {
+        "Sharpened Arms": {
+          "name": "Braços Afiados",
+          "description": "<p>braços afiados (d8+d8)</p>"
+        },
+        "Gigantic, four-armed constructs made of bone and sorcery.": {
+          "name": "Constructos gigantes de quatro braços, de osso e feitiçaria."
+        },
+        "Mindless guardians that stand ready to attack any creature other than their creator.": {
+          "name": "Guardiões sem mente, prontos a atacar qualquer criatura exceto seu criador."
+        }
+      }
+    },
+    "Bugbear": {
+      "name": "Bugbear",
+      "items": {
+        "Club": {
+          "name": "Clava",
+          "description": "<p>clava (d8)</p>"
+        },
+        "Large, goblin-like creatures covered in fur.": {
+          "name": "Grandes criaturas goblinoides, cobertas de pelo."
+        },
+        "Prefer stealth and trickery to gain an advantage.": {
+          "name": "Preferem furtividade e trapaça para obter vantagem."
+        },
+        "Often command parties of like creatures (typically goblins).": {
+          "name": "Costumam comandar grupos de criaturas afins (em geral goblins)."
+        }
+      }
+    },
+    "Burrowing Horror": {
+      "name": "Horror Escavador",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d10)</p>"
+        },
+        "Acid Squirt": {
+          "name": "Jato de Ácido",
+          "description": "<p>jato de ácido (d8, <em>explosão</em>)</p>"
+        },
+        "Huge insectoids with multiple legs and shiny black eyes.": {
+          "name": "Insetoides enormes de muitas patas e olhos negros lustrosos.",
+          "description": "<p>Alimentam-se de terra, raízes e carne.</p>"
+        },
+        "Burrow just beneath surfaces to ambush unsuspecting creatures.": {
+          "name": "Escavam rente à superfície para emboscar criaturas desavisadas."
+        },
+        "Target loses a body part. Roll 1d6. 1: Head, 2-4: Leg, 5-6: Arm.": {
+          "name": "Perde parte do corpo. Role 1d6. 1: cabeça, 2-4: perna, 5-6: braço."
+        }
+      }
+    },
+    "Cave Locust": {
+      "name": "Gafanhoto de Gruta",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d6)</p>"
+        },
+        "Giant plant-eating crickets that dwell in caves.": {
+          "name": "Grilos gigantes herbívoros que vivem em cavernas.",
+          "description": "<p>Imunes à maioria dos venenos.</p>"
+        },
+        "Their natural coloration allows them to blend in with the stone.": {
+          "name": "Sua coloração natural os camufla na pedra.",
+          "description": "<p>Soltam guinchos altos quando ameaçados.</p>"
+        }
+      }
+    },
+    "Centaur": {
+      "name": "Centauro",
+      "items": {
+        "Spear": {
+          "name": "Lança",
+          "description": "<p>lança (d8)</p>"
+        },
+        "Short Bow": {
+          "name": "Arco Curto",
+          "description": "<p>arco curto (d6)</p>"
+        },
+        "Creatures with the lower body and legs of a horse, but a humanoid upper body.": {
+          "name": "Criaturas com corpo inferior e pernas de cavalo, mas torso humanoide."
+        },
+        "Rarely found alone, preferring the company of their own.": {
+          "name": "Raramente estão sós, preferem a companhia dos seus."
+        }
+      }
+    },
+    "Cobblehounds": {
+      "name": "Cães de Pedra",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d10)</p>"
+        },
+        "Immobile constructs typically used as guardians to great tombs or artifacts.": {
+          "name": "Constructos imóveis, em geral guardiões de grandes tumbas ou artefatos."
+        },
+        "Unaffected by mundane persuasion techniques, but love a good bone.": {
+          "name": "Imunes à persuasão comum, mas adoram um bom osso."
+        }
+      }
+    },
+    "Creeping Vines": {
+      "name": "Vinhas Rastejantes",
+      "items": {
+        "Vines": {
+          "name": "Vinhas",
+          "description": "<p>vinhas (d4, <em>explosão</em>)</p>"
+        },
+        "Appear as an inert, typical vine.": {
+          "name": "Parecem uma vinha comum e inerte.",
+          "description": "<p>Atacam criaturas que passam para usar seus cadáveres como adubo.</p>"
+        },
+        "Target is pulled into the air where they asphyxiate within a few minutes.": {
+          "name": "O alvo é erguido no ar, onde sufoca em poucos minutos."
+        }
+      }
+    },
+    "Crypt Guardian": {
+      "name": "Vigia da Cripta",
+      "items": {
+        "Ethereal Claws": {
+          "name": "Garras Etéreas",
+          "description": "<p>garras etéreas (d8+d8)</p>"
+        },
+        "Animated skeletons clothed in billowing robes.": {
+          "name": "Esqueletos animados em mantos esvoaçantes.",
+          "description": "<p>Suas órbitas são de um vermelho hipnótico. Defendem criptas e tumbas, mas não atacam se não forem perturbados.</p>"
+        },
+        "Non-magical attacks against them are impaired.": {
+          "name": "Ataques não mágicos contra eles têm desvantagem."
+        },
+        "Can teleport any target in eyesight to a random room nearby.": {
+          "name": "Teleportam qualquer alvo à vista para uma sala próxima ao acaso."
+        }
+      }
+    },
+    "Dryad": {
+      "name": "Dríade",
+      "items": {
+        "Knotted Arms": {
+          "name": "Braços Nodosos",
+          "description": "<p>braços nodosos (d6)</p>"
+        },
+        "Shy, protective tree spirits that manifest as beautiful, green-skinned humanoids.": {
+          "name": "Espíritos arbóreos tímidos e protetores, em forma de belos humanoides verdes."
+        },
+        "Unable to travel far from the tree they are bound to.": {
+          "name": "Não podem se afastar da árvore a que estão ligadas.",
+          "description": "<p>Perecem se a árvore for destruída.</p>"
+        },
+        "Befuddle": {
+          "name": "Confundir",
+          "description": "<p>O alvo fica confuso e se afasta cada vez mais da árvore hospedeira. Salvaguarda de VON uma vez por rodada para se libertar.</p>"
+        }
+      }
+    },
+    "Ettin": {
+      "name": "Ettin",
+      "items": {
+        "Club": {
+          "name": "Clava",
+          "description": "<p>clava (d10)</p>"
+        },
+        "The two-headed kin of giants.": {
+          "name": "Parentes bicéfalos dos gigantes.",
+          "description": "<p>Preferem cavernas e tocas subterrâneas.</p>"
+        },
+        "Cannot be surprised.": {
+          "name": "Nunca são surpreendidos."
+        }
+      }
+    },
+    "Eye of Terror": {
+      "name": "Olho do Terror",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d8)</p>"
+        },
+        "Floating spheres with large mouths, enormous eyes, and several small eyes set atop long stalks.": {
+          "name": "Esferas flutuantes com bocas grandes, olhos enormes e vários olhinhos no alto de longas hastes."
+        },
+        "They are highly intelligent, intensely greedy, and completely insane.": {
+          "name": "São muito inteligentes, gananciosos ao extremo e completamente insanos."
+        },
+        "Can cast the following spells at will: Charm, Phobia, Telekinesis, Sleep, Shuffle, Vision.": {
+          "name": "Conjuram à vontade: Enfeitiçar, Fobia, Telecinesia, Sono, Embaralhar, Visão.",
+          "description": "<p>Magia usada contra eles exige salvaguarda de VON, ou se dissipa.</p>"
+        }
+      }
+    },
+    "Frost Elf": {
+      "name": "Elfo do Gelo",
+      "items": {
+        "Icicle Dagger": {
+          "name": "Adaga de Gelo",
+          "description": "<p>adaga de gelo (d6)</p>"
+        },
+        "Beautiful, amoral, and long-lived.": {
+          "name": "Belos, amorais e longevos."
+        },
+        "Resistant to most forms of magic.": {
+          "name": "Resistentes à maior parte da magia."
+        },
+        "Can cast the following spells at will: Sleep, Teleport, Detect Magic.": {
+          "name": "Conjuram à vontade: Sono, Teletransporte, Detectar Magia."
+        }
+      }
+    },
+    "Gargoyle": {
+      "name": "Gárgula",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d8+d8)</p>"
+        },
+        "Magical, slow-moving statues of monstrous winged creatures, typically employed as guards or watchdogs.": {
+          "name": "Estátuas mágicas e lentas de monstros alados, em geral usadas como guardas ou cães de guarda."
+        },
+        "Prowl at nights but fear the day, when the sun's light freezes them in place.": {
+          "name": "Rondam à noite, mas temem o dia, quando a luz do sol as paralisa."
+        },
+        "Immune to charms and magical sleep.": {
+          "name": "Imunes a encantos e a sono mágico."
+        }
+      }
+    },
+    "Gelatinous Ooze": {
+      "name": "Gosma Gelatinosa",
+      "items": {
+        "Devouring Touch": {
+          "name": "Toque Devorador",
+          "description": "<p>toque devorador (d8)</p>"
+        },
+        "Large shapeless masses of transparent jelly.": {
+          "name": "Grandes massas disformes de geleia transparente.",
+          "description": "<p>Caçam comida sem pensar em masmorras e cavernas subterrâneas.</p>"
+        },
+        "The target is engulfed, losing d6 STR damage per round until they are consumed.": {
+          "name": "O alvo é engolfado e sofre d6 de dano em FOR por rodada até ser consumido."
+        }
+      }
+    },
+    "Ghost": {
+      "name": "Fantasma",
+      "items": {
+        "Life Drain": {
+          "name": "Dreno Vital",
+          "description": "<p>dreno vital (d6)</p>"
+        },
+        "Incorporeal spirits of the restless dead, vulnerable only to magic and specific anointed rites.": {
+          "name": "Espíritos incorpóreos de mortos inquietos, vulneráveis só a magia e a ritos consagrados."
+        },
+        "Target must save WIL or is possessed, acting only on behalf of the ghost's whims.": {
+          "name": "Alvo faz salvaguarda de VON ou é possuído, agindo só pelos caprichos do fantasma."
+        }
+      }
+    },
+    "Ghoul": {
+      "name": "Carniçal",
+      "items": {
+        "Elongated Claws": {
+          "name": "Garras Alongadas",
+          "description": "<p>garras alongadas (d6+d6)</p>"
+        },
+        "Grey-skinned man-things wearing shredded clothes that crave only the flesh of the living.": {
+          "name": "Coisas humanoides de pele cinzenta e roupas em farrapos, que só desejam a carne dos vivos."
+        },
+        "Target is deprived from their necrotic wound, dying in d4 days unless treated by a priest or skilled healer. If the body is not burned it later rises as a Ghoul as well.": {
+          "name": "O alvo fica privado pela ferida necrótica e morre em d4 dias se não tratado por sacerdote ou curandeiro hábil. Se o corpo não for queimado, ergue-se depois como Carniçal."
+        }
+      }
+    },
+    "Giant Scorpion": {
+      "name": "Escorpião Gigante",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d10+d10)</p>"
+        },
+        "Horse-sized arachnids commonly found in dry terrain or caverns.": {
+          "name": "Aracnídeos do porte de cavalos, comuns em terras secas ou cavernas."
+        },
+        "The stinger's poison liquefies the target's insides for an additional d8 STR damage. The STR loss is permanent.": {
+          "name": "O veneno do ferrão liquefaz as entranhas do alvo, causando mais d8 de dano em FOR. A perda de FOR é permanente."
+        }
+      }
+    },
+    "Gnoll": {
+      "name": "Gnoll",
+      "items": {
+        "Spear": {
+          "name": "Lança",
+          "description": "<p>lança (d8)</p>"
+        },
+        "Ferocious humanoid hyenas spawned from arcane experiments long ago.": {
+          "name": "Hienas humanoides ferozes, geradas por antigos experimentos arcanos."
+        },
+        "Deadly warriors, they attack as a pack (as detachment) or on their own.": {
+          "name": "Guerreiros mortais, atacam em bando (como destacamento) ou sozinhos."
+        }
+      }
+    },
+    "Goblin": {
+      "name": "Goblin",
+      "items": {
+        "Dagger": {
+          "name": "Adaga",
+          "description": "<p>adaga (d6)</p>"
+        },
+        "Sling": {
+          "name": "Funda",
+          "description": "<p>funda (d6)</p>"
+        },
+        "Small, grotesque humanoids with skin in earthly tones of green, brown, and grey.": {
+          "name": "Humanoides pequenos e grotescos, de pele em tons terrosos de verde, marrom e cinza."
+        },
+        "Avoid combat, only attacking when advantageous, using hit-and-run tactics.": {
+          "name": "Evitam combate e só atacam quando em vantagem, com táticas de bater e correr."
+        },
+        "Sometimes are found using dire wolves as mounts.": {
+          "name": "Às vezes usam lobos atrozes como montaria."
+        }
+      }
+    },
+    "Green Dragon": {
+      "name": "Dragão Verde",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d12)</p>"
+        },
+        "Forest-dwelling snakes topped with tall green scales.": {
+          "name": "Serpentes da floresta cobertas de altas escamas verdes.",
+          "description": "<p>Acumulam grandes tesouros.</p>"
+        },
+        "Use intelligence and cunning to manipulate the weak into their service.": {
+          "name": "Usam inteligência e astúcia para manipular os fracos a servi-los."
+        },
+        "Chlorine Gas": {
+          "name": "Gás de Cloro",
+          "description": "<p>Quem estiver perto deve fazer salvaguarda de DES para escapar ou perde 1d4 de FOR e fica <em>privado</em>.</p>"
+        }
+      }
+    },
+    "Griffon": {
+      "name": "Grifo",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d6+d6)</p>"
+        },
+        "Ravenous hybrids, with the head and wings of an eagle and the lower body of a lion.": {
+          "name": "Híbridos vorazes, com cabeça e asas de águia e corpo inferior de leão."
+        },
+        "Can be used as mounts if taken young and properly trained.": {
+          "name": "Servem de montaria se capturados jovens e bem treinados."
+        },
+        "Fly and attack at astonishing speeds, diving in to scoop up their prey.": {
+          "name": "Voam e atacam em velocidade assombrosa, mergulhando para agarrar a presa."
+        },
+        "Tears flesh and bone from its victim with its razor-sharp beak.": {
+          "name": "Arranca carne e osso da vítima com o bico afiado como navalha."
+        }
+      }
+    },
+    "Grizzly Bear": {
+      "name": "Urso-Pardo",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d8+d8)</p>"
+        },
+        "Reddish-brown bears commonly found in mountains, woodlands, and prairies.": {
+          "name": "Ursos castanho-avermelhados comuns em montanhas, bosques e pradarias."
+        },
+        "Prefer to eat fish and meat, and will attack the rare unfortunate who crosses their path.": {
+          "name": "Preferem comer peixe e carne, e atacam o raro azarado que cruza seu caminho."
+        },
+        "Bites the victim for an additional d6 STR damage. They bleed out very quickly.": {
+          "name": "Morde a vítima, causando mais d6 de dano em FOR. Ela sangra muito rápido."
+        }
+      }
+    },
+    "Harpy": {
+      "name": "Harpia",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d6+d6)</p>"
+        },
+        "Hideous monstrosities with the body of a giant eagle and a humanoid head.": {
+          "name": "Monstruosidades hediondas com corpo de águia gigante e cabeça humanoide."
+        },
+        "Their movements and flight are clumsy due to their disproportionate size.": {
+          "name": "Movem-se e voam de forma desajeitada devido ao tamanho desproporcional.",
+          "description": "<p>Dependem de vítimas enfeitiçadas para fazer algo relevante.</p>"
+        },
+        "Song": {
+          "name": "Canção",
+          "description": "<p>Quem estiver perto deve fazer salvaguarda de VON ou fica enfeitiçado pela voz, seguindo a harpia e defendendo-a de qualquer ameaça.</p>"
+        }
+      }
+    },
+    "Hellhound": {
+      "name": "Cão Infernal",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d8)</p>"
+        },
+        "Fire Breath": {
+          "name": "Sopro de Fogo",
+          "description": "<p>sopro de fogo (d6, <em>explosão</em>)</p>"
+        },
+        "Monstrous, intelligent dogs that dwell near volcanoes.": {
+          "name": "Cães monstruosos e inteligentes que vivem junto a vulcões."
+        },
+        "Immune to fire and heat damage.": {
+          "name": "Imunes a dano de fogo e calor.",
+          "description": "<p>Quentes o bastante para derreter ferro só de mordê-lo.</p>"
+        }
+      }
+    },
+    "Hobgoblin": {
+      "name": "Hobgoblin",
+      "items": {
+        "Mace": {
+          "name": "Maça",
+          "description": "<p>maça (d8)</p>"
+        },
+        "Large and burly relatives of goblins.": {
+          "name": "Parentes grandes e robustos dos goblins.",
+          "description": "<p>Vivem em fortalezas subterrâneas até serem chamados à guerra.</p>"
+        },
+        "Automatically succeed in Morale Saves if a commander is present.": {
+          "name": "Passam automaticamente em testes de Moral se houver um comandante."
+        },
+        "Trained to fight together.": {
+          "name": "Treinados para lutar juntos.",
+          "description": "<p>Seu dano é <em>com vantagem</em> se um aliado também estiver engajado com o mesmo inimigo.</p>"
+        }
+      }
+    },
+    "Hooded Men": {
+      "name": "Homens Encapuzados",
+      "items": {
+        "Leystaff": {
+          "name": "Cajado Ley",
+          "description": "<p>cajado ley (d8)</p>"
+        },
+        "The Watchers of the Wood; a cult that derive their power from leylines, rune stones, and the like.": {
+          "name": "Os Vigias do Bosque: um culto que tira poder de linhas ley, pedras rúnicas e afins."
+        },
+        "Leech a part of the victim's soul (1d4 WIL damage).": {
+          "name": "Drenam parte da alma da vítima (1d4 de dano em VON)."
+        },
+        "Carries two of the following spellbooks: Charm, Hypnotize, Push/Pull, Shield.": {
+          "name": "Levam dois destes grimórios: Enfeitiçar, Hipnotizar, Empurrar/Puxar, Escudo."
+        }
+      }
+    },
+    "Hydra": {
+      "name": "Hidra",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d12, <em>explosão</em>)</p>"
+        },
+        "Large reptilians with nine serpentine heads.": {
+          "name": "Grandes répteis de nove cabeças serpentinas.",
+          "description": "<p>Muito difíceis de despistar depois que detectam a presa.</p>"
+        },
+        "On taking Critical Damage, the hydra loses one head.": {
+          "name": "Ao sofrer Dano Crítico, a hidra perde uma cabeça.",
+          "description": "<p>Ela segue lutando até não restar cabeça alguma.</p>"
+        }
+      }
+    },
+    "Invisible Stalker": {
+      "name": "Perseguidor Invisível",
+      "items": {
+        "Fists": {
+          "name": "Punhos",
+          "description": "<p>punhos (d4+d4)</p>"
+        },
+        "Intelligent beings shaped into reality by a powerful wizard.": {
+          "name": "Seres inteligentes moldados na realidade por um mago poderoso.",
+          "description": "<p>Totalmente invisíveis e silenciosos.</p>"
+        },
+        "Attacks deal direct STR damage (subtracting Armor).": {
+          "name": "Ataques causam dano direto em FOR (menos Armadura)."
+        }
+      }
+    },
+    "Killer Bees": {
+      "name": "Abelhas Assassinas",
+      "items": {
+        "Sting": {
+          "name": "Ferrão",
+          "description": "<p>ferrão (d6)</p>"
+        },
+        "Oversized bees that build underground hives.": {
+          "name": "Abelhas enormes que fazem colmeias subterrâneas.",
+          "description": "<p>Hiperagressivas, atacam tudo que se aproxima.</p>"
+        },
+        "Produce special honey that heals 1d6 STR.": {
+          "name": "Produzem um mel especial que cura 1d6 de FOR.",
+          "description": "<p>3 usos.</p>"
+        },
+        "When the bees cause STR damage, the stingers are lodged into the target, dealing d4 damage each round until removed.": {
+          "name": "Se as abelhas causam dano em FOR, os ferrões ficam cravados no alvo, causando d4 de dano por rodada até serem removidos."
+        }
+      }
+    },
+    "Kobold": {
+      "name": "Kobold",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d6)</p>"
+        },
+        "Spear": {
+          "name": "Lança",
+          "description": "<p>lança (d8)</p>"
+        },
+        "Hairless humanoids with canine-like features and scaly skin.": {
+          "name": "Humanoides sem pelos, de traços caninos e pele escamosa.",
+          "description": "<p>Enxergam perfeitamente no escuro, mas a luz direta do sol os fere.</p>"
+        },
+        "Use traps and ambush to defeat opponents.": {
+          "name": "Usam armadilhas e emboscadas contra inimigos.",
+          "description": "<p>Muitas vezes servem a criaturas mais poderosas.</p>"
+        }
+      }
+    },
+    "Lamia": {
+      "name": "Lâmia",
+      "items": {
+        "Toothy Bite": {
+          "name": "Mordida Dentada",
+          "description": "<p>mordida dentada (d8)</p>"
+        },
+        "Centaur-like creatures that prey on the life force of others, seducing their victims through heightened charm and intelligence.": {
+          "name": "Criaturas centauroides que se alimentam da força vital alheia, seduzindo as vítimas com charme e inteligência apurados.",
+          "description": "<p>O torso costuma ser humanoide; a metade inferior, qualquer híbrido animal.</p>"
+        },
+        "Inherently magical.": {
+          "name": "Mágicas por natureza.",
+          "description": "<p>Criam ilusões, enfeitiçam criaturas e se disfarçam à vontade.</p>"
+        },
+        "The target takes d6 WIL damage as their spirit is slowly sapped away. They then become enthralled to the Lamia, obeying its every command while in its presence.": {
+          "name": "O alvo sofre d6 de dano em VON enquanto seu espírito é drenado aos poucos. Depois fica subjugado à Lâmia, obedecendo cada ordem dela em sua presença."
+        }
+      }
+    },
+    "Lich": {
+      "name": "Lich",
+      "items": {
+        "Soul Dagger": {
+          "name": "Adaga de Almas",
+          "description": "<p>adaga de almas (d8)</p>"
+        },
+        "Powerful sorcerers that paid the ultimate price for immortality: their own life.": {
+          "name": "Feiticeiros poderosos que pagaram o preço máximo pela imortalidade: a própria vida.",
+          "description": "<p>Agora sua sede de poder não tem limites.</p>"
+        },
+        "Maintain unlife by binding themselves to an earthly artifact, which is typically protected by at least d6 other undead servants.": {
+          "name": "Mantêm a não vida ligando-se a um artefato terreno, em geral protegido por pelo menos d6 servos mortos-vivos."
+        },
+        "Carry up to six of the following spellbooks: Animate Object, Arcane Eye, Deafen, Disassemble, Elemental Wall, Frenzy, Gate, Hover, Hatred, Identify Owner, Knock, Pacify, Raise Dead, Raise Spirit, Shield, Sleep, Smoke Form, Telekinesis, Telepathy, Teleport, Vision, Wizard Mark.": {
+          "name": "Levam até seis destes grimórios: Animar Objeto, Olho Arcano, Ensurdecer, Desmontar, Muralha Elemental, Frenesi, Portal, Flutuar, Ódio, Identificar Dono, Arrombar, Pacificar, Reerguer Mortos, Erguer Espírito, Escudo, Sono, Forma de Fumaça, Telecinesia, Telepatia, Teletransporte, Visão, Marca do Mago."
+        }
+      }
+    },
+    "Manticore": {
+      "name": "Mantícora",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d6+d6)</p>"
+        },
+        "Tail Spike": {
+          "name": "Espinho da Cauda",
+          "description": "<p>espinho da cauda (d8)</p>"
+        },
+        "Spiteful monstrosities that wear a humanoid face, a lion's body, wings of a bat, and a scorpion's tail.": {
+          "name": "Monstruosidades rancorosas com rosto humanoide, corpo de leão, asas de morcego e cauda de escorpião.",
+          "description": "<p>Vivem em regiões montanhosas, castelos abandonados e masmorras esquecidas.</p>"
+        },
+        "Tail spikes act like darts, regrowing after a few days.": {
+          "name": "Espinhos da cauda servem de dardos e renascem em dias.",
+          "description": "<p>Um único espinho vale 150po para um colecionador.</p>"
+        },
+        "Target is deprived until they get a good night's sleep. Until then, they act boorish, selfish, and cruel (or more so, if that already is their nature).": {
+          "name": "O alvo fica privado até ter uma boa noite de sono. Até lá, age de forma grosseira, egoísta e cruel (ou mais ainda, se já for de sua natureza)."
+        }
+      }
+    },
+    "Mimic": {
+      "name": "Mímico",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d8)</p>"
+        },
+        "Malicious shape shifters that take on the form of inanimate objects commonly found in dungeons.": {
+          "name": "Metamorfos maliciosos que assumem a forma de objetos inanimados comuns em masmorras."
+        },
+        "Remain motionless while in disguise, surprising anyone that comes near.": {
+          "name": "Ficam imóveis disfarçados, surpreendendo quem se aproxima."
+        },
+        "The mimic's saliva is extremely sticky and difficult to remove.": {
+          "name": "A saliva do mímico é muito pegajosa e difícil de remover.",
+          "description": "<p>Alquimistas pagam até 150po mesmo pelo menor frasco.</p>"
+        }
+      }
+    },
+    "Mind Lasher": {
+      "name": "Açoitador Mental",
+      "items": {
+        "Tentacles": {
+          "name": "Tentáculos",
+          "description": "<p>tentáculos (d6, <em>explosão</em>)</p>"
+        },
+        "Humanoid creatures with purple skin and squid-like heads.": {
+          "name": "Humanoides de pele roxa e cabeça de lula.",
+          "description": "<p>Vivem no subterrâneo profundo ou em naves que cruzam o espaço. Alimentam-se do cérebro de outros humanoides, absorvendo suas memórias e essência vital. Muito inteligentes, mas de uma maldade inacreditável.</p>"
+        },
+        "Mind Blast": {
+          "name": "Rajada Mental",
+          "description": "<p>Alvos próximos devem fazer salvaguarda de VON ou perdem 1d4 de VON e ficam paralisados.</p>"
+        },
+        "A tentacle rips the victim's brain out of their skull.": {
+          "name": "Um tentáculo arranca o cérebro da vítima do crânio."
+        }
+      }
+    },
+    "Minotaur": {
+      "name": "Minotauro",
+      "items": {
+        "Two-Handed Axe": {
+          "name": "Machado Grande",
+          "description": "<p>machado de duas mãos (d10)</p>"
+        },
+        "Charge": {
+          "name": "Investida",
+          "description": "<p>investida (d12)</p>"
+        },
+        "Large humanoids (typically male) with the head of a bull.": {
+          "name": "Grandes humanoides (em geral machos) com cabeça de touro.",
+          "description": "<p>Vivem em labirintos ou masmorras.</p>"
+        },
+        "Extraordinary trackers with an excellent sense of smell and navigation skills.": {
+          "name": "Rastreadores extraordinários, de olfato e senso de direção excelentes."
+        }
+      }
+    },
+    "Mummy": {
+      "name": "Múmia",
+      "items": {
+        "Necrotic Touch": {
+          "name": "Toque Necrótico",
+          "description": "<p>toque necrótico (d10)</p>"
+        },
+        "Undead humanoids wrapped in funerary cloth.": {
+          "name": "Humanoides mortos-vivos envoltos em mortalhas.",
+          "description": "<p>Encontradas em pirâmides, ruínas, templos e tumbas.</p>"
+        },
+        "Target is infected with mummy rot, and is unable to recover STR until they are cured by a specialist healer. The target is also deprived.": {
+          "name": "O alvo é infectado pela podridão de múmia e não recupera FOR até ser curado por um curandeiro especialista. O alvo também fica privado."
+        }
+      }
+    },
+    "Naga": {
+      "name": "Naga",
+      "items": {
+        "Sword": {
+          "name": "Espada",
+          "description": "<p>espada (d6)</p>"
+        },
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d10)</p>"
+        },
+        "Humanoids with the lower body, tail, and neck of snakes.": {
+          "name": "Humanoides com corpo inferior, cauda e pescoço de serpente.",
+          "description": "<p>Vivem em selvas quentes e templos perdidos no tempo.</p>"
+        },
+        "Use cunning and hypnosis to capture other creatures to be enslaved.": {
+          "name": "Usam astúcia e hipnose para capturar e escravizar outras criaturas."
+        },
+        "Gaze": {
+          "name": "Olhar",
+          "description": "<p>Um alvo de frente para a Naga é hipnotizado e cai sob sua vontade. As vítimas não podem ser forçadas à violência.</p>"
+        }
+      }
+    },
+    "Night Cat": {
+      "name": "Gato Noturno",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d6+d6)</p>"
+        },
+        "Intelligent, nocturnal marsupials that make their homes in forests and swamps.": {
+          "name": "Marsupiais noturnos e inteligentes que vivem em florestas e pântanos.",
+          "description": "<p>Caçam em bando.</p>"
+        },
+        "The Night Cat begins to eat the target (d4 STR damage) while they are still alive.": {
+          "name": "O Gato Noturno começa a comer o alvo (d4 de dano em FOR) ainda vivo."
+        }
+      }
+    },
+    "Night Hag": {
+      "name": "Bruxa Noturna",
+      "items": {
+        "Talons": {
+          "name": "Garras Aduncas",
+          "description": "<p>garras aduncas (d8+d8)</p>"
+        },
+        "Hideous old women that dwell in dead forests, swamps, and bogs.": {
+          "name": "Velhas hediondas que vivem em florestas mortas, pântanos e brejos."
+        },
+        "Carry three of the following spellbooks: Arcane Eye, Disguise, Fog Cloud, Identify Owner, Smoke Form.": {
+          "name": "Levam três destes grimórios: Olho Arcano, Disfarce, Nuvem de Névoa, Identificar Dono, Forma de Fumaça."
+        }
+      }
+    },
+    "Nightmare": {
+      "name": "Pesadelo",
+      "items": {
+        "Flaming Hooves": {
+          "name": "Cascos Flamejantes",
+          "description": "<p>cascos flamejantes (d8+d8)</p>"
+        },
+        "Intelligent, demonic horses with eyes like burning coals, smoldering nostrils, and flaming hooves.": {
+          "name": "Cavalos demoníacos e inteligentes, de olhos como brasas, narinas fumegantes e cascos em chamas."
+        },
+        "Melee attacks against the Nightmare are impaired due to the thick clouds of smoke it produces.": {
+          "name": "Ataques corpo a corpo contra o Pesadelo têm desvantagem pelas densas nuvens de fumaça que produz."
+        }
+      }
+    },
+    "Ogre": {
+      "name": "Ogro",
+      "items": {
+        "Club": {
+          "name": "Clava",
+          "description": "<p>clava (d10)</p>"
+        },
+        "Massive, gluttonous brutes of ill-spirit and low intelligence.": {
+          "name": "Brutos enormes e glutões, de má índole e pouca inteligência."
+        },
+        "Easily impressed by shiny materials, keeping sacks of gold and treasure in their lairs.": {
+          "name": "Facilmente impressionados por coisas brilhantes, guardam sacos de ouro e tesouro nos covis."
+        }
+      }
+    },
+    "Owlbear": {
+      "name": "Urso-Coruja",
+      "items": {
+        "Beak": {
+          "name": "Bico",
+          "description": "<p>bico (d10)</p>"
+        },
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d8+d8)</p>"
+        },
+        "Bear-like carnivores with the face of an owl.": {
+          "name": "Carnívoros ursinos com cara de coruja.",
+          "description": "<p>Encontrados em florestas densas. Dizem ser fruto de um acidente mágico.</p>"
+        },
+        "A piece of armor is rent and destroyed.": {
+          "name": "Uma peça de armadura é rasgada e destruída."
+        }
+      }
+    },
+    "Phoenix": {
+      "name": "Fênix",
+      "items": {
+        "Talons": {
+          "name": "Garras Aduncas",
+          "description": "<p>garras aduncas (d10+d10)</p>"
+        },
+        "Intelligent, hawk-like spirits of pure flame, found in isolated deserts and high mountains.": {
+          "name": "Espíritos inteligentes de chama pura, como falcões, de desertos isolados e altas montanhas."
+        },
+        "If killed, they explode in a burst of flames.": {
+          "name": "Se mortas, explodem numa rajada de chamas.",
+          "description": "<p>Renascem das cinzas 1d3 dias depois.</p>"
+        },
+        "Their feathers are highly-sought after for their healing properties.": {
+          "name": "Suas penas são muito cobiçadas por suas propriedades curativas."
+        }
+      }
+    },
+    "Pixie": {
+      "name": "Pixie",
+      "items": {
+        "Tiny humanoids with insectoid wings.": {
+          "name": "Humanoides minúsculos de asas de inseto.",
+          "description": "<p>Naturalmente invisíveis.</p>"
+        },
+        "Can cast Sleep and Masquerade at will.": {
+          "name": "Conjuram Sono e Mascarada à vontade."
+        }
+      }
+    },
+    "Purple Worm": {
+      "name": "Verme Púrpura",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d12)</p>"
+        },
+        "Gargantuan worms that lair in enormous burrows deep underground, only coming to the surface to eat.": {
+          "name": "Vermes colossais que vivem em tocas enormes no subterrâneo profundo e só sobem à superfície para comer.",
+          "description": "<p>Encontrados em desertos altos e tundras quentes.</p>"
+        },
+        "The target is devoured, taking d8 STR damage from the acid in the worm's stomach.": {
+          "name": "O alvo é devorado e sofre d8 de dano em FOR pelo ácido do estômago do verme."
+        }
+      }
+    },
+    "Red Cap": {
+      "name": "Gorro Vermelho",
+      "items": {
+        "Dual Sickles": {
+          "name": "Foices Gêmeas",
+          "description": "<p>foices gêmeas (d6+d6)</p>"
+        },
+        "Born from blood left to rot in the land of Fairy.": {
+          "name": "Nascidos de sangue apodrecido na terra das Fadas.",
+          "description": "<p>Seus gorros são rubros do sangue em que se banham.</p>"
+        },
+        "Ignore those with little to live for, as there is no pleasure in their murder.": {
+          "name": "Ignoram quem tem pouco pelo que viver, pois não há prazer em matá-los."
+        },
+        "Target is eviscerated, the spray of their blood restoring STR loss suffered by the Red Cap.": {
+          "name": "O alvo é eviscerado, e o jorro de sangue restaura a FOR perdida pelo Gorro Vermelho."
+        }
+      }
+    },
+    "Reptilian": {
+      "name": "Reptiliano",
+      "items": {
+        "Bone Spear": {
+          "name": "Lança de Osso",
+          "description": "<p>lança de osso (d8)</p>"
+        },
+        "Amphibian humanoids that live in large tribes near swamps and jungles.": {
+          "name": "Humanoides anfíbios que vivem em grandes tribos junto a pântanos e selvas."
+        },
+        "Craft their armor and weapons from the bones of their prey.": {
+          "name": "Fazem armaduras e armas com os ossos de suas presas.",
+          "description": "<p>Comem qualquer coisa, inclusive humanoides.</p>"
+        }
+      }
+    },
+    "Root Goblin": {
+      "name": "Goblin das Raízes",
+      "items": {
+        "Spear": {
+          "name": "Lança",
+          "description": "<p>lança (d6)</p>"
+        },
+        "Avoid combat unless they have the advantage (such as greater numbers).": {
+          "name": "Evitam combate a menos que tenham vantagem (como maior número)."
+        },
+        "Guard their stolen goods to the death.": {
+          "name": "Guardam seus bens roubados até a morte."
+        },
+        "Root Goblins prize spellbooks and are always willing to trade.": {
+          "name": "Goblins das Raízes valorizam grimórios e sempre topam negociar."
+        }
+      }
+    },
+    "Root Witch": {
+      "name": "Bruxa das Raízes",
+      "items": {
+        "Tuber-Fingers": {
+          "name": "Dedos-Tubérculo",
+          "description": "<p>dedos-tubérculo (d6)</p>"
+        },
+        "Excellent tunnelers that hide underground near water.": {
+          "name": "Ótimas escavadoras, escondidas sob a terra perto da água.",
+          "description": "<p>Agitam pequenas folhas no ar como isca.</p>"
+        },
+        "Above-ground, appear vaguely humanoid with the face of a rotted tree stump.": {
+          "name": "Na superfície, parecem vagamente humanoides, com rosto de toco de árvore podre."
+        },
+        "Will exchange rare minerals for a “fresh corpse” of any kind.": {
+          "name": "Trocam minerais raros por um “cadáver fresco” de qualquer tipo."
+        }
+      }
+    },
+    "Rust Monster": {
+      "name": "Monstro Ferrugem",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d6)</p>"
+        },
+        "Armadillo-like creatures with club-like tails and long antennae.": {
+          "name": "Criaturas como tatus, de caudas como clavas e longas antenas.",
+          "description": "<p>Alimentam-se de ferro e metal enferrujado.</p>"
+        },
+        "Any mundane metals their antennae touch instantly become rust.": {
+          "name": "Todo metal comum tocado por suas antenas vira ferrugem na hora.",
+          "description": "<p>Farejam metal a grande distância.</p>"
+        },
+        "Metal armor rusts into useless weight.": {
+          "name": "Armadura de metal vira ferrugem inútil."
+        }
+      }
+    },
+    "Sea Hag": {
+      "name": "Bruxa do Mar",
+      "items": {
+        "Long Claws": {
+          "name": "Garras Longas",
+          "description": "<p>garras longas (d6+d6)</p>"
+        },
+        "Ghostly, green-skinned hags that dwell in seaweed forests and warm shallow waters.": {
+          "name": "Bruxas fantasmais de pele verde que vivem em florestas de algas e águas rasas mornas."
+        },
+        "Immune to magic from spellbooks.": {
+          "name": "Imunes a magia de grimórios."
+        },
+        "Hideous Gaze": {
+          "name": "Olhar Hediondo",
+          "description": "<p>Um alvo é tomado pelo medo (PG caem a 0). Salvaguarda de VON a cada rodada para quebrar o feitiço.</p>"
+        }
+      }
+    },
+    "Shadow": {
+      "name": "Sombra",
+      "items": {
+        "Draining Touch": {
+          "name": "Toque Drenante",
+          "description": "<p>toque drenante (d6, ignora armadura)</p>"
+        },
+        "Incorporeal monsters that look like animated shadows.": {
+          "name": "Monstros incorpóreos que parecem sombras animadas.",
+          "description": "<p>Imunes a ataques comuns, sono e controle mental.</p>"
+        },
+        "Target loses d4 STR. If reduced to 0 STR, they become a shadow as well.": {
+          "name": "O alvo perde d4 de FOR. Se chegar a 0 FOR, torna-se uma sombra também."
+        }
+      }
+    },
+    "Shambling Mound": {
+      "name": "Monte Cambaleante",
+      "items": {
+        "Tendrils": {
+          "name": "Gavinhas",
+          "description": "<p>gavinhas (d8+d8)</p>"
+        },
+        "Tall humanoids made of slimy vegetation.": {
+          "name": "Humanoides altos de vegetação viscosa.",
+          "description": "<p>Vivem em pântanos escuros e subterrâneos úmidos.</p>"
+        },
+        "Target is swallowed whole and dragged away.": {
+          "name": "O alvo é engolido inteiro e arrastado."
+        }
+      }
+    },
+    "Skeleton": {
+      "name": "Esqueleto",
+      "items": {
+        "Rusty Sword": {
+          "name": "Espada Enferrujada",
+          "description": "<p>espada enferrujada (d6)</p>"
+        },
+        "Bow": {
+          "name": "Arco Longo",
+          "description": "<p>arco longo (d6)</p>"
+        },
+        "Frequently found serving a master or necromancer, often in groups of 3 or more.": {
+          "name": "Muitas vezes servem a um mestre ou necromante, em grupos de 3 ou mais."
+        },
+        "Found wearing whatever was on them at the time of their death.": {
+          "name": "Vestem o que quer que usassem na hora da morte."
+        },
+        "If a skeleton is killed and its bones are not scattered, it reforms.": {
+          "name": "Se um esqueleto morrer e seus ossos não forem espalhados, ele se refaz."
+        }
+      }
+    },
+    "Sky Giant": {
+      "name": "Gigante do Céu",
+      "items": {
+        "Mace": {
+          "name": "Maça",
+          "description": "<p>maça (d10)</p>"
+        },
+        "Towering, white-skinned giants that live in castles high in the mountains.": {
+          "name": "Gigantes imensos de pele branca que vivem em castelos no alto das montanhas."
+        },
+        "Missile attacks against them are impaired due to the powerful winds surrounding them.": {
+          "name": "Ataques à distância contra eles têm desvantagem pelos ventos fortes que os cercam."
+        }
+      }
+    },
+    "Sphinx": {
+      "name": "Esfinge",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d8+d8, <em>explosão</em>)</p>"
+        },
+        "Beak": {
+          "name": "Bico",
+          "description": "<p>bico (d10)</p>"
+        },
+        "Mythical beasts with the upper body and head of a human, the wings of an eagle, and the body of a lion.": {
+          "name": "Feras míticas com torso e cabeça humanos, asas de águia e corpo de leão.",
+          "description": "<p>Imunes a magia de qualquer tipo.</p>"
+        },
+        "Poses riddles to anyone they meet.": {
+          "name": "Propõem enigmas a todos que encontram.",
+          "description": "<p>Errar a resposta costuma custar a vida. Sabem quase tudo que vale a pena saber.</p>"
+        },
+        "Roar": {
+          "name": "Rugido",
+          "description": "<p>Quem ouvir deve fazer salvaguarda de VON ou foge de medo.</p>"
+        }
+      }
+    },
+    "Storm Giant": {
+      "name": "Gigante Tempestade",
+      "items": {
+        "Great Sword": {
+          "name": "Montante",
+          "description": "<p>montante (d12)</p>"
+        },
+        "Building-sized humanoids with bronze-hued skin and light-colored hair.": {
+          "name": "Humanoides do tamanho de prédios, de pele bronzeada e cabelos claros.",
+          "description": "<p>Vivem nos picos mais altos e nas costas mais rochosas.</p>"
+        },
+        "Unharmed by lightning, can summon storm clouds at their will.": {
+          "name": "Imunes a raios, invocam nuvens de tempestade à vontade.",
+          "description": "<p>Voam tendo o vento como carruagem.</p>"
+        },
+        "Thunderclap": {
+          "name": "Trovoada",
+          "description": "<p>Causa 4 de dano em FOR a um único alvo. Alvos com armadura de metal sofrem dano dobrado.</p>"
+        }
+      }
+    },
+    "Swine Thing": {
+      "name": "Coisa Suína",
+      "items": {
+        "Gore": {
+          "name": "Presas",
+          "description": "<p>presas (d6+d6)</p>"
+        },
+        "Obese humanoids that transform into massive porcine monstrosities to feast on human flesh.": {
+          "name": "Humanoides obesos que viram enormes monstruosidades suínas para devorar carne humana."
+        },
+        "Prefer to hunt in isolated settlements close to forests and wetlands.": {
+          "name": "Preferem caçar em vilarejos isolados perto de florestas e brejos.",
+          "description": "<p>Só mudam de forma à noite.</p>"
+        },
+        "Charm": {
+          "name": "Encanto",
+          "description": "<p>O alvo obedece a toda ordem da criatura até ela morrer. Salvaguarda de VON uma vez por rodada para se libertar.</p>"
+        }
+      }
+    },
+    "Titan": {
+      "name": "Titã",
+      "items": {
+        "Lightning Sword": {
+          "name": "Espada Relâmpago",
+          "description": "<p>espada relâmpago (d12)</p>"
+        },
+        "Mythical, humanoid giants of radiant beauty and powerfully athletic bodies.": {
+          "name": "Gigantes humanoides míticos, de beleza radiante e corpos muito atléticos.",
+          "description": "<p>De índole benevolente, mas propensos à megalomania.</p>"
+        },
+        "Natives of other planes of existence, but sometimes have strongholds in the mortal world.": {
+          "name": "Nativos de outros planos de existência, mas às vezes têm fortalezas no mundo mortal."
+        },
+        "Can levitate, shape shift, and sculpt elements at will.": {
+          "name": "Levitam, mudam de forma e moldam elementos à vontade."
+        }
+      }
+    },
+    "Treant": {
+      "name": "Ente",
+      "items": {
+        "Roots": {
+          "name": "Raízes",
+          "description": "<p>raízes (d8+d8, <em>explosão</em>)</p>"
+        },
+        "Sentient, bipedal trees with a vaguely humanoid face on their trunks.": {
+          "name": "Árvores bípedes conscientes, com um rosto vagamente humanoide no tronco.",
+          "description": "<p>Encontrados na parte mais funda do bosque.</p>"
+        },
+        "Speak slowly and ponderously, with a deep voice.": {
+          "name": "Falam de forma lenta e pesada, com voz grave.",
+          "description": "<p>Atemporais, vivem por milhares de anos.</p>"
+        }
+      }
+    },
+    "Triton": {
+      "name": "Tritão",
+      "items": {
+        "Trident": {
+          "name": "Tridente",
+          "description": "<p>tridente (d8)</p>"
+        },
+        "Aquatic humanoids with silvery skin, blue-green hair, and scaled legs ending in fins.": {
+          "name": "Humanoides aquáticos de pele prateada, cabelo verde-azulado, pernas escamosas com aletas.",
+          "description": "<p>Vivem em águas mornas perto da costa.</p>"
+        },
+        "Lair in beautiful castles sculpted from sea rock and coral.": {
+          "name": "Habitam belos castelos esculpidos em rocha marinha e coral.",
+          "description": "<p>Comandam vastos cardumes para proteção e alimento.</p>"
+        }
+      }
+    },
+    "Troll": {
+      "name": "Troll",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d10)</p>"
+        },
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d8+d8)</p>"
+        },
+        "Giant, warty humanoids of flesh and bark.": {
+          "name": "Humanoides gigantes e verrugosos de carne e casca.",
+          "description": "<p>Vivem no subterrâneo ou em florestas profundas, e nas casas arruinadas de antigas vítimas. Carnívoros.</p>"
+        },
+        "When taking Critical Damage, a Troll will continue fighting, despite loss of flesh and limb.": {
+          "name": "Ao sofrer Dano Crítico, o Troll segue lutando apesar de perder carne e membros.",
+          "description": "<p>Só morre de fato com FOR 0. A menos que a cabeça seja banhada em ácido, fogo ou magia poderosa, regenera-se por completo em 1d4 dias.</p>"
+        }
+      }
+    },
+    "Unicorn": {
+      "name": "Unicórnio",
+      "items": {
+        "Horn": {
+          "name": "Chifre",
+          "description": "<p>chifre (d10, ignora armadura)</p>"
+        },
+        "Magical horses with a single long horn on their foreheads.": {
+          "name": "Cavalos mágicos com um único chifre longo na testa.",
+          "description": "<p>Tímidos, mas orgulhosos e voluntariosos, são vistos como seres divinos.</p>"
+        },
+        "Their hair is worth a small fortune due to its powerful healing properties.": {
+          "name": "Sua crina vale uma pequena fortuna por suas fortes propriedades curativas."
+        }
+      }
+    },
+    "Vampire": {
+      "name": "Vampiro",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d10)</p>"
+        },
+        "Charming, undead creatures that drink the blood of mortals.": {
+          "name": "Mortos-vivos encantadores que bebem o sangue dos mortais.",
+          "description": "<p>Agem à noite e dormem num caixão durante o dia. Podem virar morcego à vontade.</p>"
+        },
+        "Regeneration": {
+          "name": "Regeneração",
+          "description": "<p>Um vampiro ferido recupera 6 PG ao morder um alvo que tenha sangue. Se morto, vira uma nuvem de gás e recua ao caixão, refazendo-se no próximo anoitecer. Só pode ser morto se exposto à luz do sol ou se o caixão for destruído.</p>"
+        },
+        "The vampire drains the target's essence, dealing d12 damage to WIL. If the target reaches 0 WIL this way, it dies and is raised as a thrall of the vampire.": {
+          "name": "O vampiro drena a essência do alvo, causando d12 de dano em VON. Se o alvo chegar a 0 VON assim, morre e se ergue como servo do vampiro."
+        }
+      }
+    },
+    "Viper": {
+      "name": "Víbora",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d6)</p>"
+        },
+        "Poisonous snakes often found in caves, pits, and other dark places.": {
+          "name": "Serpentes venenosas comuns em cavernas, fossos e outros locais escuros.",
+          "description": "<p>Uma antitoxina pode ser feita de suas glândulas de veneno.</p>"
+        },
+        "Use heat and smell to track their victims.": {
+          "name": "Usam calor e cheiro para rastrear as vítimas."
+        },
+        "Target is poisoned, dying in 1d12 hours without a cure.": {
+          "name": "O alvo é envenenado e morre em 1d12 horas sem uma cura."
+        }
+      }
+    },
+    "Warp Panther": {
+      "name": "Pantera Distorcida",
+      "items": {
+        "Tentacles": {
+          "name": "Tentáculos",
+          "description": "<p>tentáculos (d8+d8, <em>explosão</em>)</p>"
+        },
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d10)</p>"
+        },
+        "Grotesque panther-like predators with long razored tentacles growing out of their backs.": {
+          "name": "Predadores grotescos como panteras, com longos tentáculos afiados saindo das costas."
+        },
+        "Resistant to magical attacks.": {
+          "name": "Resistentes a ataques mágicos.",
+          "description": "<p>O conjurador deve fazer salvaguarda de VON para o efeito ter sucesso.</p>"
+        },
+        "Can teleport a short distance away at will.": {
+          "name": "Teleportam-se a curta distância à vontade.",
+          "description": "<p>Odeiam Cães Piscantes.</p>"
+        }
+      }
+    },
+    "Warrior Snail": {
+      "name": "Caracol Guerreiro",
+      "items": {
+        "Tentacles": {
+          "name": "Tentáculos",
+          "description": "<p>tentáculos (d8+d8)</p>"
+        },
+        "Giant armored snails with heavy, club-like tentacles.": {
+          "name": "Caracóis gigantes blindados, de tentáculos-clava pesados."
+        },
+        "Some species have colorful shells that can reflect magical attacks.": {
+          "name": "Algumas espécies têm conchas coloridas que refletem ataques mágicos."
+        }
+      }
+    },
+    "Water Elemental": {
+      "name": "Elemental da Água",
+      "items": {
+        "Spray": {
+          "name": "Jorro",
+          "description": "<p>jorro (d8)</p>"
+        },
+        "Rare spirits of lakes, rivers, and seas.": {
+          "name": "Espíritos raros de lagos, rios e mares."
+        },
+        "Mundane attacks against the Water Elemental are impaired.": {
+          "name": "Ataques comuns contra o Elemental da Água têm desvantagem."
+        },
+        "Target is enveloped by the water and drowns in three rounds.": {
+          "name": "O alvo é envolvido pela água e se afoga em três rodadas."
+        }
+      }
+    },
+    "Werewolf": {
+      "name": "Lobisomem",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d6+d6)</p>"
+        },
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d8)</p>"
+        },
+        "Ferocious lycanthropes that can transform into a wolf-shape at will.": {
+          "name": "Licantropos ferozes que assumem forma de lobo à vontade."
+        },
+        "Mundane attacks are impaired against werewolves, but attacks with weapons made of silver are enhanced.": {
+          "name": "Ataques comuns contra lobisomens têm desvantagem, mas ataques com armas de prata têm vantagem."
+        },
+        "Target becomes infected with lycanthropy, transforming into a werewolf by the next full moon.": {
+          "name": "O alvo é infectado pela licantropia e vira lobisomem até a próxima lua cheia."
+        }
+      }
+    },
+    "Wight": {
+      "name": "Aparição",
+      "items": {
+        "Long Sword": {
+          "name": "Espada Longa",
+          "description": "<p>espada longa (d10)</p>"
+        },
+        "Grotesque, fallen warriors, raised from death for ill purpose.": {
+          "name": "Guerreiros caídos e grotescos, erguidos da morte para o mal.",
+          "description": "<p>Muitas vezes montam corcéis igualmente pavorosos, liderando mortos-vivos menores em batalha.</p>"
+        },
+        "On a fail, any STR loss is permanent.": {
+          "name": "Numa falha, a perda de FOR é permanente."
+        }
+      }
+    },
+    "Will-o-Wisp": {
+      "name": "Fogo-Fátuo",
+      "items": {
+        "Nocturnal spirits of cool flame, commonly found in dense woodlands, marshes, and swamps.": {
+          "name": "Espíritos noturnos de chama fria, comuns em bosques densos, charcos e pântanos."
+        },
+        "Known to lead travelers astray, to a corpse, or back home again.": {
+          "name": "Desviam viajantes, levando-os a um cadáver ou de volta para casa."
+        }
+      }
+    },
+    "Wolf": {
+      "name": "Lobo",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d8)</p>"
+        },
+        "Large canines that dwell primarily in forest or tundra.": {
+          "name": "Canídeos grandes que vivem mais em florestas ou tundras."
+        },
+        "Can be trained with effort if captured at a young age.": {
+          "name": "Podem ser treinados com esforço se capturados jovens."
+        }
+      }
+    },
+    "Wood Troll": {
+      "name": "Troll do Bosque",
+      "items": {
+        "Bite": {
+          "name": "Mordida",
+          "description": "<p>mordida (d8)</p>"
+        },
+        "Club": {
+          "name": "Clava",
+          "description": "<p>clava (d10)</p>"
+        },
+        "Large humanoids with elongated arms made of bark or root.": {
+          "name": "Grandes humanoides de braços alongados de casca ou raiz.",
+          "description": "<p>Vivem em florestas, com uma profunda ligação com a vegetação ao redor.</p>"
+        },
+        "If killed, they will slowly regenerate unless their corpse is taken out of the forest or burned with fire.": {
+          "name": "Se mortos, regeneram-se devagar, a menos que o cadáver seja levado da floresta ou queimado."
+        },
+        "Moss and twigs begin growing out of target's wounds.": {
+          "name": "Musgo e gravetos começam a brotar das feridas do alvo."
+        }
+      }
+    },
+    "Wyvern": {
+      "name": "Serpe",
+      "items": {
+        "Stinger": {
+          "name": "Ferrão",
+          "description": "<p>ferrão (d10)</p>"
+        },
+        "Large, intelligent, winged reptiles.": {
+          "name": "Répteis grandes, inteligentes e alados.",
+          "description": "<p>Vivem em qualquer terreno, mas preferem penhascos secos.</p>"
+        },
+        "Shy away from other creatures, preferring to silently stalk their targets from afar.": {
+          "name": "Evitam outras criaturas, preferindo espreitar os alvos em silêncio, de longe."
+        },
+        "The victim is impaled and held in place. The wyvern then bites their head off.": {
+          "name": "A vítima é empalada e presa no lugar. A serpe então arranca sua cabeça a mordidas."
+        }
+      }
+    },
+    "Zombie": {
+      "name": "Zumbi",
+      "items": {
+        "Jagged Nails": {
+          "name": "Unhas Serrilhadas",
+          "description": "<p>unhas serrilhadas (d6)</p>"
+        },
+        "Re-animated corpse brought back through necromantic ritual or fell influence.": {
+          "name": "Cadáver reanimado por ritual necromântico ou influência maligna.",
+          "description": "<p>Imune a todo efeito que afete a mente.</p>"
+        },
+        "If not utterly destroyed (by fire, complete dismemberment, etc.), the Zombie will rise again within a few minutes.": {
+          "name": "Se não for totalmente destruído (por fogo, desmembramento completo etc.), o Zumbi se ergue de novo em poucos minutos."
+        },
+        "Target is infected and becomes deprived. Without the services of a specialist or healer, they will become a zombie in 1d4 days.": {
+          "name": "O alvo é infectado e fica privado. Sem os serviços de um especialista ou curandeiro, vira zumbi em 1d4 dias."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "label": "Presságios",
+  "entries": {
+    "Omens": {
+      "name": "Presságios",
+      "description": "<p>O personagem mais jovem rola nesta tabela. O resultado é lido em voz alta para os outros jogadores; o Guardião o incorpora ao cenário.</p>",
+      "results": {
+        "1-1": {
+          "description": "<p>As águas outrora ricas de um rio vital tornaram-se negras e pútridas, contaminando a terra e adoecendo quem delas bebe. Um ancião da aldeia aponta uma profanação recente como causa, mas a maioria ignora suas palavras.</p>"
+        },
+        "2-2": {
+          "description": "<p>Parece que o inverno chegou cedo demais este ano, com geadas e neves aparecendo muito antes do esperado. Fala-se de um padrão na geada encontrada em janelas, lagoas e rachaduras no solo. Quase parece um mapa.</p>"
+        },
+        "3-3": {
+          "description": "<p>Uma névoa espessa e antinatural começou a invadir um bosque antigo e sagrado. Dizem ser obra de um grande espírito da floresta, enfurecido pelo desmatamento próximo.</p>"
+        },
+        "4-4": {
+          "description": "<p>O céu noturno fica mais escuro a cada noite, como se as estrelas estivessem desaparecendo uma a uma. Rumores sobre criaturas infernais capturando fazendeiros e arrastando-os para as Raízes se espalham como fogo. Os anciãos da aldeia acreditam que as duas coisas estão ligadas.</p>"
+        },
+        "5-5": {
+          "description": "<p>Os pássaros canoros do Bosque caíram num silêncio inquietante. Caçadores afirmam ter visto uma figura espectral vagando pela floresta, olhando com saudade para qualquer um que encontre.</p>"
+        },
+        "6-6": {
+          "description": "<p>Estranhas pedras em forma de lágrima foram encontradas por toda a região, provocando uma espécie de “corrida do ouro” entre joalheiros e ladrões. Os moradores acreditam que são lágrimas da própria terra, chorando por uma grande tragédia que está por vir.</p>"
+        },
+        "7-7": {
+          "description": "<p>Pragas enxameantes roem as bordas dos sonhos, e fazendeiros falam de um zumbido alto vindo das profundezas do Bosque. Eles também dizem que o som está se aproximando.</p>"
+        },
+        "8-8": {
+          "description": "<p>Há uma aldeia famosa por sua impressionante “árvore-mãe”, que supostamente guarda os segredos da cidade em seus galhos. Recentemente, ela começou a sangrar seiva vermelha, preocupando os anciãos.</p>"
+        },
+        "9-9": {
+          "description": "<p>A lua fica de um carmesim profundo, banhando a noite numa luz estranha e vermelho-sangue. Alguns dizem que isso anuncia uma era de caos e conflito, à medida que as barreiras entre o Bosque e o mundo mortal se enfraquecem.</p>"
+        },
+        "10-10": {
+          "description": "<p>Fissuras estranhas surgiram no céu noturno, revelando um turbilhão de luz e cor. Alguns dizem que a divisão entre os reinos está no ponto mais frágil em séculos, e temem o que possa surgir do outro lado.</p>"
+        },
+        "11-11": {
+          "description": "<p>Uma flor que desabrocha à noite, antes considerada extinta, está brotando por todo o Bosque. Seu perfume é inebriante, mas também provoca pesadelos vívidos.</p>"
+        },
+        "12-12": {
+          "description": "<p>O gado local anda cada vez mais agitado e difícil de controlar. Um velho pastor diz que é por causa de um uivo inquietante que vem do Bosque a cada lua cheia.</p>"
+        },
+        "13-13": {
+          "description": "<p>Enxames de insetos fogem do Bosque em massa, destruindo qualquer estrutura de madeira que encontram. O som de suas asas entoa uma melodia familiar quando passam no alto, como uma cantiga de ninar esquecida.</p>"
+        },
+        "14-14": {
+          "description": "<p>Caçadores falam de uma maldição que atinge qualquer um que mate uma fera com uma listra de pelo branco: pouco depois, são encontrados mortos em casa. A cada dia, há menos e menos criaturas para caçar.</p>"
+        },
+        "15-15": {
+          "description": "<p>Dizem que uma risada fraca pode ser ouvida ecoando de poços por toda a cidade, e que os ecos se transformam em soluços à noite.</p>"
+        },
+        "16-16": {
+          "description": "<p>As constelações começaram a mudar lentamente no céu noturno, formando padrões desconhecidos que deixam astrônomos e sábios perplexos. Até os animais parecem perturbados.</p>"
+        },
+        "17-17": {
+          "description": "<p>Uma árvore antiga no coração de uma aldeia pacata de repente murchou e morreu, sem mostrar sinais de doença. Ao cortarem seu tronco, encontraram uma mão ensanguentada em seu cerne.</p>"
+        },
+        "18-18": {
+          "description": "<p>Estátuas choram sangue há meses, e os ventres da aldeia permanecem estéreis desde então. Uma única criança foi a exceção, mantida escondida por anciãos tomados de medo e pavor.</p>"
+        },
+        "19-19": {
+          "description": "<p>A fauna local está agindo de modo estranho, mostrando agressividade intensa ou fugindo totalmente da região. Caçadores falam de uma figura sombria que vaga pelo Bosque, chamando os animais.</p>"
+        },
+        "20-20": {
+          "description": "<p>Cidades de fronteira tornaram-se turbulentas nas últimas semanas, após vários relatos de uma figura de manto vermelho aparecendo nos sonhos das crianças, repetindo o mesmo aviso: um fogo está vindo, e ele consumirá tudo.</p>"
+        }
+      }
+    }
+  }
+}

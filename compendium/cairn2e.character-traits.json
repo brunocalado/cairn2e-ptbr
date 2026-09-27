@@ -1,0 +1,285 @@
+{
+  "label": "Características",
+  "entries": {
+    "Clothing": {
+      "name": "Roupas",
+      "results": {
+        "1-1": {
+          "description": "Antiquadas"
+        },
+        "2-2": {
+          "description": "Ensanguentadas"
+        },
+        "3-3": {
+          "description": "Elegantes"
+        },
+        "4-4": {
+          "description": "Imundas"
+        },
+        "5-5": {
+          "description": "Estrangeiras"
+        },
+        "6-6": {
+          "description": "Desgastadas"
+        },
+        "7-7": {
+          "description": "Desalinhadas"
+        },
+        "8-8": {
+          "description": "Libré"
+        },
+        "9-9": {
+          "description": "Rançosas"
+        },
+        "10-10": {
+          "description": "Enlameadas"
+        }
+      }
+    },
+    "Face": {
+      "name": "Rosto",
+      "results": {
+        "1-1": {
+          "description": "Ossudo"
+        },
+        "2-2": {
+          "description": "Quebrado"
+        },
+        "3-3": {
+          "description": "Esculpido"
+        },
+        "4-4": {
+          "description": "Alongado"
+        },
+        "5-5": {
+          "description": "Pálido"
+        },
+        "6-6": {
+          "description": "Perfeito"
+        },
+        "7-7": {
+          "description": "Galante"
+        },
+        "8-8": {
+          "description": "Anguloso"
+        },
+        "9-9": {
+          "description": "Quadrado"
+        },
+        "10-10": {
+          "description": "Encovado"
+        }
+      }
+    },
+    "Hair": {
+      "name": "Cabelo",
+      "results": {
+        "1-1": {
+          "description": "Careca"
+        },
+        "2-2": {
+          "description": "Trançado"
+        },
+        "3-3": {
+          "description": "Cacheado"
+        },
+        "4-4": {
+          "description": "Sujo"
+        },
+        "5-5": {
+          "description": "Crespo"
+        },
+        "6-6": {
+          "description": "Longo"
+        },
+        "7-7": {
+          "description": "Luxuoso"
+        },
+        "8-8": {
+          "description": "Oleoso"
+        },
+        "9-9": {
+          "description": "Ondulado"
+        },
+        "10-10": {
+          "description": "Ralo"
+        }
+      }
+    },
+    "Physique": {
+      "name": "Físico",
+      "results": {
+        "1-1": {
+          "description": "Atlético"
+        },
+        "2-2": {
+          "description": "Musculoso"
+        },
+        "3-3": {
+          "description": "Flácido"
+        },
+        "4-4": {
+          "description": "Esguio"
+        },
+        "5-5": {
+          "description": "Calejado"
+        },
+        "6-6": {
+          "description": "Magricelo"
+        },
+        "7-7": {
+          "description": "Baixo"
+        },
+        "8-8": {
+          "description": "Escultural"
+        },
+        "9-9": {
+          "description": "Robusto"
+        },
+        "10-10": {
+          "description": "Alto"
+        }
+      }
+    },
+    "Skin": {
+      "name": "Pele",
+      "results": {
+        "1-1": {
+          "description": "Marca de nascença"
+        },
+        "2-2": {
+          "description": "Marcada"
+        },
+        "3-3": {
+          "description": "Oleosa"
+        },
+        "4-4": {
+          "description": "Rosada"
+        },
+        "5-5": {
+          "description": "Cicatrizada"
+        },
+        "6-6": {
+          "description": "Macia"
+        },
+        "7-7": {
+          "description": "Bronzeada"
+        },
+        "8-8": {
+          "description": "Tatuada"
+        },
+        "9-9": {
+          "description": "Envelhecida"
+        },
+        "10-10": {
+          "description": "Membranosa"
+        }
+      }
+    },
+    "Speech": {
+      "name": "Fala",
+      "results": {
+        "1-1": {
+          "description": "Direta"
+        },
+        "2-2": {
+          "description": "Trovejante"
+        },
+        "3-3": {
+          "description": "Enigmática"
+        },
+        "4-4": {
+          "description": "Monótona"
+        },
+        "5-5": {
+          "description": "Formal"
+        },
+        "6-6": {
+          "description": "Rouca"
+        },
+        "7-7": {
+          "description": "Precisa"
+        },
+        "8-8": {
+          "description": "Estridente"
+        },
+        "9-9": {
+          "description": "Gaguejante"
+        },
+        "10-10": {
+          "description": "Sussurrante"
+        }
+      }
+    },
+    "Vice": {
+      "name": "Vício",
+      "results": {
+        "1-1": {
+          "description": "Agressivo"
+        },
+        "2-2": {
+          "description": "Amargurado"
+        },
+        "3-3": {
+          "description": "Covarde"
+        },
+        "4-4": {
+          "description": "Traiçoeiro"
+        },
+        "5-5": {
+          "description": "Ganancioso"
+        },
+        "6-6": {
+          "description": "Preguiçoso"
+        },
+        "7-7": {
+          "description": "Nervoso"
+        },
+        "8-8": {
+          "description": "Rude"
+        },
+        "9-9": {
+          "description": "Vaidoso"
+        },
+        "10-10": {
+          "description": "Vingativo"
+        }
+      }
+    },
+    "Virtue": {
+      "name": "Virtude",
+      "results": {
+        "1-1": {
+          "description": "Ambicioso"
+        },
+        "2-2": {
+          "description": "Cauteloso"
+        },
+        "3-3": {
+          "description": "Corajoso"
+        },
+        "4-4": {
+          "description": "Disciplinado"
+        },
+        "5-5": {
+          "description": "Sociável"
+        },
+        "6-6": {
+          "description": "Honrado"
+        },
+        "7-7": {
+          "description": "Humilde"
+        },
+        "8-8": {
+          "description": "Piedoso"
+        },
+        "9-9": {
+          "description": "Sereno"
+        },
+        "10-10": {
+          "description": "Tolerante"
+        }
+      }
+    }
+  }
+}

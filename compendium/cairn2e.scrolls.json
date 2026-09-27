@@ -1,0 +1,409 @@
+{
+  "label": "Pergaminhos",
+  "folders": {
+    "Common (50gp)": "Comum (50po)",
+    "Greater (100gp)": "Superior (100po)"
+  },
+  "entries": {
+    "Adhere": {
+      "name": "Aderência",
+      "description": "<p>Um objeto fica coberto por uma gosma extremamente pegajosa.</p>"
+    },
+    "Anchor": {
+      "name": "Âncora",
+      "description": "<p>Um arame resistente brota dos seus braços e se prende a dois pontos a até 15 m de cada lado.</p>"
+    },
+    "Animate Object": {
+      "name": "Animar Objeto",
+      "description": "<p>Um objeto obedece às suas ordens da melhor forma que puder.</p>"
+    },
+    "Anthropomorphize": {
+      "name": "Antropomorfizar",
+      "description": "<p>Um animal ganha inteligência humana ou aparência humana por um dia.</p>"
+    },
+    "Arcane Eye": {
+      "name": "Olho Arcano",
+      "description": "<p>Você enxerga através de um globo ocular mágico flutuante que voa ao seu comando.</p>"
+    },
+    "Astral Prison": {
+      "name": "Prisão Astral",
+      "description": "<p>Um objeto fica congelado no tempo e no espaço dentro de uma casca de cristal invulnerável.</p>"
+    },
+    "Attract": {
+      "name": "Atração",
+      "description": "<p>Dois objetos se atraem com forte magnetismo se ficarem a até 3 m um do outro.</p>"
+    },
+    "Auditory Illusion": {
+      "name": "Ilusão Auditiva",
+      "description": "<p>Você cria sons ilusórios que parecem vir de uma direção à sua escolha.</p>"
+    },
+    "Babble": {
+      "name": "Balbucio",
+      "description": "<p>Uma criatura deve repetir, alto e claro, tudo o que você pensa. Fora isso, fica muda.</p>"
+    },
+    "Bait Flower": {
+      "name": "Flor-Isca",
+      "description": "<p>Brota do chão uma planta que exala cheiro de carne em decomposição.</p>"
+    },
+    "Beast Form": {
+      "name": "Forma Bestial",
+      "description": "<p>Você e seus pertences se transformam em um animal comum.</p>"
+    },
+    "Befuddle": {
+      "name": "Confusão",
+      "description": "<p>Uma criatura à sua escolha não consegue formar novas memórias de curto prazo enquanto a magia durar.</p>"
+    },
+    "Body Swap": {
+      "name": "Troca de Corpos",
+      "description": "<p>Você troca de corpo com uma criatura que tocar. Se um dos corpos morrer, o outro também morre.</p>"
+    },
+    "Charm": {
+      "name": "Enfeitiçar",
+      "description": "<p>Uma criatura que você possa ver o trata como amigo.</p>"
+    },
+    "Command": {
+      "name": "Comando",
+      "description": "<p>Um alvo obedece a uma única ordem de três palavras que não lhe cause mal.</p>"
+    },
+    "Comprehend": {
+      "name": "Compreensão",
+      "description": "<p>Você se torna fluente em todos os idiomas por um curto período.</p>"
+    },
+    "Cone of Foam": {
+      "name": "Cone de Espuma",
+      "description": "<p>Uma espuma densa jorra da sua mão, cobrindo o alvo.</p>"
+    },
+    "Control Plants": {
+      "name": "Controlar Plantas",
+      "description": "<p>Plantas e árvores próximas obedecem a você e ganham a capacidade de se mover lentamente.</p>"
+    },
+    "Control Weather": {
+      "name": "Controlar o Clima",
+      "description": "<p>Você pode alterar o tipo de clima à vontade, mas não o controla de outra forma.</p>"
+    },
+    "Cure Wounds": {
+      "name": "Curar Ferimentos",
+      "description": "<p>Restaura 1d4 de FOR por dia a uma criatura que você possa tocar.</p>"
+    },
+    "Deafen": {
+      "name": "Ensurdecer",
+      "description": "<p>Todas as criaturas próximas ficam surdas.</p>"
+    },
+    "Detect Magic": {
+      "name": "Detectar Magia",
+      "description": "<p>Você pode ver ou ouvir auras mágicas próximas.</p>"
+    },
+    "Disassemble": {
+      "name": "Desmontar",
+      "description": "<p>Qualquer parte do seu corpo pode ser destacada e recolocada à vontade, sem causar dor ou dano. Você ainda pode controlá-las.</p>"
+    },
+    "Disguise": {
+      "name": "Disfarce",
+      "description": "<p>Você pode alterar a aparência de um personagem à vontade, desde que continue humanoide. Tentativas de imitar outros personagens parecerão estranhas.</p>"
+    },
+    "Displace": {
+      "name": "Deslocamento",
+      "description": "<p>Um objeto parece estar a até 4,5 m de sua posição real.</p>"
+    },
+    "Earthquake": {
+      "name": "Terremoto",
+      "description": "<p>O chão começa a tremer violentamente. Estruturas podem ser danificadas ou desabar.</p>"
+    },
+    "Elasticity": {
+      "name": "Elasticidade",
+      "description": "<p>Seu corpo pode se esticar até 3 m.</p>"
+    },
+    "Elemental Wall": {
+      "name": "Muralha Elemental",
+      "description": "<p>Uma muralha reta de gelo ou fogo, com 15 m de comprimento e 3 m de altura, ergue-se do chão.</p>"
+    },
+    "Filch": {
+      "name": "Surrupiar",
+      "description": "<p>Um item visível se teletransporta para as suas mãos.</p>"
+    },
+    "Fish Lung": {
+      "name": "Pulmão de Peixe",
+      "description": "<p>Um alvo pode respirar debaixo d’água até voltar à superfície.</p>"
+    },
+    "Flare": {
+      "name": "Sinalizador",
+      "description": "<p>Uma bola de energia brilhante dispara um rastro de luz para o céu, revelando sua localização a amigos e inimigos.</p>"
+    },
+    "Fog Cloud": {
+      "name": "Nuvem de Névoa",
+      "description": "<p>Uma névoa densa se espalha a partir de você.</p>"
+    },
+    "Frenzy": {
+      "name": "Frenesi",
+      "description": "<p>Uma criatura próxima explode em um frenesi de violência.</p>"
+    },
+    "Gate": {
+      "name": "Portal",
+      "description": "<p>Abre-se um portal para um plano aleatório.</p>"
+    },
+    "Gravity Shift": {
+      "name": "Mudar Gravidade",
+      "description": "<p>Você pode mudar a direção da gravidade, mas só para si mesmo.</p>"
+    },
+    "Greed": {
+      "name": "Ganância",
+      "description": "<p>Uma criatura sente um desejo avassalador de possuir um item visível à sua escolha.</p>"
+    },
+    "Haste": {
+      "name": "Velocidade",
+      "description": "<p>Seu deslocamento é triplicado.</p>"
+    },
+    "Hatred": {
+      "name": "Ódio",
+      "description": "<p>Uma criatura desenvolve um ódio profundo por outra criatura ou grupo e deseja destruí-los.</p>"
+    },
+    "Hear Whispers": {
+      "name": "Ouvir Sussurros",
+      "description": "<p>Você ouve sons fracos com clareza.</p>"
+    },
+    "Hover": {
+      "name": "Flutuar",
+      "description": "<p>Um objeto paira, sem atrito, a 60 cm do chão. Ele suporta até um humanoide.</p>"
+    },
+    "Hypnotize": {
+      "name": "Hipnotizar",
+      "description": "<p>Uma criatura entra em transe e responderá com sinceridade a uma pergunta de sim ou não que você fizer.</p>"
+    },
+    "Icy Touch": {
+      "name": "Toque Gélido",
+      "description": "<p>Uma camada grossa de gelo se espalha pela superfície tocada, num raio de até 3 m.</p>"
+    },
+    "Identify Owner": {
+      "name": "Identificar Dono",
+      "description": "<p>Letras surgem sobre o objeto que você tocar, soletrando o nome dos donos dele, se houver.</p>"
+    },
+    "Illuminate": {
+      "name": "Iluminar",
+      "description": "<p>Uma luz flutuante se move conforme você ordena.</p>"
+    },
+    "Invisible Tether": {
+      "name": "Amarra Invisível",
+      "description": "<p>Dois objetos a até 3 m um do outro não podem ser afastados mais de 3 m.</p>"
+    },
+    "Knock": {
+      "name": "Arrombar",
+      "description": "<p>Uma fechadura próxima, comum ou mágica, se destranca ruidosamente.</p>"
+    },
+    "Leap": {
+      "name": "Salto",
+      "description": "<p>Você salta até 3 m de altura, uma vez.</p>"
+    },
+    "Liquid Air": {
+      "name": "Ar Líquido",
+      "description": "<p>O ar ao seu redor se torna nadável.</p>"
+    },
+    "Magic Dampener": {
+      "name": "Supressão Mágica",
+      "description": "<p>Todos os efeitos mágicos próximos têm sua eficácia reduzida à metade.</p>"
+    },
+    "Manse": {
+      "name": "Mansão",
+      "description": "<p>Um chalé sólido e mobiliado aparece por horas. Você pode permitir ou proibir a entrada nele à vontade.</p>"
+    },
+    "Marble Craze": {
+      "name": "Mania de Gude",
+      "description": "<p>Seus bolsos se enchem de bolinhas de gude e se reabastecem a cada 30 segundos.</p>"
+    },
+    "Masquerade": {
+      "name": "Mascarada",
+      "description": "<p>A aparência e a voz de um personagem se tornam idênticas às de um personagem que você tocar.</p>"
+    },
+    "Miniaturize": {
+      "name": "Miniaturizar",
+      "description": "<p>Uma criatura que você tocar encolhe até o tamanho de um rato.</p>"
+    },
+    "Mirror Image": {
+      "name": "Imagem Espelhada",
+      "description": "<p>Uma cópia ilusória de você aparece e fica sob seu controle.</p>"
+    },
+    "Mirrorwalk": {
+      "name": "Passo de Espelho",
+      "description": "<p>Um espelho se torna uma passagem para outro espelho em que você se olhou hoje.</p>"
+    },
+    "Multiarm": {
+      "name": "Multibraço",
+      "description": "<p>Você ganha temporariamente um braço extra.</p>"
+    },
+    "Night Sphere": {
+      "name": "Esfera Noturna",
+      "description": "<p>Uma esfera de escuridão com 15 m de largura, mostrando o céu noturno, aparece diante de você.</p>"
+    },
+    "Objectify": {
+      "name": "Forma de Objeto",
+      "description": "<p>Você se transforma em qualquer objeto inanimado entre o tamanho de um piano de cauda e o de uma maçã.</p>"
+    },
+    "Ooze Form": {
+      "name": "Forma de Gosma",
+      "description": "<p>Você se torna uma geleia viva.</p>"
+    },
+    "Pacify": {
+      "name": "Pacificar",
+      "description": "<p>Uma criatura perto de você passa a ter aversão à violência.</p>"
+    },
+    "Passage": {
+      "name": "Passagem",
+      "description": "<p>Cria uma passagem temporária através de madeira, pedra ou tijolo.</p>"
+    },
+    "Phobia": {
+      "name": "Fobia",
+      "description": "<p>Uma criatura próxima fica aterrorizada por um objeto à sua escolha.</p>"
+    },
+    "Pit": {
+      "name": "Fosso",
+      "description": "<p>Um fosso de 3 m de largura e 3 m de profundidade se abre no chão.</p>"
+    },
+    "Primal Surge": {
+      "name": "Surto Primal",
+      "description": "<p>Uma criatura evolui rapidamente para uma versão futura de sua espécie.</p>"
+    },
+    "Push/Pull": {
+      "name": "Empurrar/Puxar",
+      "description": "<p>Um objeto de qualquer tamanho é puxado diretamente em sua direção ou empurrado diretamente para longe de você com a força de um homem.</p>"
+    },
+    "Raise Dead": {
+      "name": "Erguer Mortos",
+      "description": "<p>Um esqueleto se ergue do chão para servi-lo. Ele é incrivelmente estúpido e só obedece a ordens simples.</p>"
+    },
+    "Raise Spirit": {
+      "name": "Erguer Espírito",
+      "description": "<p>O espírito de um cadáver próximo se manifesta e responde a 1 pergunta.</p>"
+    },
+    "Read Mind": {
+      "name": "Ler Mentes",
+      "description": "<p>Você ouve os pensamentos superficiais das criaturas próximas.</p>"
+    },
+    "Repel": {
+      "name": "Repulsão",
+      "description": "<p>Dois objetos se repelem com forte magnetismo a até 3 m um do outro.</p>"
+    },
+    "Scry": {
+      "name": "Vidência",
+      "description": "<p>Você enxerga pelos olhos de uma criatura que tocou mais cedo hoje.</p>"
+    },
+    "Sculpt Elements": {
+      "name": "Esculpir Elementos",
+      "description": "<p>Material inanimado se comporta como argila em suas mãos.</p>"
+    },
+    "Sense": {
+      "name": "Sentir",
+      "description": "<p>Escolha um tipo de objeto (chave, ouro, flecha, jarro etc.). Você sente o exemplar mais próximo.</p>"
+    },
+    "Shield": {
+      "name": "Escudo",
+      "description": "<p>Uma criatura que você tocar fica protegida de ataques comuns por um minuto.</p>"
+    },
+    "Shroud": {
+      "name": "Véu",
+      "description": "<p>Uma criatura que você tocar fica invisível até se mover.</p>"
+    },
+    "Shuffle": {
+      "name": "Embaralhar",
+      "description": "<p>Duas criaturas que você possa ver trocam de lugar instantaneamente.</p>"
+    },
+    "Skillful Repair": {
+      "name": "Reparo Hábil",
+      "description": "<p>Você faz pequenos reparos em um objeto sem vida.</p>"
+    },
+    "Sleep": {
+      "name": "Sono",
+      "description": "<p>Uma criatura que você possa ver cai em um sono leve.</p>"
+    },
+    "Slick": {
+      "name": "Escorregadio",
+      "description": "<p>Toda superfície num raio de 9 m fica extremamente escorregadia.</p>"
+    },
+    "Smoke Form": {
+      "name": "Forma de Fumaça",
+      "description": "<p>Seu corpo se torna uma fumaça viva que você pode controlar.</p>"
+    },
+    "Sniff": {
+      "name": "Farejar",
+      "description": "<p>Você sente até os mais leves vestígios de cheiros.</p>"
+    },
+    "Snuff": {
+      "name": "Apagar",
+      "description": "<p>A fonte de qualquer luz comum que você possa ver se apaga instantaneamente.</p>"
+    },
+    "Sort": {
+      "name": "Organizar",
+      "description": "<p>Itens inanimados se organizam de acordo com as categorias que você definir.</p>"
+    },
+    "Spellsaw": {
+      "name": "Serra Mágica",
+      "description": "<p>Uma lâmina giratória sai voando do seu peito, cortando qualquer vegetação no caminho. Fora isso, é inofensiva.</p>"
+    },
+    "Spider Climb": {
+      "name": "Patas de Aranha",
+      "description": "<p>Você pode escalar superfícies como uma aranha.</p>"
+    },
+    "Swarm": {
+      "name": "Enxame",
+      "description": "<p>Você se torna um enxame de corvos, ratos ou piranhas. Só pode ser ferido por ataques de <em>explosão</em>.</p>"
+    },
+    "Target Lure": {
+      "name": "Chamariz Mágico",
+      "description": "<p>Um objeto que você tocar se torna o alvo de qualquer magia próxima.</p>"
+    },
+    "Telekinesis": {
+      "name": "Telecinesia",
+      "description": "<p>Você pode mover mentalmente 1 item de menos de 30 kg.</p>"
+    },
+    "Telepathy": {
+      "name": "Telepatia",
+      "description": "<p>Duas criaturas ouvem os pensamentos uma da outra, não importa a distância.</p>"
+    },
+    "Teleport": {
+      "name": "Teletransporte",
+      "description": "<p>Um objeto ou pessoa que você possa ver é transportado de um lugar para outro num raio de 15 m.</p>"
+    },
+    "Thicket": {
+      "name": "Matagal",
+      "description": "<p>Um matagal de árvores e arbustos densos, com até 15 m de largura, brota de repente.</p>"
+    },
+    "Time Control": {
+      "name": "Controle do Tempo",
+      "description": "<p>O tempo numa bolha de 15 m desacelera ou acelera em 10% por 30 segundos.</p>"
+    },
+    "True Sight": {
+      "name": "Visão da Verdade",
+      "description": "<p>Você enxerga através de todas as ilusões próximas.</p>"
+    },
+    "Upwell": {
+      "name": "Nascente",
+      "description": "<p>Surge uma nascente de água do mar.</p>"
+    },
+    "Vision": {
+      "name": "Visão",
+      "description": "<p>Você controla completamente o que uma criatura vê.</p>"
+    },
+    "Visual Illusion": {
+      "name": "Ilusão Visual",
+      "description": "<p>Surge uma ilusão silenciosa e imóvel, do tamanho de um cômodo, à sua escolha.</p>"
+    },
+    "Ward": {
+      "name": "Proteção",
+      "description": "<p>Um círculo prateado de 15 m de diâmetro surge no chão. Escolha uma espécie que não pode atravessá-lo.</p>"
+    },
+    "Web": {
+      "name": "Teia",
+      "description": "<p>Seus pulsos disparam teias grossas.</p>"
+    },
+    "Widget": {
+      "name": "Engenhoca",
+      "description": "<p>Uma versão primitiva de uma ferramenta ou item desenhado aparece diante de você e desaparece pouco depois.</p>"
+    },
+    "Wizard Mark": {
+      "name": "Marca do Mago",
+      "description": "<p>Seu dedo dispara um jato de tinta cor de ulfogo. Essa tinta só é visível para você e pode ser vista a qualquer distância, mesmo através de objetos sólidos.</p>"
+    },
+    "X-Ray Vision": {
+      "name": "Visão de Raio-X",
+      "description": "<p>Você enxerga através de paredes, terra, roupas etc.</p>"
+    }
+  }
+}

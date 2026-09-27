@@ -1,0 +1,211 @@
+{
+  "label": "Relíquias",
+  "folders": {
+    "150gp": "150po",
+    "300gp": "300po",
+    "600gp": "600po"
+  },
+  "entries": {
+    "A Blade Called Hope": {
+      "name": "Lâmina da Esperança",
+      "description": "<p>Uma espada fina e curva que brilha com uma luz tênue, visível apenas na escuridão total. Quando banhada por sol forte, seu primeiro ataque é <em>com vantagem</em>.</p>"
+    },
+    "Assassin's Goblets": {
+      "name": "Taças do Assassino",
+      "description": "<p>Um par de frágeis taças de vinho. Qualquer líquido despejado em uma é trocado com o da outra.</p>"
+    },
+    "Babbleflask": {
+      "name": "Frasco Poliglota",
+      "description": "<p>Um idioma estrangeiro é compreendido automaticamente e pode ser falado com fluência, desde que a língua nativa de quem bebe não seja falada nem ouvida.</p>"
+    },
+    "Barbed Epaulets": {
+      "name": "Dragonas Farpadas",
+      "description": "<p>Ombreiras com espinhos que envenenam quem as toca (salvaguarda de FOR ou perde a consciência).</p>"
+    },
+    "Betterwand": {
+      "name": "Varinha do Melhor",
+      "description": "<p>Vibra com intensidade crescente quando apontada para o melhor de uma série de objetos.</p>",
+      "recharge": "<p>Aceite de bom grado um mau negócio ou troca enquanto estiver com a varinha.</p>"
+    },
+    "Bloodmap": {
+      "name": "Mapa de Sangue",
+      "description": "<p>Um pergaminho de couro em branco que absorve todo sangue derramado em sua superfície antes de se enrolar bem apertado. Desenrole para ver um mapa tosco revelando a localização atual de qualquer sangue restante. A imagem desaparece após alguns minutos.</p>",
+      "recharge": "<p>Derrame meio litro da sua própria essência vital sobre o mapa, sangue por sangue. Você fica <em>privado</em> até poder descansar e comer uma Ração.</p>"
+    },
+    "Coin of the Father": {
+      "name": "Moeda do Pai",
+      "description": "<p>Jogue para o alto este pedaço de metal achatado e de aparência inútil, e ele se transformará em d100 moedas de ouro. As moedas ilusórias desaparecem após uma hora.</p><p><em>Miudeza.</em></p>",
+      "recharge": "<p>Carregue a moeda por três dias sem gastar nem ganhar dinheiro algum.</p>"
+    },
+    "Dryad's Tear": {
+      "name": "Lágrima de Dríade",
+      "description": "<p>Estilhace este cristal para se fundir a uma árvore que você possa tocar. Você percebe o que acontece em toda a floresta à qual essa árvore pertence.</p>"
+    },
+    "Empathy Rod": {
+      "name": "Vara da Empatia",
+      "description": "<p>Quando duas criaturas tocam esta vara de madeira ao mesmo tempo, seus estados físicos e emocionais ficam totalmente entrelaçados até que a soltem.</p>",
+      "recharge": "<p>Dê a vara de presente a um antigo inimigo. É uma transação sem volta.</p>"
+    },
+    "Eyestone": {
+      "name": "Pedra-Olho",
+      "description": "<p>Escolha um objeto criado por criaturas vivas. Você sente o exemplar mais próximo.</p>",
+      "recharge": "<p>Deixe-a num balde de água da chuva durante a noite.</p>"
+    },
+    "Falconstone": {
+      "name": "Pedra-Falcão",
+      "description": "<p>Perceba o mundo pelos olhos e ouvidos de uma ave de rapina próxima. Você sente tudo o que ela sente, mas não tem controle sobre ela.</p>",
+      "recharge": "<p>Mate e coma uma presa comum, cozinhando a carne junto com a pedra.</p>"
+    },
+    "Footpad's Friend": {
+      "name": "Amigo do Gatuno",
+      "description": "<p>Sapatos de couro macio que se ajustam a qualquer tamanho de pé. Deixam pegadas que se espalham e giram de modo confuso, tornando o rastreamento quase impossível.</p>"
+    },
+    "Gate Chalk": {
+      "name": "Giz do Portal",
+      "description": "<p>Desenhe uma porta em qualquer superfície plana para abrir uma passagem de mão única para as Raízes. Boa sorte.</p><p><em>Miudeza.</em></p>"
+    },
+    "Golden Wheat Paste": {
+      "name": "Pasta de Trigo Dourado",
+      "description": "<p>Misturada com água, esta substância une quimicamente quaisquer dois objetos.</p>"
+    },
+    "Gossip Box": {
+      "name": "Caixa de Fofocas",
+      "description": "<p>Gire a manivela para reproduzir qualquer som feito no último dia no local onde você está. Cada volta retrocede uma hora.</p>",
+      "recharge": "<p>Espalhe com sucesso uma mentira na presença da caixa.</p>"
+    },
+    "Harbinger's Bell": {
+      "name": "Sino do Arauto",
+      "description": "<p>Pendure-o na altura do peito para que toque quando houver perigo iminente.</p>",
+      "recharge": "<p>Derreta e forje de novo. A cada vez, role um d6. Com 1-2, ele se quebra para sempre.</p>"
+    },
+    "Homunculus Nail": {
+      "name": "Prego do Homúnculo",
+      "description": "<p>Fure um dedo com a ponta e crave o prego em qualquer objeto pequeno para formar um servo leal [3 PG, 4 FOR, 13 DES, 5 VON] completamente devotado a você. Se não for destruído, ele sobreviverá a você.</p><p><em>Miudeza.</em></p>"
+    },
+    "Honest Earworm": {
+      "name": "Verme da Verdade",
+      "description": "<p>Um verme fedorento, do tamanho de um dedo mindinho, que se alimenta de cera de ouvido rastejando para dentro do ouvido de alguém adormecido. A vítima então perde a capacidade de mentir por 1d4 horas.</p>"
+    },
+    "Jar of Ants": {
+      "name": "Jarro de Formigas",
+      "description": "<p>Quebre para libertar uma colônia de formigas-de-fogo [6 PG, 2 FOR, 10 DES, 1 VON, mordida (d10), <em>destacamento</em>]. Consome uma ração a cada dois dias.</p>"
+    },
+    "Last Breath": {
+      "name": "Último Suspiro",
+      "description": "<p>Uma espada curta lascada, de qualidade duvidosa. Crave-a na terra para formar uma cúpula de cristal que envolve e imobiliza quem a empunha. A cúpula é impenetrável por meios mundanos e se estilhaça quando a espada é erguida de novo.</p>",
+      "recharge": "<p>Desfira um golpe fatal com a espada, absorvendo na lâmina a alma da vítima moribunda. Há uma inteligência astuta ali dentro que fala com quem a empunha, sempre pedindo mais almas, mais!</p>"
+    },
+    "Lightsucker Candle": {
+      "name": "Vela Suga-Luz",
+      "description": "<p>Uma vez acesa, esta vela de sebo negro emana escuridão em vez de luz, mesmo nos dias mais claros.</p>"
+    },
+    "Lover's Covenant": {
+      "name": "Pacto dos Amantes",
+      "description": "<p>Um frasco de tinta avermelhada, com um coração partido estampado na frente. Redija um contrato de qualquer tamanho. Todos que o assinarem são obrigados a obedecê-lo, sob pena de morte.</p>"
+    },
+    "Mace of the Kingslayer": {
+      "name": "Maça do Regicida",
+      "description": "<p>Erga a arma e grite uma ordem ou declaração. Todos que falharem numa salvaguarda de VON devem obedecer, contra seu próprio juízo.</p>",
+      "recharge": "<p>Desfira um golpe fatal no líder de um grupo ou facção.</p>"
+    },
+    "Moth Mirror": {
+      "name": "Espelho-Mariposa",
+      "description": "<p>Um espelho de vidro de corpo inteiro e dupla face. Entre no espelho para ser transportado a outro espelho que você conheça. Você sai do outro lado como um enorme enxame de mariposas zumbindo, paralisando quem está ao redor (salvaguarda de VON para evitar) enquanto o encaram horrorizados. Você pode voltar à forma normal quando quiser. O espelho só funciona em um sentido.</p>"
+    },
+    "Muffle Dust": {
+      "name": "Pó Abafador",
+      "description": "<p>Uma bolsinha de pó fino que, quando espalhado, abafa todo som num raio de 12 m.</p>"
+    },
+    "Nightstone": {
+      "name": "Pedra da Noite",
+      "description": "<p>Pedras raras em forma de lua, dragadas de cavernas submersas e dolinas na selva. Engula inteira para aliviar toda fadiga e privação, como após uma boa noite de sono e uma boa refeição. A pedra acabará passando pelo seu organismo. Não é divertido.</p>"
+    },
+    "Obliteration Scroll": {
+      "name": "Pergaminho do Olvido",
+      "description": "<p>Um documento de página única cheio de rabiscos sem sentido. Assine em qualquer lugar da página para apagar deste plano da realidade todo conhecimento da sua existência. Ninguém saberá quem você é nem se lembrará de você, e qualquer menção ao seu nome ou linhagem desaparecerá. O pergaminho some numa nuvem de fumaça com leve cheiro de enxofre.</p><p><em>Miudeza.</em></p>"
+    },
+    "Parliament's Promise": {
+      "name": "Promessa do Parlamento",
+      "description": "<p>Um elmo em forma de cabeça de coruja. Quem o usa pode girar a cabeça como uma coruja e enxerga no escuro com perfeita clareza. Enquanto usa o elmo, perde a capacidade de falar, emitindo apenas os mais simples piados.</p>"
+    },
+    "Phoenix Ash": {
+      "name": "Cinzas de Fênix",
+      "description": "<p>Polvilhe sobre um cadáver para ressuscitar o falecido. Ele retorna com a saúde plena, mas sem memória da vida passada.</p>"
+    },
+    "Ring of the Snake": {
+      "name": "Anel da Serpente",
+      "description": "<p>Um anel de ferro forjado em forma de serpente. Coloque-o no dedo e caia num sono tão profundo que a maioria pensará que você está morto. Se o anel for removido, você desperta revigorado. Caso contrário, o efeito passa após um mês.</p><p><em>Miudeza.</em></p>",
+      "recharge": "<p>Enterre o anel com um cadáver. Um mês depois, exume o cadáver e recupere o anel.</p>"
+    },
+    "Roc Feather": {
+      "name": "Pena de Roca",
+      "description": "<p>Segure-a enquanto cai para flutuar em segurança até o chão, de qualquer altura.</p>"
+    },
+    "Skull Whistle": {
+      "name": "Apito de Caveira",
+      "description": "<p>Produz um grito arrepiante que obriga todos que o ouvem (inclusive quem sopra) a fazer uma salvaguarda de VON ou ficar temporariamente incapacitados.</p>",
+      "recharge": "<p>Alimente o instrumento com um tufo de cabelo humano arrancado de um crânio vivo.</p>"
+    },
+    "Soul Clump": {
+      "name": "Bolota de Almas",
+      "description": "<p>Uma bola dura do tamanho de um punho, coberta de pequenas saliências. Quando rolada numa superfície plana, recolhe qualquer objeto menor que sua massa atual, que cresce à medida que mais itens se prendem à sua superfície. Apenas criaturas vivas são imunes.</p>"
+    },
+    "Sponge Army": {
+      "name": "Tropa de Esponjas",
+      "description": "<p>Uma dúzia de soldados em miniatura feitos de esponjas-do-mar entalhadas. Quando molhados, crescem até o tamanho natural [8 PG, 6 FOR, 13 DES, 5 VON, esponja endurecida (d6), <em>destacamento</em>] e seguem as ordens da pessoa que veem até serem destruídos ou secarem por completo (cerca de 10 minutos).</p>"
+    },
+    "Spystone": {
+      "name": "Pedra-Espiã",
+      "description": "<p>Uma pedra lisa e chata, levemente morna ao toque. Aperte para gravar sons num raio de 12 m. Aperte de novo para reproduzi-los, quantas vezes quiser.</p>",
+      "recharge": "<p>Para gravar um novo som, faça a pedra quicar pelo menos três vezes na superfície da água e recupere-a.</p>"
+    },
+    "Sticky Rope": {
+      "name": "Corda Grudenta",
+      "description": "<p>Uma corda de 30 m que gruda em qualquer superfície.</p>",
+      "recharge": "<p>Corte 3 m da corda, que então se desfaz.</p>"
+    },
+    "Stone Eater": {
+      "name": "Come-Pedras",
+      "description": "<p>Uma centopeia do tamanho de um roedor que consome e digere pedra, capaz de abrir um pequeno túnel em menos de uma hora. Pode ser usada mais de uma vez, mas só se você conseguir pegá-la (DES 18).</p>"
+    },
+    "Stonewax Gum": {
+      "name": "Goma Pétrea",
+      "description": "<p>Mastigue e cuspa. A goma endurece e se estica, formando uma vedação perfeita e inquebrável.</p><p><em>Miudeza.</em></p>"
+    },
+    "Tupshead Crown": {
+      "name": "Coroa do Carneiro",
+      "description": "<p>Um elmo em forma de cabeça de carneiro, belamente esculpido em robusto carvalho alpino. Os chifres podem ser usados como armas (d6+d6).</p>"
+    },
+    "Veilsilk Grip": {
+      "name": "Luva Véu-de-Seda",
+      "description": "<p>Uma mão usando esta luva pode atravessar objetos sólidos.</p><p><em>Miudeza.</em></p>",
+      "recharge": "<p>Corte fora um dos dedos.</p>"
+    },
+    "Voice of the Mountain": {
+      "name": "Voz da Montanha",
+      "description": "<p>Um seixo áspero imbuído da essência de um espírito da montanha. Esmague-o para invocar um terremoto ou desastre natural semelhante. Não espere ser poupado.</p>"
+    },
+    "Ward Stone": {
+      "name": "Pedra de Proteção",
+      "description": "<p>Uma pedra de rio chata e modesta, entalhada com símbolos desbotados. Esmague-a para liberar um pó prateado num raio de 6 m que pacifica quem o respira.</p>"
+    },
+    "Whispergale": {
+      "name": "Vento Sussurrante",
+      "description": "<p>Uma planta em forma de balão que captura uma mensagem falada e a entrega num local a até um dia de caminhada.</p>"
+    },
+    "Whistle-Rope": {
+      "name": "Corda-Apito",
+      "description": "<p>4,5 m de couro muito flexível. Gire-a no ar para gerar um poderoso efeito infrassônico que afugenta animais selvagens. Também funciona debaixo d'água.</p>"
+    },
+    "Wonder Bar": {
+      "name": "Barra Maravilha",
+      "description": "<p>Apertar o botão na lateral desta barra de ferro a congela no lugar, até mesmo no ar. Uma vez congelada, nenhuma força pode movê-la até que o botão seja apertado de novo.</p>",
+      "recharge": "<p>Segure a barra com as duas mãos sem soltar por uma hora ininterrupta (salvaguarda de VON para conseguir). Você só pode tentar uma vez por dia.</p>"
+    },
+    "Wraith Lantern": {
+      "name": "Lanterna Espectral",
+      "description": "<p>Escreva o nome de alguém em seu vidro, e o nome desaparecerá. A lanterna revela um caminho até a localização atual dessa pessoa, visível apenas para quem a segura (de dia ou de noite).</p>",
+      "recharge": "<p>Mate a última pessoa encontrada com a ajuda da lanterna, aprisionando o espírito dela lá dentro. A lanterna deve estar por perto quando ela for morta.</p>"
+    }
+  }
+}

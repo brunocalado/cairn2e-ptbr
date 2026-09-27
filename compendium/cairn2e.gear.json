@@ -1,0 +1,228 @@
+{
+  "label": "Equipamento",
+  "folders": {
+    "Transport": "Transporte"
+  },
+  "entries": {
+    "Air Bladder": {
+      "name": "Bexiga de Ar",
+      "description": "<p>Bexiga de Ar</p>"
+    },
+    "Animal Feed": {
+      "name": "Ração Animal",
+      "description": "<p>Ração Animal (3 usos, volumosa)</p>"
+    },
+    "Antitoxin": {
+      "name": "Antitoxina",
+      "description": "<p>Antitoxina</p>"
+    },
+    "Bandages": {
+      "name": "Bandagens",
+      "description": "<p>Bandagens (3 usos)</p>"
+    },
+    "Bathing Goods": {
+      "name": "Artigos de Banho",
+      "description": "<p>Artigos de Banho (Sabão, Perfume, etc.)</p>"
+    },
+    "Book": {
+      "name": "Livro",
+      "description": "<p>Livro</p>"
+    },
+    "Caltrops": {
+      "name": "Estrepes",
+      "description": "<p>Estrepes</p>"
+    },
+    "Card Deck": {
+      "name": "Baralho",
+      "description": "<p>Baralho</p>"
+    },
+    "Carriage Seat": {
+      "name": "Lugar na Carruagem",
+      "description": "<p>Lugar na Carruagem</p>"
+    },
+    "Cart": {
+      "name": "Carroça",
+      "description": "<p>Carroça (+4 espaços, <em>volumosa</em>). Deve ser puxada com as duas mãos.</p>"
+    },
+    "Chain": {
+      "name": "Corrente",
+      "description": "<p>Corrente (3 m)</p>"
+    },
+    "Chalk": {
+      "name": "Giz",
+      "description": "<p>Giz (<em>miudeza</em>)</p>"
+    },
+    "Chest": {
+      "name": "Baú",
+      "description": "<p>Baú</p>"
+    },
+    "Chisel": {
+      "name": "Cinzel",
+      "description": "<p>Cinzel</p>"
+    },
+    "Common Agents": {
+      "name": "Agentes Comuns",
+      "description": "<p>Agentes Comuns (Cola, Graxa, etc.)</p>"
+    },
+    "Common Tools": {
+      "name": "Ferramentas Comuns",
+      "description": "<p>Ferramentas Comuns (Martelo, Pá, etc.)</p>"
+    },
+    "Compass": {
+      "name": "Bússola",
+      "description": "<p>Bússola</p>"
+    },
+    "Complex Instruments": {
+      "name": "Instrumentos Complexos",
+      "description": "<p>Instrumentos Complexos (Gaita de Foles, Rabeca, etc.)</p>"
+    },
+    "Containers": {
+      "name": "Recipientes",
+      "description": "<p>Recipientes (Saco, Cantil, etc.)</p>"
+    },
+    "Cooking Gear": {
+      "name": "Kit de Cozinha",
+      "description": "<p>Kit de Cozinha (Panelas, Talheres, etc.)</p>"
+    },
+    "Costume Gear": {
+      "name": "Disfarces",
+      "description": "<p>Disfarces (Tinta Facial, Maquiagem)</p>"
+    },
+    "Dowsing Rod": {
+      "name": "Vara Adivinhatória",
+      "description": "<p>Vara Adivinhatória</p>"
+    },
+    "Expeditionary Gear": {
+      "name": "Kit de Expedição",
+      "description": "<p>Equipamento de Expedição (Pinos de Escalada, Polia, etc.)</p>"
+    },
+    "Fire Oil": {
+      "name": "Óleo Incendiário",
+      "description": "<p>Óleo Incendiário</p>"
+    },
+    "Fishing Rod": {
+      "name": "Vara de Pesca",
+      "description": "<p>Vara de Pesca</p>"
+    },
+    "Games": {
+      "name": "Jogos",
+      "description": "<p>Jogos (Cartas, Dados, etc.)</p>"
+    },
+    "Gloves": {
+      "name": "Luvas",
+      "description": "<p>Luvas (<em>miudeza</em>)</p>"
+    },
+    "Grappling Hook": {
+      "name": "Gancho de Escalada",
+      "description": "<p>Gancho de Escalada</p>"
+    },
+    "Horse": {
+      "name": "Cavalo",
+      "description": "<p>Cavalo (+4 espaços)</p>"
+    },
+    "Lantern": {
+      "name": "Lanterna",
+      "description": "<p>Lanterna (comporta 6 usos de óleo, despejado de uma Lata de Óleo)</p>"
+    },
+    "Mirror": {
+      "name": "Espelho",
+      "description": "<p>Espelho</p>"
+    },
+    "Mule": {
+      "name": "Mula",
+      "description": "<p>Mula (+6 espaços, lenta)</p>"
+    },
+    "Net": {
+      "name": "Rede",
+      "description": "<p>Rede</p>"
+    },
+    "Oil Can": {
+      "name": "Lata de Óleo",
+      "description": "<p>Lata de Óleo (6 usos)</p>"
+    },
+    "Outdoor Comfort": {
+      "name": "Conforto ao Relento",
+      "description": "<p>Conforto ao Relento (Cobertor, Rede, etc.)</p>"
+    },
+    "Parchment": {
+      "name": "Pergaminho Virgem",
+      "description": "<p>Pergaminho Virgem (3 usos)</p>"
+    },
+    "Pole": {
+      "name": "Vara",
+      "description": "<p>Vara (3 m)</p>"
+    },
+    "Rations": {
+      "name": "Rações",
+      "description": "<p>Rações (3 usos)</p>"
+    },
+    "Repellent": {
+      "name": "Repelente",
+      "description": "<p>Repelente (Acônito, Artemísia, etc.)</p>"
+    },
+    "Rope": {
+      "name": "Corda",
+      "description": "<p>Corda (7,5 m)</p>"
+    },
+    "Sedative": {
+      "name": "Sedativo",
+      "description": "<p>Sedativo</p>"
+    },
+    "Sewing Kit": {
+      "name": "Kit de Costura",
+      "description": "<p>Kit de Costura</p>"
+    },
+    "Ship's Passage": {
+      "name": "Passagem de Navio",
+      "description": "<p>Passagem de Navio</p>"
+    },
+    "Simple Instruments": {
+      "name": "Instrumentos Simples",
+      "description": "<p>Instrumentos Simples (Flauta, Alaúde, etc.)</p>"
+    },
+    "Smoking Pipe": {
+      "name": "Cachimbo",
+      "description": "<p>Cachimbo (<em>miudeza</em>)</p>"
+    },
+    "Specialized Tools": {
+      "name": "Ferramentas Especiais",
+      "description": "<p>Ferramentas Especiais (Tinta, etc.)</p>"
+    },
+    "Spiked Boots": {
+      "name": "Botas com Cravos",
+      "description": "<p>Botas com Cravos</p>"
+    },
+    "Spyglass": {
+      "name": "Luneta",
+      "description": "<p>Luneta</p>"
+    },
+    "Tent": {
+      "name": "Barraca",
+      "description": "<p>Barraca (para 2, <em>volumosa</em>)</p>"
+    },
+    "Thieving Tools": {
+      "name": "Kit de Ladrão",
+      "description": "<p>Kit de Ladrão (Gazua, Lima de Metal, etc.)</p>"
+    },
+    "Torch": {
+      "name": "Tocha",
+      "description": "<p>Tocha (3 usos)</p>"
+    },
+    "Trap": {
+      "name": "Armadilha",
+      "description": "<p>Armadilha (d6 de dano em FOR)</p>"
+    },
+    "Wagon": {
+      "name": "Carroção",
+      "description": "<p>Carroção (+8 espaços, lento)</p>"
+    },
+    "Whistle": {
+      "name": "Apito",
+      "description": "<p>Apito (<em>miudeza</em>)</p>"
+    },
+    "Wilderness Clothes": {
+      "name": "Roupas de Viagem",
+      "description": "<p>Roupas de Viagem (Poncho, Capa, etc.) (<em>miudeza</em>)</p>"
+    }
+  }
+}

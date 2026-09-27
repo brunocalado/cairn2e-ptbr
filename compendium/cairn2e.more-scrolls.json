@@ -1,0 +1,645 @@
+{
+  "label": "Mais Pergaminhos",
+  "folders": {
+    "Common (50gp)": "Comum (50po)",
+    "Greater (100gp)": "Superior (100po)"
+  },
+  "entries": {
+    "Adaptive Skin": {
+      "name": "Pele Adaptável",
+      "description": "<p>O alvo pode existir confortavelmente em ambientes quentes ou frios.</p>"
+    },
+    "Animal Call": {
+      "name": "Chamado Animal",
+      "description": "<p>Invoca uma fera comum. Ela não tem lealdade a você nem a seus aliados.</p>"
+    },
+    "Anti-Magic Globe": {
+      "name": "Globo Antimagia",
+      "description": "<p>Uma fina casca de proteção mágica envolve uma pequena área ao redor do conjurador. A cada minuto adicional em que o globo fica ativo, ele adiciona uma Fadiga extra.</p>"
+    },
+    "Arachnid's Finesse": {
+      "name": "Graça Aracnídea",
+      "description": "<p>O alvo pode andar em paredes e tetos.</p>"
+    },
+    "Arcane Arrow": {
+      "name": "Flecha Arcana",
+      "description": "<p>Energia verde irrompe dos seus dedos, causando 1d6 de dano e ignorando armaduras comuns.</p>"
+    },
+    "Arcane Confinement": {
+      "name": "Confinamento Arcano",
+      "description": "<p>O alvo é amarrado por uma corda mágica, podendo apenas falar e nada mais.</p>"
+    },
+    "Arcane Epistle": {
+      "name": "Epístola Arcana",
+      "description": "<p>Você escreve uma carta que só o leitor pretendido consegue entender.</p>"
+    },
+    "Arcane Fireworks": {
+      "name": "Fogos Arcanos",
+      "description": "<p>A chama-alvo se torna uma grande conflagração de calor, luz e som.</p>"
+    },
+    "Arcane Stain": {
+      "name": "Mácula Arcana",
+      "description": "<p>Inscreve uma runa invisível que você consegue sentir. Se for removida, você perde 1d4 de VON.</p>"
+    },
+    "Architect's Eye": {
+      "name": "Olho do Arquiteto",
+      "description": "<p>Portas ocultas a até 18 m se iluminam como se estivessem em chamas.</p>"
+    },
+    "Architect's Perfection": {
+      "name": "Perfeição do Arquiteto",
+      "description": "<p>Cria uma parede, piso ou teto holográfico que parece absolutamente real.</p>"
+    },
+    "Astral Step": {
+      "name": "Passo Astral",
+      "description": "<p>Você e qualquer um que o esteja tocando são transportados instantaneamente para um local conhecido onde você já esteve.</p>"
+    },
+    "Banishment": {
+      "name": "Banimento",
+      "description": "<p>Salvaguarda de VON ou a criatura retorna ao seu plano de origem.</p>"
+    },
+    "Become Unseen": {
+      "name": "Ficar Invisível",
+      "description": "<p>O alvo fica invisível por 1 hora e ainda pode usar habilidades e atacar sem ser detectado. Depois, fica incapacitado (privado)</p>"
+    },
+    "Beguilement": {
+      "name": "Encantamento",
+      "description": "<p>O humanoide-alvo deve fazer uma salvaguarda de VON ou é controlado telepaticamente.</p>"
+    },
+    "Bewildering Fog": {
+      "name": "Névoa Desnorteante",
+      "description": "<p>Uma névoa turva o envolve num raio de 6 m. Ataques dentro da névoa têm desvantagem.</p>"
+    },
+    "Blazing Defense": {
+      "name": "Defesa Flamejante",
+      "description": "<p>Você manifesta um escudo de chamas (+1 Armadura, 1d6 de dano). O fogo não pode feri-lo.</p>"
+    },
+    "Blessing": {
+      "name": "Bênção",
+      "description": "<p>Os ataques do alvo ficam com vantagem, e ataques sem explosão contra ele ficam com desvantagem até ele sofrer dano novamente.</p>"
+    },
+    "Bolster": {
+      "name": "Encorajar",
+      "description": "<p>Uma pessoa que você possa ver é encorajada por suas palavras por alguns minutos: os ataques dela ficam com vantagem e ela não pode ficar privada.</p>"
+    },
+    "Bound": {
+      "name": "Grande Salto",
+      "description": "<p>O alvo pode dar um único salto para qualquer lugar que consiga ver.</p>"
+    },
+    "Boundless Message": {
+      "name": "Mensagem Ilimitada",
+      "description": "<p>Entrega uma única frase a qualquer criatura instantaneamente, não importa a distância.</p>"
+    },
+    "Breath Soup": {
+      "name": "Sopa de Hálito",
+      "description": "<p>Bloqueia a visão e retarda o movimento.</p>"
+    },
+    "Burning Missile": {
+      "name": "Míssil Ardente",
+      "description": "<p>Você dispara um míssil de ácido que causa 1d6 de dano a um alvo a cada rodada em que não for lavado.</p>"
+    },
+    "Burnishing Bubble": {
+      "name": "Bolha Polidora",
+      "description": "<p>O alvo é encerrado numa esfera impenetrável que rola pelo chão, a menos que passe numa salvaguarda de DES.</p>"
+    },
+    "Calcify": {
+      "name": "Calcificar",
+      "description": "<p>O objeto-alvo vira pedra ao toque do conjurador. Alvos vivos fazem salvaguarda de FOR.</p>"
+    },
+    "Catsense": {
+      "name": "Sentido Felino",
+      "description": "<p>O alvo tem os sentidos aguçados pela próxima hora, especialmente à noite.</p>"
+    },
+    "Chilling Graze": {
+      "name": "Raspão Gélido",
+      "description": "<p>O alvo perde 1d4+1 de FOR e fica privado.</p>"
+    },
+    "Cinder Flesh": {
+      "name": "Carne em Brasa",
+      "description": "<p>Raios de energia queimam os inimigos (1d10 de dano de explosão) em linha reta.</p>"
+    },
+    "Circle of Arcane Protection": {
+      "name": "Círculo de Proteção Arcana",
+      "description": "<p>Seres mágicos ou divinos não podem entrar num círculo de 3 m.</p>"
+    },
+    "Cleanse": {
+      "name": "Purificar",
+      "description": "<p>Comida estragada ou envenenada se torna comestível.</p>"
+    },
+    "Cold Spray": {
+      "name": "Jato Gélido",
+      "description": "<p>Um jato de ar frio causa d6 de dano a até 6 m em uma direção.</p>"
+    },
+    "Conceal Object": {
+      "name": "Ocultar Objeto",
+      "description": "<p>Protege um objeto contra adivinhação ou vidência.</p>"
+    },
+    "Conquer Gravity": {
+      "name": "Vencer a Gravidade",
+      "description": "<p>O alvo sobe ou desce conforme a sua vontade.</p>"
+    },
+    "Cosmic Fingertips": {
+      "name": "Dedos Cósmicos",
+      "description": "<p>Suas mãos esculpem pedra, rocha ou minerais em qualquer forma que você quiser.</p>"
+    },
+    "Coup de Grâce": {
+      "name": "Golpe de Graça",
+      "description": "<p>O próximo ataque de um aliado ignora a armadura e causa dano diretamente à FOR do alvo.</p>"
+    },
+    "Craft from Clay": {
+      "name": "Moldar do Barro",
+      "description": "<p>Qualquer alvo natural e terroso é transformado (rocha em lama, lava em rocha etc.).</p>"
+    },
+    "Create Unlife": {
+      "name": "Criar Mortos-Vivos",
+      "description": "<p>Cria 1d4 esqueletos e zumbis mortos-vivos a partir de cadáveres. Salvaguarda de VON a cada hora para controlá-los.</p>"
+    },
+    "Cure-All": {
+      "name": "Panaceia",
+      "description": "<p>Uma única doença ou enfermidade se dissipa ao seu toque.</p>"
+    },
+    "Curse of the Sightless": {
+      "name": "Maldição dos Cegos",
+      "description": "<p>Quem estiver à vista faz uma salvaguarda de VON ou fica cego.</p>"
+    },
+    "Curse Unlife": {
+      "name": "Amaldiçoar Mortos",
+      "description": "<p>Causa 1d4+2 de perda de FOR a um morto-vivo, ignorando armadura e resistências.</p>"
+    },
+    "Cute Ink": {
+      "name": "Tinta Astuta",
+      "description": "<p>Uma única página de um livro pode ser alterada para esconder seu verdadeiro conteúdo.</p>"
+    },
+    "Darksight": {
+      "name": "Visão no Escuro",
+      "description": "<p>O alvo enxerga a 18 m na escuridão total.</p>"
+    },
+    "Death's Breath": {
+      "name": "Sopro da Morte",
+      "description": "<p>Você invoca uma nuvem venenosa (perda de d6 de FOR) que pode controlar.</p>"
+    },
+    "Devil's Comedian": {
+      "name": "Comediante do Diabo",
+      "description": "<p>Salvaguarda de VON ou o alvo ri descontroladamente, incapaz de realizar qualquer ação.</p>"
+    },
+    "Disaster Fluid": {
+      "name": "Fluido Desastroso",
+      "description": "<p>Tudo num quadrado de 3 m fica escorregadio; salvaguarda de DES para não escorregar.</p>"
+    },
+    "Doppelganger": {
+      "name": "Sósias",
+      "description": "<p>Você gera 1d6 cópias-isca de alguém que tocar. As iscas se dissipam com um toque.</p>"
+    },
+    "Doubleskin": {
+      "name": "Pele Dupla",
+      "description": "<p>O humanoide-alvo dobra de tamanho.</p>"
+    },
+    "Dreampoison": {
+      "name": "Veneno Onírico",
+      "description": "<p>O alvo fica privado após sofrer uma noite de pesadelos.</p>"
+    },
+    "Dreamtalker": {
+      "name": "Voz dos Sonhos",
+      "description": "<p>Envia uma mensagem a qualquer um que esteja dormindo.</p>"
+    },
+    "Earsplit": {
+      "name": "Estoura-Tímpanos",
+      "description": "<p>Qualquer um ao alcance da audição fica surdo.</p>"
+    },
+    "Easy Descent": {
+      "name": "Descida Suave",
+      "description": "<p>Objetos ou criaturas próximos caem bem devagar.</p>"
+    },
+    "Edifice": {
+      "name": "Edifício",
+      "description": "<p>Você invoca uma parede de pedra de até 6 m de largura que pode controlar.</p>"
+    },
+    "Ensorcelled": {
+      "name": "Enfeitiçado",
+      "description": "<p>Criaturas ficam extasiadas por alguns minutos, a menos que passem numa salvaguarda de VON.</p>"
+    },
+    "Envision": {
+      "name": "Vislumbrar",
+      "description": "<p>Espiona um alvo que você já conheceu, mesmo a grandes distâncias. Numa salvaguarda de VON, ele sente sua presença.</p>"
+    },
+    "Epidemic": {
+      "name": "Epidemia",
+      "description": "<p>Infecta o alvo com uma doença, que se espalha até a fonte da magia ser destruída.</p>"
+    },
+    "Extraplanar Convocation": {
+      "name": "Convocação Extraplanar",
+      "description": "<p>Invoca qualquer ser extraplanar para o seu plano. Ele não tem lealdade a você nem a seus aliados.</p>"
+    },
+    "Extraplanar Request": {
+      "name": "Pedido Extraplanar",
+      "description": "<p>Faça uma única pergunta a uma entidade extraplanar aleatória.</p>"
+    },
+    "Fiery Missile": {
+      "name": "Míssil Ígneo",
+      "description": "<p>Um arco que você tocar pode disparar flechas flamejantes (1d10 de dano) por um minuto.</p>"
+    },
+    "Find Virulence": {
+      "name": "Achar Virulência",
+      "description": "<p>Detecta veneno em qualquer criatura ou objeto a até 9 m.</p>"
+    },
+    "Flicker": {
+      "name": "Piscar",
+      "description": "<p>O alvo some aleatoriamente e reaparece uma vez, à vontade.</p>"
+    },
+    "Fog of Nausea": {
+      "name": "Névoa Nauseante",
+      "description": "<p>Uma nuvem de vapores nauseantes jorra das páginas do Grimório. Quem estiver por perto faz uma salvaguarda de FOR ou vomita descontroladamente.</p>"
+    },
+    "Foolishness": {
+      "name": "Tolice",
+      "description": "<p>Um alvo que você tocar fica sujeito a variações bruscas de humor, conclusões precipitadas e comportamento bobo. Ele também perde 1d6 de VON por 24 horas (até o mínimo de 1).</p>"
+    },
+    "Fortify": {
+      "name": "Fortificar",
+      "description": "<p>Dano de calor, gelo, ácido ou eletricidade fica com desvantagem contra um alvo pela próxima hora.</p>"
+    },
+    "Frozen Corpse": {
+      "name": "Cadáver Congelado",
+      "description": "<p>Um cadáver que você tocar é preservado.</p>"
+    },
+    "Gift of Flight": {
+      "name": "Dom do Voo",
+      "description": "<p>O alvo pode voar por um curto período.</p>"
+    },
+    "Gorgon's Gaze": {
+      "name": "Olhar da Górgona",
+      "description": "<p>O alvo é transformado em estátua se falhar numa salvaguarda de VON. Um sucesso reverte a magia; quem segura o livro deve passar numa salvaguarda de VON ou o livro é destruído.</p>"
+    },
+    "Great Ball of Fire": {
+      "name": "Grande Bola de Fogo",
+      "description": "<p>Você dispara uma bola de chamas (1d10 de dano) a até 6 m de distância.</p>"
+    },
+    "Hand of the Protector": {
+      "name": "Mão do Protetor",
+      "description": "<p>Uma mão gigante e flutuante bloqueia todo o dano de um único oponente até você estar fora de perigo.</p>"
+    },
+    "Healing Grace": {
+      "name": "Graça Curativa",
+      "description": "<p>Um alvo recupera 1d6 de FOR, e você fica privado até reservar um tempo para meditar, rezar ou dormir.</p>"
+    },
+    "Heatless Torch": {
+      "name": "Tocha Fria",
+      "description": "<p>Transforma qualquer objeto numa tocha permanente e sem calor.</p>"
+    },
+    "Hedgemagick": {
+      "name": "Magia Rústica",
+      "description": "<p>Você realiza um pequeno truque mágico (criar chama, vento, luz ou som).</p>"
+    },
+    "Hovering Protection": {
+      "name": "Proteção Flutuante",
+      "description": "<p>Um disco transparente e flutuante se materializa ao redor de um aliado, concedendo 1 de Armadura.</p>"
+    },
+    "Ice Ray": {
+      "name": "Raio de Gelo",
+      "description": "<p>Gelo e neve fluem das pontas dos seus dedos, causando 1d8 de dano (explosão) em linha reta.</p>"
+    },
+    "Icy Tempest": {
+      "name": "Tempestade Gélida",
+      "description": "<p>Granizo causa 1d10 de dano num raio de 6 m.</p>"
+    },
+    "Ill Fate": {
+      "name": "Má Sina",
+      "description": "<p>O alvo falha automaticamente em sua próxima salvaguarda.</p>"
+    },
+    "Illusory Landscape": {
+      "name": "Paisagem Ilusória",
+      "description": "<p>Você pode fazer um tipo de terreno parecer outro.</p>"
+    },
+    "Incorporeal Shrug": {
+      "name": "Esquiva Incorpórea",
+      "description": "<p>Ignore um ataque qualquer.</p>"
+    },
+    "Induce Despair": {
+      "name": "Induzir Desespero",
+      "description": "<p>O alvo faz uma salvaguarda de VON ou seus ataques ficam com desvantagem.</p>"
+    },
+    "Insubstantiate": {
+      "name": "Intangibilidade",
+      "description": "<p>O alvo se torna intangível e pode flutuar.</p>"
+    },
+    "Kraken's Curse": {
+      "name": "Maldição do Kraken",
+      "description": "<p>Tentáculos agarram todos a até 6 m; salvaguarda de FOR para se soltar.</p>"
+    },
+    "Latch": {
+      "name": "Trinco",
+      "description": "<p>Uma caixa, armário ou porta destrancada se abre ou fecha ao seu comando.</p>"
+    },
+    "Lichsense": {
+      "name": "Sentido do Lich",
+      "description": "<p>Você sente qualquer morto-vivo a até 18 m. Salvaguarda de VON para não ser detectado por mortos-vivos inteligentes.</p>"
+    },
+    "Light Show": {
+      "name": "Espetáculo de Luz",
+      "description": "<p>Você controla uma exibição deslumbrante de luz e cor.</p>"
+    },
+    "Lightning Strike": {
+      "name": "Relâmpago",
+      "description": "<p>Eletricidade salta das pontas dos seus dedos, causando 1d10 de dano (explosão) em linha.</p>"
+    },
+    "Magic Seal": {
+      "name": "Selo Mágico",
+      "description": "<p>Tranca magicamente uma porta, portal ou baú.</p>"
+    },
+    "Major Genesis": {
+      "name": "Gênese Maior",
+      "description": "<p>Cria um objeto de pedra ou metal sem vida de no máximo 0,15 m³.</p>"
+    },
+    "Maker": {
+      "name": "Artífice",
+      "description": "<p>Transforma matérias-primas em itens acabados.</p>"
+    },
+    "Manic Fury": {
+      "name": "Fúria Maníaca",
+      "description": "<p>Os ataques de um alvo ficam com vantagem. Após matar alguém, ele deve fazer uma salvaguarda de VON ou perde o controle, atacando qualquer um à vista.</p>"
+    },
+    "Master Undead": {
+      "name": "Dominar Mortos",
+      "description": "<p>Mortos-vivos obedecem ao seu comando. Os inteligentes fazem uma salvaguarda de VON.</p>"
+    },
+    "Mental Tripwire": {
+      "name": "Alarme Mental",
+      "description": "<p>Intrusos disparam um alarme que só você ouve.</p>"
+    },
+    "Minor Genesis": {
+      "name": "Gênese Menor",
+      "description": "<p>Cria um objeto de matéria sem vida de no máximo um cubo de 30 cm.</p>"
+    },
+    "Molasses Veins": {
+      "name": "Veias de Melaço",
+      "description": "<p>Um único alvo se move com metade da velocidade.</p>"
+    },
+    "Murky Bubble": {
+      "name": "Bolha Turva",
+      "description": "<p>Você cria uma bolha de sombra sobrenatural num raio de 6 m.</p>"
+    },
+    "Obfuscate": {
+      "name": "Ofuscar",
+      "description": "<p>O alvo não pode ser observado por adivinhação nem por vidência.</p>"
+    },
+    "Opaque Cover": {
+      "name": "Manto Opaco",
+      "description": "<p>Detalhes sobre a sua pessoa ficam obscuros e fáceis de esquecer.</p>"
+    },
+    "Orb of Ignus": {
+      "name": "Orbe de Ignus",
+      "description": "<p>Você controla uma bola de fogo flutuante (1d8 de dano) por um curto período.</p>"
+    },
+    "Orb of Immortality": {
+      "name": "Orbe da Imortalidade",
+      "description": "<p>Ataques comuns não podem ferir ninguém num raio de 3 m, e vice-versa.</p>"
+    },
+    "Otherworldly Pet": {
+      "name": "Mascote Sobrenatural",
+      "description": "<p>Invoca uma criatura extraplanar sem inteligência, do tamanho de um cão pequeno no máximo. Ela não tem lealdade a você nem a seus aliados.</p>"
+    },
+    "Paincurrent": {
+      "name": "Corrente de Dor",
+      "description": "<p>Um arco elétrico passa das pontas dos seus dedos para um alvo que você tocar. Ele sofre 1d8 de dano (1d10 se usar armadura de metal).</p>"
+    },
+    "Perfect Illusion": {
+      "name": "Ilusão Perfeita",
+      "description": "<p>Cria uma imagem com som, cheiro e efeitos térmicos, ativada por um gatilho que você escolher. Tocar a imagem ou passar numa salvaguarda de VON revela a ilusão.</p>"
+    },
+    "Perfect Preservation": {
+      "name": "Preservação Perfeita",
+      "description": "<p>Uma arma que você tocar fica imune a desgaste, dano comum ou efeitos elementais. A magia se esgota após um dia.</p>"
+    },
+    "Phantom Hound": {
+      "name": "Cão Fantasma",
+      "description": "<p>Um canino espectral (4 PG, mordida (1d4)) obedece às suas ordens por até uma hora.</p>"
+    },
+    "Phase Anchor": {
+      "name": "Âncora de Fase",
+      "description": "<p>Prende uma criatura extraplanar à sua vontade até que ela cumpra uma tarefa específica; depois, ela deve passar numa salvaguarda de VON para escapar (boa sorte).</p>"
+    },
+    "Phase Sneak": {
+      "name": "Furtivo de Fase",
+      "description": "<p>Qualquer um num raio de 3 m fica invisível.</p>"
+    },
+    "Phase Touch": {
+      "name": "Toque de Fase",
+      "description": "<p>Uma mão desencarnada e flutuante obedece aos seus caprichos, mas é imaterial. O próximo Grimório, habilidade ou item que dependa de toque passa a funcionar à distância.</p>"
+    },
+    "Philosopher's Mind": {
+      "name": "Mente do Filósofo",
+      "description": "<p>O alvo fica imune a ataques espirituais ou psíquicos, bem como a qualquer tentativa de manipulação ou persuasão mental ou espiritual.</p>"
+    },
+    "Planar Anchor": {
+      "name": "Âncora Planar",
+      "description": "<p>Impede movimento extradimensional.</p>"
+    },
+    "Plant Scourge": {
+      "name": "Flagelo Vegetal",
+      "description": "<p>Plantas à vista murcham e morrem.</p>"
+    },
+    "Pocket Sun": {
+      "name": "Sol de Bolso",
+      "description": "<p>Você cria um halo de luz brilhante num raio de 18 m.</p>"
+    },
+    "Prisma Shard": {
+      "name": "Fragmento Prisma",
+      "description": "<p>Um conjunto de luzes hipnóticas fascina as criaturas próximas, a menos que passem numa salvaguarda de VON.</p>"
+    },
+    "Profane Reveal": {
+      "name": "Revelação Profana",
+      "description": "<p>Mire num espaço vazio para revelar objetos ou criaturas invisíveis.</p>"
+    },
+    "Purge Text": {
+      "name": "Expurgar Texto",
+      "description": "<p>Escrita comum ou mágica desaparece ao seu toque.</p>"
+    },
+    "Ravenless Message": {
+      "name": "Mensagem sem Corvo",
+      "description": "<p>Você envia uma mensagem curta a 1,5 km que qualquer um ao longo do caminho pode ouvir.</p>"
+    },
+    "Reject Unlife": {
+      "name": "Repelir Mortos",
+      "description": "<p>Mortos-vivos próximos ficam imobilizados por 30 segundos ou até você realizar outra ação.</p>"
+    },
+    "Remembered Voice": {
+      "name": "Voz Gravada",
+      "description": "<p>Um ponto que você marcar se torna o gatilho de uma gravação sobrenatural da sua voz, que transmite uma mensagem curta à sua escolha.</p>"
+    },
+    "Reverie": {
+      "name": "Devaneio",
+      "description": "<p>Os alvos ficam atordoados por um momento, como se perdidos em devaneios.</p>"
+    },
+    "Rigor Touch": {
+      "name": "Toque de Rigor",
+      "description": "<p>O alvo faz uma salvaguarda de DES ou fica paralisado.</p>"
+    },
+    "Runic Harm": {
+      "name": "Dano Rúnico",
+      "description": "<p>Uma runa que você desenhar causa grande dor a quem a ler, que deve fazer uma salvaguarda de VON ou grita até desmaiar (perda de 1d4 de VON). Um sucesso destrói a runa.</p>"
+    },
+    "Runic Slumber": {
+      "name": "Sono Rúnico",
+      "description": "<p>Uma runa que você desenhar põe quem a ler num sono mágico que dura 1d6 horas.</p>"
+    },
+    "Safe Haven": {
+      "name": "Refúgio Seguro",
+      "description": "<p>Você invoca um refúgio flutuante e invisível por 8 horas. Ele acomoda até 8 pessoas com conforto.</p>"
+    },
+    "Scry Creature": {
+      "name": "Localizar Criatura",
+      "description": "<p>Indica a localização exata de uma criatura conhecida.</p>"
+    },
+    "Scrying Ward": {
+      "name": "Antividência",
+      "description": "<p>Por 24 horas, você percebe qualquer espionagem mágica.</p>"
+    },
+    "Sculpt Water": {
+      "name": "Esculpir Água",
+      "description": "<p>Eleve, abaixe ou divida a água próxima.</p>"
+    },
+    "Secret Attaché": {
+      "name": "Adido Secreto",
+      "description": "<p>Você invoca uma criatura invisível de grande poder que obedece a todas as suas ordens. Ler outros Grimórios dissipa a criatura.</p>"
+    },
+    "Signal": {
+      "name": "Sinal",
+      "description": "<p>Lança um sinalizador que pode ser visto a certa distância.</p>"
+    },
+    "Sinister Polymorph": {
+      "name": "Metamorfose Sinistra",
+      "description": "<p>Salvaguarda de VON ou o alvo é transformado num animal inofensivo.</p>"
+    },
+    "Sky Raft": {
+      "name": "Jangada Celeste",
+      "description": "<p>Você invoca um disco flutuante de 90 cm de largura que suporta até 50 kg.</p>"
+    },
+    "Sonic Shattering": {
+      "name": "Estilhaço Sônico",
+      "description": "<p>Uma onda sônica causa perda de 1d6 de FOR a objetos suscetíveis ou criaturas cristalinas, ignorando armadura.</p>"
+    },
+    "Soul Annex": {
+      "name": "Anexar Alma",
+      "description": "<p>O espírito do alvo é aprisionado dentro do próprio corpo e substituído pelo do conjurador. Se o corpo for morto, a alma original parte, mas o conjurador deve passar numa salvaguarda de VON para voltar ao próprio corpo.</p>"
+    },
+    "Steer's Strength": {
+      "name": "Força de Touro",
+      "description": "<p>A força do alvo triplica; ataques desarmados ficam com vantagem.</p>"
+    },
+    "Stone Hide": {
+      "name": "Couro de Pedra",
+      "description": "<p>O alvo ganha Armadura 3, mas correr e nadar se tornam impossíveis.</p>"
+    },
+    "Strength Tap": {
+      "name": "Drenar Força",
+      "description": "<p>Um alvo que você tocar perde 1d6 de FOR, que é transferida para você (até sua FOR máxima).</p>"
+    },
+    "Stumbling Steps": {
+      "name": "Passos Trôpegos",
+      "description": "<p>Um alvo que você tocar fica privado e perde 1 de FOR.</p>"
+    },
+    "Stupefaction": {
+      "name": "Estupefação",
+      "description": "<p>O alvo perde temporariamente a noção de lugar e tempo. Salvaguarda de VON para superar.</p>"
+    },
+    "Summon Elemental": {
+      "name": "Invocar Elemental",
+      "description": "<p>Um ser de fogo, arame, terra ou vento se manifesta a partir da matéria disponível para realizar uma única tarefa para o conjurador. Ele cumpre essa ordem contra a vontade.</p>"
+    },
+    "Sway Will": {
+      "name": "Dobrar Vontade",
+      "description": "<p>Um alvo é compelido a seguir um curso de ação declarado, sem entender por quê.</p>"
+    },
+    "Temporary Reprieve": {
+      "name": "Alívio Temporário",
+      "description": "<p>O alvo recupera toda a FOR perdida, mas a perde de novo após alguns minutos.</p>"
+    },
+    "Terrify": {
+      "name": "Aterrorizar",
+      "description": "<p>Alvos à vista devem passar numa salvaguarda de VON ou fogem.</p>"
+    },
+    "Terrifying Illusion": {
+      "name": "Ilusão Aterrorizante",
+      "description": "<p>Um alvo é caçado por uma criatura terrível que só ele vê. Os ataques dela causam 1d10 de dano; ao sofrer Dano Crítico, ele deve passar numa salvaguarda de VON ou fica catatônico.</p>"
+    },
+    "Thief's Bane": {
+      "name": "Ruína do Ladrão",
+      "description": "<p>Um objeto parece ter uma armadilha, mesmo para um ladrão experiente.</p>"
+    },
+    "Tongue of the Blue Serpent": {
+      "name": "Língua da Serpente Azul",
+      "description": "<p>Letras serpentinas cor de ferrugem se materializam numa superfície que você escolher. Quem ler essas palavras fica imobilizado, a menos que passe numa salvaguarda de VON.</p>"
+    },
+    "Torrential Moat": {
+      "name": "Fosso Torrencial",
+      "description": "<p>Você invoca um vento poderoso que desvia flechas, criaturas menores e gases nocivos.</p>"
+    },
+    "Toxic Blast": {
+      "name": "Explosão Tóxica",
+      "description": "<p>Um pequeno orbe de ácido causa 1d6 de dano de explosão a um alvo.</p>"
+    },
+    "Transform Aura": {
+      "name": "Transformar Aura",
+      "description": "<p>A aura do alvo se torna não mágica, ou vice-versa.</p>"
+    },
+    "True Name": {
+      "name": "Nome Verdadeiro",
+      "description": "<p>Determina as propriedades de um item mágico que você tocar.</p>"
+    },
+    "Trueshift": {
+      "name": "Metamorfose Plena",
+      "description": "<p>Um alvo voluntário assume uma nova forma (mantendo apenas a VON), mas deve passar numa salvaguarda de VON para voltar ao normal.</p>"
+    },
+    "Twilight Steed": {
+      "name": "Corcel Crepuscular",
+      "description": "<p>Invoca um corcel arcano que nunca se cansa, mas se dissipa à luz do dia.</p>"
+    },
+    "Ultimate Sacrifice": {
+      "name": "Sacrifício Supremo",
+      "description": "<p>Quem segura o livro transfere a própria força vital para um cadáver, revivendo corpo e alma.</p>"
+    },
+    "Uncurse": {
+      "name": "Remover Maldição",
+      "description": "<p>Uma pessoa ou objeto que você tocar é libertado de uma maldição ou magia nefasta.</p>"
+    },
+    "Undefinable Target": {
+      "name": "Alvo Indefinível",
+      "description": "<p>Um aliado fica imune a ataques comuns à distância por uma rodada.</p>"
+    },
+    "Undeniable Courage": {
+      "name": "Coragem Inegável",
+      "description": "<p>O alvo passa na próxima salvaguarda de VON e seus ataques ficam com vantagem.</p>"
+    },
+    "Unflappable Endurance": {
+      "name": "Resistência Inabalável",
+      "description": "<p>O alvo não sofre Fadiga por atividades não mágicas nem fica privado até o próximo descanso.</p>"
+    },
+    "Vermin Plague": {
+      "name": "Praga de Vermes",
+      "description": "<p>Invoca um enxame de morcegos, ratos, aranhas ou criaturas semelhantes à sua escolha. São inofensivos, mas distraem, e não têm lealdade a você nem a seus aliados.</p>"
+    },
+    "Warrior's Edge": {
+      "name": "Gume do Guerreiro",
+      "description": "<p>A arma-alvo fica com vantagem, e a vítima falha automaticamente na salvaguarda de Dano Crítico.</p>"
+    },
+    "Windborn": {
+      "name": "Nascido do Vento",
+      "description": "<p>Você direciona um vento poderoso em linha reta, forte o bastante para derrubar pequenas rochas.</p>"
+    },
+    "Winter's Woe": {
+      "name": "Aflição Invernal",
+      "description": "<p>Uma tempestade gélida castiga vários alvos, reduzindo a visibilidade e deixando o chão congelado e traiçoeiro.</p>"
+    },
+    "Wizard's Grasp": {
+      "name": "Mão do Mago",
+      "description": "<p>Você controla uma mão fantasmagórica que pode erguer até 2,5 kg.</p>"
+    },
+    "Wizard's Haven": {
+      "name": "Refúgio do Mago",
+      "description": "<p>Uma pequena área murada fica imune a vidência.</p>"
+    },
+    "Word of Pain": {
+      "name": "Palavra de Dor",
+      "description": "<p>Uma única frase dos seus lábios causa 1d10 de dano de explosão. Os alvos afetados também ficam surdos.</p>"
+    }
+  }
+}

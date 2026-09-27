@@ -1,0 +1,65 @@
+{
+  "label": "Armas",
+  "entries": {
+    "Axe": {
+      "name": "Machado",
+      "description": "<p>Machado (d8 de dano)</p>"
+    },
+    "Bow": {
+      "name": "Arco Longo",
+      "description": "<p>Arco Longo (d6 de dano, <em>volumoso</em>)</p>"
+    },
+    "Crossbow": {
+      "name": "Besta",
+      "description": "<p>Besta (d8 de dano, <em>volumosa</em>)</p>"
+    },
+    "Cudgel": {
+      "name": "Porrete",
+      "description": "<p>Porrete (d6 de dano)</p>"
+    },
+    "Dagger": {
+      "name": "Adaga",
+      "description": "<p>Adaga (d6 de dano)</p>"
+    },
+    "Flail": {
+      "name": "Mangual",
+      "description": "<p>Mangual (d8 de dano)</p>"
+    },
+    "Halberd": {
+      "name": "Alabarda",
+      "description": "<p>Alabarda (d10 de dano, <em>volumosa</em>)</p>"
+    },
+    "Long Sword": {
+      "name": "Espada Longa",
+      "description": "<p>Espada Longa (d10 de dano, <em>volumosa</em>)</p>"
+    },
+    "Mace": {
+      "name": "Maça",
+      "description": "<p>Maça (d8 de dano)</p>"
+    },
+    "Sickle": {
+      "name": "Foice",
+      "description": "<p>Foice (d6 de dano)</p>"
+    },
+    "Sling": {
+      "name": "Funda",
+      "description": "<p>Funda (d6 de dano)</p>"
+    },
+    "Spear": {
+      "name": "Lança",
+      "description": "<p>Lança (d8 de dano)</p>"
+    },
+    "Staff": {
+      "name": "Cajado",
+      "description": "<p>Cajado (d6 de dano)</p>"
+    },
+    "Sword": {
+      "name": "Espada",
+      "description": "<p>Espada (d8 de dano)</p>"
+    },
+    "War Hammer": {
+      "name": "Martelo de Guerra",
+      "description": "<p>Martelo de Guerra (d10 de dano, <em>volumoso</em>)</p>"
+    }
+  }
+}

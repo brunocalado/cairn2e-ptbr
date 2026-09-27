@@ -1,0 +1,1264 @@
+{
+  "label": "Itens de Antecedentes",
+  "folders": {
+    "Aurifex": "Ourives",
+    "Barber-Surgeon": "Barbeiro-Cirurgião",
+    "Beast Handler": "Domador de Feras",
+    "Bonekeeper": "Guarda-Ossos",
+    "Cutpurse": "Punguista",
+    "Fieldwarden": "Guarda-Campos",
+    "Fletchwind": "Flecheiro do Vento",
+    "Foundling": "Enjeitado",
+    "Fungal Forager": "Coletor de Fungos",
+    "Greenwise": "Herbologista",
+    "Half Witch": "Meia-Bruxa",
+    "Hexenbane": "Caçador de Bruxas",
+    "Jongleur": "Trovador",
+    "Kettlewright": "Caldeireiro",
+    "Marchguard": "Guarda-Fronteira",
+    "Mountebank": "Charlatão",
+    "Outrider": "Batedor Montado",
+    "Prowler": "Vigilante",
+    "Rill Runner": "Corredor do Riacho",
+    "Scrivener": "Escriba",
+    "Shared": "Compartilhado"
+  },
+  "entries": {
+    "A Treatise on the Abyss": {
+      "name": "Tratado sobre o Abismo",
+      "description": "<p><strong>Tratado sobre o Abismo</strong>. Um livro negro comum. Um texto aprofundado e em grande parte teórico que descreve as <strong>Raízes</strong>, além de informações sobre a localização de um <strong>Portão</strong> próximo.</p>"
+    },
+    "Alchemical Limb": {
+      "name": "Membro Alquímico",
+      "description": "<p>Um <em>vaga-lume falso</em>, que atraía carregadores de água com sua isca luminosa. Pegue um <strong>Membro Alquímico</strong> (d8, <em>miudeza</em> quando usado) para substituir o que ele arrancou e uma <strong>Lata de Óleo</strong> (6 usos). O membro é imune a calor e veneno. Precisa ser lubrificado todo dia.</p>"
+    },
+    "Alchemical Sigils": {
+      "name": "Sigilos Alquímicos",
+      "description": "<p>Seu <strong>peito</strong> é coberto de sigilos alquímicos que <em>endurecem a pele</em> (1 Armadura). Vestir outra armadura metálica anula o efeito.</p>"
+    },
+    "Alchemical Tattoo": {
+      "name": "Tatuagem Alquímica",
+      "description": "<p><strong>Tatuagem Alquímica</strong> Um cão, gato ou pássaro que pode deixar seu corpo quando você quiser. Segue seus comandos da melhor forma possível e pode repassar os ferimentos dele para você (<em>como perda de FOR</em>). <em>Miudeza</em>.</p>"
+    },
+    "Amadou": {
+      "name": "Amadou",
+      "description": "<p><strong>Amadou</strong> Um fungo vermelhão que pega fogo com muita facilidade. 3 usos.</p>"
+    },
+    "Antitoxin (2 uses)": {
+      "name": "Antitoxina (2 usos)",
+      "description": "<p>Antitoxina (2 usos)</p>"
+    },
+    "Aqua Vita": {
+      "name": "Água da Vida",
+      "description": "<p><strong>Água da Vida</strong> Purifica qualquer líquido, convertendo-o em água pura. Bebê-la cura 1d6 de FOR (1 uso).</p>"
+    },
+    "Awl": {
+      "name": "Sovela",
+      "description": "<p>Sovela (d6)</p>"
+    },
+    "Badge": {
+      "name": "Insígnia",
+      "description": "<p>Insígnia (<em>miudeza</em>)</p>"
+    },
+    "Beast Aspect": {
+      "name": "Aspecto Bestial",
+      "description": "<p>Que sobreviver é uma questão de adaptação. Uma vez por dia, você pode assumir uma característica simples de uma criatura da sua <strong>especialidade</strong> (dedos palmados, visão noturna etc.). Adicione uma <strong>Fadiga</strong> a cada vez.</p>"
+    },
+    "Beast Omens": {
+      "name": "Presságio Bestial",
+      "description": "<p>Que o comportamento das feras é uma linguagem em si. Ao observar feras da sua <strong>especialidade</strong>, você obtém pistas sobre padrões climáticos e desastres iminentes.</p>"
+    },
+    "Beast Pathfinder": {
+      "name": "Trilhas das Feras",
+      "description": "<p>Que a terra é uma linguagem por si só. Sua chance de se perder em um terreno dominado pelas feras da sua <strong>especialidade</strong> é reduzida em um passo (ex.: 4 em 6 vira 3 em 6).</p>"
+    },
+    "Beauty Cream": {
+      "name": "Creme de Beleza",
+      "description": "<p>Depois que você seduziu um patrono rico, a família dele contratou uma gangue criminosa para capturá-lo. Você escapou e precisa ficar escondido. Comece com <strong>Creme de Beleza</strong>, 2 usos. Aplique para parecer irresistivelmente belo pelas próximas 12 horas.</p>"
+    },
+    "Bezoar Stone": {
+      "name": "Pedra de Bezoar",
+      "description": "<p>Um espírito da floresta mal-humorado o amaldiçoou por roubar, marcando-o como inimigo de sua espécie. Pegue uma <strong>Pedra de Bezoar</strong>. Ingeri-la cura qualquer veneno (1 uso, a menos que recuperada).</p>"
+    },
+    "Black Outfit": {
+      "name": "Roupas Negras",
+      "description": "<p>Roupas Negras (<em>miudeza</em>)</p>"
+    },
+    "Black Rose Fiddle": {
+      "name": "Rabeca da Rosa Negra",
+      "description": "<p>Uma <strong>Rabeca da Rosa Negra</strong> (<em>volumosa</em>). Sua música causa tristeza intensa e imobilidade nos mortais próximos. (Os demais ficam apenas fascinados.) Você não sabe tocar.</p>"
+    },
+    "Black Tar": {
+      "name": "Piche Negro",
+      "description": "<p><strong>Piche Negro</strong> Versátil: pegajoso e altamente inflamável. 3 usos.</p>"
+    },
+    "Blacked-Out Ledger": {
+      "name": "Livro-Razão Rasurado",
+      "description": "<p><strong>Sempre pagar suas dívidas</strong>: você sempre paga o que deve, seja em moeda ou em espécie. Não espera nada menos dos outros. Pegue um <strong>Livro-Razão Rasurado</strong> e role uma segunda vez na tabela de <strong>Vínculos</strong>.</p>"
+    },
+    "Blacklegged Dandy": {
+      "name": "Dândi Pernas-Negras",
+      "description": "<p><strong>Dândi Pernas-Negras</strong> Resistente e adaptável. Terrenos <strong>Difíceis</strong> ou <strong>Perigosos</strong> ficam um passo mais fáceis. 6 PG. +4 espaços.</p>"
+    },
+    "Blank Book": {
+      "name": "Livro em Branco",
+      "description": "<p>Livro em Branco</p>"
+    },
+    "Blast Sphere": {
+      "name": "Esfera Explosiva",
+      "description": "<p><strong>Esfera Explosiva</strong> Uma bola de ferro do tamanho de uma cabeça, cheia de pó explosivo, que detona ao impacto (d12, <em>explosão</em>, <em>volumoso</em>, 1 uso).</p>"
+    },
+    "Blessed Tinctures": {
+      "name": "Tinturas Bentas",
+      "description": "<p>Tinturas Bentas</p>"
+    },
+    "Blinding Powder": {
+      "name": "Pó Cegante",
+      "description": "<p>Um armazém de guilda. Pegue uma <strong>Escada</strong> (<em>volumosa</em>, 3 m) e <strong>Pó Cegante</strong> (1 uso).</p>"
+    },
+    "Blood Pail": {
+      "name": "Balde de Sangue",
+      "description": "<p>Um <strong>Balde de Sangue</strong> (<em>volumoso</em>) de um culto da morte local. Esvazie-o para erguer um servo feito do que estiver enterrado abaixo, com 6 PG, 1 Armadura, 13 FOR, 11 DES, 4 VON e punhos de estilhaços (d8+d8). Só um servo pode ser erguido por vez. Se ele for destruído, você perde permanentemente 1d4 FOR. <strong>Recarga</strong>: Encha-o com o sangue de um guerreiro moribundo.</p>"
+    },
+    "Bloodvine Whip": {
+      "name": "Açoite Vide-Sangue",
+      "description": "<p><strong>Açoite Vide-Sangue</strong> d8 de dano. Com <strong>Dano Crítico</strong>, drena o sangue do alvo, dando ao próximo ataque da arma a qualidade <em>explosão</em></p>"
+    },
+    "Blunderbuss": {
+      "name": "Bacamarte",
+      "description": "<p>Sua receita alquímica funcionou, mas um rival roubou a fórmula antes que você pudesse comprovar suas alegações. Pegue um protótipo de <strong>Bacamarte</strong> (d12, <em>explosão</em>, <em>volumoso</em>), que leva uma rodada para recarregar, e sede de vingança.</p>"
+    },
+    "Boiled Leather": {
+      "name": "Couro Fervido",
+      "description": "<p>Couro Fervido (1 Armadura)</p>"
+    },
+    "Bone Knife": {
+      "name": "Faca de Osso",
+      "description": "<p>Um demônio chifrudo e dentuço que quase acabou com você. Pegue uma <strong>Faca de Osso</strong> manchada de sangue (d6). Com <strong>Dano Crítico</strong>, seu próximo ataque fica <em>com vantagem</em> pelo contato com o sangue.</p>"
+    },
+    "Bonesaw": {
+      "name": "Serra de Ossos",
+      "description": "<p>Serra de Ossos (d6)</p>"
+    },
+    "Book On Astronomy": {
+      "name": "Livro de Astronomia",
+      "description": "<p>Sua composição de estreia reduziu a plateia a uma massa balbuciante, murmurando sobre criaturas brilhantes descendo do céu noturno. Mais tarde, você notou que as notas lembravam constelações. Pegue um <strong>Livro de Astronomia</strong> e muitas perguntas.</p>"
+    },
+    "Born to the Wild": {
+      "name": "Nascido nos Ermos",
+      "description": "<p>Sua família tem uma longa tradição de serviço, e você foi treinado desde cedo para sobreviver na natureza. Ao realizar a ação de Abastecer, seu rendimento aumenta um passo (ex.: 1d4 &gt; 1d6).</p>"
+    },
+    "Borrowed Senses": {
+      "name": "Sentidos Alheios",
+      "description": "<p>Que há muito mais no mundo do que os olhos veem. Com concentração silenciosa, você pode tomar emprestados os sentidos de uma criatura próxima da sua <strong>especialidade</strong>.</p>"
+    },
+    "Bouquet of Flowers": {
+      "name": "Buquê de Flores",
+      "description": "<p>Sua última proeza destruiu um artefato inestimável e feriu uma dúzia de espectadores. Comece com um <strong>Uniforme de Capitão</strong> (<em>miudeza</em>), uma <strong>Espada Cerimonial</strong> (inofensiva, 60po) e um <strong>Buquê de Flores</strong>.</p>"
+    },
+    "Breeze Knot": {
+      "name": "Nó da Brisa",
+      "description": "<p><em>A Sílfide e Seu Amante</em>. Uma história picante de amor perdido. Comece com um <strong>Nó da Brisa</strong> (3 cargas). Cria uma brisa forte. <strong>Recarga</strong>: amarre-o a um mastro durante uma tempestade.</p>"
+    },
+    "Briar Thorn": {
+      "name": "Espinho de Sarça",
+      "description": "<p>Um <strong>Espinho de Sarça</strong>. Pode perfurar qualquer material orgânico (de forma bem dolorosa), mas, quando removido, não deixa vestígio da intrusão.</p>"
+    },
+    "Briarvine": {
+      "name": "Videira-Espinhosa",
+      "description": "<p><strong>Videira-Espinhosa</strong> Enreda qualquer criatura até o tamanho de um cavalo (FOR para se libertar). Reutilizável.</p>"
+    },
+    "Burial Wagon": {
+      "name": "Carro Funerário",
+      "description": "<p>Um <strong>carro funerário</strong> (+6 espaços, <em>lento</em>) do seu último trabalho. Veio com um velho <strong>burro</strong> teimoso (+4 espaços, só +2 espaços se puxar o carro).</p>"
+    },
+    "Candle Helmet": {
+      "name": "Capacete com Vela",
+      "description": "<p>Capacete com Vela (+1 Armadura, luz fraca, 6 usos)</p>"
+    },
+    "Cane Sword": {
+      "name": "Bengala-Espada",
+      "description": "<p>Bengala-Espada (d6)</p>"
+    },
+    "Captain's Uniform": {
+      "name": "Uniforme de Capitão",
+      "description": "<p>Sua última proeza destruiu um artefato inestimável e feriu uma dúzia de espectadores. Comece com um <strong>Uniforme de Capitão</strong> (<em>miudeza</em>), uma <strong>Espada Cerimonial</strong> (inofensiva, 60po) e um <strong>Buquê de Flores</strong>.</p>"
+    },
+    "Carrion Cat": {
+      "name": "Gato Carniceiro",
+      "description": "<p><strong>Gato Carniceiro</strong> Um bicho esperto, pequeno o bastante para se esconder na sua mochila (<em>volumoso</em>), mas forte o bastante para espantar predadores menores. Exige uma <strong>Ração</strong> por dia, e tem que ser carne.</p>"
+    },
+    "Catring": {
+      "name": "Anel Felino",
+      "description": "<p><strong>Anel Felino</strong> 2 cargas. Escale paredes e caia em segurança. <strong>Recarga</strong>: Coloque o anel na cauda de um gato de rua.</p>"
+    },
+    "Celestial Lute": {
+      "name": "Alaúde Celestial",
+      "description": "<p><em>A Devoção do Harpista</em>. Um conto curto e triste sobre um músico que se apaixona por uma estrela. Comece com um <strong>Alaúde Celestial</strong>. Revela as constelações acima, não importa o tempo.</p>"
+    },
+    "Ceremonial Sword": {
+      "name": "Espada Cerimonial",
+      "description": "<p>Sua última proeza destruiu um artefato inestimável e feriu uma dúzia de espectadores. Comece com um <strong>Uniforme de Capitão</strong> (<em>miudeza</em>), uma <strong>Espada Cerimonial</strong> (inofensiva, 60po) e um <strong>Buquê de Flores</strong>.</p>"
+    },
+    "Charity": {
+      "name": "Caridade",
+      "description": "<p><strong>Caridade</strong>. Uma vez por dia, você pode se livrar de uma <strong>Fadiga</strong>. Se o voto for quebrado, você perde permanentemente um espaço de inventário.</p>"
+    },
+    "Cipher Stone": {
+      "name": "Pedra Cifrada",
+      "description": "<p><strong>Pedra Cifrada</strong> Um par de pedras negras afiadas. Cada uma decifra qualquer mensagem escrita pela outra.</p>"
+    },
+    "Clatter Keeper": {
+      "name": "Matraca",
+      "description": "<p><strong>Matraca</strong> Um dispositivo de manivela que emite um barulho alto, afugentando a maioria das criaturas.</p>"
+    },
+    "Costume": {
+      "name": "Figurino",
+      "description": "<p>Figurino</p>"
+    },
+    "Crow-Shaped Amulet": {
+      "name": "Amuleto de Corvo",
+      "description": "<p>Um <strong>amuleto de corvo</strong>. Você pode fazer uma pergunta aos mortos, mas deve adicionar uma <strong>Fadiga</strong> a cada vez. Eles nem sempre dizem a verdade.</p>"
+    },
+    "Crowbar": {
+      "name": "Pé de Cabra",
+      "description": "<p><strong>Pé de Cabra</strong> d6 de dano. Às vezes você só precisa abrir essa maldita coisa!</p>"
+    },
+    "Cursed Sapphire": {
+      "name": "Safira Amaldiçoada",
+      "description": "<p><strong>Safira Amaldiçoada</strong> Vale <strong>200po</strong> e, pouco depois de gasta, volta ao seu bolso de forma perceptível. Você parece não conseguir se livrar dela.</p>"
+    },
+    "Cusped Falchion": {
+      "name": "Falchião Farpado",
+      "description": "<p>Ladrões de colheita. Nem todos sobreviveram, mas eles eram muitos. Comece com +d4 PG e um <strong>Falchião Farpado</strong> (d8).</p>"
+    },
+    "ytEX0QkKOAlA0l3l": {
+      "name": "Ouro",
+      "description": "<p>A casa de verão de um nobre. O lugar estava cheio de vinhos finos (+20po), mas pouco mais. Pegue um <strong>Corta-Cercas</strong>.</p>"
+    },
+    "Death-Whistle": {
+      "name": "Apito da Morte",
+      "description": "<p><strong>Até a morte, sempre</strong>: você nunca foge de uma luta, não importa as chances. Pegue um <strong>Apito da Morte</strong>, 1 carga. Seu grito espanta todos que o ouvem (salvaguarda de VON ou fogem). <strong>Recarga</strong>: capture o último suspiro de um guerreiro moribundo.</p>"
+    },
+    "Delphinium": {
+      "name": "Delfínio",
+      "description": "<p><strong>Delfínio</strong> Respire debaixo d’água por até uma hora. 1 uso, mas pode ser dividido em doses fracionadas.</p>"
+    },
+    "Diseased Crop": {
+      "name": "Colheita Doente",
+      "description": "<p><em>A Murchidão</em>, um tipo de podridão do caule vinda das <strong>Raízes</strong>. Pegue uma <strong>Colheita Doente</strong> (6 usos) que apodrece rapidamente qualquer planta que toque.</p>"
+    },
+    "Donkey": {
+      "name": "Burro",
+      "description": "<p>Você recolhe estanho e ferro brutos em campos de batalha, arrancando dentes de cadáveres que ainda se contorcem. Comece com um <strong>Burro</strong> jovem (+4 espaços, lento), uma <strong>Besta</strong> (d8 de dano, <em>volumosa</em>) e um <strong>Serrote</strong> (d6).</p>"
+    },
+    "Dream Stone": {
+      "name": "Pedra dos Sonhos",
+      "description": "<p><strong>Pedra dos Sonhos</strong> Uma pedra azul e lisa que ajuda a recordar sonhos com mais clareza. O uso excessivo pode causar vício em sonhos.</p>"
+    },
+    "Drowning Rod": {
+      "name": "Vara Inundante",
+      "description": "<p><strong>Vara Inundante</strong> Um graveto do tamanho de um dedo que dobra de tamanho toda vez que é totalmente submerso em água. Ele não volta a encolher.</p>"
+    },
+    "Drowse Balm": {
+      "name": "Bálsamo Sonolento",
+      "description": "<p><strong>Bálsamo Sonolento</strong> Uma barra de cera. Se fervida em água, o vapor age como sonífero.</p>"
+    },
+    "Echo Leaf": {
+      "name": "Folha de Eco",
+      "description": "<p><strong>Folha de Eco</strong> Um pergaminho em branco. Quem o desenrola vê as próprias ações do dia reveladas aos poucos, numa letra miúda. <em>Miudeza</em>.</p>"
+    },
+    "Enhanced Ears": {
+      "name": "Ouvidos Aguçados",
+      "description": "<p>Ambos os <strong>ouvidos</strong> foram cirurgicamente aprimorados, triplicando sua audição. Você pode se concentrar em um som específico, como uma conversa, a grande distância. Você usa protetores auriculares contra ruídos altos repentinos (salvaguarda de VON para evitar paralisia temporária).</p>"
+    },
+    "Everbloom Band": {
+      "name": "Coroa Sempre-Viva",
+      "description": "<p><strong>Coroa Sempre-Viva</strong> Uma tiara adornada com flores que nunca murcham. Com <strong>Dano Crítico</strong>, as flores viram pó, mas você age como se tivesse passado na salvaguarda (a perda de FOR ainda ocorre).</p>"
+    },
+    "Everquill": {
+      "name": "Pena Eterna",
+      "description": "<p><strong>Pena Eterna</strong> Uma pena que escreve em qualquer superfície. Você ainda precisa de tinta. <em>Miudeza</em>.</p>"
+    },
+    "Falconry": {
+      "name": "Falcoaria",
+      "description": "<p><strong>Falcoaria</strong>. Você tem um falcão [3 PG, 5 FOR, 16 DES, 4 VON, garras (d6+d6), bico (d8)]. Ele só come caça viva.</p>"
+    },
+    "False Cuffs": {
+      "name": "Algemas Falsas",
+      "description": "<p><strong>Algemas Falsas</strong> Algemas confortáveis e de aparência realista. Só você sabe o truque para se livrar delas.</p>"
+    },
+    "Fancy Hat": {
+      "name": "Chapéu Chique",
+      "description": "<p>Chapéu Chique (<em>miudeza</em>)</p>"
+    },
+    "Feather Quill": {
+      "name": "Pena de Escrever",
+      "description": "<p><em>O Tordo e o Prado</em>. Um conto melancólico cantado em coro alternado. Comece com uma <strong>Pena de Escrever</strong> (1 uso, <em>miudeza</em>). Um mapa desenhado com esta pena revela o caminho mais rápido entre dois pontos quaisquer.</p>"
+    },
+    "Fence Cutters": {
+      "name": "Corta-Cercas",
+      "description": "<p>A casa de verão de um nobre. O lugar estava cheio de vinhos finos (+20po), mas pouco mais. Pegue um <strong>Corta-Cercas</strong>.</p>"
+    },
+    "Fermented Spirits": {
+      "name": "Bebida Fermentada",
+      "description": "<p><strong>Bebida Fermentada</strong> Mantém você aquecido nos bons momentos e serve de explosivo nos piores. 3 usos.</p>"
+    },
+    "Fib Ink": {
+      "name": "Tinta da Mentira",
+      "description": "<p><strong>Tinta da Mentira</strong> Brilha quando usada para escrever afirmações verdadeiras, mas desbota se usada para escrever falsas.</p>"
+    },
+    "Fire Eggs": {
+      "name": "Ovos de Fogo",
+      "description": "<p><strong>Ovos de Fogo</strong> Seis bolinhas feitas de sal marinho, madeira e pó de cerâmica. Explodem com pouco calor (d8, <em>explosão</em>), mas as chamas se dissipam rápido.</p>"
+    },
+    "Fireflask": {
+      "name": "Frasco de Fogo",
+      "description": "<p><strong>Frasco de Fogo</strong> Altamente alcoólico, mas estranhamente delicioso. Quando arremessado, cria uma parede de chamas de 3 m de altura que se apaga após alguns minutos. 1 uso.</p>"
+    },
+    "Fireseeds": {
+      "name": "Sementes de Fogo",
+      "description": "<p>Um espírito da colheita, enfurecido por um dízimo mesquinho. O fogo consumiu quase tudo, e depois você conseguiu juntar uma bolsa de <strong>Sementes de Fogo</strong> (d8, <em>explosão</em>, 4 usos).</p>"
+    },
+    "Fireworks": {
+      "name": "Fogos de Artifício",
+      "description": "<p><strong>Fogos de Artifício</strong> Um espetáculo deslumbrante, embora perigoso. Material explosivo suficiente para arrancar um dedo, ou três. Restam 2 usos.</p>"
+    },
+    "Gale Seed Extract": {
+      "name": "Extrato de Ventania",
+      "description": "<p>Um enxame voraz de pragas que devorou colheitas e animais. Sem nada para defender, você partiu. Pegue <strong>Extrato de Ventania</strong> (3 usos). Ingeri-lo permite correr a quatro vezes sua velocidade normal. Depois, adicione duas <strong>Fadigas</strong>.</p>"
+    },
+    "Garden of Glass": {
+      "name": "Jardim de Vidro",
+      "description": "<p><strong>Jardim de Vidro</strong>. Encadernado na capa de outro livro. Obra herética, descreve os materiais, procedimentos e locais ideais necessários para abrir um <strong>Portão</strong>.</p>"
+    },
+    "Ghillie Suit": {
+      "name": "Traje Camuflado",
+      "description": "<p>Traje Camuflado</p>"
+    },
+    "Ghost Violin": {
+      "name": "Violino Fantasma",
+      "description": "<p><strong>Violino Fantasma</strong> Um violino cinza-escuro que toca uma melodia assombrosa, ecoada por um gêmeo invisível e distante.</p>"
+    },
+    "Gildfinger": {
+      "name": "Dedo Dourado",
+      "description": "<p><strong>Dedo Dourado</strong> 1 carga. Uma luva de dedo que imita qualquer chave comum. <strong>Recarga</strong>: Deixe-o junto a pelo menos 100po por uma noite.</p>"
+    },
+    "Glamour Feather": {
+      "name": "Pena da Ilusão",
+      "description": "<p><strong>Pena da Ilusão</strong> Pluma de um pássaro de fogo. Pode fazer qualquer criatura parecer, de forma convincente, outra pessoa (ou outra coisa). 1 uso.</p>"
+    },
+    "Glimpse Glass": {
+      "name": "Vidro Vislumbre",
+      "description": "<p><strong>Vidro Vislumbre</strong> 3 usos. Um monóculo que permite ver através de paredes ou outras obstruções. Ele se estilhaça após o último uso.</p>"
+    },
+    "Glowsnail": {
+      "name": "Caracol-Luminoso",
+      "description": "<p><strong>Caracol-Luminoso</strong> Emite uma luz bioluminescente suave. Consome uma ração a cada dois dias.</p>"
+    },
+    "Gnarled Staff": {
+      "name": "Cajado Retorcido",
+      "description": "<p>Um druida, que lhe ensinou a linguagem das árvores. Quando chegou a hora de partir, você levou apenas um <strong>Cajado Retorcido</strong> (d8) e deixou a promessa de um dia voltar.</p>"
+    },
+    "Goat Powder": {
+      "name": "Pó de Cabra",
+      "description": "<p><strong>Pó de Cabra</strong> Derivado da placenta de um cabrito. Cura temporariamente qualquer mal, mas os sintomas voltam em poucas horas.</p>"
+    },
+    "Gold Powder": {
+      "name": "Pó de Ouro",
+      "description": "<p>Você era habilidoso em criar ouro <em>falso</em>, que é quase tão bom quanto o verdadeiro. Um dia sua farsa foi descoberta e você precisou fugir às pressas. Pegue um <strong>Lingote de Metal</strong> pesado e <strong>Pó de Ouro</strong> (3 usos).</p>"
+    },
+    "Goosefelt Tarp": {
+      "name": "Lona de Ganso",
+      "description": "<p>De berço nobre, você se alistou para fugir de problemas familiares. Pegue uma <strong>Lona de Ganso</strong> (cabem dois) que você roubou antes de sair de casa.</p>"
+    },
+    "Graftgrub": {
+      "name": "Verme-Enxerto",
+      "description": "<p><strong>Verme-Enxerto</strong> Um pequeno verme que pode fundir objetos inanimados com partes do corpo. 1 uso.</p>"
+    },
+    "Green Skin": {
+      "name": "Pele Verde",
+      "description": "<p>Seus experimentos radicais deixaram sua pele verde, e agora você se nutre como uma planta. Você não precisa de <strong>Rações</strong>, mas um dia sem luz solar e água suficientes o deixa <em>privado</em>.</p>"
+    },
+    "Greenwhistle": {
+      "name": "Apito Verde",
+      "description": "<p><strong>Apito Verde</strong> Uma pequena flauta que acalma plantas, facilitando um pouco a passagem por áreas de vegetação densa.</p>"
+    },
+    "VRi1nw0gZ3roWWsj": {
+      "name": "Ouro",
+      "description": "<p>Sua impressionante flor-cadáver venceu um concurso local e logo em seguida matou um jurado. Você fugiu, mas não sem o <strong>Prêmio em Dinheiro (100po)</strong> e um mandado de prisão.</p>"
+    },
+    "Guide": {
+      "name": "Guia",
+      "description": "<p><strong>Guia</strong> Você conduz caravanas e viajantes por terras encharcadas. Comece com um <strong>Mapa</strong> (<em>miudeza</em>) útil para sua próxima jornada.</p>"
+    },
+    "Hammer": {
+      "name": "Martelo",
+      "description": "<p>Martelo (d6)</p>"
+    },
+    "Hand Axe": {
+      "name": "Machado de Mão",
+      "description": "<p>Machado de Mão (d6)</p>"
+    },
+    "Hardening Glue": {
+      "name": "Cola Endurecedora",
+      "description": "<p><strong>Cola Endurecedora</strong> Deixa qualquer material plano (tecido, couro, areia) duro como pedra. Cara (20po o frasco, 3 usos).</p>"
+    },
+    "Hawthorn Seed": {
+      "name": "Grão de Espinheiro",
+      "description": "<p><strong>Grão de Espinheiro</strong> Uma bolota do outro lado, colhida no equinócio da primavera. Quando plantada, brota um abrigo luxuoso, que desmorona ao nascer da lua no dia seguinte. 1 uso.</p>"
+    },
+    "Healing Potion": {
+      "name": "Poção de Cura",
+      "description": "<p>Você criou uma tintura restauradora que também causa infertilidade acidental. Pegue uma <strong>Poção de Cura</strong> que restaura toda a FOR. Só você conhece seus efeitos colaterais.</p>"
+    },
+    "Healing Salve": {
+      "name": "Bálsamo Curativo",
+      "description": "<p>Bálsamo Curativo (restaura 1d4 FOR, 1 uso)</p>"
+    },
+    "Healing Unguent": {
+      "name": "Unguento de Cura",
+      "description": "<p>Um boticário experiente, que lhe ensinou as artes da cura, mas manteve uma frieza clínica. Pegue um <strong>Unguento de Cura</strong> (restaura d4 FOR, 1 uso).</p>"
+    },
+    "Heartroot Salve": {
+      "name": "Pomada Raiz-Coração",
+      "description": "<p>Pomada Raiz-Coração (restaura 1d4 FOR, 1 uso)</p>"
+    },
+    "Heartseed": {
+      "name": "Semente-Coração",
+      "description": "<p>Um <em>espírito da floresta</em> malicioso que envenenou uma propriedade rural. Você salvou uma <strong>Semente-Coração</strong> das raízes de uma árvore moribunda. (Plante-a para criar uma nova floresta.) Pegue também <strong>Braçais de Ferro</strong> (+1 Armadura, <em>volumosos</em>).</p>"
+    },
+    "Heavy Destrier": {
+      "name": "Destreiro Pesado",
+      "description": "<p><strong>Destreiro Pesado</strong> Uma fera feita para a guerra, uma criatura imponente. 8 PG, 1 Armadura, cascos (d10+d10), +2 espaços.</p>"
+    },
+    "Hedgewitch's Curse": {
+      "name": "Maldição da Bruxa",
+      "description": "<p>Você foi amaldiçoado por uma bruxa por enganar gente inocente de uma aldeia. A magia age de forma imprevisível em suas mãos (<em>salvaguarda de VON para evitar o desastre</em>). Se você for alvo de magia, o mesmo vale para quem a conjura.</p>"
+    },
+    "Heirloom Amulet": {
+      "name": "Amuleto de Herança",
+      "description": "<p>Amuleto de Herança (<em>miudeza</em>, brilha na presença de magia)</p>"
+    },
+    "Hellcap": {
+      "name": "Chapéu-do-Inferno",
+      "description": "<p><strong>Chapéu-do-Inferno</strong>. A exposição ao seu aroma causa náusea intensa e vômitos. De um jeito ou de outro, esvazia a sala. Engarrafado (1 uso).</p>"
+    },
+    "Herbs Pouch": {
+      "name": "Bolsa de Ervas",
+      "description": "<p>Bolsa de Ervas (recupera 1 FOR, 3 usos)</p>"
+    },
+    "Hex Stone": {
+      "name": "Pedra de Feitiço",
+      "description": "<p><strong>Pedra de Feitiço</strong> Colhida num rio que corre do <em>outro lado</em>. Retirada de sua lata de ferro, pode absorver um efeito mágico ativo. Se destruída, a magia é liberada. 1 uso.</p>"
+    },
+    "Hollow Wolf": {
+      "name": "Lobo Oco",
+      "description": "<p>Um <em>lobo oco</em> que vinha assustando viajantes. Você teve pena da criatura meio faminta e cuidou dela até que se recuperasse. Agora ela lhe é leal até a morte. Também é ótima cavadora de túneis. 5 PG, 11 FOR, 13 DES, 8 VON, dentes (d6).</p>"
+    },
+    "Homunculus": {
+      "name": "Homúnculo",
+      "description": "<p><strong>Homúnculo</strong> Uma réplica sua em miniatura, feita de argila, que segue todos os seus comandos. Ele odeia estar sob sua servidão e reclama amargamente sempre que possível. Qualquer dano causado ao homúnculo também é causado a você. 3 PG, 4 FOR, 13 DES, 5 VON</p>"
+    },
+    "Honesty": {
+      "name": "Honestidade",
+      "description": "<p><strong>Honestidade</strong>. Escolha um <strong>tipo de arma</strong> (contundente, lâmina etc.). Ataques desse tipo contra você são feitos <em>com desvantagem</em>. Se quebrar o voto, você perde d4 de VON.</p>"
+    },
+    "Hook": {
+      "name": "Gancho",
+      "description": "<p>Um dos seus dedos foi trocado, o osso substituído por ouro e ferro. Pegue um <strong>Gancho</strong> e uma <strong>Chave de Fenda</strong> que podem ser acoplados à ponta do dedo.</p>"
+    },
+    "Hunting": {
+      "name": "Caça",
+      "description": "<p><strong>Caça</strong>. Ao realizar a ação de Suprimento, sua capacidade de obter <strong>Rações</strong> aumenta em <strong>um passo</strong> (ex.: 1d4 vira 1d6).</p>"
+    },
+    "Impressive Pin": {
+      "name": "Broche Imponente",
+      "description": "<p><strong>Broche Imponente</strong> Uma insígnia de honra de metal da Guarda. Pode abrir portas, mas deixa rastros. <em>Miudeza</em>.</p>"
+    },
+    "Incense": {
+      "name": "Incenso",
+      "description": "<p><strong>Incenso</strong> Perfeito para rituais ou para manter as moscas longe. Esfria o sangue.</p>"
+    },
+    "Invisible Pet": {
+      "name": "Mascote Invisível",
+      "description": "<p>Você desmaterializou um animal de estimação querido. Agora ele o segue, invisível, mas sempre presente. Embora não possa interagir com o reino físico, você pode compartilhar os sentidos dele. (Adicione uma <strong>Fadiga</strong> a cada vez.) Ele obedece a comandos básicos.</p>"
+    },
+    "Iron Bracers": {
+      "name": "Braçais de Ferro",
+      "description": "<p>Um <em>espírito da floresta</em> malicioso que envenenou uma propriedade rural. Você salvou uma <strong>Semente-Coração</strong> das raízes de uma árvore moribunda. (Plante-a para criar uma nova floresta.) Pegue também <strong>Braçais de Ferro</strong> (+1 Armadura, <em>volumosos</em>).</p>"
+    },
+    "Iron Dagger": {
+      "name": "Adaga de Ferro",
+      "description": "<p>Adaga de Ferro (d6)</p>"
+    },
+    "Iron Pot": {
+      "name": "Panela de Ferro",
+      "description": "<p>Panela de Ferro</p>"
+    },
+    "Iron Rattle": {
+      "name": "Chocalho de Ferro",
+      "description": "<p><strong>Chocalho de Ferro</strong> Um fazedor de barulho para distrair ou assustar sua presa. Soa convincentemente como uma cobra.</p>"
+    },
+    "Ivy Worm": {
+      "name": "Verme de Hera",
+      "description": "<p><strong>Verme de Hera</strong> Um verme verde muitas vezes confundido com erva daninha. Engolido inteiro, absorve qualquer toxina ou podridão do corpo antes de sair pelo caminho de costume.</p>"
+    },
+    "XphAFeGeebG7fgTA": {
+      "name": "Ouro",
+      "description": "<p>Você negocia utensílios domésticos e ferramentas, vendendo suas mercadorias aos moradores das vilas por todas as terras. Pegue 20po em itens da tabela de [equipamentos](/second-edition/players-guide/marketplace#gear). Você é fluente na <em>Gíria dos Viajantes</em>.</p>"
+    },
+    "s4z2uvA45g65mNKC": {
+      "name": "Ouro",
+      "description": "<p>Você constrói pequenas engenhocas para guildas locais (e não faz muitas perguntas). Pegue 40po extras e um cartaz de procurado com seu rosto. Com tempo e materiais, você consegue abrir quase qualquer porta ou cofre.</p>"
+    },
+    "Key": {
+      "name": "Chave",
+      "description": "<p>Como condenado, o Juramento foi apenas uma forma de evitar a punição. Pegue um conjunto de <strong>Gazuas</strong> e a <strong>Chave</strong> (<em>miudeza</em>) de um esconderijo.</p>"
+    },
+    "Knife": {
+      "name": "Faca",
+      "description": "<p>Você vendia profecias falsas, mas quando uma se revelou verdadeira, atraiu atenção indesejada. Role na tabela de <strong>Presságios</strong>, mas guarde o resultado para si. Comece com uma <strong>Faca</strong> fácil de esconder (d6, <em>miudeza</em>).</p>"
+    },
+    "Ladder": {
+      "name": "Escada",
+      "description": "<p>Um armazém de guilda. Pegue uma <strong>Escada</strong> (<em>volumosa</em>, 3 m) e <strong>Pó Cegante</strong> (1 uso).</p>"
+    },
+    "Large Net": {
+      "name": "Rede Grande",
+      "description": "<p><strong>Caninos</strong> Pegue uma guirlanda de <strong>Mata-Lobo</strong> e uma <strong>Rede Grande</strong>. Eficazes também contra lobisomens.</p>"
+    },
+    "DbcvvfOSGpy7DrSX": {
+      "name": "Gibão de Couro",
+      "description": "<p>Um velho caçador. Vocês foram bem felizes, até que tudo acabou. Pegue um <strong>Arco Longo Surrado</strong> (d8, <em>volumoso</em>) e um <strong>Gibão de Couro</strong> (1 Armadura).</p>"
+    },
+    "3ZwvVAf2JgCAQ6OG": {
+      "name": "Gibão de Couro",
+      "description": "<p>Gibão de Couro (1 Armadura)</p>"
+    },
+    "Leather Whip": {
+      "name": "Chicote de Couro",
+      "description": "<p>Chicote de Couro (d6)</p>"
+    },
+    "Leech": {
+      "name": "Sanguessuga",
+      "description": "<p>Sanguessuga (restaura 1 FOR, 3 usos)</p>"
+    },
+    "Linden White": {
+      "name": "Branco de Linden",
+      "description": "<p><strong>Branco de Linden</strong> Altamente treinado e ágil, faz manobras complexas em momentos de necessidade (sem salvaguarda de DES para fugir). 4 PG. +3 espaços.</p>"
+    },
+    "Living Nightmare": {
+      "name": "Pesadelo Vivo",
+      "description": "<p>Um <strong>Pesadelo Vivo</strong> que habita em você, mas se manifesta sempre que você está em perigo. Ele tem os mesmos <strong>Atributos</strong> e <strong>PG</strong> que você e ataca com garras (d8+d8). Desaparece ao sofrer <strong>Dano Crítico</strong> (você sofre 1d4 de dano em VON) e reaparece na próxima lua cheia.</p>"
+    },
+    "SnMkFBcgfszJzjmf": {
+      "name": "Gazuas",
+      "description": "<p>Como condenado, o Juramento foi apenas uma forma de evitar a punição. Pegue um conjunto de <strong>Gazuas</strong> e a <strong>Chave</strong> (<em>miudeza</em>) de um esconderijo.</p>"
+    },
+    "i3fbJIbB6lJ6FyS0": {
+      "name": "Gazuas",
+      "description": "<p>Gazuas</p>"
+    },
+    "Lodestone": {
+      "name": "Magnetita",
+      "description": "<p><strong>Magnetita</strong> Extrai elementos perigosos do corpo e atua como uma poderosa força magnética.</p>"
+    },
+    "Lucky Jerkin": {
+      "name": "Gibão da Sorte",
+      "description": "<p>Gibão da Sorte (+1 Armadura)</p>"
+    },
+    "Lure": {
+      "name": "Isca",
+      "description": "<p>Isca</p>"
+    },
+    "Luxcompass": {
+      "name": "Luxbússola",
+      "description": "<p><strong>Luxbússola</strong> Zumbe baixinho à medida que se aproxima do Sol. Com o tempo, o ruído fica insuportável.</p>"
+    },
+    "Manacles": {
+      "name": "Algemas",
+      "description": "<p><strong>Algemas</strong> Embora antigas, ainda funcionam até contra os muito fortes. Você não tem a chave.</p>"
+    },
+    "Map": {
+      "name": "Mapa",
+      "description": "<p><strong>Guia</strong> Você conduz caravanas e viajantes por terras encharcadas. Comece com um <strong>Mapa</strong> (<em>miudeza</em>) útil para sua próxima jornada.</p>"
+    },
+    "Mapping Paper": {
+      "name": "Papel Cartográfico",
+      "description": "<p>Você estava num lugar sombrio e decidiu que sua vida precisava de um rumo. Ainda não tem certeza de que foi a escolha certa. Pegue um <strong>Casaco Oleado</strong> e <strong>Papel Cartográfico</strong>.</p>"
+    },
+    "Master Tinker": {
+      "name": "Mestre Funileiro",
+      "description": "<p>Você constrói pequenas engenhocas para guildas locais (e não faz muitas perguntas). Pegue 40po extras e um cartaz de procurado com seu rosto. Com tempo e materiais, você consegue abrir quase qualquer porta ou cofre.</p>"
+    },
+    "Mercy": {
+      "name": "Misericórdia",
+      "description": "<p><strong>Misericórdia</strong>. Escolha um <strong>tipo de arma</strong> (contundente, lâmina etc.). Ataques com essa arma são feitos <em>com vantagem</em>. Se quebrar o voto, você nunca mais poderá usar esse tipo de arma.</p>"
+    },
+    "Metal Arm": {
+      "name": "Braço de Metal",
+      "description": "<p>Um <strong>braço</strong> é totalmente de metal e se solta no ombro. Pode ser usado como arma (d8, <em>volumoso</em> quando solto) e pode se mover de forma independente se estiver no seu campo de visão.</p>"
+    },
+    "Metal Foot": {
+      "name": "Pé de Metal",
+      "description": "<p>Um <strong>pé</strong> é quase todo de metal (chute, d6), e você trata alguns terrenos Difíceis como <strong>Fáceis</strong>. Carregue uma <strong>Lata de Óleo</strong> (6 usos). Sem uma aplicação diária, você fica <em>privado</em> e barulhento.</p>"
+    },
+    "Metal Ingot": {
+      "name": "Lingote de Metal",
+      "description": "<p>Você era habilidoso em criar ouro <em>falso</em>, que é quase tão bom quanto o verdadeiro. Um dia sua farsa foi descoberta e você precisou fugir às pressas. Pegue um <strong>Lingote de Metal</strong> pesado e <strong>Pó de Ouro</strong> (3 usos).</p>"
+    },
+    "Metal Pail": {
+      "name": "Balde de Metal",
+      "description": "<p>Balde de Metal</p>"
+    },
+    "Milkflower": {
+      "name": "Flor-de-Leite",
+      "description": "<p><strong>Flor-de-Leite</strong> Um estimulante suave. Mastigá-la o torna imune ao <em>pânico</em> pela próxima hora. 3 usos.</p>"
+    },
+    "Mimic Stone": {
+      "name": "Pedra Mímica",
+      "description": "<p><strong>Pedra Mímica</strong> Grava uma frase curta que pode ser reproduzida depois.</p>"
+    },
+    "Miner's Grease": {
+      "name": "Gordura de Mineiro",
+      "description": "<p><strong>Gordura de Mineiro</strong> Ótima para soltar uma gema, ferramenta ou membro preso em uma fenda estreita. Altamente explosiva. 3 usos.</p>"
+    },
+    "Miracle Oil": {
+      "name": "Óleo Milagroso",
+      "description": "<p><strong>Óleo Milagroso</strong> Uma mistura fedorenta e escorregadia. 2 usos.</p>"
+    },
+    "Monk's Habit": {
+      "name": "Hábito Monástico",
+      "description": "<p>Os monges de um mosteiro isolado na floresta. Quando as regras ficaram rígidas demais, você fugiu às escondidas. Pegue um <strong>Hábito Monástico</strong> (quente, <em>miudeza</em>) e um <strong>Grimório</strong> de <em>Controlar Plantas</em>. Controlar Plantas: Plantas e árvores próximas obedecem a você e ganham a capacidade de se mover lentamente. <em>Folhas crescem ao longo da lombada, e ele exala um leve cheiro de decomposição.</em></p>"
+    },
+    "Mortal Wound": {
+      "name": "Ferimento Mortal",
+      "description": "<p>Um <strong>ferimento mortal</strong> causado por um <em>revenante</em> libertado. Você foi curado, mas a desfiguração o tornou um pária. Você não precisa de ar nem de sustento, mas ainda está sujeito à dor e à morte. Preso entre mundos, os mortos o veem como um deles.</p>"
+    },
+    "Murderous Truffle": {
+      "name": "Trufa Assassina",
+      "description": "<p><strong>Trufa Assassina</strong>. Pungente, altamente tóxica e muito rara (vale 50po para assassinos). Ilegal em praticamente todo lugar. 1 uso.</p>"
+    },
+    "Mythos Mask": {
+      "name": "Máscara Mítica",
+      "description": "<p><strong>Máscara Mítica</strong> Uma máscara de gesso que permite assumir o semblante de um monstro. Ao retirá-la, adicione uma <strong>Fadiga</strong>.</p>"
+    },
+    "Nature's Alarm": {
+      "name": "Alarme da Natureza",
+      "description": "<p>Que a sinfonia da natureza pode ser ouvida se você se sintonizar com seu ritmo. Quando cercado por criaturas da sua <strong>especialidade</strong>, elas podem alertá-lo de perigos antes que cheguem.</p>"
+    },
+    "Necklace": {
+      "name": "Colar",
+      "description": "<p>Você vende itens raros e de qualidade tanto para mosteiros quanto para nobres. Pegue uma <strong>Luneta</strong>, um <strong>Colar</strong> (<em>miudeza</em>) que vale 20po e um <strong>Pergaminho</strong> de Passo de Espelho (<em>miudeza</em>).</p>"
+    },
+    "Needle-knife": {
+      "name": "Faca-Agulha",
+      "description": "<p>Faca-Agulha (d6)</p>"
+    },
+    "Nightdust Powder": {
+      "name": "Pó da Noite",
+      "description": "<p><strong>Pó da Noite</strong> Feito da queima ritual de seis corujas. Quando lançado ao ar, o dia vira noite por um breve período. 2 usos.</p>"
+    },
+    "Oath Compass": {
+      "name": "Bússola da Guarda",
+      "description": "<p><strong>Bússola da Guarda</strong> Não aponta para o Norte, mas sim para o membro da Guarda mais próximo. Também avisa quando ele está se aproximando.</p>"
+    },
+    "Oft-mended Chain Mail": {
+      "name": "Cota de Malha Remendada",
+      "description": "<p>Um ferreiro rabugento de um pacato povoado ribeirinho. Ele sempre o manteve à distância. Agora a forja está fria, e você seguiu em frente. Pegue um <strong>Avental de Forja</strong> (<em>miudeza</em>) e uma <strong>Cota de Malha Remendada</strong> (2 Armadura, <em>volumosa</em>).</p>"
+    },
+    "Oilskin Coat": {
+      "name": "Casaco Oleado",
+      "description": "<p>Você estava num lugar sombrio e decidiu que sua vida precisava de um rumo. Ainda não tem certeza de que foi a escolha certa. Pegue um <strong>Casaco Oleado</strong> e <strong>Papel Cartográfico</strong>.</p>"
+    },
+    "Order of the Glass Sigil": {
+      "name": "Ordem do Selo de Vidro",
+      "description": "<p><strong>Ordem do Selo de Vidro</strong>. Pegue uma espada curta (d8) e uma cota de malha (2 Armadura, <em>volumosa</em>). Você tem contatos na maioria das vilas (quanto mais rurais, melhor) dispostos a oferecer ajuda, comida ou até armas.</p>"
+    },
+    "wLUKk5pxYpQLE3Fg": {
+      "name": "Ouro",
+      "description": "<p><strong>Honrar os Mortos</strong>: a morte é uma jornada que todos fazemos, e merece respeito. Pegue <strong>30po</strong> extras. Você sempre põe duas peças de ouro sobre as pálpebras de um inimigo abatido. De algum modo, você sempre encontra a moeda.</p>"
+    },
+    "Padded Leather": {
+      "name": "Couro Acolchoado",
+      "description": "<p>Couro Acolchoado (1 Armadura)</p>"
+    },
+    "Pain Band": {
+      "name": "Anel da Dor",
+      "description": "<p><strong>Anel da Dor</strong> Toque uma criatura ferida para transferir os ferimentos dela para você. (Troque a FOR que ela perdeu pela sua.) <strong>Recarga</strong>: use o anel estando em perfeita saúde. Você perderá 1 FOR permanentemente. <em>Miudeza</em>.</p>"
+    },
+    "Pan Flute": {
+      "name": "Flauta de Pã",
+      "description": "<p><strong>Roedores</strong> Pegue uma <strong>Flauta de Pã</strong> que emite um som agudo que só roedores ouvem. Enquanto você tocar, eles o seguirão, mesmo para a morte.</p>"
+    },
+    "Paper Legs": {
+      "name": "Pernas de Papel",
+      "description": "<p><strong>Pernas de Papel</strong>. Você é extremamente leve e pode cair de alguns andares sem se ferir. Evite rasgá-las ou molhá-las.</p>"
+    },
+    "Paring Knife": {
+      "name": "Faca de Descascar",
+      "description": "<p>Uma <em>toutinegra-azul</em>. Seus gametas rendem um bom lucro, se extraídos corretamente. Você conseguiu, mas deixou o ninho para os lobos. Pegue uma <strong>Faca de Descascar</strong> (d6), <strong>20po extras</strong> e uma pontada de arrependimento.</p>"
+    },
+    "Performance": {
+      "name": "Apresentações",
+      "description": "<p><strong>Apresentações</strong> Tocar em tavernas sempre rende cama e comida. Às vezes você até ganha gorjetas! Comece com <strong>10po</strong> extras.</p>"
+    },
+    "Piebald Cob": {
+      "name": "Cavalo Malhado",
+      "description": "<p><strong>Cavalo Malhado</strong> Inteligente, entende comandos simples e tem até instinto para o perigo. 6 PG. +4 espaços.</p>"
+    },
+    "Pincers": {
+      "name": "Tenaz",
+      "description": "<p>Tenaz</p>"
+    },
+    "Pipeweed": {
+      "name": "Erva-de-Cachimbo",
+      "description": "<p><strong>Erva-de-Cachimbo</strong> Seu amuleto da sorte. As conversas fluem melhor depois de uma fumada. 6 usos.</p>"
+    },
+    "Plague Doctor's Mask": {
+      "name": "Máscara da Peste",
+      "description": "<p>Uma <strong>máscara da peste</strong>, depois que seu dono sucumbiu à doença que dizimou todos que você conhecia. Ele devia ter ficado com ela no rosto.</p>"
+    },
+    "Pneuma Pump": {
+      "name": "Bomba de Pneuma",
+      "description": "<p><strong>Bomba de Pneuma</strong> Pulmões de ferro portáteis (<em>volumoso</em>). Permite cirurgias que salvam vidas ou respirar debaixo d’água.</p>"
+    },
+    "Poacher's Woe": {
+      "name": "Ruína do Caçador",
+      "description": "<p><strong>Ruína do Caçador</strong> Flechas de cheiro forte (3 usos). O odor é forte o bastante para rastrear com facilidade.</p>"
+    },
+    "Pocket Leyfinder": {
+      "name": "Detector de Ley",
+      "description": "<p><strong>Ordem da Encruzilhada</strong>. Pegue um <strong>Detector de Ley</strong>. Ele aponta para linhas de ley próximas e outras fontes de poder arcano. Se você perdê-lo, a punição é a morte.</p>"
+    },
+    "Pocket Theatre": {
+      "name": "Teatro de Bolso",
+      "description": "<p><strong>Teatro de Bolso</strong> Um conjunto de pequenos fantoches e um palco dobrável. Bom para distrações rápidas.</p>"
+    },
+    "Predator Sense": {
+      "name": "Faro de Predador",
+      "description": "<p>Que o pulso da caça é um impulso poderoso. Você pressente quando predadores, mesmo aqueles <strong>fora da sua especialidade</strong>, estão por perto.</p>"
+    },
+    "Protective Gloves": {
+      "name": "Luvas Protetoras",
+      "description": "<p>Luvas Protetoras (<em>miudeza</em>)</p>"
+    },
+    "OI18ewoJJr8MkG4I": {
+      "name": "Ouro",
+      "description": "<p>Uma <em>toutinegra-azul</em>. Seus gametas rendem um bom lucro, se extraídos corretamente. Você conseguiu, mas deixou o ninho para os lobos. Pegue uma <strong>Faca de Descascar</strong> (d6), <strong>20po extras</strong> e uma pontada de arrependimento.</p>"
+    },
+    "Pulley": {
+      "name": "Polia",
+      "description": "<p><strong>Polia</strong> Ótima para mover lápides, pedras ou até corpos.</p>"
+    },
+    "Pullstones": {
+      "name": "Pedras-Ímã",
+      "description": "<p><strong>Pedras-Ímã</strong> Duas pedras negras como azeviche. Quando separadas, sempre rolam uma em direção à outra.</p>"
+    },
+    "Pyrophoric Gel": {
+      "name": "Gel Pirofórico",
+      "description": "<p><strong>Gel Pirofórico</strong> Um fluido verde e pegajoso que pega fogo ao ser exposto ao ar, queimando por 8 horas. Não pode ser apagado (1 uso).</p>"
+    },
+    "Quell Stone": {
+      "name": "Pedra Apagadora",
+      "description": "<p><strong>Ordem do Véu Silencioso</strong>. Pegue uma <strong>Pedra Apagadora</strong> (2 usos) embrulhada em estopa. Exposta ao ar, apaga todas as chamas próximas.</p>"
+    },
+    "Quick-Flame Rod": {
+      "name": "Vara de Fogo Rápido",
+      "description": "<p><strong>Aracnídeos</strong> Pegue uma <strong>Vara de Fogo Rápido</strong> e uma <strong>Lata de Óleo</strong> (6 usos). Ela destrói um grande ninho de aranhas em segundos.</p>"
+    },
+    "Quicksilver Chain": {
+      "name": "Corrente de Mercúrio",
+      "description": "<p><strong>Ordem de Canaas</strong>. Uma vez por dia, você pode se transformar em lobo. Pegue uma <strong>Corrente de Mercúrio</strong>. Sem ela, você não consegue voltar à forma original.</p>"
+    },
+    "Quicksilver": {
+      "name": "Mercúrio Vivo",
+      "description": "<p><strong>Mercúrio Vivo</strong> Um estimulante. Aja primeiro no combate e passe automaticamente em qualquer salvaguarda de VON por uma hora. <em>Viciante</em>: salvaguarda de FOR ou fique <em>privado</em> após 24 horas sem ele. 4 usos.</p>"
+    },
+    "Quill & Ink": {
+      "name": "Pena e Tinta",
+      "description": "<p>Pena e Tinta</p>"
+    },
+    "Rabbit Skull": {
+      "name": "Crânio de Coelho",
+      "description": "<p>Seu respeitável talento como titereiro só era igualado pelo seu dom de imitação. Você era tão bom que foi marcado como bruxo (literalmente) e banido. Pegue um <strong>Fantoche Inquietante</strong> e um <strong>Crânio de Coelho</strong> (<em>miudeza</em>) que protege contra encantamentos.</p>"
+    },
+    "Rabbit's Foot": {
+      "name": "Pé de Coelho",
+      "description": "<p><strong>Pé de Coelho</strong> Você o usava quando o encontraram. Dizem que é o pé daquela que o abandonou e que o protege da magia das bruxas. <em>Miudeza</em>.</p>"
+    },
+    "lkT31MQ2uGNxj9QQ": {
+      "name": "Rapieira",
+      "description": "<p><strong>Guarda-Costas</strong> Você protege quem tem medo de viajar sozinho. Comece com uma <strong>Rapieira</strong> (d8).</p>"
+    },
+    "q8KGFMVCkf9CevmD": {
+      "name": "Rapieira",
+      "description": "<p>Apesar do seu treino nas artes mortais, um ator morreu e a culpa caiu sobre você. Pegue uma <strong>Rapieira</strong> leve (d6) e uma identidade falsa.</p>"
+    },
+    "Raven Familiar": {
+      "name": "Corvo Familiar",
+      "description": "<p>Um <strong>Corvo Familiar</strong> [8 PG, 3 FOR, 11 DES, 13 VON, bico, (d6)]. Fala como um ser inteligente e é totalmente devotado a você.</p>"
+    },
+    "Rebirth Ash": {
+      "name": "Cinzas do Renascer",
+      "description": "<p><strong>Cinzas do Renascer</strong> Restos de um espírito de casca. Polvilhe para reacender um fogo que se apagou ou devolver à vida uma criatura que morreu há poucos instantes. 3 usos.</p>"
+    },
+    "Rebreak Glass": {
+      "name": "Taça Recomposta",
+      "description": "<p><strong>Taça Recomposta</strong> Uma taça de vinho que pode ser quebrada várias vezes, recompondo-se após 24 horas. Faz um barulho muito alto.</p>"
+    },
+    "Reed Whistle": {
+      "name": "Apito de Junco",
+      "description": "<p><em>O Dois-Passos do Funileiro</em>. Um conto de fadas divertido sobre um viajante que dava presentes. Comece com um <strong>Apito de Junco</strong>. Qualquer um que o ouça precisa passar numa salvaguarda de VON para cometer um ato de violência.</p>"
+    },
+    "Regrowth Salve": {
+      "name": "Pomada Regenerante",
+      "description": "<p><strong>Pomada Regenerante</strong> Faz uma parte do corpo crescer de novo ao longo de um dia. 1 uso.</p>"
+    },
+    "Repellent (3 uses)": {
+      "name": "Repelente (3 usos)",
+      "description": "<p>Repelente (escolha o tipo, 3 usos)</p>"
+    },
+    "Replacement Eye": {
+      "name": "Olho Substituto",
+      "description": "<p>Você tem um <strong>olho</strong> substituto que amplia objetos, funciona como luneta e fornece uma visão noturna mínima. Você não pode usar nada metálico na cabeça, e a presença de ímãs fortes o deixa <em>privado</em>.</p>"
+    },
+    "Retractable Wires": {
+      "name": "Fios Retráteis",
+      "description": "<p>Um banco. (Você foi pego.) Você carrega uma marca visível apenas à luz do fogo, e qualquer um que a veja pode lhe pedir uma cerveja. Pegue <strong>Fios Retráteis</strong>.</p>"
+    },
+    "Revere the Dead": {
+      "name": "Honrar os Mortos",
+      "description": "<p><strong>Honrar os Mortos</strong>: a morte é uma jornada que todos fazemos, e merece respeito. Pegue <strong>30po</strong> extras. Você sempre põe duas peças de ouro sobre as pálpebras de um inimigo abatido. De algum modo, você sempre encontra a moeda.</p>"
+    },
+    "Reverse Teetotum": {
+      "name": "Pião Reverso",
+      "description": "<p><strong>Pião Reverso</strong> 1 uso. Ao ser girado, o tempo volta 30 segundos. Todos se lembram do que aconteceu.</p>"
+    },
+    "U0Cx718fqe1Sf71L": {
+      "name": "Ouro",
+      "description": "<p><strong>Apresentações</strong> Tocar em tavernas sempre rende cama e comida. Às vezes você até ganha gorjetas! Comece com <strong>10po</strong> extras.</p>"
+    },
+    "ebiYhTM4rcHkx5ZN": {
+      "name": "Ouro",
+      "description": "<p><strong>Mercadorias</strong> Você compra barato e vende caro, sempre ganhando só o suficiente para se virar. Pegue um <strong>único item</strong> que valha <strong>20po</strong> (ou menos) da tabela de [equipamentos](/second-edition/players-guide/marketplace#gear).</p>"
+    },
+    "Rime Seed": {
+      "name": "Semente de Geada",
+      "description": "<p>Uma <em>urtiga de gelo</em>, que prendia e drenava ovelhas. Você perdeu sua comissão quando o fungo que introduziu matou metade do rebanho. Pegue uma <strong>Semente de Geada</strong> (1 uso). Ela congela qualquer corpo d'água, não importa o tamanho. Não a coma.</p>"
+    },
+    "River Twine": {
+      "name": "Linha do Rio",
+      "description": "<p><em>O Pescador do Junco</em>. Uma canção famosa sobre uma carpa enorme que sempre parece escapar. Comece com um carretel de <strong>Linha do Rio</strong> (5 usos). Cada mergulho no rio garante uma pesca, embora nem sempre agradável.</p>"
+    },
+    "Rivertooth": {
+      "name": "Dente-de-Rio",
+      "description": "<p><strong>Dente-de-Rio</strong> Impressionantemente forte, capaz de carregar cargas pesadas. 4 PG. +6 espaços (apenas +2 espaços se levar duas pessoas).</p>"
+    },
+    "Roll of Tin": {
+      "name": "Rolo de Estanho",
+      "description": "<p>Rolo de Estanho</p>"
+    },
+    "Root Knife": {
+      "name": "Faca de Raízes",
+      "description": "<p>Faca de Raízes (d6)</p>"
+    },
+    "Root Tether": {
+      "name": "Laço de Raiz",
+      "description": "<p><strong>Laço de Raiz</strong> Quando arremessado, prende ao solo uma criatura do tamanho de um lobo por um curto período.</p>"
+    },
+    "Rootflower": {
+      "name": "Flor-de-Raiz",
+      "description": "<p><strong>Flor-de-Raiz</strong>. Um fungo branco encontrado apenas em cadáveres nas profundezas da terra. Ingerir restaura d6 VON. Você sonhará com os mortos e suas histórias. 1 uso.</p>"
+    },
+    "Royal Crest": {
+      "name": "Brasão Real",
+      "description": "<p><strong>Brasão Real</strong> Nascido na realeza, você escolheu outra vida. O brasão lhe dá acesso, mas também revela à sua família onde você está. <em>Miudeza</em>.</p>"
+    },
+    "Sailor's Friend": {
+      "name": "Amigo dos Marujos",
+      "description": "<p><strong>Amigo dos Marujos</strong> Em águas turbulentas e ventos perigosos, você sempre garante que o navio chegue ao destino. Para você, a passagem é sempre de graça.</p>"
+    },
+    "Salt Pouch": {
+      "name": "Saquinho de Sal",
+      "description": "<p>Saquinho de Sal</p>"
+    },
+    "Sanguine Lens": {
+      "name": "Lente Sanguínea",
+      "description": "<p><strong>Lente Sanguínea</strong> Extrai sangue de um alvo sem que ele perceba. Uma gota roubada posta no olho revela memórias do último dia.</p>"
+    },
+    "Saw": {
+      "name": "Serrote",
+      "description": "<p>Você recolhe estanho e ferro brutos em campos de batalha, arrancando dentes de cadáveres que ainda se contorcem. Comece com um <strong>Burro</strong> jovem (+4 espaços, lento), uma <strong>Besta</strong> (d8 de dano, <em>volumosa</em>) e um <strong>Serrote</strong> (d6).</p>"
+    },
+    "Scouting": {
+      "name": "Exploração",
+      "description": "<p><strong>Exploração</strong>. Ao realizar a ação de Viagem, sua presença reduz em um passo a chance de o grupo se perder (ex.: 4 em 6 vira 3 em 6).</p>"
+    },
+    "Screwdriver": {
+      "name": "Chave de Fenda",
+      "description": "<p>Um dos seus dedos foi trocado, o osso substituído por ouro e ferro. Pegue um <strong>Gancho</strong> e uma <strong>Chave de Fenda</strong> que podem ser acoplados à ponta do dedo.</p>"
+    },
+    "Seed Bomb": {
+      "name": "Bomba de Sementes",
+      "description": "<p><strong>Bomba de Sementes</strong> Um saco de lona cheio de sementes que explodem ao impacto. d6 de dano (<em>explosão</em>, 3 usos).</p>"
+    },
+    "Selflessness": {
+      "name": "Altruísmo",
+      "description": "<p><strong>Altruísmo</strong>. Você é imune a <strong>efeitos mágicos que alteram a mente</strong>, como <em>enfeitiçar</em>, <em>ódio</em>, <em>frenesi</em> e assim por diante. Se quebrar este voto, você perde d6 de VON.</p>"
+    },
+    "Serrated Knife": {
+      "name": "Faca Serrilhada",
+      "description": "<p>Faca Serrilhada (d6)</p>"
+    },
+    "Sessile Oak": {
+      "name": "Carvalho Séssil",
+      "description": "<p><strong>Carvalho Séssil</strong> (d8, <em>volumoso</em>). Atinge os alvos com violência. Com <strong>Dano Crítico</strong>, algo é arrancado.</p>"
+    },
+    "Sharpened Trowel": {
+      "name": "Pá de Mão Afiada",
+      "description": "<p>Pá de Mão Afiada (d6)</p>"
+    },
+    "Short Sword": {
+      "name": "Espada Curta",
+      "description": "<p>Espada Curta (d6)</p>"
+    },
+    "Shrieking Trumpet": {
+      "name": "Trombeta Gritante",
+      "description": "<p><strong>Trombeta Gritante</strong>. Quando exposta à luz, grita tão alto que todos os ataques próximos (inclusive os seus) ficam <em>com desvantagem</em>. 2 usos.</p>"
+    },
+    "Silk Moth Shawl": {
+      "name": "Xale de Mariposa",
+      "description": "<p><strong>Xale de Mariposa</strong> Um cobertor impermeável, que também pode abafar um fogo sem se danificar.</p>"
+    },
+    "Silver Knife": {
+      "name": "Faca de Prata",
+      "description": "<p>Faca de Prata (d6)</p>"
+    },
+    "Sketchbook": {
+      "name": "Caderno de Esboços",
+      "description": "<p>Sua vida foi salva por um membro da <strong>Guarda-Fronteira</strong>, e você se inspirou a entrar para suas fileiras. Pegue uma <strong>Armadilha de Laço</strong> e um <strong>Caderno de Esboços</strong> cheio de desenhos detalhados.</p>"
+    },
+    "Sloth-Tarp": {
+      "name": "Lona-Preguiça",
+      "description": "<p><strong>Lona-Preguiça</strong> Um tecido resistente e impermeável, útil para pendurar em árvores. Dentro dela, você tem +1 Armadura.</p>"
+    },
+    "Smelting Hammer": {
+      "name": "Martelo de Fundição",
+      "description": "<p>Você era fundidor militar, até a paz destruir seu sustento. Pegue um <strong>Martelo de Fundição</strong> (d10, <em>volumoso</em>) e um <strong>Elmo de Estanho</strong> (+1 Armadura). Com tempo e materiais adequados, você consegue consertar armaduras.</p>"
+    },
+    "Smith's Apron": {
+      "name": "Avental de Forja",
+      "description": "<p>Um ferreiro rabugento de um pacato povoado ribeirinho. Ele sempre o manteve à distância. Agora a forja está fria, e você seguiu em frente. Pegue um <strong>Avental de Forja</strong> (<em>miudeza</em>) e uma <strong>Cota de Malha Remendada</strong> (2 Armadura, <em>volumosa</em>).</p>"
+    },
+    "Smoke Pellets": {
+      "name": "Pelotas de Fumaça",
+      "description": "<p>Uma universidade. Você foi visto, mas não perseguido. Ainda não sabe por quê. Pegue <strong>Pelotas de Fumaça</strong> (3 usos).</p>"
+    },
+    "Snare Trap": {
+      "name": "Armadilha de Laço",
+      "description": "<p>Sua vida foi salva por um membro da <strong>Guarda-Fronteira</strong>, e você se inspirou a entrar para suas fileiras. Pegue uma <strong>Armadilha de Laço</strong> e um <strong>Caderno de Esboços</strong> cheio de desenhos detalhados.</p>"
+    },
+    "Soporific Concoction": {
+      "name": "Poção Sonífera",
+      "description": "<p>Um amigo próximo desapareceu na floresta. Agora você vê o rosto dele em todo chá que prepara. Pegue uma <strong>Poção Sonífera</strong> (3 usos).</p>"
+    },
+    "Soporific Darts": {
+      "name": "Dardos Soporíficos",
+      "description": "<p>Dardos Soporíficos (salvaguarda de FOR ou adormece, 6 usos)</p>"
+    },
+    "Spark Dust": {
+      "name": "Poeira de Faísca",
+      "description": "<p><strong>Poeira de Faísca</strong> Inflama-se fácil e rapidamente. Útil para acender fogo ou como dispositivo incendiário (3 usos).</p>"
+    },
+    "Spike and Cord": {
+      "name": "Cravo e Corda",
+      "description": "<p><strong>Cravo e Corda</strong> Para atravessar terrenos difíceis ou montar armadilhas e estruturas improvisadas.</p>"
+    },
+    "Spiked Boots (d8)": {
+      "name": "Botas com Cravos (d8)",
+      "description": "<p><strong>Botas com Cravos</strong> Racham cabeças (d8) com a mesma facilidade que gelo e lama. A viagem fica um pouco mais lenta, porém mais fácil.</p>"
+    },
+    "Sponge": {
+      "name": "Esponja",
+      "description": "<p><strong>Esponja</strong> Supostamente feita dos restos de uma rara criatura marinha. Parece nunca secar.</p>"
+    },
+    "Spring-Loaded Trap": {
+      "name": "Armadilha de Mola",
+      "description": "<p>Armadilha de Mola (4 de dano em FOR)</p>"
+    },
+    "Sproutcup": {
+      "name": "Copinho-Brotante",
+      "description": "<p><strong>Copinho-Brotante</strong>. Ao ingeri-lo, você encolhe até o tamanho de um rato. (Seus pertences mantêm o tamanho.) Você volta ao tamanho normal dentro de uma hora, muitas vezes aos solavancos. 1 uso.</p>"
+    },
+    "Stage Mail": {
+      "name": "Malha de Palco",
+      "description": "<p>Você ganhou uma cicatriz num acidente no palco. O público aplaudiu, achando que fazia parte do número. Pegue uma <strong>Malha de Palco</strong> (1 Armadura) bem gasta, uma cicatriz marcante e medo de aplausos.</p>"
+    },
+    "Stained Medical Finery": {
+      "name": "Roupas Médicas Manchadas",
+      "description": "<p>Roupas Médicas Manchadas (<em>miudeza</em>)</p>"
+    },
+    "Stake": {
+      "name": "Estaca",
+      "description": "<p>Estaca (d6)</p>"
+    },
+    "Star-Iron Mace": {
+      "name": "Maça Estelar",
+      "description": "<p><strong>Ordem da Estrela Sangrenta</strong>. Pegue uma <strong>Maça Estelar</strong> (d8). Ela brilha levemente no escuro e fica muito quente na presença de bruxaria.</p>"
+    },
+    "Steadymade Buckler": {
+      "name": "Broquel Inabalável",
+      "description": "<p><strong>Nenhum sangue inocente</strong>: nenhum inocente sofrerá mal sob sua vigilância. Pegue um <strong>Broquel Inabalável</strong> (+1 Armadura). Enquanto segura este escudo, você não pode ser movido, desde que os dois pés estejam firmes no chão.</p>"
+    },
+    "Stink Jar": {
+      "name": "Jarra Fétida",
+      "description": "<p><strong>Jarra Fétida</strong> Ao ser quebrada, libera um odor tão nauseante que todos por perto devem fazer uma salvaguarda de FOR ou vomitam na hora. 1 uso.</p>"
+    },
+    "Stone Flute": {
+      "name": "Flauta de Pedra",
+      "description": "<p><em>Canção do Riacho Prateado</em>. Uma canção de ninar sem palavras que imita água corrente. Pegue uma <strong>Flauta de Pedra</strong> capaz de acalmar quase qualquer rio.</p>"
+    },
+    "Stone Pine": {
+      "name": "Pinheiro-Manso",
+      "description": "<p><strong>Pinheiro-Manso</strong> (d6, <em>volumoso</em>). Produz um uso de <strong>Seiva Pegajosa</strong> por dia. A seiva é altamente explosiva.</p>"
+    },
+    "Stonetree Sap": {
+      "name": "Seiva Pétrea",
+      "description": "<p><strong>Seiva Pétrea</strong> Seiva obtida em troca de sangue. Endurece quando esfregada em qualquer superfície (+1 Armadura). 3 usos.</p>"
+    },
+    "Storybook": {
+      "name": "Livro de Histórias",
+      "description": "<p>Uma trupe de artistas itinerantes. Por um tempo, foram como uma família para você. Um dia você acordou e eles tinham partido sem explicação. Pegue um <strong>Livro de Histórias</strong>, uma <strong>Adaga</strong> (d6) e algumas perguntas sem resposta.</p>"
+    },
+    "Stray Fogger": {
+      "name": "Brumoso Errante",
+      "description": "<p><strong>Brumoso Errante</strong> Selvagem, mas muito rápido (mesmo em terreno <strong>Difícil</strong>). Montaria leve. 4 PG. +2 espaços.</p>"
+    },
+    "Striped Bamboo": {
+      "name": "Bambu Listrado",
+      "description": "<p><strong>Bambu Listrado</strong> (d6). Dobrável, ocupa apenas um espaço (mas ainda exige as duas mãos).</p>"
+    },
+    "Strong Silk Rope": {
+      "name": "Corda de Seda Forte",
+      "description": "<p>Os aposentos do delegado. Você escapou, mas deixou alguns amigos para trás. Pegue uma <strong>Corda de Seda Forte</strong> (9 m) e um peso na consciência.</p>"
+    },
+    "Sun Stick": {
+      "name": "Bastão Solar",
+      "description": "<p><strong>Bastão Solar</strong> Fornece calor e luz abundantes por até uma hora. <strong>Recarga</strong>: Deixe sob sol forte por um dia inteiro. 1 uso.</p>"
+    },
+    "Surgeon's Soap": {
+      "name": "Sabão de Cirurgião",
+      "description": "<p><strong>Sabão de Cirurgião</strong> Um bloco de soda cáustica e cinzas que deixa a pele temporariamente transparente, revelando a anatomia por baixo. 4 usos.</p>"
+    },
+    "Sweetwhistle": {
+      "name": "Apito Doce",
+      "description": "<p><strong>Apito Doce</strong> 1 carga. Os ouvintes escutam ao longe uma voz suave e familiar que não conseguem deixar de seguir. <strong>Recarga</strong>: Perca uma lembrança querida. (Descreva-a.)</p>"
+    },
+    "Tacky Stalk": {
+      "name": "Caule Pegajoso",
+      "description": "<p><strong>Caule Pegajoso</strong> Um caniço lenhoso que endurece em um adesivo permanente quando mastigado. 2 usos.</p>"
+    },
+    "Tally Stick": {
+      "name": "Bastão de Contagem",
+      "description": "<p><strong>Lealdade ao trabalho</strong>: sua palavra é seu compromisso. Depois de aceitar um serviço, você o leva até o fim. Pegue um <strong>Bastão de Contagem</strong> desgastado. Quando um voto é marcado em sua face, o bastão endurece (d8) até ser cumprido. O bastão se parte ao meio se o voto for quebrado.</p>"
+    },
+    "Tarp": {
+      "name": "Lona",
+      "description": "<p>Lona</p>"
+    },
+    "The Cathedral and the Canopy": {
+      "name": "A Catedral e o Dossel",
+      "description": "<p><strong>A Catedral e o Dossel</strong>. Encadernação de folhas grandes sobre velino. Nominalmente um livro de histórias infantis, suas margens detalham como viajar, comer e dormir nas florestas nubladas.</p>"
+    },
+    "The Silent Symphony": {
+      "name": "A Sinfonia Silenciosa",
+      "description": "<p><strong>A Sinfonia Silenciosa</strong>. Encadernado em capa fluorescente. Raríssimo, registra os sinais sutis usados por quem emprega magia de invisibilidade.</p>"
+    },
+    "The Star Waltz": {
+      "name": "A Valsa Estelar",
+      "description": "<p><strong>A Valsa Estelar</strong>. Um fecho em forma de cometa numa fina capa de couro. Cartas astronômicas detalhadas, movimentos celestes e festivais estelares. Muito valorizado (100po) por sua utilidade para viajantes.</p>"
+    },
+    "The Wild Tongue": {
+      "name": "A Língua Selvagem",
+      "description": "<p><strong>A Língua Selvagem</strong>. Um maço de pergaminhos encadernados em couro. Uma obra seminal, que cataloga as línguas ocultas dos animais e como entendê-las.</p>"
+    },
+    "Thesaurus": {
+      "name": "Tesauro",
+      "description": "<p>Você zombou de um deus trapaceiro esquecido e foi amaldiçoado por isso. Você só fala em rimas perfeitas. Ironicamente, isso só o tornou mais popular entre seus pares. Pegue um <strong>Tesauro</strong> (20po). Sem ele, você fica <em>privado</em>.</p>"
+    },
+    "Throwing Knives": {
+      "name": "Facas de Arremesso",
+      "description": "<p>Quando sua família perdeu tudo, você fez o Juramento para não se tornar um fardo. Pegue <strong>Rações</strong> extras (3 usos) e um par de <strong>Facas de Arremesso</strong> (d6).</p>"
+    },
+    "Tin Helm": {
+      "name": "Elmo de Estanho",
+      "description": "<p>Você era fundidor militar, até a paz destruir seu sustento. Pegue um <strong>Martelo de Fundição</strong> (d10, <em>volumoso</em>) e um <strong>Elmo de Estanho</strong> (+1 Armadura). Com tempo e materiais adequados, você consegue consertar armaduras.</p>"
+    },
+    "Tin of Snuff": {
+      "name": "Lata de Rapé",
+      "description": "<p>Houve uma explosão, e você perdeu o olfato. Bem, quase: você fareja ouro como um porco fareja trufas. Pegue uma <strong>Lata de Rapé</strong> (6 usos) para amenizar o impacto. Use-a todo dia ou fique <em>privado</em>.</p>"
+    },
+    "Tinker's Paste": {
+      "name": "Massa de Funileiro",
+      "description": "<p><strong>Massa de Funileiro</strong> Veda qualquer abertura do tamanho de um punho. 3 usos.</p>"
+    },
+    "Tooth": {
+      "name": "Dente",
+      "description": "<p>Um <em>rastejador prateado do pântano</em> que matou alguém próximo a você. Agora você carrega o <strong>Dente</strong> dele (<em>miudeza</em>) numa corrente no pescoço, como aviso a outros de sua espécie. <em>O dente zumbe baixinho quando algo está à sua espreita</em>.</p>"
+    },
+    "Torch Fungus": {
+      "name": "Fungo-Tocha",
+      "description": "<p><strong>Fungo-Tocha</strong>. Quando esmagado, emite uma luz azul fria por um curto período. 2 usos.</p>"
+    },
+    "Tournaments": {
+      "name": "Torneios",
+      "description": "<p><strong>Torneios</strong>. Ataques com seu arco ficam <em>com vantagem</em> se o alvo estiver imóvel.</p>"
+    },
+    "Tragic Tales": {
+      "name": "Contos Trágicos",
+      "description": "<p><strong>Contos Trágicos</strong> Proibido na boa sociedade, este livro fica menos obsceno e mais angustiante perto do fim. Vale <strong>100po</strong>.</p>"
+    },
+    "Trail Shaker": {
+      "name": "Chocalho de Trilha",
+      "description": "<p><strong>Chocalho de Trilha</strong> Um instrumento barulhento que revela trilhas próximas, mesmo as muito bem escondidas.</p>"
+    },
+    "Training": {
+      "name": "Treinamento",
+      "description": "<p><strong>Treinamento</strong>. Se você for o primeiro a atacar, ataques corpo a corpo contra você ficam <em>com desvantagem</em> até você sofrer dano em FOR.</p>"
+    },
+    "Transport": {
+      "name": "Transporte",
+      "description": "<p><strong>Transporte</strong> Você entrega pacotes “delicados” por todas as terras. Você tem ao menos um contato em qualquer cidade grande.</p>"
+    },
+    "Traveler's Cant": {
+      "name": "Gíria dos Viajantes",
+      "description": "<p>Você negocia utensílios domésticos e ferramentas, vendendo suas mercadorias aos moradores das vilas por todas as terras. Pegue 20po em itens da tabela de [equipamentos](/second-edition/players-guide/marketplace#gear). Você é fluente na <em>Gíria dos Viajantes</em>.</p>"
+    },
+    "Trick Playing Cards": {
+      "name": "Baralho de Truques",
+      "description": "<p>Baralho de Truques</p>"
+    },
+    "True Name": {
+      "name": "Nome Verdadeiro",
+      "description": "<p>O <strong>Nome Verdadeiro</strong> de uma criatura feérica. Use-o para convocar seu dono para um ato de grande serviço, mas só uma vez. Também pode render um bom preço, com o comprador certo.</p>"
+    },
+    "Truth Serum": {
+      "name": "Soro da Verdade",
+      "description": "<p>Você foi exposto a um soro da verdade de longa duração cujos efeitos ainda não passaram. O distúrbio tem suas vantagens: você também não consegue repetir mentiras que ouviu.</p>"
+    },
+    "Twin Daggers": {
+      "name": "Adagas Gêmeas",
+      "description": "<p>Adagas Gêmeas (d6+d6, <em>volumosas</em>)</p>"
+    },
+    "Twine Bauble": {
+      "name": "Amuleto de Cordel",
+      "description": "<p>Amuleto de Cordel (<em>miudeza</em>, <em>Proteção</em> uma vez por dia)</p><p><em>Proteção</em>: Um círculo prateado de 15 m de diâmetro surge no chão. Escolha uma espécie que não pode atravessá-lo.</p>"
+    },
+    "Uncanny Hand-Puppet": {
+      "name": "Fantoche Inquietante",
+      "description": "<p>Seu respeitável talento como titereiro só era igualado pelo seu dom de imitação. Você era tão bom que foi marcado como bruxo (literalmente) e banido. Pegue um <strong>Fantoche Inquietante</strong> e um <strong>Crânio de Coelho</strong> (<em>miudeza</em>) que protege contra encantamentos.</p>"
+    },
+    "Universal Solvent": {
+      "name": "Solvente Universal",
+      "description": "<p>Ridicularizado por descobrir como transformar ouro em <em>chumbo</em>, você virou motivo de chacota. Pegue um frasco de <strong>Solvente Universal</strong> (2 usos) que dissolve tudo o que toca em suas partes constituintes.</p>"
+    },
+    "Vagrant's Veil": {
+      "name": "Véu do Errante",
+      "description": "<p><strong>Véu do Errante</strong> 1 carga. Use-o para se misturar perfeitamente às multidões, parecendo um simples mendigo. <strong>Recarga</strong>: Doe os ganhos do dia aos pobres. <em>Miudeza</em></p>"
+    },
+    "Valor": {
+      "name": "Bravura",
+      "description": "<p><strong>Bravura</strong>. Na primeira vez que causar <strong>Dano Crítico</strong>, você recebe +d4 PG, que voltam ao limite anterior ao fim do combate. Se quebrar o voto, você morre.</p>"
+    },
+    "Vestments of the Order": {
+      "name": "Vestes da Ordem",
+      "description": "<p>Vestes da Ordem (<em>miudeza</em>)</p>"
+    },
+    "Voidglass Shard": {
+      "name": "Caco de Vidro-Vazio",
+      "description": "<p><strong>Ordem do Olho Vazio</strong>. Pegue um <strong>Caco de Vidro-Vazio</strong>. Olhe através dele para ver marcas, criaturas e outros efeitos mágicos invisíveis. Depois, você perde o uso do olho por uma hora (fica <em>privado</em>).</p>"
+    },
+    "War": {
+      "name": "Guerra",
+      "description": "<p><strong>Guerra</strong>. Se você for o primeiro a atacar, seu arco ganha a propriedade <em>explosão</em> na primeira rodada.</p>"
+    },
+    "Warble-Whistle": {
+      "name": "Apito Trinado",
+      "description": "<p><strong>Aves</strong> Pegue um <strong>Apito Trinado</strong> (3 cargas). Ele imita qualquer canto de pássaro e pode até ser usado para enviar mensagens simples. <strong>Recarga</strong>: Alimente um filhote como a mãe faria, depois sopre.</p>"
+    },
+    "Wares": {
+      "name": "Mercadorias",
+      "description": "<p><strong>Mercadorias</strong> Você compra barato e vende caro, sempre ganhando só o suficiente para se virar. Pegue um <strong>único item</strong> que valha <strong>20po</strong> (ou menos) da tabela de [equipamentos](/second-edition/players-guide/marketplace#gear).</p>"
+    },
+    "Warming Stone": {
+      "name": "Pedra Aquecedora",
+      "description": "<p><strong>Serpentes</strong> Pegue uma <strong>Pedra Aquecedora</strong> que gera um calor irresistível e um frasco de <strong>Antitoxina</strong> (2 usos).</p>"
+    },
+    "Water Shoes": {
+      "name": "Sapatos Aquáticos",
+      "description": "<p>Sapatos Aquáticos</p>"
+    },
+    "Weathered Longbow": {
+      "name": "Arco Longo Surrado",
+      "description": "<p>Um velho caçador. Vocês foram bem felizes, até que tudo acabou. Pegue um <strong>Arco Longo Surrado</strong> (d8, <em>volumoso</em>) e um <strong>Gibão de Couro</strong> (1 Armadura).</p>"
+    },
+    "Werewolf": {
+      "name": "Lobisomem",
+      "description": "<p>Lobos, ou assim você pensava. Agora você é um <strong>Lobisomem</strong> [8 PG, 15 FOR, 14 DES, garras (d6+d6), mordida (d8)]. Sua VON continua a mesma. Você pode se <em>transformar</em> à vontade (uma vez por dia), mas precisa de uma salvaguarda de VON para voltar. Quem sobreviver aos seus ataques deve fazer uma salvaguarda de VON para evitar a infecção.</p>"
+    },
+    "Western Yew": {
+      "name": "Teixo Ocidental",
+      "description": "<p><strong>Teixo Ocidental</strong> (d6, <em>volumoso</em>). Pode ser empunhado como arma contundente (d6). Barulhento.</p>"
+    },
+    "Whiskerwort": {
+      "name": "Erva-Bigode",
+      "description": "<p><strong>Felinos</strong> Pegue um saco de <strong>Erva-Bigode</strong>. Seu odor pode acalmar e controlar até o maior dos gatos.</p>"
+    },
+    "Whisper Vial": {
+      "name": "Frasco Sussurrante",
+      "description": "<p><strong>Frasco Sussurrante</strong> Sussurre uma mensagem no frasco, e ele a repetirá para quem o abrir em seguida.</p>"
+    },
+    "White Ash": {
+      "name": "Freixo Branco",
+      "description": "<p><strong>Freixo Branco</strong> (d6, <em>volumoso</em>). Pode ser usado no lugar de um escudo em combate corpo a corpo (+1 Armadura).</p>"
+    },
+    "Wisp Lantern": {
+      "name": "Lanterna Fátua",
+      "description": "<p><strong>Lanterna Fátua</strong> Presa em ferro forjado, fornece uma luz fraca enquanto o fogo-fátuo puder se alimentar da dor e do medo ao redor.</p>"
+    },
+    "Wolfsbane": {
+      "name": "Mata-Lobo",
+      "description": "<p><strong>Caninos</strong> Pegue uma guirlanda de <strong>Mata-Lobo</strong> e uma <strong>Rede Grande</strong>. Eficazes também contra lobisomens.</p>"
+    },
+    "Woundwax": {
+      "name": "Cera de Ferida",
+      "description": "<p><strong>Cera de Ferida</strong> Cura ferimentos de fogo ou químicos (restaurando toda a FOR), mas nada além disso. 2 usos.</p>"
+    },
+    "Wych Elm": {
+      "name": "Olmo-Montano",
+      "description": "<p><strong>Olmo-Montano</strong> (d6, <em>volumoso</em>). Protege o portador de venenos e toxinas, desde que o esteja segurando.</p>"
+    },
+    "Wyrmbone Whetstone": {
+      "name": "Amolador de Osso-Serpe",
+      "description": "<p><strong>Honrar as ferramentas da morte</strong>: armas devem ser respeitadas e bem cuidadas. Pegue um <strong>Amolador de Osso-Serpe</strong>. Após meia hora de afiação ritual, os ataques com a arma são feitos <em>com vantagem</em> até que se cause dano em FOR.</p>"
+    },
+    "Always Pay Your Debts": {
+      "name": "Sempre Pagar Suas Dívidas",
+      "description": "<p><strong>Sempre pagar suas dívidas</strong>: você sempre paga o que deve, seja em moeda ou em espécie. Não espera nada menos dos outros. Pegue um <strong>Livro-Razão Rasurado</strong> e role uma segunda vez na tabela de <strong>Vínculos</strong>.</p>"
+    },
+    "False Prophet": {
+      "name": "Falso Profeta",
+      "description": "<p>Você vendia profecias falsas, mas quando uma se revelou verdadeira, atraiu atenção indesejada. Role na tabela de <strong>Presságios</strong>, mas guarde o resultado para si. Comece com uma <strong>Faca</strong> fácil de esconder (d6, <em>miudeza</em>).</p>"
+    },
+    "Hired Protection": {
+      "name": "Proteção Contratada",
+      "description": "<p>Você oferece proteção como serviço, vigiando ameaças em silêncio enquanto o dinheiro troca de mãos. Você começa com <strong>+d4 PG</strong> e carrega uma <strong>Espada Longa</strong> (d10, <em>volumosa</em>) e um <strong>Gibão</strong> (+1 Armadura).</p>"
+    },
+    "Outnumbered": {
+      "name": "Em Desvantagem",
+      "description": "<p>Ladrões de colheita. Nem todos sobreviveram, mas eles eram muitos. Comece com +d4 PG e um <strong>Falchião Farpado</strong> (d8).</p>"
+    }
+  }
+}

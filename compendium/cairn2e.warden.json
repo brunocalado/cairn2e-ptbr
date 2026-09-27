@@ -1,0 +1,1729 @@
+{
+  "label": "Tabelas do Guardião",
+  "entries": {
+    "Faction Advantage Count": {
+      "name": "Nº de Vantagens da Facção",
+      "description": "<p>Role quantas Vantagens uma facção tem e então role em Vantagem da Facção esse número de vezes (role de novo os repetidos).</p>",
+      "results": {
+        "1-1": {
+          "description": "1"
+        },
+        "2-2": {
+          "description": "1"
+        },
+        "3-3": {
+          "description": "1"
+        },
+        "4-4": {
+          "description": "1"
+        },
+        "5-5": {
+          "description": "1"
+        },
+        "6-6": {
+          "description": "1"
+        },
+        "7-7": {
+          "description": "1"
+        },
+        "8-8": {
+          "description": "2"
+        },
+        "9-9": {
+          "description": "2"
+        },
+        "10-10": {
+          "description": "2"
+        },
+        "11-11": {
+          "description": "2"
+        },
+        "12-12": {
+          "description": "2"
+        },
+        "13-13": {
+          "description": "3"
+        },
+        "14-14": {
+          "description": "3"
+        },
+        "15-15": {
+          "description": "3"
+        },
+        "16-16": {
+          "description": "3"
+        },
+        "17-17": {
+          "description": "3"
+        },
+        "18-18": {
+          "description": "4"
+        },
+        "19-19": {
+          "description": "4"
+        },
+        "20-20": {
+          "description": "4"
+        }
+      }
+    },
+    "Faction Advantage": {
+      "name": "Vantagem da Facção",
+      "description": "<p>Role na coluna Vantagem da tabela de Vantagens de Facção.</p>",
+      "results": {
+        "1-1": {
+          "description": "Alianças"
+        },
+        "2-2": {
+          "description": "Anonimato"
+        },
+        "3-3": {
+          "description": "Aparato"
+        },
+        "4-4": {
+          "description": "Crenças"
+        },
+        "5-5": {
+          "description": "Carisma"
+        },
+        "6-6": {
+          "description": "Convicção"
+        },
+        "7-7": {
+          "description": "Lealdade"
+        },
+        "8-8": {
+          "description": "Força"
+        },
+        "9-9": {
+          "description": "Informação"
+        },
+        "10-10": {
+          "description": "Linhagem"
+        },
+        "11-11": {
+          "description": "Magia"
+        },
+        "12-12": {
+          "description": "Membros"
+        },
+        "13-13": {
+          "description": "Popularidade"
+        },
+        "14-14": {
+          "description": "Posição"
+        },
+        "15-15": {
+          "description": "Renome"
+        },
+        "16-16": {
+          "description": "Recursos"
+        },
+        "17-17": {
+          "description": "Crueldade"
+        },
+        "18-18": {
+          "description": "Especialização"
+        },
+        "19-19": {
+          "description": "Subterfúgio"
+        },
+        "20-20": {
+          "description": "Riqueza"
+        }
+      }
+    },
+    "Faction Agenda": {
+      "name": "Agenda da Facção",
+      "description": "<p>Role na coluna Agenda da tabela de Agendas de Facção.</p>",
+      "results": {
+        "1-1": {
+          "description": "Ascender a um plano superior"
+        },
+        "2-2": {
+          "description": "Coletar artefatos"
+        },
+        "3-3": {
+          "description": "Cultivar um recurso raro"
+        },
+        "4-4": {
+          "description": "Defender algo"
+        },
+        "5-5": {
+          "description": "Destruir algo"
+        },
+        "6-6": {
+          "description": "Dominar os outros"
+        },
+        "7-7": {
+          "description": "Enriquecer"
+        },
+        "8-8": {
+          "description": "Fundar uma colônia"
+        },
+        "9-9": {
+          "description": "Estabelecer uma nova ordem"
+        },
+        "10-10": {
+          "description": "Explorar terras desconhecidas"
+        },
+        "11-11": {
+          "description": "Forjar uma aliança"
+        },
+        "12-12": {
+          "description": "Infiltrar outra facção"
+        },
+        "13-13": {
+          "description": "Preservar o status quo"
+        },
+        "14-14": {
+          "description": "Proteger um segredo"
+        },
+        "15-15": {
+          "description": "Purgar a terra"
+        },
+        "16-16": {
+          "description": "Revelar um segredo"
+        },
+        "17-17": {
+          "description": "Vingança"
+        },
+        "18-18": {
+          "description": "Reviver um antigo poder"
+        },
+        "19-19": {
+          "description": "Buscar nova liderança"
+        },
+        "20-20": {
+          "description": "Espalhar uma crença"
+        }
+      }
+    },
+    "Faction Agent": {
+      "name": "Agente da Facção",
+      "description": "<p>Role na coluna Agente da tabela de Tipos de Facção — um representante da facção.</p>",
+      "results": {
+        "1-1": {
+          "description": "Acadêmico"
+        },
+        "2-2": {
+          "description": "Assassino"
+        },
+        "3-3": {
+          "description": "Ferreiro"
+        },
+        "4-4": {
+          "description": "Fazendeiro"
+        },
+        "5-5": {
+          "description": "General"
+        },
+        "6-6": {
+          "description": "Coveiro"
+        },
+        "7-7": {
+          "description": "Guarda"
+        },
+        "8-8": {
+          "description": "Curandeiro"
+        },
+        "9-9": {
+          "description": "Carcereiro"
+        },
+        "10-10": {
+          "description": "Trabalhador"
+        },
+        "11-11": {
+          "description": "Lorde"
+        },
+        "12-12": {
+          "description": "Mercador"
+        },
+        "13-13": {
+          "description": "Monge"
+        },
+        "14-14": {
+          "description": "Místico"
+        },
+        "15-15": {
+          "description": "Forasteiro"
+        },
+        "16-16": {
+          "description": "Mascate"
+        },
+        "17-17": {
+          "description": "Político"
+        },
+        "18-18": {
+          "description": "Espião"
+        },
+        "19-19": {
+          "description": "Ladrão"
+        },
+        "20-20": {
+          "description": "Capanga"
+        }
+      }
+    },
+    "Faction Obstacle": {
+      "name": "Obstáculo da Facção",
+      "description": "<p>Role na coluna Obstáculo da tabela de Agendas de Facção.</p>",
+      "results": {
+        "1-1": {
+          "description": "Uma barreira geográfica ou terreno intransponível."
+        },
+        "2-2": {
+          "description": "Uma informação crucial precisa ser descoberta primeiro."
+        },
+        "3-3": {
+          "description": "É preciso um objeto específico ou uma Relíquia."
+        },
+        "4-4": {
+          "description": "Uma figura ou inimigo poderoso precisa ser eliminado."
+        },
+        "5-5": {
+          "description": "Um recurso raro, mas necessário, precisa ser obtido primeiro."
+        },
+        "6-6": {
+          "description": "Uma dívida séria força a facção a fazer escolhas terríveis."
+        },
+        "7-7": {
+          "description": "Uma profecia bem conhecida prevê um fracasso iminente."
+        },
+        "8-8": {
+          "description": "Uma aliança com um inimigo precisa ser negociada primeiro."
+        },
+        "9-9": {
+          "description": "Um cisma interno ameaça despedaçar a facção."
+        },
+        "10-10": {
+          "description": "Outra facção tem o mesmo objetivo."
+        },
+        "11-11": {
+          "description": "Outra facção se opõe a ela."
+        },
+        "12-12": {
+          "description": "O povo comum se opõe abertamente."
+        },
+        "13-13": {
+          "description": "É preciso um capital considerável."
+        },
+        "14-14": {
+          "description": "Viola um código estabelecido, com uma pena pesada."
+        },
+        "15-15": {
+          "description": "Impedida por tabus culturais."
+        },
+        "16-16": {
+          "description": "Muitos precisam morrer, por necessidade ou consequência."
+        },
+        "17-17": {
+          "description": "Precisa ser realizado num momento raro ou exato."
+        },
+        "18-18": {
+          "description": "Precisa ser realizado em sigilo absoluto."
+        },
+        "19-19": {
+          "description": "Exige um especialista de um tipo incomum."
+        },
+        "20-20": {
+          "description": "O resultado levaria a uma guerra inevitável."
+        }
+      }
+    },
+    "Faction Trait 1": {
+      "name": "Traço de Facção 1",
+      "description": "<p>Role na coluna Traço 1 da tabela de Traços de Facção.</p>",
+      "results": {
+        "1-1": {
+          "description": "Cautelosos"
+        },
+        "2-2": {
+          "description": "Influentes"
+        },
+        "3-3": {
+          "description": "Decadentes"
+        },
+        "4-4": {
+          "description": "Disciplinados"
+        },
+        "5-5": {
+          "description": "Discretos"
+        },
+        "6-6": {
+          "description": "Dogmáticos"
+        },
+        "7-7": {
+          "description": "Enigmáticos"
+        },
+        "8-8": {
+          "description": "Ferozes"
+        },
+        "9-9": {
+          "description": "Incorruptíveis"
+        },
+        "10-10": {
+          "description": "Intelectuais"
+        },
+        "11-11": {
+          "description": "Sensatos"
+        },
+        "12-12": {
+          "description": "Perspicazes"
+        },
+        "13-13": {
+          "description": "Leais"
+        },
+        "14-14": {
+          "description": "Meticulosos"
+        },
+        "15-15": {
+          "description": "Populares"
+        },
+        "16-16": {
+          "description": "Pragmáticos"
+        },
+        "17-17": {
+          "description": "Engenhosos"
+        },
+        "18-18": {
+          "description": "Sigilosos"
+        },
+        "19-19": {
+          "description": "Astutos"
+        },
+        "20-20": {
+          "description": "Tenazes"
+        }
+      }
+    },
+    "Faction Trait 2": {
+      "name": "Traço de Facção 2",
+      "description": "<p>Role na coluna Traço 2 da tabela de Traços de Facção.</p>",
+      "results": {
+        "1-1": {
+          "description": "Adaptáveis"
+        },
+        "2-2": {
+          "description": "Falidos"
+        },
+        "3-3": {
+          "description": "Brutais"
+        },
+        "4-4": {
+          "description": "Colaborativos"
+        },
+        "5-5": {
+          "description": "Corruptos"
+        },
+        "6-6": {
+          "description": "Covardes"
+        },
+        "7-7": {
+          "description": "Cruéis"
+        },
+        "8-8": {
+          "description": "Ardilosos"
+        },
+        "9-9": {
+          "description": "Cínicos"
+        },
+        "10-10": {
+          "description": "Enganadores"
+        },
+        "11-11": {
+          "description": "Generosos"
+        },
+        "12-12": {
+          "description": "Incompetentes"
+        },
+        "13-13": {
+          "description": "Manipuladores"
+        },
+        "14-14": {
+          "description": "Volúveis"
+        },
+        "15-15": {
+          "description": "Reprimidos"
+        },
+        "16-16": {
+          "description": "Implacáveis"
+        },
+        "17-17": {
+          "description": "Egoístas"
+        },
+        "18-18": {
+          "description": "Furtivos"
+        },
+        "19-19": {
+          "description": "Ameaçados"
+        },
+        "20-20": {
+          "description": "Xenófobos"
+        }
+      }
+    },
+    "Faction Type": {
+      "name": "Tipo de Facção",
+      "description": "<p>Role na coluna Tipo da tabela de Tipos de Facção.</p>",
+      "results": {
+        "1-1": {
+          "description": "Artesãos"
+        },
+        "2-2": {
+          "description": "Plebeus"
+        },
+        "3-3": {
+          "description": "Criminosos"
+        },
+        "4-4": {
+          "description": "Cultistas"
+        },
+        "5-5": {
+          "description": "Exilados"
+        },
+        "6-6": {
+          "description": "Exploradores"
+        },
+        "7-7": {
+          "description": "Industriais"
+        },
+        "8-8": {
+          "description": "Mercadores"
+        },
+        "9-9": {
+          "description": "Militares"
+        },
+        "10-10": {
+          "description": "Nobres"
+        },
+        "11-11": {
+          "description": "Nômades"
+        },
+        "12-12": {
+          "description": "Peregrinos"
+        },
+        "13-13": {
+          "description": "Protetores"
+        },
+        "14-14": {
+          "description": "Religiosos"
+        },
+        "15-15": {
+          "description": "Revolucionários"
+        },
+        "16-16": {
+          "description": "Governantes"
+        },
+        "17-17": {
+          "description": "Estudiosos"
+        },
+        "18-18": {
+          "description": "Colonos"
+        },
+        "19-19": {
+          "description": "Espiões"
+        },
+        "20-20": {
+          "description": "Clãs"
+        }
+      }
+    },
+    "Monster Ability Target": {
+      "name": "Alvo do Poder de Monstro",
+      "description": "<p>Role na coluna Alvo da tabela de Poderes de Monstro.</p>",
+      "results": {
+        "1-1": {
+          "description": "Corpo"
+        },
+        "2-2": {
+          "description": "Sonhos"
+        },
+        "3-3": {
+          "description": "Elementos"
+        },
+        "4-4": {
+          "description": "Emoções"
+        },
+        "5-5": {
+          "description": "Energia"
+        },
+        "6-6": {
+          "description": "Saúde"
+        },
+        "7-7": {
+          "description": "Audição"
+        },
+        "8-8": {
+          "description": "Ilusões"
+        },
+        "9-9": {
+          "description": "Luz"
+        },
+        "10-10": {
+          "description": "Memória"
+        },
+        "11-11": {
+          "description": "Metal"
+        },
+        "12-12": {
+          "description": "Plantas"
+        },
+        "13-13": {
+          "description": "Espírito"
+        },
+        "14-14": {
+          "description": "Pedra"
+        },
+        "15-15": {
+          "description": "Arredores"
+        },
+        "16-16": {
+          "description": "Tempo"
+        },
+        "17-17": {
+          "description": "Visão"
+        },
+        "18-18": {
+          "description": "Água"
+        },
+        "19-19": {
+          "description": "Clima"
+        },
+        "20-20": {
+          "description": "Fraquezas"
+        }
+      }
+    },
+    "Monster Ability": {
+      "name": "Poder de Monstro",
+      "description": "<p>Role na coluna Poder da tabela de Poderes de Monstro.</p>",
+      "results": {
+        "1-1": {
+          "description": "Absorve"
+        },
+        "2-2": {
+          "description": "Amplifica"
+        },
+        "3-3": {
+          "description": "Atrai"
+        },
+        "4-4": {
+          "description": "Prende"
+        },
+        "5-5": {
+          "description": "Camufla"
+        },
+        "6-6": {
+          "description": "Conjura"
+        },
+        "7-7": {
+          "description": "Controla"
+        },
+        "8-8": {
+          "description": "Anula"
+        },
+        "9-9": {
+          "description": "Duplica"
+        },
+        "10-10": {
+          "description": "Faz crescer"
+        },
+        "11-11": {
+          "description": "Manipula"
+        },
+        "12-12": {
+          "description": "Reflete"
+        },
+        "13-13": {
+          "description": "Regenera"
+        },
+        "14-14": {
+          "description": "Resiste a"
+        },
+        "15-15": {
+          "description": "Reverte"
+        },
+        "16-16": {
+          "description": "Molda"
+        },
+        "17-17": {
+          "description": "Encolhe"
+        },
+        "18-18": {
+          "description": "Transforma"
+        },
+        "19-19": {
+          "description": "Aprisiona"
+        },
+        "20-20": {
+          "description": "Eletrifica"
+        }
+      }
+    },
+    "Monster Attack": {
+      "name": "Ataque de Monstro",
+      "description": "<p>Role na coluna Tipo da tabela de Ataques de Monstro.</p>",
+      "results": {
+        "1-1": {
+          "description": "Mordida"
+        },
+        "2-2": {
+          "description": "Pancada"
+        },
+        "3-3": {
+          "description": "Queimadura"
+        },
+        "4-4": {
+          "description": "Congelamento"
+        },
+        "5-5": {
+          "description": "Gás"
+        },
+        "6-6": {
+          "description": "Coice"
+        },
+        "7-7": {
+          "description": "Soco"
+        },
+        "8-8": {
+          "description": "Disparo"
+        },
+        "9-9": {
+          "description": "Encontrão"
+        },
+        "10-10": {
+          "description": "Talho"
+        },
+        "11-11": {
+          "description": "Corte"
+        },
+        "12-12": {
+          "description": "Esmagamento"
+        },
+        "13-13": {
+          "description": "Jato"
+        },
+        "14-14": {
+          "description": "Constrição"
+        },
+        "15-15": {
+          "description": "Estocada"
+        },
+        "16-16": {
+          "description": "Ferroada"
+        },
+        "17-17": {
+          "description": "Arremesso"
+        },
+        "18-18": {
+          "description": "Toque"
+        },
+        "19-19": {
+          "description": "Chicotada"
+        },
+        "20-20": {
+          "description": "Choque"
+        }
+      }
+    },
+    "Monster Category": {
+      "name": "Categoria de Monstro",
+      "description": "<p>Role um Grupo de monstro e então escolha ou role um dos monstros do bestiário 2e listados.</p>",
+      "results": {
+        "1-1": {
+          "name": "Aviano",
+          "description": "<p>Fênix, Roca, Serpe</p>"
+        },
+        "2-2": {
+          "name": "Fera",
+          "description": "<p>Alce de Sangue, Urso-Pardo, Abelhas Assassinas, Gato Noturno, Víbora, Lobo</p>"
+        },
+        "3-3": {
+          "name": "Beemote",
+          "description": "<p>Dragão Verde, Verme Púrpura</p>"
+        },
+        "4-4": {
+          "name": "Constructo",
+          "description": "<p>Constructo Ósseo, Cães de Pedra, Gárgula</p>"
+        },
+        "5-5": {
+          "name": "Demônio",
+          "description": "<p>Cão Infernal, Pesadelo</p>"
+        },
+        "6-6": {
+          "name": "Extraplanar",
+          "description": "<p>Olho do Terror, Açoitador Mental</p>"
+        },
+        "7-7": {
+          "name": "Feérico",
+          "description": "<p>Boggart, Dríade, Elfo do Gelo, Pixie, Gorro Vermelho, Bruxa Noturna, Bruxa do Mar, Fogo-Fátuo</p>"
+        },
+        "8-8": {
+          "name": "Gigante",
+          "description": "<p>Ettin, Gigante do Céu, Gigante Tempestade, Titã</p>"
+        },
+        "9-9": {
+          "name": "Goblinoide",
+          "description": "<p>Bugbear, Goblin, Hobgoblin, Ogro, Goblin das Raízes, Troll, Troll do Bosque</p>"
+        },
+        "10-10": {
+          "name": "Humanoide",
+          "description": "<p>Acólito, Bandido, Gnoll, Homens Encapuzados, Tritão</p>"
+        },
+        "11-11": {
+          "name": "Híbrido",
+          "description": "<p>Centauro, Mantícora, Minotauro, Urso-Coruja</p>"
+        },
+        "12-12": {
+          "name": "Incorpóreo",
+          "description": "<p>Perseguidor Invisível, Sombra</p>"
+        },
+        "13-13": {
+          "name": "Insetoide",
+          "description": "<p>Arânea, Horror Escavador, Gafanhoto de Gruta, Escorpião Gigante</p>"
+        },
+        "14-14": {
+          "name": "Lagarto",
+          "description": "<p>Basilisco, Hidra, Kobold, Naga, Reptiliano</p>"
+        },
+        "15-15": {
+          "name": "Mágico",
+          "description": "<p>Cão Piscante, Pantera Distorcida, Elemental da Água</p>"
+        },
+        "16-16": {
+          "name": "Mítico",
+          "description": "<p>Banshee, Grifo, Harpia, Hidra, Lâmia, Unicórnio</p>"
+        },
+        "17-17": {
+          "name": "Planta",
+          "description": "<p>Vinhas Rastejantes, Bruxa das Raízes, Monte Cambaleante, Ente</p>"
+        },
+        "18-18": {
+          "name": "Metamorfo",
+          "description": "<p>Coisa Suína, Lobisomem</p>"
+        },
+        "19-19": {
+          "name": "Morto-Vivo",
+          "description": "<p>Vigia da Cripta, Fantasma, Carniçal, Lich, Múmia, Esqueleto, Vampiro, Aparição, Zumbi</p>"
+        },
+        "20-20": {
+          "name": "Incomum",
+          "description": "<p>Gosma Gelatinosa, Mímico, Monstro Ferrugem, Caracol Guerreiro</p>"
+        }
+      }
+    },
+    "Monster Critical Damage": {
+      "name": "Dano Crítico de Monstro",
+      "description": "<p>Role na coluna Dano Crítico da tabela de Ataques de Monstro.</p>",
+      "results": {
+        "1-1": {
+          "description": "Asfixia"
+        },
+        "2-2": {
+          "description": "Sangra"
+        },
+        "3-3": {
+          "description": "Cega"
+        },
+        "4-4": {
+          "description": "Quebra"
+        },
+        "5-5": {
+          "description": "Esmaga"
+        },
+        "6-6": {
+          "description": "Apodrece"
+        },
+        "7-7": {
+          "description": "Dissolve"
+        },
+        "8-8": {
+          "description": "Enreda"
+        },
+        "9-9": {
+          "description": "Explode"
+        },
+        "10-10": {
+          "description": "Agarra"
+        },
+        "11-11": {
+          "description": "Incapacita"
+        },
+        "12-12": {
+          "description": "Lacera"
+        },
+        "13-13": {
+          "description": "Liquefaz"
+        },
+        "14-14": {
+          "description": "Paralisa"
+        },
+        "15-15": {
+          "description": "Petrifica"
+        },
+        "16-16": {
+          "description": "Envenena"
+        },
+        "17-17": {
+          "description": "Perfura"
+        },
+        "18-18": {
+          "description": "Decepa"
+        },
+        "19-19": {
+          "description": "Pisoteia"
+        },
+        "20-20": {
+          "description": "Enfraquece"
+        }
+      }
+    },
+    "Monster Feature": {
+      "name": "Detalhe de Monstro",
+      "description": "<p>Role na coluna Detalhe da tabela de Aparência de Monstro.</p>",
+      "results": {
+        "1-1": {
+          "description": "Antenas"
+        },
+        "2-2": {
+          "description": "Bico"
+        },
+        "3-3": {
+          "description": "Carapaça"
+        },
+        "4-4": {
+          "description": "Garras"
+        },
+        "5-5": {
+          "description": "Presas"
+        },
+        "6-6": {
+          "description": "Penas"
+        },
+        "7-7": {
+          "description": "Pelagem"
+        },
+        "8-8": {
+          "description": "Guelras"
+        },
+        "9-9": {
+          "description": "Chifres"
+        },
+        "10-10": {
+          "description": "Marcas"
+        },
+        "11-11": {
+          "description": "Escamas"
+        },
+        "12-12": {
+          "description": "Concha"
+        },
+        "13-13": {
+          "description": "Focinho"
+        },
+        "14-14": {
+          "description": "Cauda"
+        },
+        "15-15": {
+          "description": "Garras aduncas"
+        },
+        "16-16": {
+          "description": "Tentáculos"
+        },
+        "17-17": {
+          "description": "Tromba"
+        },
+        "18-18": {
+          "description": "Colmilhos"
+        },
+        "19-19": {
+          "description": "Voz"
+        },
+        "20-20": {
+          "description": "Asas"
+        }
+      }
+    },
+    "Monster Physique": {
+      "name": "Físico de Monstro",
+      "description": "<p>Role na coluna Físico da tabela de Aparência de Monstro.</p>",
+      "results": {
+        "1-1": {
+          "description": "Albina"
+        },
+        "2-2": {
+          "description": "Negra"
+        },
+        "3-3": {
+          "description": "Cristalina"
+        },
+        "4-4": {
+          "description": "Emaciada"
+        },
+        "5-5": {
+          "description": "Sem Olhos"
+        },
+        "6-6": {
+          "description": "Emplumada"
+        },
+        "7-7": {
+          "description": "Gelatinosa"
+        },
+        "8-8": {
+          "description": "Luminosa"
+        },
+        "9-9": {
+          "description": "Endurecida"
+        },
+        "10-10": {
+          "description": "Acéfala"
+        },
+        "11-11": {
+          "description": "Chifruda"
+        },
+        "12-12": {
+          "description": "Corcunda"
+        },
+        "13-13": {
+          "description": "Iridescente"
+        },
+        "14-14": {
+          "description": "Poliocular"
+        },
+        "15-15": {
+          "description": "Escamosa"
+        },
+        "16-16": {
+          "description": "Segmentada"
+        },
+        "17-17": {
+          "description": "Esquelética"
+        },
+        "18-18": {
+          "description": "Viscosa"
+        },
+        "19-19": {
+          "description": "Translúcida"
+        },
+        "20-20": {
+          "description": "Retorcida"
+        }
+      }
+    },
+    "Monster Quirk": {
+      "name": "Mania de Monstro",
+      "description": "<p>Role na coluna Manias da tabela de Traços de Monstro.</p>",
+      "results": {
+        "1-1": {
+          "description": "Muda de tamanho à vontade"
+        },
+        "2-2": {
+          "description": "Muda de cor à vontade"
+        },
+        "3-3": {
+          "description": "Coleciona flores raras"
+        },
+        "4-4": {
+          "description": "Coleciona troféus"
+        },
+        "5-5": {
+          "description": "Não morre de velhice"
+        },
+        "6-6": {
+          "description": "Desenha símbolos"
+        },
+        "7-7": {
+          "description": "Fascinado por fogo"
+        },
+        "8-8": {
+          "description": "Acumula livros"
+        },
+        "9-9": {
+          "description": "Adora uma cor específica"
+        },
+        "10-10": {
+          "description": "Renasce a cada dia"
+        },
+        "11-11": {
+          "description": "Adora objetos brilhantes"
+        },
+        "12-12": {
+          "description": "Imita vozes"
+        },
+        "13-13": {
+          "description": "Move-se em linha reta"
+        },
+        "14-14": {
+          "description": "Narra tudo"
+        },
+        "15-15": {
+          "description": "Limpa obsessivamente"
+        },
+        "16-16": {
+          "description": "Plantas crescem por onde passa"
+        },
+        "17-17": {
+          "description": "Dorme de cabeça para baixo"
+        },
+        "18-18": {
+          "description": "Fala em rimas"
+        },
+        "19-19": {
+          "description": "Sua minerais raros"
+        },
+        "20-20": {
+          "description": "Reproduz-se assexuadamente"
+        }
+      }
+    },
+    "Monster Weakness": {
+      "name": "Fraqueza de Monstro",
+      "description": "<p>Role na coluna Fraqueza da tabela de Traços de Monstro.</p>",
+      "results": {
+        "1-1": {
+          "description": "Álcool"
+        },
+        "2-2": {
+          "description": "Frio"
+        },
+        "3-3": {
+          "description": "Conversa"
+        },
+        "4-4": {
+          "description": "Bajulação"
+        },
+        "5-5": {
+          "description": "Jogos"
+        },
+        "6-6": {
+          "description": "Presentes"
+        },
+        "7-7": {
+          "description": "Ferro"
+        },
+        "8-8": {
+          "description": "Barulhos altos"
+        },
+        "9-9": {
+          "description": "Espelhos"
+        },
+        "10-10": {
+          "description": "Cores vivas"
+        },
+        "11-11": {
+          "description": "Luar"
+        },
+        "12-12": {
+          "description": "Música"
+        },
+        "13-13": {
+          "description": "Refeições preparadas"
+        },
+        "14-14": {
+          "description": "Enigmas"
+        },
+        "15-15": {
+          "description": "Ícones religiosos"
+        },
+        "16-16": {
+          "description": "Sal"
+        },
+        "17-17": {
+          "description": "Prata"
+        },
+        "18-18": {
+          "description": "Luz do sol"
+        },
+        "19-19": {
+          "description": "Nome verdadeiro"
+        },
+        "20-20": {
+          "description": "Ponto fraco"
+        }
+      }
+    },
+    "NPC Background": {
+      "name": "Antecedente de PNJ",
+      "description": "<p>Role o Antecedente do PNJ. O equipamento inicial é definido pelo gerador, não por esta tabela.</p>",
+      "results": {
+        "1-1": {
+          "description": "Acadêmico"
+        },
+        "2-2": {
+          "description": "Assassino"
+        },
+        "3-3": {
+          "description": "Ferreiro"
+        },
+        "4-4": {
+          "description": "Fazendeiro"
+        },
+        "5-5": {
+          "description": "General"
+        },
+        "6-6": {
+          "description": "Coveiro"
+        },
+        "7-7": {
+          "description": "Guarda"
+        },
+        "8-8": {
+          "description": "Curandeiro"
+        },
+        "9-9": {
+          "description": "Carcereiro"
+        },
+        "10-10": {
+          "description": "Trabalhador"
+        },
+        "11-11": {
+          "description": "Lorde"
+        },
+        "12-12": {
+          "description": "Mercador"
+        },
+        "13-13": {
+          "description": "Monge"
+        },
+        "14-14": {
+          "description": "Místico"
+        },
+        "15-15": {
+          "description": "Forasteiro"
+        },
+        "16-16": {
+          "description": "Mascate"
+        },
+        "17-17": {
+          "description": "Político"
+        },
+        "18-18": {
+          "description": "Espião"
+        },
+        "19-19": {
+          "description": "Ladrão"
+        },
+        "20-20": {
+          "description": "Capanga"
+        }
+      }
+    },
+    "NPC Goal": {
+      "name": "Objetivo de PNJ",
+      "description": "<p>Role o que um PNJ está tentando alcançar.</p>",
+      "results": {
+        "1-1": {
+          "description": "Ascensão"
+        },
+        "2-2": {
+          "description": "Limpeza"
+        },
+        "3-3": {
+          "description": "Conservação"
+        },
+        "4-4": {
+          "description": "Defesa"
+        },
+        "5-5": {
+          "description": "Dominação"
+        },
+        "6-6": {
+          "description": "Enriquecimento"
+        },
+        "7-7": {
+          "description": "Expansão"
+        },
+        "8-8": {
+          "description": "Liberdade"
+        },
+        "9-9": {
+          "description": "Cura"
+        },
+        "10-10": {
+          "description": "Integração"
+        },
+        "11-11": {
+          "description": "Justiça"
+        },
+        "12-12": {
+          "description": "Paz"
+        },
+        "13-13": {
+          "description": "Poder"
+        },
+        "14-14": {
+          "description": "Preservação"
+        },
+        "15-15": {
+          "description": "Purificação"
+        },
+        "16-16": {
+          "description": "Redenção"
+        },
+        "17-17": {
+          "description": "Vingança"
+        },
+        "18-18": {
+          "description": "Sobrevivência"
+        },
+        "19-19": {
+          "description": "União"
+        },
+        "20-20": {
+          "description": "Riqueza"
+        }
+      }
+    },
+    "NPC Name": {
+      "name": "Nome de PNJ",
+      "description": "<p>Role um Nome para um PNJ. As três listas originais foram reunidas aqui num único d60.</p>",
+      "results": {
+        "1-1": {
+          "description": "Alaric"
+        },
+        "2-2": {
+          "description": "Carver"
+        },
+        "3-3": {
+          "description": "Cleaver"
+        },
+        "4-4": {
+          "description": "Darnel"
+        },
+        "5-5": {
+          "description": "Eoin"
+        },
+        "6-6": {
+          "description": "Evander"
+        },
+        "7-7": {
+          "description": "Glyph"
+        },
+        "8-8": {
+          "description": "Hemlock"
+        },
+        "9-9": {
+          "description": "Herald"
+        },
+        "10-10": {
+          "description": "Lisbeth"
+        },
+        "11-11": {
+          "description": "Lucian"
+        },
+        "12-12": {
+          "description": "Luna"
+        },
+        "13-13": {
+          "description": "Lysander"
+        },
+        "14-14": {
+          "description": "Marius"
+        },
+        "15-15": {
+          "description": "Mend"
+        },
+        "16-16": {
+          "description": "Milo"
+        },
+        "17-17": {
+          "description": "Neria"
+        },
+        "18-18": {
+          "description": "Pan"
+        },
+        "19-19": {
+          "description": "Quill"
+        },
+        "20-20": {
+          "description": "Seraphine"
+        },
+        "21-21": {
+          "description": "Ainsley"
+        },
+        "22-22": {
+          "description": "Azura"
+        },
+        "23-23": {
+          "description": "Brave"
+        },
+        "24-24": {
+          "description": "Callan"
+        },
+        "25-25": {
+          "description": "Cedric"
+        },
+        "26-26": {
+          "description": "Crow"
+        },
+        "27-27": {
+          "description": "Finch"
+        },
+        "28-28": {
+          "description": "Gunnar"
+        },
+        "29-29": {
+          "description": "Harper"
+        },
+        "30-30": {
+          "description": "Liora"
+        },
+        "31-31": {
+          "description": "Lira"
+        },
+        "32-32": {
+          "description": "Lorelai"
+        },
+        "33-33": {
+          "description": "Lysandra"
+        },
+        "34-34": {
+          "description": "Marcellus"
+        },
+        "35-35": {
+          "description": "Shade"
+        },
+        "36-36": {
+          "description": "Shroud"
+        },
+        "37-37": {
+          "description": "Spade"
+        },
+        "38-38": {
+          "description": "Spike"
+        },
+        "39-39": {
+          "description": "Tanner"
+        },
+        "40-40": {
+          "description": "Thyme"
+        },
+        "41-41": {
+          "description": "Alder"
+        },
+        "42-42": {
+          "description": "Alistair"
+        },
+        "43-43": {
+          "description": "Caius"
+        },
+        "44-44": {
+          "description": "Dain"
+        },
+        "45-45": {
+          "description": "Dax"
+        },
+        "46-46": {
+          "description": "Dorian"
+        },
+        "47-47": {
+          "description": "Godric"
+        },
+        "48-48": {
+          "description": "Harkin"
+        },
+        "49-49": {
+          "description": "Hildred"
+        },
+        "50-50": {
+          "description": "Kael"
+        },
+        "51-51": {
+          "description": "Kavi"
+        },
+        "52-52": {
+          "description": "Mariner"
+        },
+        "53-53": {
+          "description": "Nazira"
+        },
+        "54-54": {
+          "description": "Onyx"
+        },
+        "55-55": {
+          "description": "Rolan"
+        },
+        "56-56": {
+          "description": "Rush"
+        },
+        "57-57": {
+          "description": "Sky"
+        },
+        "58-58": {
+          "description": "Storm"
+        },
+        "59-59": {
+          "description": "Taros"
+        },
+        "60-60": {
+          "description": "Thaddeus"
+        }
+      }
+    },
+    "NPC Quirk": {
+      "name": "Traço de PNJ",
+      "description": "<p>Role um Traço físico ou comportamental para um PNJ.</p>",
+      "results": {
+        "1-1": {
+          "description": "Alerta"
+        },
+        "2-2": {
+          "description": "Careca"
+        },
+        "3-3": {
+          "description": "Olhos brilhantes"
+        },
+        "4-4": {
+          "description": "Rosto largo"
+        },
+        "5-5": {
+          "description": "Dentes tortos"
+        },
+        "6-6": {
+          "description": "Esquálido"
+        },
+        "7-7": {
+          "description": "Boa postura"
+        },
+        "8-8": {
+          "description": "Encardido"
+        },
+        "9-9": {
+          "description": "Voz áspera"
+        },
+        "10-10": {
+          "description": "Testa proeminente"
+        },
+        "11-11": {
+          "description": "Manca"
+        },
+        "12-12": {
+          "description": "Sem uma orelha"
+        },
+        "13-13": {
+          "description": "Musculoso"
+        },
+        "14-14": {
+          "description": "Cabelo marcante"
+        },
+        "15-15": {
+          "description": "Voz agradável"
+        },
+        "16-16": {
+          "description": "Olhos semicerrados"
+        },
+        "17-17": {
+          "description": "Forte"
+        },
+        "18-18": {
+          "description": "Sobrancelhas grossas"
+        },
+        "19-19": {
+          "description": "Cansado"
+        },
+        "20-20": {
+          "description": "Jovem"
+        }
+      }
+    },
+    "NPC Vice": {
+      "name": "Vício de PNJ",
+      "description": "<p>Role o Vício que define um PNJ.</p>",
+      "results": {
+        "1-1": {
+          "description": "Distante"
+        },
+        "2-2": {
+          "description": "Corrupto"
+        },
+        "3-3": {
+          "description": "Covarde"
+        },
+        "4-4": {
+          "description": "Cruel"
+        },
+        "5-5": {
+          "description": "Cínico"
+        },
+        "6-6": {
+          "description": "Enganador"
+        },
+        "7-7": {
+          "description": "Ganancioso"
+        },
+        "8-8": {
+          "description": "Impulsivo"
+        },
+        "9-9": {
+          "description": "Incompetente"
+        },
+        "10-10": {
+          "description": "Inflexível"
+        },
+        "11-11": {
+          "description": "Manipulador"
+        },
+        "12-12": {
+          "description": "Volúvel"
+        },
+        "13-13": {
+          "description": "Ingênuo"
+        },
+        "14-14": {
+          "description": "Pedante"
+        },
+        "15-15": {
+          "description": "Implacável"
+        },
+        "16-16": {
+          "description": "Sarcástico"
+        },
+        "17-17": {
+          "description": "Egoísta"
+        },
+        "18-18": {
+          "description": "Teimoso"
+        },
+        "19-19": {
+          "description": "Vaidoso"
+        },
+        "20-20": {
+          "description": "Xenófobo"
+        }
+      }
+    },
+    "NPC Virtue": {
+      "name": "Virtude de PNJ",
+      "description": "<p>Role a Virtude que define um PNJ.</p>",
+      "results": {
+        "1-1": {
+          "description": "Cauteloso"
+        },
+        "2-2": {
+          "description": "Compassivo"
+        },
+        "3-3": {
+          "description": "Bem relacionado"
+        },
+        "4-4": {
+          "description": "Corajoso"
+        },
+        "5-5": {
+          "description": "Disciplinado"
+        },
+        "6-6": {
+          "description": "Discreto"
+        },
+        "7-7": {
+          "description": "Honesto"
+        },
+        "8-8": {
+          "description": "Inteligente"
+        },
+        "9-9": {
+          "description": "Sensato"
+        },
+        "10-10": {
+          "description": "Leal"
+        },
+        "11-11": {
+          "description": "Metódico"
+        },
+        "12-12": {
+          "description": "Meticuloso"
+        },
+        "13-13": {
+          "description": "Educado"
+        },
+        "14-14": {
+          "description": "Popular"
+        },
+        "15-15": {
+          "description": "Pragmático"
+        },
+        "16-16": {
+          "description": "Engenhoso"
+        },
+        "17-17": {
+          "description": "Galante"
+        },
+        "18-18": {
+          "description": "Astuto"
+        },
+        "19-19": {
+          "description": "Tenaz"
+        },
+        "20-20": {
+          "description": "Espirituoso"
+        }
+      }
+    },
+    "Wilderness Encounter": {
+      "name": "Encontro nos Ermos",
+      "description": "<p>Uma tabela genérica de criaturas selvagens comuns. Cada resultado vincula um Ator do bestiário 2e; a descrição começa com quantos aparecem.</p>",
+      "results": {
+        "yTBCoCH66fz1gu8k": {
+          "description": "<p>1d6 Lobos</p>"
+        },
+        "Q2aQ8ViEEhAMOkD5": {
+          "description": "<p>1d6 Bandidos</p>"
+        },
+        "WbcwaRh6uYi6z8MA": {
+          "description": "<p>1d6 Goblins</p>"
+        },
+        "aoFzG2WoSFxgyiAm": {
+          "description": "<p>1d4 Alces de Sangue</p>"
+        },
+        "jo4PEg991b997h8A": {
+          "description": "<p>1d4 Víboras</p>"
+        },
+        "A3W0fHKZSTQ8Fzvm": {
+          "description": "<p>1d3 Harpias</p>"
+        },
+        "Fw3WBZzXgHMzaRaC": {
+          "description": "<p>1d3 Bugbears</p>"
+        },
+        "Onir1WODihbgnbAd": {
+          "description": "<p>1 enxame de Abelhas Assassinas</p>"
+        },
+        "r7WmoY1pXk5j0gj8": {
+          "description": "<p>1 Gato Noturno</p>"
+        },
+        "tooOo1i4DuD6DMAx": {
+          "description": "<p>1 Urso-Pardo</p>"
+        }
+      }
+    },
+    "Wilderness Event": {
+      "name": "Evento nos Ermos",
+      "description": "<p>O Guardião rola uma vez nesta tabela após cada Ação nos Ermos (duas vezes à noite).</p>",
+      "results": {
+        "1-1": {
+          "name": "Encontro",
+          "description": "<p>Role numa tabela de encontros para aquele tipo de terreno ou local. Não se esqueça de rolar as reações dos PNJs, se aplicável.</p>"
+        },
+        "2-2": {
+          "name": "Sinal",
+          "description": "<p>O grupo descobre uma pista, rastro ou indício de um encontro, localidade ou elemento oculto próximo, ou informações sobre uma área próxima.</p>"
+        },
+        "3-3": {
+          "name": "Ambiente",
+          "description": "<p>Uma mudança no clima ou no terreno.</p>"
+        },
+        "4-4": {
+          "name": "Perda",
+          "description": "<p>O grupo enfrenta uma escolha que lhe custa um recurso (rações, ferramentas etc.), tempo ou esforço.</p>"
+        },
+        "5-5": {
+          "name": "Exaustão",
+          "description": "<p>O grupo encontra uma barreira que exige esforço, cuidado ou atrasos. Isso pode significar gastar mais tempo (e uma <strong>Ação nos Ermos</strong> adicional) ou adicionar <strong>Fadiga</strong> ao inventário do PJ para representar as dificuldades.</p>"
+        },
+        "6-6": {
+          "name": "Descoberta",
+          "description": "<p>O grupo encontra comida, tesouro ou outros recursos úteis. O <strong>Guardião</strong> pode, em vez disso, revelar o elemento principal da área.</p>"
+        }
+      }
+    }
+  }
+}

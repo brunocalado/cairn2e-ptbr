@@ -1,0 +1,493 @@
+{
+  "label": "Mais Equipamento",
+  "folders": {
+    "Clothing": "Roupas",
+    "Drink": "Bebidas",
+    "Food": "Comida",
+    "Tools & Gear": "Equipamentos",
+    "Transport": "Transporte",
+    "Common (10gp)": "Comum (10po)",
+    "Ornamental (25gp)": "Ornamental (25po)",
+    "Precious (500gp)": "Preciosa (500po)",
+    "Semiprecious (100gp)": "Semipreciosa (100po)",
+    "Valuables": "Objetos de Valor"
+  },
+  "entries": {
+    "Agate": {
+      "name": "Ágata",
+      "description": "<p>Em faixas marrons e creme, cortada de um geodo e polida até ficar lisa.</p>"
+    },
+    "Alabaster": {
+      "name": "Alabastro",
+      "description": "<p>Pedra branca e macia, translúcida nas bordas. Escultores a valorizam mais que joalheiros.</p>"
+    },
+    "Amethyst": {
+      "name": "Ametista",
+      "description": "<p>Violeta, facetada, escurecendo em direção à ponta.</p>"
+    },
+    "Apron, cloth": {
+      "name": "Avental, pano",
+      "description": "<p>Avental, pano (<em>miudeza</em>)</p>"
+    },
+    "Apron, leather": {
+      "name": "Avental, couro",
+      "description": "<p>Avental, couro (<em>miudeza</em>)</p>"
+    },
+    "Aquamarine": {
+      "name": "Água-marinha",
+      "description": "<p>Azul-mar pálido e perfeitamente límpida.</p>"
+    },
+    "Azurite": {
+      "name": "Azurita",
+      "description": "<p>Azul profundo e quebradiça, moída para pigmento tanto quanto é usada como joia.</p>"
+    },
+    "Ballgown, extravagant": {
+      "name": "Vestido de Gala, luxuoso",
+      "description": "<p>Vestido de Gala, luxuoso (<em>miudeza</em>)</p>"
+    },
+    "Ballgown, simple": {
+      "name": "Vestido de Gala",
+      "description": "<p>Vestido de Gala, simples (<em>miudeza</em>)</p>"
+    },
+    "Barding": {
+      "name": "Barda",
+      "description": "<p>Barda (armadura de cavalo, <em>volumosa</em>)</p>"
+    },
+    "Beer": {
+      "name": "Cerveja",
+      "description": "<p>Cerveja (jarra)</p>"
+    },
+    "Bellows": {
+      "name": "Fole",
+      "description": "<p>Fole</p>"
+    },
+    "Belt, leather": {
+      "name": "Cinto, couro",
+      "description": "<p>Cinto, couro (<em>miudeza</em>)</p>"
+    },
+    "Bloodstone": {
+      "name": "Heliotrópio",
+      "description": "<p>Verde-escuro salpicado de vermelho, que os supersticiosos dizem ser sangue antigo.</p>"
+    },
+    "Bodice": {
+      "name": "Corpete",
+      "description": "<p>Corpete (<em>miudeza</em>)</p>"
+    },
+    "Boots, cloth": {
+      "name": "Botas, pano",
+      "description": "<p>Botas, pano (<em>miudeza</em>)</p>"
+    },
+    "Boots, hard leather": {
+      "name": "Botas, couro duro",
+      "description": "<p>Botas, couro duro (<em>miudeza</em>)</p>"
+    },
+    "Boots, reinforced": {
+      "name": "Botas, reforçadas",
+      "description": "<p>Botas, reforçadas (<em>miudeza</em>)</p>"
+    },
+    "Boots, soft leather": {
+      "name": "Botas, couro macio",
+      "description": "<p>Botas, couro macio (<em>miudeza</em>)</p>"
+    },
+    "Brandy": {
+      "name": "Conhaque",
+      "description": "<p>Conhaque (garrafa)</p>"
+    },
+    "Bread": {
+      "name": "Pão",
+      "description": "<p>Pão (quatro filões)</p>"
+    },
+    "Bucket": {
+      "name": "Balde",
+      "description": "<p>Balde</p>"
+    },
+    "Camel": {
+      "name": "Camelo",
+      "description": "<p>Camelo (+3 espaços, rápido)</p>"
+    },
+    "Cap": {
+      "name": "Gorro",
+      "description": "<p>Gorro (<em>miudeza</em>)</p>"
+    },
+    "Cape, long": {
+      "name": "Capa, longa",
+      "description": "<p>Capa, longa (<em>miudeza</em>)</p>"
+    },
+    "Cape, short": {
+      "name": "Capa, curta",
+      "description": "<p>Capa, curta (<em>miudeza</em>)</p>"
+    },
+    "Carnelian": {
+      "name": "Cornalina",
+      "description": "<p>Laranja-avermelhada e quente, reluzindo quando erguida contra a luz.</p>"
+    },
+    "Cart, big": {
+      "name": "Carroça, grande",
+      "description": "<p>Carroça, grande (+6 espaços)</p>"
+    },
+    "Cheese, imported": {
+      "name": "Queijo, importado",
+      "description": "<p>Queijo, importado (500 g)</p>"
+    },
+    "Cheese, local": {
+      "name": "Queijo, local",
+      "description": "<p>Queijo, local (500 g)</p>"
+    },
+    "Chrysoberyl": {
+      "name": "Crisoberilo",
+      "description": "<p>Verde-amarelado e duro o bastante para riscar quase tudo ao seu lado.</p>"
+    },
+    "Chrysoprase": {
+      "name": "Crisoprásio",
+      "description": "<p>Verde-maçã e de brilho ceroso, a mais viva das calcedônias.</p>"
+    },
+    "Citrine": {
+      "name": "Citrino",
+      "description": "<p>Amarelo-mel, lapidado em oito faces.</p>"
+    },
+    "Coat, fur": {
+      "name": "Casaco, pele",
+      "description": "<p>Casaco, pele (<em>miudeza</em>)</p>"
+    },
+    "Coat": {
+      "name": "Casaco",
+      "description": "<p>Casaco (<em>miudeza</em>)</p>"
+    },
+    "Crowbar": {
+      "name": "Pé de Cabra",
+      "description": "<p>Pé de Cabra</p>"
+    },
+    "Diamond": {
+      "name": "Diamante",
+      "description": "<p>Pequeno, incolor, e lança fogo branco à luz de velas.</p>"
+    },
+    "Donkey": {
+      "name": "Burro",
+      "description": "<p>Burro (+4 espaços, lento)</p>"
+    },
+    "Doublet": {
+      "name": "Jaqueta",
+      "description": "<p>Jaqueta (<em>miudeza</em>)</p>"
+    },
+    "Dress, silk": {
+      "name": "Vestido, seda",
+      "description": "<p>Vestido, seda (<em>miudeza</em>)</p>"
+    },
+    "Dress": {
+      "name": "Vestido",
+      "description": "<p>Vestido (<em>miudeza</em>)</p>"
+    },
+    "Dried Fruit": {
+      "name": "Frutas Secas",
+      "description": "<p>Frutas Secas (500 g)</p>"
+    },
+    "Drill": {
+      "name": "Broca",
+      "description": "<p>Broca (manual)</p>"
+    },
+    "Emerald": {
+      "name": "Esmeralda",
+      "description": "<p>Verde profunda, com as finas falhas internas que nenhuma esmeralda deixa de ter.</p>"
+    },
+    "Eye Patch": {
+      "name": "Tapa-olho",
+      "description": "<p>Tapa-olho (<em>miudeza</em>)</p>"
+    },
+    "Garnet": {
+      "name": "Granada",
+      "description": "<p>Vermelho-vinho escuro, lapidada em ponta longa nas duas extremidades.</p>"
+    },
+    "Glass Marbles": {
+      "name": "Bolinhas de Gude",
+      "description": "<p>Bolinhas de Gude</p>"
+    },
+    "Habit": {
+      "name": "Hábito",
+      "description": "<p>Hábito (<em>miudeza</em>)</p>"
+    },
+    "Hat, elegant": {
+      "name": "Chapéu, elegante",
+      "description": "<p>Chapéu, elegante (<em>miudeza</em>)</p>"
+    },
+    "Hat, simple": {
+      "name": "Chapéu, simples",
+      "description": "<p>Chapéu, simples (<em>miudeza</em>)</p>"
+    },
+    "Hat, straw": {
+      "name": "Chapéu, palha",
+      "description": "<p>Chapéu, palha (<em>miudeza</em>)</p>"
+    },
+    "Hematite": {
+      "name": "Hematita",
+      "description": "<p>Cinza-ferro e brilhante como espelho, pesada para o tamanho. Deixa um traço vermelho quando riscada.</p>"
+    },
+    "Honey": {
+      "name": "Mel",
+      "description": "<p>Mel (meio litro)</p>"
+    },
+    "Horn": {
+      "name": "Corneta",
+      "description": "<p>Corneta</p>"
+    },
+    "Horse, draft": {
+      "name": "Cavalo, tração",
+      "description": "<p>Cavalo, tração (+3 espaços)</p>"
+    },
+    "Hourglass": {
+      "name": "Ampulheta",
+      "description": "<p>Ampulheta</p>"
+    },
+    "Incense": {
+      "name": "Incenso",
+      "description": "<p>Incenso</p>"
+    },
+    "Inn Meal, good": {
+      "name": "Refeição, boa",
+      "description": "<p>Refeição na estalagem, boa (<em>miudeza</em>)</p>"
+    },
+    "Inn Meal, poor": {
+      "name": "Refeição, pobre",
+      "description": "<p>Refeição na estalagem, pobre (<em>miudeza</em>)</p>"
+    },
+    "Inn Meal, superb": {
+      "name": "Refeição, soberba",
+      "description": "<p>Refeição na estalagem, soberba (<em>miudeza</em>)</p>"
+    },
+    "Jam": {
+      "name": "Geleia",
+      "description": "<p>Geleia (meio litro)</p>"
+    },
+    "Jasper": {
+      "name": "Jaspe",
+      "description": "<p>Opaco e vermelho-tijolo, com veios de fios mais escuros.</p>"
+    },
+    "Jerked Beef": {
+      "name": "Charque",
+      "description": "<p>Charque (500 g)</p>"
+    },
+    "Kilt": {
+      "name": "Kilt",
+      "description": "<p>Kilt (<em>miudeza</em>)</p>"
+    },
+    "Ladder": {
+      "name": "Escada",
+      "description": "<p>Escada (3 m, <em>volumosa</em>)</p>"
+    },
+    "Lapis Lazuli": {
+      "name": "Lápis-lazúli",
+      "description": "<p>Azul-noite, salpicado de flocos dourados de pirita.</p>"
+    },
+    "Large Sponge": {
+      "name": "Esponja Grande",
+      "description": "<p>Esponja Grande</p>"
+    },
+    "Large Trap": {
+      "name": "Armadilha Grande",
+      "description": "<p>Armadilha Grande (d6 de dano em FOR)</p>"
+    },
+    "Lens": {
+      "name": "Lente",
+      "description": "<p>Lente</p>"
+    },
+    "Lock": {
+      "name": "Cadeado",
+      "description": "<p>Cadeado (chave inclusa)</p>"
+    },
+    "Malachite": {
+      "name": "Malaquita",
+      "description": "<p>Verde em faixas concêntricas, como os anéis de um tronco cortado.</p>"
+    },
+    "Manacles": {
+      "name": "Algemas",
+      "description": "<p>Algemas</p>"
+    },
+    "Mead": {
+      "name": "Hidromel",
+      "description": "<p>Hidromel (jarra de 2 litros)</p>"
+    },
+    "Moonshine": {
+      "name": "Aguardente",
+      "description": "<p>Aguardente (jarro)</p>"
+    },
+    "Moonstone": {
+      "name": "Pedra-da-lua",
+      "description": "<p>Branca como leite, e uma luz azul flutua sob a superfície.</p>"
+    },
+    "Nuts": {
+      "name": "Nozes",
+      "description": "<p>Nozes (500 g)</p>"
+    },
+    "Obsidian": {
+      "name": "Obsidiana",
+      "description": "<p>Vidro vulcânico negro, afiado onde quer que tenha se partido.</p>"
+    },
+    "Oilskin Bag": {
+      "name": "Bolsa Impermeável",
+      "description": "<p>Bolsa Impermeável</p>"
+    },
+    "Onyx": {
+      "name": "Ônix",
+      "description": "<p>Preto com faixas brancas, serrado plano para um anel de sinete.</p>"
+    },
+    "Opal": {
+      "name": "Opala",
+      "description": "<p>Há fogo se movendo nela — verde, laranja, vermelho — e nada disso é fixo.</p>"
+    },
+    "Oxen": {
+      "name": "Bois",
+      "description": "<p>Bois (+6 espaços, lentos)</p>"
+    },
+    "Pick": {
+      "name": "Picareta",
+      "description": "<p>Picareta</p>"
+    },
+    "Pyrite": {
+      "name": "Pirita",
+      "description": "<p>Cubos cor de latão que já foram vendidos como ouro mais de uma vez.</p>"
+    },
+    "Quartz": {
+      "name": "Quartzo",
+      "description": "<p>Um cristal límpido de seis faces, frio ao toque.</p>"
+    },
+    "Rhodochrosite": {
+      "name": "Rodocrosita",
+      "description": "<p>Rosa em faixas de um rosa mais pálido.</p>"
+    },
+    "Roast Chicken": {
+      "name": "Frango Assado",
+      "description": "<p>Frango Assado (inteiro)</p>"
+    },
+    "Roast Goose": {
+      "name": "Ganso Assado",
+      "description": "<p>Ganso Assado (inteiro)</p>"
+    },
+    "Robe": {
+      "name": "Túnica",
+      "description": "<p>Túnica (<em>miudeza</em>)</p>"
+    },
+    "Rope Ladder": {
+      "name": "Escada de Corda",
+      "description": "<p>Escada de Corda (7,5 m)</p>"
+    },
+    "Rose Quartz": {
+      "name": "Quartzo Rosa",
+      "description": "<p>Rosa leitoso, sem lapidação, um punhado do tamanho de um punho.</p>"
+    },
+    "Ruby": {
+      "name": "Rubi",
+      "description": "<p>Vermelho-sangue e lapidado oval, com a cor firme até o fundo.</p>"
+    },
+    "Rum": {
+      "name": "Rum",
+      "description": "<p>Rum (garrafa)</p>"
+    },
+    "Saddle & Bridle": {
+      "name": "Sela e Rédeas",
+      "description": "<p>Sela e Rédeas</p>"
+    },
+    "Salted Fish": {
+      "name": "Peixe Salgado",
+      "description": "<p>Peixe Salgado (500 g)</p>"
+    },
+    "Sandals": {
+      "name": "Sandálias",
+      "description": "<p>Sandálias (<em>miudeza</em>)</p>"
+    },
+    "Sapphire": {
+      "name": "Safira",
+      "description": "<p>Azul-centáurea, lapidada oval, sem falhas.</p>"
+    },
+    "Sard": {
+      "name": "Sárdio",
+      "description": "<p>Vermelho-acastanhado e de cor uniforme, uma pedra de entalhador.</p>"
+    },
+    "Sardonyx": {
+      "name": "Sardônica",
+      "description": "<p>Vermelha e branca em faixas planas, feita para ser entalhada de uma camada até a seguinte.</p>"
+    },
+    "Shirt, cloth": {
+      "name": "Camisa, pano",
+      "description": "<p>Camisa, pano (<em>miudeza</em>)</p>"
+    },
+    "Shirt, silk": {
+      "name": "Camisa, seda",
+      "description": "<p>Camisa, seda (<em>miudeza</em>)</p>"
+    },
+    "Skirt, cloth": {
+      "name": "Saia, pano",
+      "description": "<p>Saia, pano (<em>miudeza</em>)</p>"
+    },
+    "Skirt, silk": {
+      "name": "Saia, seda",
+      "description": "<p>Saia, seda (<em>miudeza</em>)</p>"
+    },
+    "Smoked Meat": {
+      "name": "Carne Defumada",
+      "description": "<p>Carne Defumada (500 g)</p>"
+    },
+    "Spike": {
+      "name": "Cravo",
+      "description": "<p>Cravo (<em>miudeza</em>)</p>"
+    },
+    "Spinel": {
+      "name": "Espinélio",
+      "description": "<p>Vermelho vivo e facetado, confundido com rubi por todos, menos por um joalheiro.</p>"
+    },
+    "Stakes & Mallet": {
+      "name": "Estacas e Malho",
+      "description": "<p>Estacas e Malho (3 estacas)</p>"
+    },
+    "Star Sapphire": {
+      "name": "Safira-estrela",
+      "description": "<p>Azul, e uma estrela de seis raios cruza a cúpula quando a pedra gira.</p>"
+    },
+    "Tar": {
+      "name": "Piche",
+      "description": "<p>Piche</p>"
+    },
+    "Tiger Eye": {
+      "name": "Olho de Tigre",
+      "description": "<p>Castanho-dourado, e o brilho que o atravessa se move quando a pedra se move.</p>"
+    },
+    "Tinder Box": {
+      "name": "Caixa de Isca",
+      "description": "<p>Caixa de Isca (pederneira e fuzil, <em>miudeza</em>)</p>"
+    },
+    "Topaz": {
+      "name": "Topázio",
+      "description": "<p>Dourado, lapidado em três faces.</p>"
+    },
+    "Tourmaline": {
+      "name": "Turmalina",
+      "description": "<p>Uma gota que é rosa numa ponta e verde na outra.</p>"
+    },
+    "Trousers": {
+      "name": "Calças",
+      "description": "<p>Calças (<em>miudeza</em>)</p>"
+    },
+    "Tunic, silk": {
+      "name": "Bata, seda",
+      "description": "<p>Bata, seda (<em>miudeza</em>)</p>"
+    },
+    "Tunic": {
+      "name": "Bata",
+      "description": "<p>Bata (<em>miudeza</em>)</p>"
+    },
+    "Turquoise": {
+      "name": "Turquesa",
+      "description": "<p>Azul-céu com veios negros, opaca e levemente porosa.</p>"
+    },
+    "Wine, good": {
+      "name": "Vinho, bom",
+      "description": "<p>Vinho, bom (garrafa)</p>"
+    },
+    "Wine, poor": {
+      "name": "Vinho, ruim",
+      "description": "<p>Vinho, ruim (garrafa)</p>"
+    },
+    "Zircon": {
+      "name": "Zircão",
+      "description": "<p>Incolor e intensamente brilhante, lapidado redondo.</p>"
+    }
+  }
+}

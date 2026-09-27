@@ -1,0 +1,29 @@
+{
+  "label": "Macros",
+  "entries": {
+    "Die Of Fate": {
+      "name": "Dado de Sorte"
+    },
+    "Rest": {
+      "name": "Descansar"
+    },
+    "Restore Abilities": {
+      "name": "Restaurar Atributos"
+    },
+    "Roll Morale": {
+      "name": "Rolar Moral"
+    },
+    "Roll Reaction": {
+      "name": "Rolar Reação"
+    },
+    "DEX": {
+      "name": "DES"
+    },
+    "STR": {
+      "name": "FOR"
+    },
+    "WIL": {
+      "name": "VON"
+    }
+  }
+}

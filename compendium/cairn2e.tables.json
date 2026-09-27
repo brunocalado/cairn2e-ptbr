@@ -1,0 +1,79 @@
+{
+  "label": "Tabelas de Jogo",
+  "entries": {
+    "Die of Fate": {
+      "name": "Dado de Sorte",
+      "description": "<p>Opcionalmente, role 1d6 sempre que o resultado de um evento for incerto ou para simular um elemento de aleatoriedade e acaso.</p>",
+      "results": {
+        "1-3": {
+          "description": "3 ou menos: azar para os PJs."
+        },
+        "4-6": {
+          "description": "4 ou mais: o resultado favorece os PJs."
+        }
+      }
+    },
+    "Reactions": {
+      "name": "Reações",
+      "description": "<p>Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardião pode rolar 2d6 e consultar esta tabela.</p>",
+      "results": {
+        "2-2": {
+          "description": "Hostil"
+        },
+        "3-5": {
+          "description": "Cauteloso"
+        },
+        "6-8": {
+          "description": "Curioso"
+        },
+        "9-11": {
+          "description": "Gentil"
+        },
+        "12-12": {
+          "description": "Prestativo"
+        }
+      }
+    },
+    "Scars": {
+      "name": "Cicatrizes",
+      "results": {
+        "1-1": {
+          "description": "Cicatriz Duradoura: Role 1d6. 1: Pescoço, 2: Mãos, 3: Olho, 4: Peito, 5: Pernas, 6: Orelha. Role 1d6. Se o total for maior que seus PG máximos, adote o novo resultado."
+        },
+        "2-2": {
+          "description": "Golpe Chocante: Você fica desorientado e abalado. Descreva como volta a se concentrar. Role 1d6. Se o total for maior que seus PG máximos, adote o novo resultado."
+        },
+        "3-3": {
+          "description": "Sacudido: Você é lançado longe e cai de cara no chão, sem fôlego. Você fica privado até descansar por algumas horas. Depois, role 1d6 e adicione esse valor aos seus PG máximos."
+        },
+        "4-4": {
+          "description": "Membro Quebrado: Role 1d6. 1-2: Perna, 3-4: Braço, 5: Costela, 6: Crânio. Uma vez curado, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado."
+        },
+        "5-5": {
+          "description": "Doente: Você é afligido por uma infecção grotesca e desconfortável. Quando se recuperar, role 2d6. Se o total for maior que seus PG máximos, adote o novo resultado."
+        },
+        "6-6": {
+          "description": "Ferimento Desorientador na Cabeça: Role 1d6. 1-2: FOR, 3-4: DES, 5-6: VON. Role 3d6. Se o total for maior que seu atributo atual, adote o novo resultado."
+        },
+        "7-7": {
+          "description": "Tendão Partido: Você mal consegue se mover até receber ajuda séria e descanso. Após se recuperar, role 3d6. Se o total for maior que sua DES máxima, adote o novo resultado."
+        },
+        "8-8": {
+          "description": "Ensurdecido: Você não consegue ouvir nada até encontrar ajuda extraordinária. De qualquer forma, faça uma salvaguarda de VON. Se passar, aumente sua VON máxima em 1d4."
+        },
+        "9-9": {
+          "description": "Reconfiguração Mental: Alguma parte oculta da sua psique se solta. Role 3d6. Se o total for maior que sua VON máxima, adote o novo resultado."
+        },
+        "10-10": {
+          "description": "Membro Estropiado: Um membro é arrancado, aleijado ou inutilizado. (O Guardião dirá qual.) Então faça uma salvaguarda de VON. Se passar, aumente sua VON máxima em 1d6."
+        },
+        "11-11": {
+          "description": "Ferimento Mortal: Você fica privado e fora de ação. Você morre em uma hora, a menos que seja curado. Após se recuperar, role 2d6. Adote o novo resultado como seus PG máximos."
+        },
+        "12-12": {
+          "description": "Condenado: A morte esteve muito perto, mas de alguma forma você sobreviveu. Se sua próxima salvaguarda contra dano crítico falhar, você terá uma morte horrível. Se passar, role 3d6. Se o total for maior que seus PG máximos, adote o novo resultado."
+        }
+      }
+    }
+  }
+}

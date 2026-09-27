@@ -1,0 +1,29 @@
+{
+  "label": "Armaduras",
+  "entries": {
+    "Brigandine": {
+      "name": "Brigantina",
+      "description": "<p>Brigantina (1 Armadura, <em>volumosa</em>)</p>"
+    },
+    "Chainmail": {
+      "name": "Cota de Malha",
+      "description": "<p>Cota de Malha (2 Armadura, <em>volumosa</em>)</p>"
+    },
+    "Gambeson": {
+      "name": "Gibão",
+      "description": "<p>Gibão (+1 Armadura)</p>"
+    },
+    "Helmet": {
+      "name": "Elmo",
+      "description": "<p>Elmo (+1 Armadura)</p>"
+    },
+    "Plate": {
+      "name": "Armadura de Placas",
+      "description": "<p>Armadura de Placas (3 Armadura, <em>volumosa</em>)</p>"
+    },
+    "Shield": {
+      "name": "Escudo",
+      "description": "<p>Escudo (+1 Armadura)</p>"
+    }
+  }
+}

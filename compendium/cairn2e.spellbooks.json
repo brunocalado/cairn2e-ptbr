@@ -1,0 +1,409 @@
+{
+  "label": "Grimórios",
+  "folders": {
+    "Common (300gp)": "Comum (300po)",
+    "Greater (600gp)": "Superior (600po)"
+  },
+  "entries": {
+    "Adhere": {
+      "name": "Aderência",
+      "description": "<p><em>Objetos próximos grudam no livro com grande força.</em></p><p>Um objeto fica coberto por uma gosma extremamente pegajosa.</p>"
+    },
+    "Anchor": {
+      "name": "Âncora",
+      "description": "<p><em>Se uma corda passar pelo aro de ferro na lombada, ela fica pesada como um elefante.</em></p><p>Um arame resistente brota dos seus braços e se prende a dois pontos a até 15 m de cada lado.</p>"
+    },
+    "Animate Object": {
+      "name": "Animar Objeto",
+      "description": "<p><em>Moldável como argila. Risadas infantis brotam de suas páginas.</em></p><p>Um objeto obedece às suas ordens da melhor forma que puder.</p>"
+    },
+    "Anthropomorphize": {
+      "name": "Antropomorfizar",
+      "description": "<p><em>Choraminga, ronrona e rosna conforme é tratado.</em></p><p>Um animal ganha inteligência humana ou aparência humana por um dia.</p>"
+    },
+    "Arcane Eye": {
+      "name": "Olho Arcano",
+      "description": "<p><em>Precisa de um borrifo de água para abrir.</em></p><p>Você enxerga através de um globo ocular mágico flutuante que voa ao seu comando.</p>"
+    },
+    "Astral Prison": {
+      "name": "Prisão Astral",
+      "description": "<p><em>Silenciosos e abstratos, rostos gritam em agonia lá dentro.</em></p><p>Um objeto fica congelado no tempo e no espaço dentro de uma casca de cristal invulnerável.</p>"
+    },
+    "Attract": {
+      "name": "Atração",
+      "description": "<p><em>Bússolas próximas giram sem rumo.</em></p><p>Dois objetos se atraem com forte magnetismo se ficarem a até 3 m um do outro.</p>"
+    },
+    "Auditory Illusion": {
+      "name": "Ilusão Auditiva",
+      "description": "<p><em>Produz sons aleatórios, e às vezes inoportunos, ao longo do dia.</em></p><p>Você cria sons ilusórios que parecem vir de uma direção à sua escolha.</p>"
+    },
+    "Babble": {
+      "name": "Balbucio",
+      "description": "<p><em>Quando o texto é lido em voz alta, as palavras dos outros ficam ininteligíveis.</em></p><p>Uma criatura deve repetir, alto e claro, tudo o que você pensa. Fora isso, fica muda.</p>"
+    },
+    "Bait Flower": {
+      "name": "Flor-Isca",
+      "description": "<p><em>Atrai moscas.</em></p><p>Brota do chão uma planta que exala cheiro de carne em decomposição.</p>"
+    },
+    "Beast Form": {
+      "name": "Forma Bestial",
+      "description": "<p><em>Coberto de pelo espesso, com as bordas repletas de dentinhos.</em></p><p>Você e seus pertences se transformam em um animal comum.</p>"
+    },
+    "Befuddle": {
+      "name": "Confusão",
+      "description": "<p><em>Seu conteúdo muda e se altera a cada vez que é aberto.</em></p><p>Uma criatura à sua escolha não consegue formar novas memórias de curto prazo enquanto a magia durar.</p>"
+    },
+    "Body Swap": {
+      "name": "Troca de Corpos",
+      "description": "<p><em>A capa mostra a imagem da última criatura que o leu.</em></p><p>Você troca de corpo com uma criatura que tocar. Se um dos corpos morrer, o outro também morre.</p>"
+    },
+    "Charm": {
+      "name": "Enfeitiçar",
+      "description": "<p><em>Morno ao toque, com cheiro de rosas.</em></p><p>Uma criatura que você possa ver o trata como amigo.</p>"
+    },
+    "Command": {
+      "name": "Comando",
+      "description": "<p><em>Fica mais fino com o tempo, até finalmente desaparecer para sempre.</em></p><p>Um alvo obedece a uma única ordem de três palavras que não lhe cause mal.</p>"
+    },
+    "Comprehend": {
+      "name": "Compreensão",
+      "description": "<p><em>Pinga letras, manchando tudo o que toca.</em></p><p>Você se torna fluente em todos os idiomas por um curto período.</p>"
+    },
+    "Cone of Foam": {
+      "name": "Cone de Espuma",
+      "description": "<p><em>Esponjoso e úmido, com um resíduo de sabão.</em></p><p>Uma espuma densa jorra da sua mão, cobrindo o alvo.</p>"
+    },
+    "Control Plants": {
+      "name": "Controlar Plantas",
+      "description": "<p><em>Folhas crescem ao longo da lombada, e ele cheira levemente a podridão.</em></p><p>Plantas e árvores próximas obedecem a você e ganham a capacidade de se mover lentamente.</p>"
+    },
+    "Control Weather": {
+      "name": "Controlar o Clima",
+      "description": "<p><em>Altamente resistente a danos por fogo e água.</em></p><p>Você pode alterar o tipo de clima à vontade, mas não o controla de outra forma.</p>"
+    },
+    "Cure Wounds": {
+      "name": "Curar Ferimentos",
+      "description": "<p><em>Cheira a vinagre e tomilho. Fica vermelho após o uso.</em></p><p>Restaura 1d4 de FOR por dia a uma criatura que você possa tocar.</p>"
+    },
+    "Deafen": {
+      "name": "Ensurdecer",
+      "description": "<p><em>Instrumentos próximos às vezes soam sozinhos, como em protesto.</em></p><p>Todas as criaturas próximas ficam surdas.</p>"
+    },
+    "Detect Magic": {
+      "name": "Detectar Magia",
+      "description": "<p><em>Fica morno ao toque se magia for usada por perto.</em></p><p>Você pode ver ou ouvir auras mágicas próximas.</p>"
+    },
+    "Disassemble": {
+      "name": "Desmontar",
+      "description": "<p><em>Regenera páginas rasgadas ou rabiscadas.</em></p><p>Qualquer parte do seu corpo pode ser destacada e recolocada à vontade, sem causar dor ou dano. Você ainda pode controlá-las.</p>"
+    },
+    "Disguise": {
+      "name": "Disfarce",
+      "description": "<p><em>A superfície é um espelho perfeito.</em></p><p>Você pode alterar a aparência de um personagem à vontade, desde que continue humanoide. Tentativas de imitar outros personagens parecerão estranhas.</p>"
+    },
+    "Displace": {
+      "name": "Deslocamento",
+      "description": "<p><em>Às vezes há pedaços de barbante, roupas e folhas enfiados dentro dele.</em></p><p>Um objeto parece estar a até 4,5 m de sua posição real.</p>"
+    },
+    "Earthquake": {
+      "name": "Terremoto",
+      "description": "<p><em>Areia escorre dos cantos, aparentemente sem parar.</em></p><p>O chão começa a tremer violentamente. Estruturas podem ser danificadas ou desabar.</p>"
+    },
+    "Elasticity": {
+      "name": "Elasticidade",
+      "description": "<p><em>Cheira a puxa-puxa e é muito flexível.</em></p><p>Seu corpo pode se esticar até 3 m.</p>"
+    },
+    "Elemental Wall": {
+      "name": "Muralha Elemental",
+      "description": "<p><em>Pele e substâncias mais quentes grudam nele após o uso.</em></p><p>Uma muralha reta de gelo ou fogo, com 15 m de comprimento e 3 m de altura, ergue-se do chão.</p>"
+    },
+    "Filch": {
+      "name": "Surrupiar",
+      "description": "<p><em>O bem mais precioso de um aliado às vezes aparece enfiado entre suas capas.</em></p><p>Um item visível se teletransporta para as suas mãos.</p>"
+    },
+    "Fish Lung": {
+      "name": "Pulmão de Peixe",
+      "description": "<p><em>Cheira fortemente a mar. Atrai animais selvagens.</em></p><p>Um alvo pode respirar debaixo d’água até voltar à superfície.</p>"
+    },
+    "Flare": {
+      "name": "Sinalizador",
+      "description": "<p><em>Brilha fracamente na escuridão total.</em></p><p>Uma bola de energia brilhante dispara um rastro de luz para o céu, revelando sua localização a amigos e inimigos.</p>"
+    },
+    "Fog Cloud": {
+      "name": "Nuvem de Névoa",
+      "description": "<p><em>Quando submerso, o livro acaba transformando todo o líquido em vapor.</em></p><p>Uma névoa densa se espalha a partir de você.</p>"
+    },
+    "Frenzy": {
+      "name": "Frenesi",
+      "description": "<p><em>Capa áspera como lixa, que destrói qualquer livro que toque.</em></p><p>Uma criatura próxima explode em um frenesi de violência.</p>"
+    },
+    "Gate": {
+      "name": "Portal",
+      "description": "<p><em>Um grande buraco é entalhado no centro, terminando em um vazio. Itens jogados nele nunca mais são vistos.</em></p><p>Abre-se um portal para um plano aleatório.</p>"
+    },
+    "Gravity Shift": {
+      "name": "Mudar Gravidade",
+      "description": "<p><em>Prende-se ao maior objeto por perto.</em></p><p>Você pode mudar a direção da gravidade, mas só para si mesmo.</p>"
+    },
+    "Greed": {
+      "name": "Ganância",
+      "description": "<p><em>A capa muda conforme o dono, insinuando sutilmente seus desejos mais profundos.</em></p><p>Uma criatura sente um desejo avassalador de possuir um item visível à sua escolha.</p>"
+    },
+    "Haste": {
+      "name": "Velocidade",
+      "description": "<p><em>As páginas viram freneticamente quando aberto. Pode causar cortes de papel.</em></p><p>Seu deslocamento é triplicado.</p>"
+    },
+    "Hatred": {
+      "name": "Ódio",
+      "description": "<p><em>Exposição prolongada ao livro pode causar desconfiança, paranoia e descrença nos outros.</em></p><p>Uma criatura desenvolve um ódio profundo por outra criatura ou grupo e deseja destruí-los.</p>"
+    },
+    "Hear Whispers": {
+      "name": "Ouvir Sussurros",
+      "description": "<p><em>A voz do leitor fica amplificada por um curto período depois.</em></p><p>Você ouve sons fracos com clareza.</p>"
+    },
+    "Hover": {
+      "name": "Flutuar",
+      "description": "<p><em>Flutua se derrubado.</em></p><p>Um objeto paira, sem atrito, a 60 cm do chão. Ele suporta até um humanoide.</p>"
+    },
+    "Hypnotize": {
+      "name": "Hipnotizar",
+      "description": "<p><em>Espirais rodopiantes e chamativas adornam suas capas.</em></p><p>Uma criatura entra em transe e responderá com sinceridade a uma pergunta de sim ou não que você fizer.</p>"
+    },
+    "Icy Touch": {
+      "name": "Toque Gélido",
+      "description": "<p><em>Exige luvas. Não inflamável.</em></p><p>Uma camada grossa de gelo se espalha pela superfície tocada, num raio de até 3 m.</p>"
+    },
+    "Identify Owner": {
+      "name": "Identificar Dono",
+      "description": "<p><em>O interior do livro traz o nome do seu dono anterior.</em></p><p>Letras surgem sobre o objeto que você tocar, soletrando o nome dos donos dele, se houver.</p>"
+    },
+    "Illuminate": {
+      "name": "Iluminar",
+      "description": "<p><em>Quando exposto à luz, as páginas viram um prisma de arco-íris vibrantes.</em></p><p>Uma luz flutuante se move conforme você ordena.</p>"
+    },
+    "Invisible Tether": {
+      "name": "Amarra Invisível",
+      "description": "<p><em>Suas páginas não são presas por cola ou linha, mas ainda assim continuam unidas.</em></p><p>Dois objetos a até 3 m um do outro não podem ser afastados mais de 3 m.</p>"
+    },
+    "Knock": {
+      "name": "Arrombar",
+      "description": "<p><em>Trancado. Um novo dono “produz” a chave após a próxima refeição.</em></p><p>Uma fechadura próxima, comum ou mágica, se destranca ruidosamente.</p>"
+    },
+    "Leap": {
+      "name": "Salto",
+      "description": "<p><em>Quando arremessado, simplesmente não para.</em></p><p>Você salta até 3 m de altura, uma vez.</p>"
+    },
+    "Liquid Air": {
+      "name": "Ar Líquido",
+      "description": "<p><em>Flutua por vontade própria, quicando em tudo o que toca.</em></p><p>O ar ao seu redor se torna nadável.</p>"
+    },
+    "Magic Dampener": {
+      "name": "Supressão Mágica",
+      "description": "<p><em>Relíquias a até 30 m do grimório não podem ser recarregadas.</em></p><p>Todos os efeitos mágicos próximos têm sua eficácia reduzida à metade.</p>"
+    },
+    "Manse": {
+      "name": "Mansão",
+      "description": "<p><em>Se for deixado lá dentro, o livro e o chalé desaparecem para sempre.</em></p><p>Um chalé sólido e mobiliado aparece por horas. Você pode permitir ou proibir a entrada nele à vontade.</p>"
+    },
+    "Marble Craze": {
+      "name": "Mania de Gude",
+      "description": "<p><em>Quando sacudido, faz um chacoalhar brincalhão.</em></p><p>Seus bolsos se enchem de bolinhas de gude e se reabastecem a cada 30 segundos.</p>"
+    },
+    "Masquerade": {
+      "name": "Mascarada",
+      "description": "<p><em>O uso prolongado faz o dono desenvolver tiques inconscientes, porém perceptíveis.</em></p><p>A aparência e a voz de um personagem se tornam idênticas às de um personagem que você tocar.</p>"
+    },
+    "Miniaturize": {
+      "name": "Miniaturizar",
+      "description": "<p><em>O texto é ridiculamente, comicamente grande.</em></p><p>Uma criatura que você tocar encolhe até o tamanho de um rato.</p>"
+    },
+    "Mirror Image": {
+      "name": "Imagem Espelhada",
+      "description": "<p><em>Com o tempo, o dono começa a questionar quem é o original e quem é a cópia.</em></p><p>Uma cópia ilusória de você aparece e fica sob seu controle.</p>"
+    },
+    "Mirrorwalk": {
+      "name": "Passo de Espelho",
+      "description": "<p><em>Não abre a menos que o dono bata educadamente na capa.</em></p><p>Um espelho se torna uma passagem para outro espelho em que você se olhou hoje.</p>"
+    },
+    "Multiarm": {
+      "name": "Multibraço",
+      "description": "<p><em>Após o uso, o conjurador sofre com a síndrome do membro fantasma por um dia.</em></p><p>Você ganha temporariamente um braço extra.</p>"
+    },
+    "Night Sphere": {
+      "name": "Esfera Noturna",
+      "description": "<p><em>Exibe uma constelação proeminente na capa.</em></p><p>Uma esfera de escuridão com 15 m de largura, mostrando o céu noturno, aparece diante de você.</p>"
+    },
+    "Objectify": {
+      "name": "Forma de Objeto",
+      "description": "<p><em>O dono sofre de pareidolia intensa por dias após o uso.</em></p><p>Você se transforma em qualquer objeto inanimado entre o tamanho de um piano de cauda e o de uma maçã.</p>"
+    },
+    "Ooze Form": {
+      "name": "Forma de Gosma",
+      "description": "<p><em>Pinga lentamente um ácido que acaba corroendo tudo o que toca.</em></p><p>Você se torna uma geleia viva.</p>"
+    },
+    "Pacify": {
+      "name": "Pacificar",
+      "description": "<p><em>Cheira a jasmim e incenso. Atrai crianças.</em></p><p>Uma criatura perto de você passa a ter aversão à violência.</p>"
+    },
+    "Passage": {
+      "name": "Passagem",
+      "description": "<p><em>Um objeto largado sobre o livro inevitavelmente cai pelo outro lado.</em></p><p>Cria uma passagem temporária através de madeira, pedra ou tijolo.</p>"
+    },
+    "Phobia": {
+      "name": "Fobia",
+      "description": "<p><em>Com o tempo, uma arte abstrata e perturbadora começa a preencher suas páginas.</em></p><p>Uma criatura próxima fica aterrorizada por um objeto à sua escolha.</p>"
+    },
+    "Pit": {
+      "name": "Fosso",
+      "description": "<p><em>Um pitão comum pode ser guardado com segurança na lombada.</em></p><p>Um fosso de 3 m de largura e 3 m de profundidade se abre no chão.</p>"
+    },
+    "Primal Surge": {
+      "name": "Surto Primal",
+      "description": "<p><em>O dono é assombrado por visões estranhas dos próprios ancestrais.</em></p><p>Uma criatura evolui rapidamente para uma versão futura de sua espécie.</p>"
+    },
+    "Push/Pull": {
+      "name": "Empurrar/Puxar",
+      "description": "<p><em>Qualquer força contra o livro é comicamente amplificada.</em></p><p>Um objeto de qualquer tamanho é puxado diretamente em sua direção ou empurrado diretamente para longe de você com a força de um homem.</p>"
+    },
+    "Raise Dead": {
+      "name": "Erguer Mortos",
+      "description": "<p><em>O dono fica cada vez mais fascinado por ossos a cada uso.</em></p><p>Um esqueleto se ergue do chão para servi-lo. Ele é incrivelmente estúpido e só obedece a ordens simples.</p>"
+    },
+    "Raise Spirit": {
+      "name": "Erguer Espírito",
+      "description": "<p><em>As respostas (mas não as perguntas) ficam gravadas para sempre em suas páginas.</em></p><p>O espírito de um cadáver próximo se manifesta e responde a 1 pergunta.</p>"
+    },
+    "Read Mind": {
+      "name": "Ler Mentes",
+      "description": "<p><em>A posse prolongada pode fazer o leitor confundir os pensamentos alheios com os seus.</em></p><p>Você ouve os pensamentos superficiais das criaturas próximas.</p>"
+    },
+    "Repel": {
+      "name": "Repulsão",
+      "description": "<p><em>Fechado por duas correias fortes que se abrem nos momentos mais inoportunos.</em></p><p>Dois objetos se repelem com forte magnetismo a até 3 m um do outro.</p>"
+    },
+    "Scry": {
+      "name": "Vidência",
+      "description": "<p><em>Os olhos do dono ficam brancos como leite por uma hora após o uso.</em></p><p>Você enxerga pelos olhos de uma criatura que tocou mais cedo hoje.</p>"
+    },
+    "Sculpt Elements": {
+      "name": "Esculpir Elementos",
+      "description": "<p><em>Deteriora-se aos poucos em contato com madeira ou tecido. Enterre na terra ou mergulhe na água para renová-lo.</em></p><p>Material inanimado se comporta como argila em suas mãos.</p>"
+    },
+    "Sense": {
+      "name": "Sentir",
+      "description": "<p><em>O dono anterior do livro sempre sabe onde o livro está.</em></p><p>Escolha um tipo de objeto (chave, ouro, flecha, jarro etc.). Você sente o exemplar mais próximo.</p>"
+    },
+    "Shield": {
+      "name": "Escudo",
+      "description": "<p><em>Encadernado em cota de anéis enferrujada e bem pesado. Se empunhado, dá +1 Armadura.</em></p><p>Uma criatura que você tocar fica protegida de ataques comuns por um minuto.</p>"
+    },
+    "Shroud": {
+      "name": "Véu",
+      "description": "<p><em>Invisível para todos, exceto o dono atual do livro.</em></p><p>Uma criatura que você tocar fica invisível até se mover.</p>"
+    },
+    "Shuffle": {
+      "name": "Embaralhar",
+      "description": "<p><em>Se roubado e ainda não lido, reaparece onde o dono o deixou por último.</em></p><p>Duas criaturas que você possa ver trocam de lugar instantaneamente.</p>"
+    },
+    "Skillful Repair": {
+      "name": "Reparo Hábil",
+      "description": "<p><em>Costurado com o velino de cem livros, não há duas páginas iguais.</em></p><p>Você faz pequenos reparos em um objeto sem vida.</p>"
+    },
+    "Sleep": {
+      "name": "Sono",
+      "description": "<p><em>Macio como um travesseiro, mas só proporciona um sono agitado.</em></p><p>Uma criatura que você possa ver cai em um sono leve.</p>"
+    },
+    "Slick": {
+      "name": "Escorregadio",
+      "description": "<p><em>Exige luvas para ser manuseado, ou o livro cai da forma mais cômica possível.</em></p><p>Toda superfície num raio de 9 m fica extremamente escorregadia.</p>"
+    },
+    "Smoke Form": {
+      "name": "Forma de Fumaça",
+      "description": "<p><em>Cheira a fogueira. As páginas não queimam, mas são muito sensíveis à umidade.</em></p><p>Seu corpo se torna uma fumaça viva que você pode controlar.</p>"
+    },
+    "Sniff": {
+      "name": "Farejar",
+      "description": "<p><em>Exala um odor forte que só o dono consegue sentir.</em></p><p>Você sente até os mais leves vestígios de cheiros.</p>"
+    },
+    "Snuff": {
+      "name": "Apagar",
+      "description": "<p><em>Se deixado num lugar por muito tempo, fontes de luz próximas enfraquecem até finalmente se apagarem.</em></p><p>A fonte de qualquer luz comum que você possa ver se apaga instantaneamente.</p>"
+    },
+    "Sort": {
+      "name": "Organizar",
+      "description": "<p><em>Endireita-se sozinho quando derrubado ou arremessado.</em></p><p>Itens inanimados se organizam de acordo com as categorias que você definir.</p>"
+    },
+    "Spellsaw": {
+      "name": "Serra Mágica",
+      "description": "<p><em>Envolto em couro manchado, deve ser lubrificado pelo menos uma vez por mês.</em></p><p>Uma lâmina giratória sai voando do seu peito, cortando qualquer vegetação no caminho. Fora isso, é inofensiva.</p>"
+    },
+    "Spider Climb": {
+      "name": "Patas de Aranha",
+      "description": "<p><em>Novas teias de aranha precisam ser afastadas antes de cada uso. São difíceis de remover.</em></p><p>Você pode escalar superfícies como uma aranha.</p>"
+    },
+    "Swarm": {
+      "name": "Enxame",
+      "description": "<p><em>Quebra-se facilmente em uma dúzia de partes que, com o tempo, se movem lentamente umas em direção às outras.</em></p><p>Você se torna um enxame de corvos, ratos ou piranhas. Só pode ser ferido por ataques de <em>explosão</em>.</p>"
+    },
+    "Target Lure": {
+      "name": "Chamariz Mágico",
+      "description": "<p><em>Atrai todo tipo de criatura mágica, vazamento de magia e vidência.</em></p><p>Um objeto que você tocar se torna o alvo de qualquer magia próxima.</p>"
+    },
+    "Telekinesis": {
+      "name": "Telecinesia",
+      "description": "<p><em>O dono pode convocar o livro apenas com um comando mental (salvaguarda de VON ou fica privado depois).</em></p><p>Você pode mover mentalmente 1 item de menos de 30 kg.</p>"
+    },
+    "Telepathy": {
+      "name": "Telepatia",
+      "description": "<p><em>Quem o segura pode ouvir (mas não responder) os pensamentos de quem o possuiu por último, e vice-versa.</em></p><p>Duas criaturas ouvem os pensamentos uma da outra, não importa a distância.</p>"
+    },
+    "Teleport": {
+      "name": "Teletransporte",
+      "description": "<p><em>Pode ser destruído para criar um portal para outra dimensão.</em></p><p>Um objeto ou pessoa que você possa ver é transportado de um lugar para outro num raio de 15 m.</p>"
+    },
+    "Thicket": {
+      "name": "Matagal",
+      "description": "<p><em>Envolto em trepadeiras que precisam ser destruídas de novo a cada uso.</em></p><p>Um matagal de árvores e arbustos densos, com até 15 m de largura, brota de repente.</p>"
+    },
+    "Time Control": {
+      "name": "Controle do Tempo",
+      "description": "<p><em>Alterna sua aparência entre impossivelmente antigo e recém-escrito.</em></p><p>O tempo numa bolha de 15 m desacelera ou acelera em 10% por 30 segundos.</p>"
+    },
+    "True Sight": {
+      "name": "Visão da Verdade",
+      "description": "<p><em>Não pode ser ocultado por magia e chama atenção como um dedão inchado.</em></p><p>Você enxerga através de todas as ilusões próximas.</p>"
+    },
+    "Upwell": {
+      "name": "Nascente",
+      "description": "<p><em>Encadernação de couro endurecido, incrustada de sal e cracas vivas.</em></p><p>Surge uma nascente de água do mar.</p>"
+    },
+    "Vision": {
+      "name": "Visão",
+      "description": "<p><em>Um olho perturbador e sem pálpebras adorna a capa.</em></p><p>Você controla completamente o que uma criatura vê.</p>"
+    },
+    "Visual Illusion": {
+      "name": "Ilusão Visual",
+      "description": "<p><em>Repleto de páginas ricas e coloridas, muito parecidas com uma história infantil de ninar.</em></p><p>Surge uma ilusão silenciosa e imóvel, do tamanho de um cômodo, à sua escolha.</p>"
+    },
+    "Ward": {
+      "name": "Proteção",
+      "description": "<p><em>As capas são decoradas com criaturas bizarras e sobrenaturais com milhares de olhos.</em></p><p>Um círculo prateado de 15 m de diâmetro surge no chão. Escolha uma espécie que não pode atravessá-lo.</p>"
+    },
+    "Web": {
+      "name": "Teia",
+      "description": "<p><em>O texto é estranho, mas de algum modo inteligível, pois é a língua dos sonhos.</em></p><p>Seus pulsos disparam teias grossas.</p>"
+    },
+    "Widget": {
+      "name": "Engenhoca",
+      "description": "<p><em>Cheira a ferro e ferrugem, suor e esforço. Sons fracos de trabalho árduo emanam do fundo de suas páginas.</em></p><p>Uma versão primitiva de uma ferramenta ou item desenhado aparece diante de você e desaparece pouco depois.</p>"
+    },
+    "Wizard Mark": {
+      "name": "Marca do Mago",
+      "description": "<p><em>Dentro da capa há um bolsinho com um bloco fino de papel, listando o nome e a data de morte de todos os donos anteriores.</em></p><p>Seu dedo dispara um jato de tinta cor de ulfogo. Essa tinta só é visível para você e pode ser vista a qualquer distância, mesmo através de objetos sólidos.</p>"
+    },
+    "X-Ray Vision": {
+      "name": "Visão de Raio-X",
+      "description": "<p><em>A exposição prolongada pode causar queda de cabelo, visão turva e fadiga.</em></p><p>Você enxerga através de paredes, terra, roupas etc.</p>"
+    }
+  }
+}
