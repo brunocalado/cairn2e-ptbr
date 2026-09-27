@@ -2068,6 +2068,15 @@
     "TYPES.Item.scar": "058041765f54",
     "TYPES.JournalEntryPage.faction": "f2fd3c3e2916",
     "TYPES.JournalEntryPage.route": "b3e772045c2b",
-    "WIL": "343771dd2164"
+    "WIL": "343771dd2164",
+    "CAIRN.CastNoFatigue": "797c3dcfdbf9",
+    "CAIRN.HpZero.Both": "4ee9d8326a0c",
+    "CAIRN.HpZero.Encumbered": "53b9bee32acf",
+    "CAIRN.HpZero.Panicked": "6260f3e2229e",
+    "CAIRN.Journey.DeprivedAdded": "164da68e7cb2",
+    "CAIRN.Journey.FatigueAdded": "b49e32813a34",
+    "CAIRN.Journey.FatigueLead": "b9ae4717c36c",
+    "CAIRN.Journey.FatigueNoRoom": "80d22374b794",
+    "CAIRN.ReportIssue": "f40b8908b125"
   }
 }

@@ -21,7 +21,6 @@
   "CAIRN.BackgroundNoNames": "Nenhum nome ainda.",
   "CAIRN.BackgroundNoTables": "Arraste uma tabela aqui.",
   "CAIRN.BackgroundStartingGold": "Ouro Inicial",
-  "CAIRN.Backpack": "Mochila",
   "CAIRN.Barter": {
     "Title": "Trocar",
     "Give": "Entregar",
@@ -52,6 +51,7 @@
   "CAIRN.CastDeprivedSkip": "Conjurar sem teste",
   "CAIRN.CastDeprivedTitle": "Conjurando Privado",
   "CAIRN.CastFatigue": "Adiciona uma Fadiga ao inventário.",
+  "CAIRN.CastNoFatigue": "Sem espaço livre, então nenhuma Fadiga foi adicionada. É preciso largar um item para conjurar esta magia.",
   "CAIRN.CastSpell": "Conjurar — leia em voz alta e adicione uma Fadiga",
   "CAIRN.CharacterCreator": {
     "Age": "Idade",
@@ -343,6 +343,11 @@
     "Struck": "Atingido: {dmg} de dano."
   },
   "CAIRN.HitProtection": "PG",
+  "CAIRN.HpZero": {
+    "Both": "0 PG enquanto Em Pânico e Sobrecarregado. PG guardados: {hp}, voltam quando os dois acabarem.",
+    "Encumbered": "0 PG enquanto Sobrecarregado. PG guardados: {hp}, voltam quando deixar de estar Sobrecarregado.",
+    "Panicked": "0 PG enquanto Em Pânico. PG guardados: {hp}, voltam quando o Pânico passar."
+  },
   "CAIRN.Identity": "Identidade",
   "CAIRN.Impaired": "Desvantagem",
   "CAIRN.Incapacitated": "Incapacitado — rastejando, morre em uma hora se não for socorrido.",
@@ -372,6 +377,7 @@
     "CrewUnlinked": "Não adicionados à jornada: {names}. Tokens não vinculados são cópias, então Rações e Fadiga não cairiam em nenhum deles. Marque Vincular Dados do Ator no token protótipo, e em qualquer token já no mapa, e arraste de novo.",
     "DropCrew": "Arraste um personagem, um mercenário, uma montaria ou um grupo inteiro aqui.",
     "Day": "Dia {day}",
+    "DeprivedAdded": "Privado: {names}.",
     "Distance": "Distância",
     "Distances": {
       "long": "Longa",
@@ -386,6 +392,9 @@
     "ExhaustionReminder": "Exaustão — considere adicionar Fadiga, ou gastar uma Ação nos Ermos extra, para:",
     "Explored": "Explorado: {names}.",
     "Fatigue": "Fadiga levada",
+    "FatigueAdded": "Fadiga: {names}.",
+    "FatigueLead": "Cada personagem adiciona uma Fadiga.",
+    "FatigueNoRoom": "Sem espaço livre, então nenhuma Fadiga foi adicionada: {names}. É preciso largar um item para recebê-la.",
     "FewerNeeded": "Um turno a menos necessário",
     "FewerTravelled": "Um turno a menos viajado",
     "GotLost": "O grupo se perdeu. Viaje de novo para achar o caminho.",
@@ -655,6 +664,7 @@
   "CAIRN.RelicHint": "Uma Relíquia não causa Fadiga, tem usos limitados e recarrega quando sua condição é cumprida.",
   "CAIRN.Remove": "Remover",
   "CAIRN.RemoveFatigue": "− Fadiga",
+  "CAIRN.ReportIssue": "Relatar um Problema",
   "CAIRN.RerollNpc": "Rerrolar PNJ",
   "CAIRN.RerollNpcConfirm": "Rolar de novo os atributos, traços, antecedente ou ofício deste PNJ, e o equipamento que recebeu? Nome, retrato, token, descrição e itens adicionados à mão são mantidos.",
   "CAIRN.Rest": "Descansar",
