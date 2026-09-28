@@ -1724,6 +1724,36 @@
           "description": "<p>O grupo encontra comida, tesouro ou outros recursos úteis. O <strong>Guardião</strong> pode, em vez disso, revelar o elemento principal da área.</p>"
         }
       }
+    },
+    "Dungeon Event": {
+      "name": "Evento de Masmorra",
+      "description": "<p>O Guardião rola nesta tabela quando o grupo passa mais de um ciclo de masmorra numa mesma sala ou local, atravessa uma sala depressa ou sem cuidado, entra numa nova área, nível ou zona, ou provoca um barulho alto.</p>",
+      "results": {
+        "1-1": {
+          "name": "Encontro",
+          "description": "<p>Role numa tabela de encontros. Possivelmente <strong>hostil</strong>. (Veja Reações.)</p>"
+        },
+        "2-2": {
+          "name": "Sinal",
+          "description": "<p>O grupo descobre uma pista, rastro, pegada, covil abandonado, cheiro, vítima etc.</p>"
+        },
+        "3-3": {
+          "name": "Ambiente",
+          "description": "<p>O entorno muda ou se agrava. A água sobe, tetos desabam, um ritual se aproxima do fim etc.</p>"
+        },
+        "4-4": {
+          "name": "Perda",
+          "description": "<p>Tochas se apagam, uma magia em curso se desfaz etc. O grupo precisa resolver o efeito antes de seguir em frente.</p>"
+        },
+        "5-5": {
+          "name": "Exaustão",
+          "description": "<p>O grupo precisa descansar (o que provoca outra rolagem nesta tabela), adicionar uma <strong>Fadiga</strong> ou consumir uma ração.</p>"
+        },
+        "6-6": {
+          "name": "Calmaria",
+          "description": "<p>O grupo é deixado em paz (e em segurança) por enquanto.</p>"
+        }
+      }
     }
   }
 }

@@ -1,3 +1,16 @@
+# 0.0.4
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.0.5.** Traduz os textos novos do sistema: a exploração de masmorra no rastreador de combate (declarações, ações, gatilhos do Evento de Masmorra, Fadiga e Rações da Exaustão), o dano de armadilha que sai de um atributo em vez dos PG (o link no texto e os botões do card), a entrega de equipamento arrastado para o token de outro PJ e o aviso de que uma Fadiga não pode ir para um recipiente.
+* A tabela **Evento de Masmorra** no compêndio do Guardião.
+
+  Agora o módulo exige o Cairn 2e 0.0.5 ou mais novo.
+
+### Removido
+
+* O aviso de troca "Há algo dentro que não pode ser entregue", que saiu do sistema.
+
 # 0.0.3
 
 ### Adicionado
