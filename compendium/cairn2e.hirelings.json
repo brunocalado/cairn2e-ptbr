@@ -32,8 +32,8 @@
       }
     },
     "Animal Handler": {
-      "name": "Tratador de Animais",
-      "career": "Tratador de Animais",
+      "name": "Tratador de Feras",
+      "career": "Tratador de Feras",
       "items": {
         "Rations": {
           "name": "Rações",
@@ -313,8 +313,8 @@
       }
     },
     "Veteran Bodyguard": {
-      "name": "Guarda-Costas Veterano",
-      "career": "Guarda-Costas Veterano",
+      "name": "Guarda-Costas Sênior",
+      "career": "Guarda-Costas Sênior",
       "items": {
         "Rations": {
           "name": "Rações",

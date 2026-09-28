@@ -366,7 +366,7 @@
   "CAIRN.Hireling": {
     "Career": {
       "Alchemist": "Alquimista",
-      "AnimalHandler": "Tratador de Animais",
+      "AnimalHandler": "Tratador de Feras",
       "Blacksmith": "Ferreiro",
       "Bodyguard": "Guarda-Costas",
       "LocalGuide": "Guia Local",
@@ -376,7 +376,7 @@
       "Scholar": "Erudito",
       "Tracker": "Rastreador",
       "Trapper": "Armadilheiro",
-      "VeteranBodyguard": "Guarda-Costas Veterano"
+      "VeteranBodyguard": "Guarda-Costas Sênior"
     }
   },
   "CAIRN.Hit": {

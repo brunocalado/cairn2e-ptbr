@@ -7,6 +7,10 @@
 
   Agora o módulo exige o Cairn 2e 0.0.5 ou mais novo.
 
+### Alterado
+
+* Dois mercenários com nomes mais curtos, para caber na ficha: **Tratador de Feras** (era Tratador de Animais) e **Guarda-Costas Sênior** (era Guarda-Costas Veterano).
+
 ### Removido
 
 * O aviso de troca "Há algo dentro que não pode ser entregue", que saiu do sistema.
