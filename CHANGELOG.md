@@ -1,3 +1,11 @@
+# 0.0.6
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.0.7.** Traduz o aviso de quando uma fonte de luz acesa (Tocha, Lanterna, Capacete com Vela, Vela Suga-Luz) chega apagada a outro personagem.
+
+  Agora o módulo exige o Cairn 2e 0.0.7 ou mais novo.
+
 # 0.0.5
 
 ### Adicionado

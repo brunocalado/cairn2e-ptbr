@@ -2,7 +2,7 @@
   "id": "cairn2e-ptbr",
   "title": "Cairn 2e - Tradução para Português (Brasil)",
   "description": "<p>Adiciona o idioma Português (Brasil) ao sistema Cairn 2e: interface e compêndios (via Babele).</p><p>Traduz somente o sistema Cairn 2e, não a interface principal do Foundry VTT.</p>",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "compatibility": {
     "minimum": "14",
     "verified": "14.368"
@@ -33,7 +33,7 @@
         "id": "cairn2e",
         "type": "system",
         "compatibility": {
-          "minimum": "0.0.6"
+          "minimum": "0.0.7"
         }
       }
     ],
