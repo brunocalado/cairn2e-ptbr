@@ -40,6 +40,7 @@
     "Refused": "A troca foi recusada — nada mudou de mãos.",
     "LeftBehind": "Sem espaço em {name} para: {names}. Fica com você.",
     "CoinLeftBehind": "Sem espaço em {name} para {amount} po. Fica com você.",
+    "LightOut": "{item} chega a {name} sem chama.",
     "Flavor": "{from} entrega a {to}",
     "Bodily": "{name} é parte de quem o tem — não pode mudar de mãos."
   },
