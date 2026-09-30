@@ -829,29 +829,29 @@
       "Title": "Privação e Fadiga",
       "Deprived": "Um PJ sem uma necessidade vital, como comida ou descanso, fica <strong>Privado</strong> e não pode recuperar PG, Atributos nem Fadiga.",
       "Days": "Privado por mais de um dia: adicione uma <strong>Fadiga</strong> por dia.",
-      "Fatigue": "Conjurar magias e acontecimentos da ficção também adicionam Fadiga. Cada uma ocupa um espaço até o PJ se recuperar, como com uma noite inteira de descanso em local seguro.",
+      "Fatigue": "Magias e acontecimentos da ficção também dão Fadiga. Cada uma ocupa um espaço até o PJ se recuperar, como com uma noite inteira de descanso em local seguro.",
       "NoRoom": "Sem espaço livre para uma Fadiga: largue um item."
     },
     "Panic": {
       "Title": "Pânico",
-      "When": "Cercado por inimigos, envolto em escuridão ou diante de seus maiores medos, o personagem faz um teste de VON ou fica <em>em pânico</em>. Estar sem fonte de luz também pode causar isso.",
+      "When": "Cercado por inimigos, no escuro ou diante de seus maiores medos, o personagem testa VON ou fica <em>em pânico</em>. Estar sem luz também pode causar isso.",
       "Effect": "Um personagem em pânico tem 0 PG, não age na primeira rodada de combate e todos os seus ataques são <em>com desvantagem</em>. Um teste de VON como sua ação o supera."
     },
     "Combat": {
       "Title": "Combate",
       "Round": "Uma rodada dura cerca de dez segundos. Os PJs agem primeiro, depois os oponentes; as ações de cada lado são simultâneas.",
       "First": "Na primeira rodada, cada PJ precisa passar num teste de DES para agir, ou perde o turno.",
-      "Turn": "No seu turno, um personagem se move até 12 m e faz uma ação. As ações são declaradas antes de rolar os dados; algo arriscado pede um teste.",
+      "Turn": "No seu turno, um personagem se move até 12 m e faz uma ação, declarada antes de rolar os dados; algo arriscado pede um teste.",
       "Hit": "Ataques sempre acertam: role o dado da arma, subtraia a Armadura do alvo e aplique o resto aos PG.",
-      "Many": "Vários atacantes contra um só inimigo rolam todos os dados e ficam com o maior. Duas armas ao mesmo tempo: role as duas, fique com o maior.",
-      "Modifiers": "Ataques <em>com desvantagem</em> (fraqueza, cobertura, mãos atadas, alvos muito distantes) e ataques desarmados rolam d4. Ataques <em>com vantagem</em> (posição favorável, inimigo indefeso) rolam d12.",
+      "Many": "Vários atacantes contra um só alvo rolam todos os dados e ficam com o maior. Duas armas de uma vez: role as duas, fique com o maior.",
+      "Modifiers": "Ataques <em>com desvantagem</em> (fraqueza, cobertura, mãos atadas, alvo muito distante) e desarmados rolam d4. Ataques <em>com vantagem</em> (posição favorável, inimigo indefeso) rolam d12.",
       "Blast": "Ataques de <em>explosão</em> atingem todos os alvos na área, rolados à parte para cada um.",
-      "Critical": "O dano além de 0 PG sai da FOR, seguido de um teste de FOR com o novo valor para evitar <strong>Dano Crítico</strong>. Um PJ que falha só consegue rastejar e morre em até uma hora se não for estabilizado.",
-      "Retreat": "Recuar sempre pede um teste de DES e um lugar seguro para onde fugir."
+      "Critical": "O dano além de 0 PG sai da FOR; um teste de FOR com o novo valor evita o <strong>Dano Crítico</strong>. Quem falha só rasteja e morre em até uma hora se não for estabilizado.",
+      "Retreat": "Recuar sempre pede um teste de DES e um refúgio seguro."
     },
     "Armor": {
       "Title": "Armadura",
-      "Subtract": "Subtraia a Armadura de toda rolagem de dano antes que ela chegue aos PG.",
+      "Subtract": "Subtraia a Armadura de toda rolagem de dano antes dos PG.",
       "Cap": "Escudos e afins dão seu bônus (+1 Armadura) só enquanto empunhados ou vestidos. Nada pode ter mais de 3 de Armadura."
     },
     "Magic": {
