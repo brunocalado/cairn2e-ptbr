@@ -1,0 +1,80 @@
+{
+  "label": "Companheiros",
+  "entries": {
+    "Blood Pail Servant": {
+      "name": "Servo do Balde",
+      "items": {
+        "Shard Fists": {
+          "name": "Punhos-Estilhaço",
+          "description": "<p>punhos de estilhaços (d8+d8)</p>"
+        },
+        "Raised by emptying a Blood Pail, built from whatever is buried below.": {
+          "name": "Erguido ao esvaziar um Balde de Sangue, feito do que estiver enterrado abaixo."
+        },
+        "Only one servant can be raised at a time.": {
+          "name": "Só um servo pode ser erguido por vez."
+        },
+        "If destroyed, the one who raised it permanently loses 1d4 STR.": {
+          "name": "Se for destruído, quem o ergueu perde permanentemente 1d4 FOR."
+        }
+      }
+    },
+    "Falcon": {
+      "name": "Falcão",
+      "items": {
+        "Claws": {
+          "name": "Garras",
+          "description": "<p>garras (d6+d6)</p>"
+        },
+        "Bite": {
+          "name": "Bico",
+          "description": "<p>bico (d8)</p>"
+        },
+        "It only eats live game.": {
+          "name": "Só come caça viva."
+        }
+      }
+    },
+    "Hollow Wolf": {
+      "name": "Lobo Oco",
+      "items": {
+        "Teeth": {
+          "name": "Dentes",
+          "description": "<p>dentes (d6)</p>"
+        },
+        "Loyal to you unto death.": {
+          "name": "Leal a você até a morte."
+        },
+        "A great tunneler.": {
+          "name": "Grande escavador."
+        }
+      }
+    },
+    "Homunculus": {
+      "name": "Homúnculo",
+      "items": {
+        "A miniature clay replica of you that follows your every command.": {
+          "name": "Uma réplica sua em miniatura, de argila, que segue todos os seus comandos."
+        },
+        "It hates being enthralled to you and complains bitterly whenever possible.": {
+          "name": "Odeia estar sob sua servidão e reclama amargamente sempre que possível."
+        },
+        "Any damage done to the homunculus is also done to you.": {
+          "name": "Qualquer dano causado ao homúnculo também é causado a você."
+        }
+      }
+    },
+    "Raven Familiar": {
+      "name": "Corvo Familiar",
+      "items": {
+        "Beak": {
+          "name": "Bico",
+          "description": "<p>bico (d6)</p>"
+        },
+        "It speaks as an intelligent being and is entirely devoted to you.": {
+          "name": "Fala como um ser inteligente e é totalmente devotado a você."
+        }
+      }
+    }
+  }
+}

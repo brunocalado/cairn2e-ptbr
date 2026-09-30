@@ -1,7 +1,7 @@
 {
   "CAIRN.Actions": {
     "Title": "Ações",
-    "Tooltip": "Trocar, Sussurrar e as macros do Guardião",
+    "Tooltip": "Trocar, o resumo das regras, Sussurrar e as macros do Guardião",
     "Macros": "Macros",
     "MacroMissing": "Essa macro não existe mais."
   },
@@ -16,6 +16,7 @@
   "CAIRN.ApplyAttributeDamageNoArmor": "Aplicar em {key}, sem ajuda da armadura",
   "CAIRN.ApplyDamage": "Aplicar dano",
   "CAIRN.Armor": "Armadura",
+  "CAIRN.Aside": "À Parte",
   "CAIRN.Background": "Antecedente",
   "CAIRN.BackgroundBrokenRef": "Documento ausente",
   "CAIRN.BackgroundHint": "Um Antecedente traz uma lista de nomes, uma lista de equipamento inicial e duas tabelas d6.",
@@ -40,11 +41,12 @@
     "LeftBehind": "Sem espaço em {name} para: {names}. Fica com você.",
     "CoinLeftBehind": "Sem espaço em {name} para {amount} po. Fica com você.",
     "Flavor": "{from} entrega a {to}",
-    "GearOnly": "Só equipamento pode ser entregue num token — moedas vão por quantia, na janela Trocar.",
-    "CharactersOnly": "{name} não é um personagem de jogador — as coisas são entregues entre personagens."
+    "Bodily": "{name} é parte de quem o tem — não pode mudar de mãos."
   },
-  "CAIRN.Belongings": "Pertences",
   "CAIRN.Blast": "Explosão",
+  "CAIRN.BlastHint": "Atinge todos os alvos na área, com o dano rolado à parte para cada um. Sem número indicado, o dado de dano diz quantos.",
+  "CAIRN.Body": "Corpo",
+  "CAIRN.BodyHint": "Parte do corpo — garras, uma mordida, um braço de metal no ombro. Não ocupa espaço, está sempre à mão e não pode ser deixado de lado, guardado, entregue nem vendido.",
   "CAIRN.Bond": "Vínculo",
   "CAIRN.Bulky": "Volumoso",
   "CAIRN.Capacity": "Capacidade",
@@ -60,6 +62,12 @@
     "Age": "Idade",
     "Apply": "Aplicar",
     "ApplyWarning": "Substitui nome, atributos, identidade e itens de {name}. Recipientes e o que eles guardam são mantidos.",
+    "AttrHelp": {
+      "DEX": "<strong>Destreza</strong> — testes que pedem equilíbrio, rapidez ou reflexos: esquivar, escalar, esgueirar-se, equilibrar-se. Agir na primeira rodada de combate e fugir do perigo pedem um teste de DES. Com 0 DES você fica paralisado.",
+      "Label": "Para que serve {attr}",
+      "STR": "<strong>Força</strong> — testes que pedem vigor físico: erguer portões, entortar barras, resistir a venenos. O dano além de 0 PG sai da FOR, seguido de um teste de FOR para evitar dano crítico. Com 0 FOR você morre.",
+      "WIL": "<strong>Vontade</strong> — testes para persuadir, enganar, interrogar, intimidar, encantar, provocar ou manipular magias. Uma magia conjurada enquanto Privado ou em perigo pode pedir um teste de VON. Com 0 VON você fica delirante."
+    },
     "Attributes": "Atributos",
     "Back": "Voltar",
     "Background": "Role ou escolha um Antecedente",
@@ -173,7 +181,8 @@
   "CAIRN.Details": "Detalhes",
   "CAIRN.Dice": {
     "Group": "Cairn 2e",
-    "Preset": "Dados de Cairn"
+    "Preset": "Dados de Cairn",
+    "Theme": "Lua de Sangue de Cairn"
   },
   "CAIRN.DieOfFate": "Dado de Sorte",
   "CAIRN.DropBackground": "Arraste um Antecedente aqui",
@@ -581,6 +590,7 @@
     "SummaryResolved": "{count} item(ns) correspondeu(ram) a uma entrada de compêndio",
     "SummaryTitle": "Importação do Kettlewright — {name}"
   },
+  "CAIRN.MacroFolder": "Cairn 2e",
   "CAIRN.Magic": "Magia",
   "CAIRN.MagicKind": {
     "none": "Nenhuma",
@@ -612,6 +622,7 @@
   "CAIRN.NewFeature": "Nova Habilidade",
   "CAIRN.NewItem": "Novo(a) {type}",
   "CAIRN.NoBelongings": "Nada deixado de lado.",
+  "CAIRN.NoBody": "Nada corporal — nem mesmo os punhos.",
   "CAIRN.NoFeatures": "Sem habilidades.",
   "CAIRN.NoItemToDelete": "Item a apagar não encontrado.",
   "CAIRN.NoItems": "Nada carregado.",
@@ -630,12 +641,16 @@
     "CreatorRollsReset": "{name} pode rolar atributos, PG e a troca de novo.",
     "DeprivedNoRecovery": "Um personagem Privado não pode recuperar PG, Atributos ou Fadiga.",
     "GrowthNotGiven": "Um Crescimento é conquistado, não dado — adicione-o pela aba Crescimento do personagem.",
+    "HotbarsNoMacros": "Nenhuma das macros de jogador está no diretório de Macros deste mundo — importe-as do compêndio de Macros primeiro.",
+    "HotbarsReset": "Macros de jogador colocadas em {count} barra(s) de atalhos.",
+    "HotbarsWardenOnly": "Só o Guardião pode repor as barras de atalhos dos jogadores.",
     "MacroItemMissing": "{actor} não tem item chamado {item}.",
     "MacroNoTarget": "Selecione um token, ou tenha um personagem atribuído a você.",
     "MacroOwnedItemsOnly": "Você só pode criar botões de macro para Itens que possui.",
     "MacroWeaponsOnly": "Macros só funcionam com armas.",
     "MissingStartingGear": "Um item do equipamento inicial não foi encontrado e foi ignorado: {uuid}",
     "FatigueNotStowed": "Uma Fadiga ocupa sempre um dos dez espaços — não pode ir para um recipiente.",
+    "BodilyNotStowed": "{name} é parte do corpo — não pode ir para um recipiente.",
     "NestingTooDeep": "{name} guarda coisas, então só pode ir num recipiente que esteja no corpo — não num que esteja ele mesmo guardado.",
     "NoRoom": "Sem espaço: {name} precisa de {need} espaço(s) e restam {free}.",
     "NotAContainer": "{name} só pode ir dentro de um recipiente.",
@@ -645,6 +660,8 @@
     "DefaultName": "PNJ sem nome"
   },
   "CAIRN.Omen": "Presságio",
+  "CAIRN.Paired": "Pareado",
+  "CAIRN.PairedHint": "O dado é rolado duas vezes e fica o maior — as regras escrevem d8+d8.",
   "CAIRN.Party": {
     "AlreadyAMember": "{name} já está neste grupo.",
     "DeployedOff": "Retido: o token do grupo o deixa onde está. Clique para ele viajar com o grupo.",
@@ -772,6 +789,101 @@
       "Text": "Um personagem em pânico tem 0 PG, não age na primeira rodada de combate, e todos os seus ataques têm desvantagem. Uma salvaguarda de VON como ação o livra disso."
     }
   },
+  "CAIRN.RulesRef": {
+    "Button": "Resumo das Regras",
+    "Shared": "O resumo das regras está aberto na tela de todos os jogadores.",
+    "Title": "Resumo das Regras",
+    "Attributes": {
+      "Title": "Atributos",
+      "Str": "<strong>Força (FOR)</strong> — vigor físico: erguer portões, entortar barras, resistir a venenos.",
+      "Dex": "<strong>Destreza (DES)</strong> — equilíbrio, rapidez e reflexos: esquivar, escalar, esgueirar-se, equilibrar-se.",
+      "Wil": "<strong>Vontade (VON)</strong> — persuadir, enganar, interrogar, intimidar, encantar, provocar, manipular magias.",
+      "Outside": "O dano sofrido fora de combate vai para um Atributo, em geral a FOR.",
+      "Zero": "Com 0 FOR um PJ morre, com 0 DES fica paralisado e com 0 VON fica delirante."
+    },
+    "Saves": {
+      "Title": "Testes",
+      "Roll": "Role um d20 contra o Atributo: igual ou abaixo é sucesso, acima é falha. Um 1 sempre é sucesso e um 20 sempre é falha.",
+      "When": "Um teste evita a consequência ruim de uma escolha arriscada.",
+      "Contest": "Quando dois oponentes tentam superar um ao outro, quem corre mais risco faz o teste.",
+      "Together": "Quando personagens agem juntos, quem corre mais risco faz o teste — em geral o menor Atributo relevante."
+    },
+    "Hp": {
+      "Title": "Pontos de Guarda",
+      "What": "PG é a capacidade de evitar dano em combate, não saúde nem resistência, e nunca se perde por muito tempo.",
+      "Scars": "Um ataque que leva um PJ a exatamente 0 PG é consultado na tabela de Cicatrizes, pelos PG perdidos nesse ataque."
+    },
+    "Healing": {
+      "Title": "Cura e Recuperação",
+      "Hp": "Alguns instantes de descanso e um gole d'água restauram os PG perdidos, mas podem deixar o grupo exposto.",
+      "Bandages": "Bandagens estabilizam um personagem que sofreu dano crítico.",
+      "Attributes": "A perda de Atributo costuma voltar com uma semana de descanso, com a ajuda de um curandeiro ou outro especialista."
+    },
+    "Inventory": {
+      "Title": "Inventário",
+      "Slots": "Dez espaços, mas só quatro ou cinco itens são carregados com conforto sem bolsas, montarias ou carroças. Uma Mochila guarda até seis espaços de itens ou Fadiga.",
+      "Size": "A maioria dos itens ocupa um espaço. Itens <em>miúdos</em> não ocupam nenhum, itens <em>volumosos</em> ocupam dois. Menos de 100 po em moedas é miudeza.",
+      "Full": "Um inventário cheio — todos os dez espaços — reduz um PJ a 0 PG. Ninguém pode ocupar mais de dez."
+    },
+    "Fatigue": {
+      "Title": "Privação e Fadiga",
+      "Deprived": "Um PJ sem uma necessidade vital, como comida ou descanso, fica <strong>Privado</strong> e não pode recuperar PG, Atributos nem Fadiga.",
+      "Days": "Privado por mais de um dia: adicione uma <strong>Fadiga</strong> por dia.",
+      "Fatigue": "Conjurar magias e acontecimentos da ficção também adicionam Fadiga. Cada uma ocupa um espaço até o PJ se recuperar, como com uma noite inteira de descanso em local seguro.",
+      "NoRoom": "Sem espaço livre para uma Fadiga: largue um item."
+    },
+    "Panic": {
+      "Title": "Pânico",
+      "When": "Cercado por inimigos, envolto em escuridão ou diante de seus maiores medos, o personagem faz um teste de VON ou fica <em>em pânico</em>. Estar sem fonte de luz também pode causar isso.",
+      "Effect": "Um personagem em pânico tem 0 PG, não age na primeira rodada de combate e todos os seus ataques são <em>com desvantagem</em>. Um teste de VON como sua ação o supera."
+    },
+    "Combat": {
+      "Title": "Combate",
+      "Round": "Uma rodada dura cerca de dez segundos. Os PJs agem primeiro, depois os oponentes; as ações de cada lado são simultâneas.",
+      "First": "Na primeira rodada, cada PJ precisa passar num teste de DES para agir, ou perde o turno.",
+      "Turn": "No seu turno, um personagem se move até 12 m e faz uma ação. As ações são declaradas antes de rolar os dados; algo arriscado pede um teste.",
+      "Hit": "Ataques sempre acertam: role o dado da arma, subtraia a Armadura do alvo e aplique o resto aos PG.",
+      "Many": "Vários atacantes contra um só inimigo rolam todos os dados e ficam com o maior. Duas armas ao mesmo tempo: role as duas, fique com o maior.",
+      "Modifiers": "Ataques <em>com desvantagem</em> (fraqueza, cobertura, mãos atadas, alvos muito distantes) e ataques desarmados rolam d4. Ataques <em>com vantagem</em> (posição favorável, inimigo indefeso) rolam d12.",
+      "Blast": "Ataques de <em>explosão</em> atingem todos os alvos na área, rolados à parte para cada um.",
+      "Critical": "O dano além de 0 PG sai da FOR, seguido de um teste de FOR com o novo valor para evitar <strong>Dano Crítico</strong>. Um PJ que falha só consegue rastejar e morre em até uma hora se não for estabilizado.",
+      "Retreat": "Recuar sempre pede um teste de DES e um lugar seguro para onde fugir."
+    },
+    "Armor": {
+      "Title": "Armadura",
+      "Subtract": "Subtraia a Armadura de toda rolagem de dano antes que ela chegue aos PG.",
+      "Cap": "Escudos e afins dão seu bônus (+1 Armadura) só enquanto empunhados ou vestidos. Nada pode ter mais de 3 de Armadura."
+    },
+    "Magic": {
+      "Title": "Magia",
+      "Spellbook": "Um <strong>Grimório</strong> contém uma magia e ocupa um espaço.",
+      "Cast": "Qualquer um pode conjurar segurando um Grimório com as duas mãos e lendo-o em voz alta, e então adicionando uma Fadiga.",
+      "Enhance": "Com tempo e segurança, uma magia pode ser ampliada — mais alvos, mais poder — sem custo extra.",
+      "Danger": "Privado ou em perigo, o conjurador pode ter que fazer um teste de VON. A falha custa à altura do efeito pretendido: Fadiga, o grimório, ferimentos, até a morte.",
+      "Scrolls": "<strong>Pergaminhos</strong> são miudezas, não causam Fadiga e somem após um uso.",
+      "Relics": "<strong>Relíquias</strong> não causam Fadiga, têm usos limitados e uma condição de <em>recarga</em>."
+    },
+    "Dungeon": {
+      "Title": "Exploração de Masmorra",
+      "Turn": "No seu turno, um personagem se move cerca de 12 m e faz uma ação, ou gasta a ação para se mover até três vezes essa distância — o que arrisca uma rolagem de Evento de Masmorra.",
+      "Actions": "Ações são qualquer atividade não passiva: vasculhar, forçar portas, escutar, desarmar armadilhas, lutar, conjurar, descansar. As barulhentas podem atrair um encontro, e algumas levam vários turnos.",
+      "Search": "Uma busca minuciosa num objeto ou local leva um turno e revela tesouros escondidos, armadilhas ou portas secretas.",
+      "Rest": "Descansar um turno restaura todos os PG, mas exige luz e um local seguro, e não remove Fadiga."
+    },
+    "Reactions": {
+      "Title": "Reações",
+      "Lead": "Quando a reação de um PNJ não é óbvia, role 2d6:"
+    },
+    "Morale": {
+      "Title": "Moral",
+      "Save": "Inimigos fazem um teste de VON para não fugir na primeira baixa e de novo ao perder metade do grupo. Grupos podem usar a VON do líder; inimigos sozinhos testam ao chegar a 0 PG.",
+      "Pcs": "A Moral não afeta os PJs."
+    },
+    "Fate": {
+      "Title": "Dado de Sorte",
+      "Roll": "Role 1d6 quando um resultado for incerto: 4 ou mais em geral favorece os PJs, 3 ou menos costuma significar azar."
+    }
+  },
   "CAIRN.Save": "Teste de {key}",
   "CAIRN.Scar": {
     "Add": "Cicatriz",
@@ -831,6 +943,10 @@
     "BestiaryArtPath": {
       "Name": "Pasta de arte do bestiário",
       "Hint": "Uma pasta dentro de Data/ com portraits/ e tokens/. Padrão: cairn2e-assets."
+    },
+    "Animations": {
+      "Name": "Animações do Cairn no Automated Animations",
+      "Hint": "Adiciona as armas, os ataques de monstros e as magias do Cairn ao menu de Reconhecimento Automático, com animações do JB2A Patreon e sons do PSFX. Cada entrada é adicionada uma única vez: uma entrada que você editar ou apagar fica assim. Desligar isto impede novas adições; o que já foi adicionado continua no menu."
     }
   },
   "CAIRN.Sidebar": {
@@ -853,7 +969,7 @@
     "Buying": "Comprando",
     "Cart": "Carrinho",
     "CartEmpty": "Arraste coisas aqui, ou clique + numa linha.",
-    "CoinSetAside": "Sem espaço para as moedas onde iam — {amount} peças de ouro foram deixadas de lado entre seus Pertences.",
+    "CoinSetAside": "Sem espaço para as moedas onde iam — {amount} peças de ouro foram deixadas de lado, na sua aba À Parte.",
     "Confirm": "Confirmar",
     "Delete": "Apagar esta loja",
     "DeleteConfirm": "Apagar {name}? Suas prateleiras são esquecidas; os itens em si não são alterados.",
@@ -905,7 +1021,7 @@
   "CAIRN.TakeBack": "Pegar de volta — retorna ao seu inventário",
   "CAIRN.TakeOut": "Tirar",
   "CAIRN.TakesSlots": "Ocupa Espaços",
-  "CAIRN.TakesSlotsHint": "Você o carrega — um saco nas costas, uma carroça puxada com as duas mãos — então custa espaços como qualquer outra coisa. Desligado, ele se carrega sozinho, não custa nada e fica sempre entre seus Pertences.",
+  "CAIRN.TakesSlotsHint": "Você o carrega — uma bolsa nas costas, uma carroça puxada com as duas mãos —, então ocupa espaços como qualquer outra coisa. Desligado, ele se carrega sozinho, não ocupa espaço e fica sempre na sua aba À Parte.",
   "CAIRN.Trait": {
     "Clothing": "Roupas",
     "Face": "Rosto",
@@ -917,6 +1033,7 @@
     "Virtue": "Virtude"
   },
   "CAIRN.Type": "Tipo",
+  "CAIRN.Unarmed": "Desarmado",
   "CAIRN.Uses": "Usos",
   "CAIRN.WardenUserName": "Guardião",
   "CAIRN.WelcomePlaylist": "Boas-vindas",

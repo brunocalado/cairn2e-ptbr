@@ -24,6 +24,12 @@
     },
     "WIL": {
       "name": "VON"
+    },
+    "Reset Player Hotbars": {
+      "name": "Repor Barras dos PJs"
+    },
+    "Rules Summary": {
+      "name": "Resumo das Regras"
     }
   }
 }

@@ -25,6 +25,9 @@ relíquias, bestiário, mercenários e todas as tabelas do Guardião.
   sistema.
 - 🌎 **Pergunta o idioma para você.** Na primeira vez que o módulo carrega, ele oferece mudar o
   idioma do Foundry para Português (Brasil).
+- ✨ **Animações em português.** Com o [Automated Animations](https://foundryvtt.com/packages/autoanimations)
+  ativo, as armas, os ataques de monstros e as magias com nome em português animam como no
+  original.
 
 ---
 
@@ -39,7 +42,7 @@ cicatrizes, crescimento, facções, cartões de chat, notificações e configura
 
 | Compêndio | |
 |---|---|
-| Criação de Personagem | Antecedentes, Tabelas de Antecedentes, Itens de Antecedentes, Características, Vínculos, Presságios |
+| Criação de Personagem | Antecedentes, Tabelas de Antecedentes, Itens de Antecedentes, Companheiros, Características, Vínculos, Presságios |
 | Equipamento | Equipamento, Armas, Armaduras |
 | Magia | Grimórios, Pergaminhos, Relíquias |
 | Referência | Tabelas de Jogo, Bestiário, Mercenários |
