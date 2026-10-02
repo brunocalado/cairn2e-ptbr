@@ -1,3 +1,19 @@
+# 0.0.7
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.0.8.** Traduz os textos novos do sistema: o **Calendário de Vald** (meses, dias da semana, estações, a Retomada e as notas), o **Gerador de Nomes**, o que um item ou crescimento **Concede**, as **relíquias desconhecidas**, **Aplicar como dano** nas rolagens e as novas seções da barra lateral (Campanha, Geradores, Referência).
+* O compêndio **Calendário de Vald**, com os 24 feriados, festivais, solstícios e equinócios. Eles entram no mundo como notas na primeira vez que o Guardião abre o mundo no Cairn 2e 0.0.8: deixe o módulo ativo nesse momento para recebê-los em português.
+* As tabelas de nomes do compêndio do Guardião (Adjetivo e Substantivo de Nome, Adjetivo e Substantivo de Floresta, Sinônimo de Terreno, Tipo de Grupo, Tipo de Governo e as três Fórmulas) e a macro **Calendário**.
+
+  O gerador monta os nomes na ordem do português ("Forte Sombrio de Osso"). Como ele não sabe o gênero das palavras, a opção **Com artigo** não muda nada, e a concordância às vezes escapa: ajuste o nome à vontade.
+
+  Agora o módulo exige o Cairn 2e 0.0.8 ou mais novo.
+
+### Alterado
+
+* Os itens de antecedente que trazem um companheiro (Balde de Sangue, Falcoaria, Lobo Oco, Homúnculo, Corvo Familiar) não têm mais o link no texto: o companheiro agora vem pelo campo **Concede**.
+
 # 0.0.6
 
 ### Adicionado
