@@ -118,7 +118,7 @@
     },
     "Blood Pail": {
       "name": "Balde de Sangue",
-      "description": "<p>Um <strong>Balde de Sangue</strong> (<em>volumoso</em>) de um culto da morte local. Esvazie-o para erguer um @UUID[Compendium.cairn2e.companions.Actor.OR1u750FkqmOmMLf]{servo} feito do que estiver enterrado abaixo, com 6 PG, 1 Armadura, 13 FOR, 11 DES, 4 VON e punhos de estilhaços (d8+d8). Só um servo pode ser erguido por vez. Se ele for destruído, você perde permanentemente 1d4 FOR. <strong>Recarga</strong>: Encha-o com o sangue de um guerreiro moribundo.</p>"
+      "description": "<p>Um <strong>Balde de Sangue</strong> (<em>volumoso</em>) de um culto da morte local. Esvazie-o para erguer um servo feito do que estiver enterrado abaixo, com 6 PG, 1 Armadura, 13 FOR, 11 DES, 4 VON e punhos de estilhaços (d8+d8). Só um servo pode ser erguido por vez. Se ele for destruído, você perde permanentemente 1d4 FOR. <strong>Recarga</strong>: Encha-o com o sangue de um guerreiro moribundo.</p>"
     },
     "Bloodvine Whip": {
       "name": "Açoite Vide-Sangue",
@@ -282,7 +282,7 @@
     },
     "Falconry": {
       "name": "Falcoaria",
-      "description": "<p><strong>Falcoaria</strong>. Você tem um @UUID[Compendium.cairn2e.companions.Actor.TGFd4pKtqEMenEDM]{falcão} [3 PG, 5 FOR, 16 DES, 4 VON, garras (d6+d6), bico (d8)]. Ele só come caça viva.</p>"
+      "description": "<p><strong>Falcoaria</strong>. Você tem um falcão [3 PG, 5 FOR, 16 DES, 4 VON, garras (d6+d6), bico (d8)]. Ele só come caça viva.</p>"
     },
     "False Cuffs": {
       "name": "Algemas Falsas",
@@ -454,11 +454,11 @@
     },
     "Hollow Wolf": {
       "name": "Lobo Oco",
-      "description": "<p>Um <em>@UUID[Compendium.cairn2e.companions.Actor.llllfH3hScHAP0pz]{lobo oco}</em> que vinha assustando viajantes. Você teve pena da criatura meio faminta e cuidou dela até que se recuperasse. Agora ela lhe é leal até a morte. Também é ótima cavadora de túneis. 5 PG, 11 FOR, 13 DES, 8 VON, dentes (d6).</p>"
+      "description": "<p>Um <em>lobo oco</em> que vinha assustando viajantes. Você teve pena da criatura meio faminta e cuidou dela até que se recuperasse. Agora ela lhe é leal até a morte. Também é ótima cavadora de túneis. 5 PG, 11 FOR, 13 DES, 8 VON, dentes (d6).</p>"
     },
     "Homunculus": {
       "name": "Homúnculo",
-      "description": "<p><strong>@UUID[Compendium.cairn2e.companions.Actor.ofpQ1iJndgnQK3bz]{Homúnculo}</strong> Uma réplica sua em miniatura, feita de argila, que segue todos os seus comandos. Ele odeia estar sob sua servidão e reclama amargamente sempre que possível. Qualquer dano causado ao homúnculo também é causado a você. 3 PG, 4 FOR, 13 DES, 5 VON</p>"
+      "description": "<p><strong>Homúnculo</strong> Uma réplica sua em miniatura, feita de argila, que segue todos os seus comandos. Ele odeia estar sob sua servidão e reclama amargamente sempre que possível. Qualquer dano causado ao homúnculo também é causado a você. 3 PG, 4 FOR, 13 DES, 5 VON</p>"
     },
     "Honesty": {
       "name": "Honestidade",
@@ -798,7 +798,7 @@
     },
     "Raven Familiar": {
       "name": "Corvo Familiar",
-      "description": "<p>Um <strong>@UUID[Compendium.cairn2e.companions.Actor.7Wjuh7KH6HQtxzE4]{Corvo Familiar}</strong> [8 PG, 3 FOR, 11 DES, 13 VON, bico, (d6)]. Fala como um ser inteligente e é totalmente devotado a você.</p>"
+      "description": "<p>Um <strong>Corvo Familiar</strong> [8 PG, 3 FOR, 11 DES, 13 VON, bico, (d6)]. Fala como um ser inteligente e é totalmente devotado a você.</p>"
     },
     "Rebirth Ash": {
       "name": "Cinzas do Renascer",

@@ -1754,6 +1754,1782 @@
           "description": "<p>O grupo é deixado em paz (e em segurança) por enquanto.</p>"
         }
       }
+    },
+    "Faction Name Formula": {
+      "name": "Fórmula de Facção",
+      "description": "<p>Role a tabela Fórmula de Facção dos Procedimentos de Nomeação; [Grupo] é uma rolagem em Tipo de Grupo.</p>",
+      "results": {
+        "1-1": {
+          "description": "(O/A) [Grupo] [Substantivo]"
+        },
+        "2-2": {
+          "description": "(O/A) [Grupo] [Adjetivo]"
+        },
+        "3-3": {
+          "description": "[Grupo] de (o/a) [Substantivo]"
+        },
+        "4-4": {
+          "description": "[Grupo] [Adjetivo] de (o/a) [Substantivo]"
+        },
+        "5-5": {
+          "description": "(O/A) [Grupo] [Substantivo] [Adjetivo]"
+        },
+        "6-6": {
+          "description": "[Grupo] de (o/a) [Substantivo] [Adjetivo]"
+        }
+      }
+    },
+    "Forest Adjective": {
+      "name": "Adjetivo de Floresta",
+      "description": "<p>Role na coluna Adjetivos da tabela de Nomes de Floresta dos Procedimentos de Nomeação.</p>",
+      "results": {
+        "1-1": {
+          "description": "Abandonado"
+        },
+        "2-2": {
+          "description": "Ancestral"
+        },
+        "3-3": {
+          "description": "Convidativo"
+        },
+        "4-4": {
+          "description": "Florido"
+        },
+        "5-5": {
+          "description": "Abundante"
+        },
+        "6-6": {
+          "description": "Celestial"
+        },
+        "7-7": {
+          "description": "Enfeitiçado"
+        },
+        "8-8": {
+          "description": "Cristalino"
+        },
+        "9-9": {
+          "description": "Sarapintado"
+        },
+        "10-10": {
+          "description": "Denso"
+        },
+        "11-11": {
+          "description": "Desolado"
+        },
+        "12-12": {
+          "description": "Distante"
+        },
+        "13-13": {
+          "description": "Ecoante"
+        },
+        "14-14": {
+          "description": "Sinistro"
+        },
+        "15-15": {
+          "description": "Esmeralda"
+        },
+        "16-16": {
+          "description": "Encantado"
+        },
+        "17-17": {
+          "description": "Enigmático"
+        },
+        "18-18": {
+          "description": "Efêmero"
+        },
+        "19-19": {
+          "description": "Eterno"
+        },
+        "20-20": {
+          "description": "Etéreo"
+        },
+        "21-21": {
+          "description": "Exótico"
+        },
+        "22-22": {
+          "description": "Lendário"
+        },
+        "23-23": {
+          "description": "Florescente"
+        },
+        "24-24": {
+          "description": "Esquecido"
+        },
+        "25-25": {
+          "description": "Desamparado"
+        },
+        "26-26": {
+          "description": "Perfumado"
+        },
+        "27-27": {
+          "description": "Gelado"
+        },
+        "28-28": {
+          "description": "Gentil"
+        },
+        "29-29": {
+          "description": "Cintilante"
+        },
+        "30-30": {
+          "description": "Sombrio"
+        },
+        "31-31": {
+          "description": "Nodoso"
+        },
+        "32-32": {
+          "description": "Dourado"
+        },
+        "33-33": {
+          "description": "Relvado"
+        },
+        "34-34": {
+          "description": "Harmonioso"
+        },
+        "35-35": {
+          "description": "Assombrado"
+        },
+        "36-36": {
+          "description": "Oculto"
+        },
+        "37-37": {
+          "description": "Abafado"
+        },
+        "38-38": {
+          "description": "Iluminado"
+        },
+        "39-39": {
+          "description": "Denteado"
+        },
+        "40-40": {
+          "description": "Suntuoso"
+        },
+        "41-41": {
+          "description": "Frondoso"
+        },
+        "42-42": {
+          "description": "Solitário"
+        },
+        "43-43": {
+          "description": "Imponente"
+        },
+        "44-44": {
+          "description": "Perdido"
+        },
+        "45-45": {
+          "description": "Luminescente"
+        },
+        "46-46": {
+          "description": "Luminoso"
+        },
+        "47-47": {
+          "description": "Viçoso"
+        },
+        "48-48": {
+          "description": "Majestoso"
+        },
+        "49-49": {
+          "description": "Melancólico"
+        },
+        "50-50": {
+          "description": "Ameaçador"
+        },
+        "51-51": {
+          "description": "Enevoado"
+        },
+        "52-52": {
+          "description": "Enluarado"
+        },
+        "53-53": {
+          "description": "Musgoso"
+        },
+        "54-54": {
+          "description": "Murmurante"
+        },
+        "55-55": {
+          "description": "Misterioso"
+        },
+        "56-56": {
+          "description": "Místico"
+        },
+        "57-57": {
+          "description": "Opulento"
+        },
+        "58-58": {
+          "description": "Inculto"
+        },
+        "59-59": {
+          "description": "Precário"
+        },
+        "60-60": {
+          "description": "Primevo"
+        },
+        "61-61": {
+          "description": "Imaculado"
+        },
+        "62-62": {
+          "description": "Pitoresco"
+        },
+        "63-63": {
+          "description": "Radiante"
+        },
+        "64-64": {
+          "description": "Estrondoso"
+        },
+        "65-65": {
+          "description": "Agreste"
+        },
+        "66-66": {
+          "description": "Farfalhante"
+        },
+        "67-67": {
+          "description": "Sagrado"
+        },
+        "68-68": {
+          "description": "Recluso"
+        },
+        "69-69": {
+          "description": "Sereno"
+        },
+        "70-70": {
+          "description": "Serpenteante"
+        },
+        "71-71": {
+          "description": "Umbroso"
+        },
+        "72-72": {
+          "description": "Tremeluzente"
+        },
+        "73-73": {
+          "description": "Amortalhado"
+        },
+        "74-74": {
+          "description": "Silente"
+        },
+        "75-75": {
+          "description": "Fumacento"
+        },
+        "76-76": {
+          "description": "Soturno"
+        },
+        "77-77": {
+          "description": "Espectral"
+        },
+        "78-78": {
+          "description": "Esplêndido"
+        },
+        "79-79": {
+          "description": "Austero"
+        },
+        "80-80": {
+          "description": "Robusto"
+        },
+        "81-81": {
+          "description": "Ensolarado"
+        },
+        "82-82": {
+          "description": "Solar"
+        },
+        "83-83": {
+          "description": "Rodopiante"
+        },
+        "84-84": {
+          "description": "Emaranhado"
+        },
+        "85-85": {
+          "description": "Atemporal"
+        },
+        "86-86": {
+          "description": "Altaneiro"
+        },
+        "87-87": {
+          "description": "Tranquilo"
+        },
+        "88-88": {
+          "description": "Gotejante"
+        },
+        "89-89": {
+          "description": "Crepuscular"
+        },
+        "90-90": {
+          "description": "Torcido"
+        },
+        "91-91": {
+          "description": "Invisível"
+        },
+        "92-92": {
+          "description": "Inabalável"
+        },
+        "93-93": {
+          "description": "Velado"
+        },
+        "94-94": {
+          "description": "Verdejante"
+        },
+        "95-95": {
+          "description": "Vibrante"
+        },
+        "96-96": {
+          "description": "Desgastado"
+        },
+        "97-97": {
+          "description": "Choroso"
+        },
+        "98-98": {
+          "description": "Sussurrante"
+        },
+        "99-99": {
+          "description": "Selvagem"
+        },
+        "100-100": {
+          "description": "Sinuoso"
+        }
+      }
+    },
+    "Forest Noun": {
+      "name": "Substantivo de Floresta",
+      "description": "<p>Role na coluna Substantivos da tabela de Nomes de Floresta dos Procedimentos de Nomeação.</p>",
+      "results": {
+        "1-1": {
+          "description": "Caramanchão"
+        },
+        "2-2": {
+          "description": "Arco"
+        },
+        "3-3": {
+          "description": "Florada"
+        },
+        "4-4": {
+          "description": "Brejo"
+        },
+        "5-5": {
+          "description": "Ramagem"
+        },
+        "6-6": {
+          "description": "Moita"
+        },
+        "7-7": {
+          "description": "Silvado"
+        },
+        "8-8": {
+          "description": "Galharia"
+        },
+        "9-9": {
+          "description": "Sarça"
+        },
+        "10-10": {
+          "description": "Ponte"
+        },
+        "11-11": {
+          "description": "Riacho"
+        },
+        "12-12": {
+          "description": "Mato"
+        },
+        "13-13": {
+          "description": "Acampamento"
+        },
+        "14-14": {
+          "description": "Copa"
+        },
+        "15-15": {
+          "description": "Cascata"
+        },
+        "16-16": {
+          "description": "Gruta"
+        },
+        "17-17": {
+          "description": "Caverna"
+        },
+        "18-18": {
+          "description": "Coutada"
+        },
+        "19-19": {
+          "description": "Clareira"
+        },
+        "20-20": {
+          "description": "Touceira"
+        },
+        "21-21": {
+          "description": "Talhadia"
+        },
+        "22-22": {
+          "description": "Capão"
+        },
+        "23-23": {
+          "description": "Penedo"
+        },
+        "24-24": {
+          "description": "Córrego"
+        },
+        "25-25": {
+          "description": "Vale"
+        },
+        "26-26": {
+          "description": "Grota"
+        },
+        "27-27": {
+          "description": "Orvalho"
+        },
+        "28-28": {
+          "description": "Outeiro"
+        },
+        "29-29": {
+          "description": "Paul"
+        },
+        "30-30": {
+          "description": "Samambaial"
+        },
+        "31-31": {
+          "description": "Folhagem"
+        },
+        "32-32": {
+          "description": "Floresta"
+        },
+        "33-33": {
+          "description": "Fungo"
+        },
+        "34-34": {
+          "description": "Barranco"
+        },
+        "35-35": {
+          "description": "Relvado"
+        },
+        "36-36": {
+          "description": "Baixada"
+        },
+        "37-37": {
+          "description": "Garganta"
+        },
+        "38-38": {
+          "description": "Granito"
+        },
+        "39-39": {
+          "description": "Verde"
+        },
+        "40-40": {
+          "description": "Lapa"
+        },
+        "41-41": {
+          "description": "Bosque"
+        },
+        "42-42": {
+          "description": "Brotação"
+        },
+        "43-43": {
+          "description": "Charneca"
+        },
+        "44-44": {
+          "description": "Cromeleque"
+        },
+        "45-45": {
+          "description": "Cova"
+        },
+        "46-46": {
+          "description": "Horizonte"
+        },
+        "47-47": {
+          "description": "Nó"
+        },
+        "48-48": {
+          "description": "Cômoro"
+        },
+        "49-49": {
+          "description": "Folhedo"
+        },
+        "50-50": {
+          "description": "Luz"
+        },
+        "51-51": {
+          "description": "Húmus"
+        },
+        "52-52": {
+          "description": "Tear"
+        },
+        "53-53": {
+          "description": "Charco"
+        },
+        "54-54": {
+          "description": "Prado"
+        },
+        "55-55": {
+          "description": "Lamaçal"
+        },
+        "56-56": {
+          "description": "Atoleiro"
+        },
+        "57-57": {
+          "description": "Carvalho"
+        },
+        "58-58": {
+          "description": "Oásis"
+        },
+        "59-59": {
+          "description": "Pomar"
+        },
+        "60-60": {
+          "description": "Passo"
+        },
+        "61-61": {
+          "description": "Passadiço"
+        },
+        "62-62": {
+          "description": "Caminho"
+        },
+        "63-63": {
+          "description": "Vereda"
+        },
+        "64-64": {
+          "description": "Pinheiro"
+        },
+        "65-65": {
+          "description": "Raizal"
+        },
+        "66-66": {
+          "description": "Santuário"
+        },
+        "67-67": {
+          "description": "Umbra"
+        },
+        "68-68": {
+          "description": "Penumbra"
+        },
+        "69-69": {
+          "description": "Abrigo"
+        },
+        "70-70": {
+          "description": "Arbusto"
+        },
+        "71-71": {
+          "description": "Encosta"
+        },
+        "72-72": {
+          "description": "Nascente"
+        },
+        "73-73": {
+          "description": "Bulício"
+        },
+        "74-74": {
+          "description": "Pedregal"
+        },
+        "75-75": {
+          "description": "Ribeiro"
+        },
+        "76-76": {
+          "description": "Toco"
+        },
+        "77-77": {
+          "description": "Baixio"
+        },
+        "78-78": {
+          "description": "Relva"
+        },
+        "79-79": {
+          "description": "Balanço"
+        },
+        "80-80": {
+          "description": "Emaranhado"
+        },
+        "81-81": {
+          "description": "Matagal"
+        },
+        "82-82": {
+          "description": "Cardal"
+        },
+        "83-83": {
+          "description": "Lenho"
+        },
+        "84-84": {
+          "description": "Madeiral"
+        },
+        "85-85": {
+          "description": "Torre"
+        },
+        "86-86": {
+          "description": "Trilho"
+        },
+        "87-87": {
+          "description": "Árvore"
+        },
+        "88-88": {
+          "description": "Tronco"
+        },
+        "89-89": {
+          "description": "Capoeira"
+        },
+        "90-90": {
+          "description": "Sub-bosque"
+        },
+        "91-91": {
+          "description": "Dossel Baixo"
+        },
+        "92-92": {
+          "description": "Cipoal"
+        },
+        "93-93": {
+          "description": "Curso d’Água"
+        },
+        "94-94": {
+          "description": "Mata"
+        },
+        "95-95": {
+          "description": "Mata Virgem"
+        },
+        "96-96": {
+          "description": "Arvoredo"
+        },
+        "97-97": {
+          "description": "Bosquete"
+        },
+        "98-98": {
+          "description": "Mato Fechado"
+        },
+        "99-99": {
+          "description": "Além"
+        },
+        "100-100": {
+          "description": "Zéfiro"
+        }
+      }
+    },
+    "Group Type": {
+      "name": "Tipo de Grupo",
+      "description": "<p>Role a tabela Tipos de Grupo dos Procedimentos de Nomeação.</p>",
+      "results": {
+        "1-1": {
+          "description": "Assembleia"
+        },
+        "2-2": {
+          "description": "Irmandade"
+        },
+        "3-3": {
+          "description": "Círculo"
+        },
+        "4-4": {
+          "description": "Clã"
+        },
+        "5-5": {
+          "description": "Coalizão"
+        },
+        "6-6": {
+          "description": "Coletivo"
+        },
+        "7-7": {
+          "description": "Convênio"
+        },
+        "8-8": {
+          "description": "Enclave"
+        },
+        "9-9": {
+          "description": "Companhia"
+        },
+        "10-10": {
+          "description": "Guilda"
+        },
+        "11-11": {
+          "description": "Horda"
+        },
+        "12-12": {
+          "description": "Liga"
+        },
+        "13-13": {
+          "description": "Legião"
+        },
+        "14-14": {
+          "description": "Mercado"
+        },
+        "15-15": {
+          "description": "Ministério"
+        },
+        "16-16": {
+          "description": "Movimento"
+        },
+        "17-17": {
+          "description": "Rede"
+        },
+        "18-18": {
+          "description": "Ordem"
+        },
+        "19-19": {
+          "description": "Pacto"
+        },
+        "20-20": {
+          "description": "Sindicato"
+        }
+      }
+    },
+    "Name Adjective": {
+      "name": "Adjetivo de Nome",
+      "description": "<p>Role a tabela de Adjetivos dos Procedimentos de Nomeação.</p>",
+      "results": {
+        "1-1": {
+          "description": "Envelhecido"
+        },
+        "2-2": {
+          "description": "Âmbar"
+        },
+        "3-3": {
+          "description": "Antigo"
+        },
+        "4-4": {
+          "description": "Irado"
+        },
+        "5-5": {
+          "description": "Cinzento"
+        },
+        "6-6": {
+          "description": "Desnudo"
+        },
+        "7-7": {
+          "description": "Surrado"
+        },
+        "8-8": {
+          "description": "Amargo"
+        },
+        "9-9": {
+          "description": "Enegrecido"
+        },
+        "10-10": {
+          "description": "Flamejante"
+        },
+        "11-11": {
+          "description": "Lúgubre"
+        },
+        "12-12": {
+          "description": "Pestilento"
+        },
+        "13-13": {
+          "description": "Empolado"
+        },
+        "14-14": {
+          "description": "Escaldante"
+        },
+        "15-15": {
+          "description": "Ventoso"
+        },
+        "16-16": {
+          "description": "Vivaz"
+        },
+        "17-17": {
+          "description": "Brilhante"
+        },
+        "18-18": {
+          "description": "Largo"
+        },
+        "19-19": {
+          "description": "Calmo"
+        },
+        "20-20": {
+          "description": "Celestial"
+        },
+        "21-21": {
+          "description": "Sufocante"
+        },
+        "22-22": {
+          "description": "Frio"
+        },
+        "23-23": {
+          "description": "Colorido"
+        },
+        "24-24": {
+          "description": "Acobreado"
+        },
+        "25-25": {
+          "description": "Rachado"
+        },
+        "26-26": {
+          "description": "Carmesim"
+        },
+        "27-27": {
+          "description": "Em Ruínas"
+        },
+        "28-28": {
+          "description": "Enrolado"
+        },
+        "29-29": {
+          "description": "Ondulante"
+        },
+        "30-30": {
+          "description": "Curvo"
+        },
+        "31-31": {
+          "description": "Sinuoso"
+        },
+        "32-32": {
+          "description": "Umedecido"
+        },
+        "33-33": {
+          "description": "Escuro"
+        },
+        "34-34": {
+          "description": "Deslumbrante"
+        },
+        "35-35": {
+          "description": "Morto"
+        },
+        "36-36": {
+          "description": "Mortal"
+        },
+        "37-37": {
+          "description": "Diamante"
+        },
+        "38-38": {
+          "description": "Funesto"
+        },
+        "39-39": {
+          "description": "Tristonho"
+        },
+        "40-40": {
+          "description": "Vazio"
+        },
+        "41-41": {
+          "description": "Sem Fim"
+        },
+        "42-42": {
+          "description": "Feroz"
+        },
+        "43-43": {
+          "description": "Ardente"
+        },
+        "44-44": {
+          "description": "Faiscante"
+        },
+        "45-45": {
+          "description": "Nebuloso"
+        },
+        "46-46": {
+          "description": "Proibido"
+        },
+        "47-47": {
+          "description": "Esquecido"
+        },
+        "48-48": {
+          "description": "Frágil"
+        },
+        "49-49": {
+          "description": "Puído"
+        },
+        "50-50": {
+          "description": "Congelado"
+        },
+        "51-51": {
+          "description": "Furioso"
+        },
+        "52-52": {
+          "description": "Escancarado"
+        },
+        "53-53": {
+          "description": "Reluzente"
+        },
+        "54-54": {
+          "description": "Fulgente"
+        },
+        "55-55": {
+          "description": "Granito"
+        },
+        "56-56": {
+          "description": "Torvo"
+        },
+        "57-57": {
+          "description": "Grisalho"
+        },
+        "58-58": {
+          "description": "Turvo"
+        },
+        "59-59": {
+          "description": "Abrasado"
+        },
+        "60-60": {
+          "description": "Infernal"
+        },
+        "61-61": {
+          "description": "Hediondo"
+        },
+        "62-62": {
+          "description": "Denteado"
+        },
+        "63-63": {
+          "description": "Isolado"
+        },
+        "64-64": {
+          "description": "Solitário"
+        },
+        "65-65": {
+          "description": "Luminoso"
+        },
+        "66-66": {
+          "description": "Cambaleante"
+        },
+        "67-67": {
+          "description": "Lustroso"
+        },
+        "68-68": {
+          "description": "Miserável"
+        },
+        "69-69": {
+          "description": "Enevoado"
+        },
+        "70-70": {
+          "description": "Pesaroso"
+        },
+        "71-71": {
+          "description": "Lamacento"
+        },
+        "72-72": {
+          "description": "Estreito"
+        },
+        "73-73": {
+          "description": "Agourento"
+        },
+        "74-74": {
+          "description": "Inculto"
+        },
+        "75-75": {
+          "description": "Remendado"
+        },
+        "76-76": {
+          "description": "Descascado"
+        },
+        "77-77": {
+          "description": "Íngreme"
+        },
+        "78-78": {
+          "description": "Esfarrapado"
+        },
+        "79-79": {
+          "description": "Apodrecido"
+        },
+        "80-80": {
+          "description": "Salgado"
+        },
+        "81-81": {
+          "description": "Selvagem"
+        },
+        "82-82": {
+          "description": "Movediço"
+        },
+        "83-83": {
+          "description": "Tremeluzente"
+        },
+        "84-84": {
+          "description": "Resplandecente"
+        },
+        "85-85": {
+          "description": "Trêmulo"
+        },
+        "86-86": {
+          "description": "Amortalhado"
+        },
+        "87-87": {
+          "description": "Chamuscado"
+        },
+        "88-88": {
+          "description": "Decadente"
+        },
+        "89-89": {
+          "description": "Sangrento"
+        },
+        "90-90": {
+          "description": "Fumacento"
+        },
+        "91-91": {
+          "description": "Encharcado"
+        },
+        "92-92": {
+          "description": "Azedo"
+        },
+        "93-93": {
+          "description": "Crepitante"
+        },
+        "94-94": {
+          "description": "Manchado"
+        },
+        "95-95": {
+          "description": "Faminto"
+        },
+        "96-96": {
+          "description": "Fedorento"
+        },
+        "97-97": {
+          "description": "Abarrotado"
+        },
+        "98-98": {
+          "description": "Afundado"
+        },
+        "99-99": {
+          "description": "Delgado"
+        },
+        "100-100": {
+          "description": "Murcho"
+        }
+      }
+    },
+    "Name Formula": {
+      "name": "Fórmula de Nome",
+      "description": "<p>Role a tabela Fórmula de Nome dos Procedimentos de Nomeação para um local; [Local] é o tipo de lugar.</p>",
+      "results": {
+        "1-1": {
+          "description": "(O/A) [Local] [Substantivo]"
+        },
+        "2-2": {
+          "description": "(O/A) [Local] [Adjetivo]"
+        },
+        "3-3": {
+          "description": "[Local] de (o/a) [Substantivo]"
+        },
+        "4-4": {
+          "description": "[Local] [Adjetivo] de (o/a) [Substantivo]"
+        },
+        "5-5": {
+          "description": "(O/A) [Local] [Substantivo] [Adjetivo]"
+        },
+        "6-6": {
+          "description": "[Local] de (o/a) [Substantivo] [Adjetivo]"
+        }
+      }
+    },
+    "Name Noun": {
+      "name": "Substantivo de Nome",
+      "description": "<p>Role a tabela de Substantivos dos Procedimentos de Nomeação.</p>",
+      "results": {
+        "1-1": {
+          "description": "Abismo"
+        },
+        "2-2": {
+          "description": "Aliança"
+        },
+        "3-3": {
+          "description": "Âmbar"
+        },
+        "4-4": {
+          "description": "Ambição"
+        },
+        "5-5": {
+          "description": "Maçã"
+        },
+        "6-6": {
+          "description": "Aurora"
+        },
+        "7-7": {
+          "description": "Bastião"
+        },
+        "8-8": {
+          "description": "Negrume"
+        },
+        "9-9": {
+          "description": "Praga"
+        },
+        "10-10": {
+          "description": "Azul"
+        },
+        "11-11": {
+          "description": "Osso"
+        },
+        "12-12": {
+          "description": "Brilho"
+        },
+        "13-13": {
+          "description": "Precipício"
+        },
+        "14-14": {
+          "description": "Lasca"
+        },
+        "15-15": {
+          "description": "Cobre"
+        },
+        "16-16": {
+          "description": "Rincão"
+        },
+        "17-17": {
+          "description": "Rachadura"
+        },
+        "18-18": {
+          "description": "Carmim"
+        },
+        "19-19": {
+          "description": "Cacho"
+        },
+        "20-20": {
+          "description": "Escuridão"
+        },
+        "21-21": {
+          "description": "Alvorecer"
+        },
+        "22-22": {
+          "description": "Mortos"
+        },
+        "23-23": {
+          "description": "Morte"
+        },
+        "24-24": {
+          "description": "Decadência"
+        },
+        "25-25": {
+          "description": "Mossa"
+        },
+        "26-26": {
+          "description": "Desolação"
+        },
+        "27-27": {
+          "description": "Desespero"
+        },
+        "28-28": {
+          "description": "Diabo"
+        },
+        "29-29": {
+          "description": "Terra"
+        },
+        "30-30": {
+          "description": "Danação"
+        },
+        "31-31": {
+          "description": "Portal"
+        },
+        "32-32": {
+          "description": "Eco"
+        },
+        "33-33": {
+          "description": "Brasa"
+        },
+        "34-34": {
+          "description": "Destino"
+        },
+        "35-35": {
+          "description": "Medo"
+        },
+        "36-36": {
+          "description": "Fogo"
+        },
+        "37-37": {
+          "description": "Chama"
+        },
+        "38-38": {
+          "description": "Loucura"
+        },
+        "39-39": {
+          "description": "Refrega"
+        },
+        "40-40": {
+          "description": "Geada"
+        },
+        "41-41": {
+          "description": "Fúria"
+        },
+        "42-42": {
+          "description": "Fantasma"
+        },
+        "43-43": {
+          "description": "Gigante"
+        },
+        "44-44": {
+          "description": "Lampejo"
+        },
+        "45-45": {
+          "description": "Deus"
+        },
+        "46-46": {
+          "description": "Ouro"
+        },
+        "47-47": {
+          "description": "Verde"
+        },
+        "48-48": {
+          "description": "Harmonia"
+        },
+        "49-49": {
+          "description": "Colheita"
+        },
+        "50-50": {
+          "description": "Assombração"
+        },
+        "51-51": {
+          "description": "Porto"
+        },
+        "52-52": {
+          "description": "Horror"
+        },
+        "53-53": {
+          "description": "Ferro"
+        },
+        "54-54": {
+          "description": "Ilha"
+        },
+        "55-55": {
+          "description": "Jade"
+        },
+        "56-56": {
+          "description": "Rei"
+        },
+        "57-57": {
+          "description": "Lavanda"
+        },
+        "58-58": {
+          "description": "Vida"
+        },
+        "59-59": {
+          "description": "Luz"
+        },
+        "60-60": {
+          "description": "Mármore"
+        },
+        "61-61": {
+          "description": "Névoa"
+        },
+        "62-62": {
+          "description": "Mofo"
+        },
+        "63-63": {
+          "description": "Lua"
+        },
+        "64-64": {
+          "description": "Lama"
+        },
+        "65-65": {
+          "description": "Pesadelo"
+        },
+        "66-66": {
+          "description": "Remendo"
+        },
+        "67-67": {
+          "description": "Perigo"
+        },
+        "68-68": {
+          "description": "Púrpura"
+        },
+        "69-69": {
+          "description": "Radiância"
+        },
+        "70-70": {
+          "description": "Trapo"
+        },
+        "71-71": {
+          "description": "Chuva"
+        },
+        "72-72": {
+          "description": "Arco-Íris"
+        },
+        "73-73": {
+          "description": "Vermelho"
+        },
+        "74-74": {
+          "description": "Refúgio"
+        },
+        "75-75": {
+          "description": "Remorso"
+        },
+        "76-76": {
+          "description": "Podridão"
+        },
+        "77-77": {
+          "description": "Ruína"
+        },
+        "78-78": {
+          "description": "Sombra"
+        },
+        "79-79": {
+          "description": "Prata"
+        },
+        "80-80": {
+          "description": "Caveira"
+        },
+        "81-81": {
+          "description": "Céu"
+        },
+        "82-82": {
+          "description": "Fumaça"
+        },
+        "83-83": {
+          "description": "Serpente"
+        },
+        "84-84": {
+          "description": "Tristeza"
+        },
+        "85-85": {
+          "description": "Faísca"
+        },
+        "86-86": {
+          "description": "Pedra"
+        },
+        "87-87": {
+          "description": "Tempestade"
+        },
+        "88-88": {
+          "description": "Sol"
+        },
+        "89-89": {
+          "description": "Tormenta"
+        },
+        "90-90": {
+          "description": "Terror"
+        },
+        "91-91": {
+          "description": "Espinho"
+        },
+        "92-92": {
+          "description": "Trovão"
+        },
+        "93-93": {
+          "description": "Veneno"
+        },
+        "94-94": {
+          "description": "Quietude"
+        },
+        "95-95": {
+          "description": "Troll"
+        },
+        "96-96": {
+          "description": "Bravura"
+        },
+        "97-97": {
+          "description": "Violeta"
+        },
+        "98-98": {
+          "description": "Guerra"
+        },
+        "99-99": {
+          "description": "Sussurro"
+        },
+        "100-100": {
+          "description": "Zéfiro"
+        }
+      }
+    },
+    "Ruler Name Formula": {
+      "name": "Fórmula de Governo",
+      "description": "<p>Role a tabela Fórmula de Governo dos Procedimentos de Nomeação; [Governo] é uma rolagem em Tipo de Governo.</p>",
+      "results": {
+        "1-1": {
+          "description": "(O/A) [Governo] [Substantivo]"
+        },
+        "2-2": {
+          "description": "(O/A) [Governo] [Adjetivo]"
+        },
+        "3-3": {
+          "description": "[Governo] de (o/a) [Substantivo]"
+        },
+        "4-4": {
+          "description": "[Governo] [Adjetivo] de (o/a) [Substantivo]"
+        },
+        "5-5": {
+          "description": "(O/A) [Governo] [Substantivo] [Adjetivo]"
+        },
+        "6-6": {
+          "description": "[Governo] de (o/a) [Substantivo] [Adjetivo]"
+        }
+      }
+    },
+    "Ruler Type": {
+      "name": "Tipo de Governo",
+      "description": "<p>Role a tabela Tipos de Governo dos Procedimentos de Nomeação.</p>",
+      "results": {
+        "1-1": {
+          "description": "Aliança"
+        },
+        "2-2": {
+          "description": "Baronato"
+        },
+        "3-3": {
+          "description": "Comunidade"
+        },
+        "4-4": {
+          "description": "Confederação"
+        },
+        "5-5": {
+          "description": "Domínio"
+        },
+        "6-6": {
+          "description": "Eclesiarquia"
+        },
+        "7-7": {
+          "description": "Império"
+        },
+        "8-8": {
+          "description": "Federação"
+        },
+        "9-9": {
+          "description": "Feudo"
+        },
+        "10-10": {
+          "description": "Grão-Ducado"
+        },
+        "11-11": {
+          "description": "Hegemonia"
+        },
+        "12-12": {
+          "description": "Reino"
+        },
+        "13-13": {
+          "description": "Monarquia"
+        },
+        "14-14": {
+          "description": "Principado"
+        },
+        "15-15": {
+          "description": "Protetorado"
+        },
+        "16-16": {
+          "description": "Reinado"
+        },
+        "17-17": {
+          "description": "Regência"
+        },
+        "18-18": {
+          "description": "República"
+        },
+        "19-19": {
+          "description": "Estado"
+        },
+        "20-20": {
+          "description": "União"
+        }
+      }
+    },
+    "Terrain Synonym": {
+      "name": "Sinônimo de Terreno",
+      "description": "<p>A tabela Sinônimos de Terreno dos Procedimentos de Nomeação, um resultado por sinônimo. Ela não tem dado próprio: o gerador de nomes escolhe entre os sinônimos do terreno escolhido.</p>",
+      "results": {
+        "1-1": {
+          "description": "Beira-Mar"
+        },
+        "2-2": {
+          "description": "Orla"
+        },
+        "3-3": {
+          "description": "Costa"
+        },
+        "4-4": {
+          "description": "Litoral"
+        },
+        "5-5": {
+          "description": "Praia"
+        },
+        "6-6": {
+          "description": "Marina"
+        },
+        "7-7": {
+          "description": "Charco"
+        },
+        "8-8": {
+          "description": "Atoleiro"
+        },
+        "9-9": {
+          "description": "Lodaçal"
+        },
+        "10-10": {
+          "description": "Lamaçal"
+        },
+        "11-11": {
+          "description": "Pauis"
+        },
+        "12-12": {
+          "description": "Ravina"
+        },
+        "13-13": {
+          "description": "Fenda"
+        },
+        "14-14": {
+          "description": "Abismo"
+        },
+        "15-15": {
+          "description": "Golfo"
+        },
+        "16-16": {
+          "description": "Grota"
+        },
+        "17-17": {
+          "description": "Lapa"
+        },
+        "18-18": {
+          "description": "Cavidade"
+        },
+        "19-19": {
+          "description": "Túneis"
+        },
+        "20-20": {
+          "description": "Toca"
+        },
+        "21-21": {
+          "description": "Gruta"
+        },
+        "22-22": {
+          "description": "Precipício"
+        },
+        "23-23": {
+          "description": "Paredão"
+        },
+        "24-24": {
+          "description": "Penedo"
+        },
+        "25-25": {
+          "description": "Barranca"
+        },
+        "26-26": {
+          "description": "Crista"
+        },
+        "27-27": {
+          "description": "Escarpa"
+        },
+        "28-28": {
+          "description": "Despenhadeiro"
+        },
+        "29-29": {
+          "description": "Dunas"
+        },
+        "30-30": {
+          "description": "Areias"
+        },
+        "31-31": {
+          "description": "Vastidões"
+        },
+        "32-32": {
+          "description": "Ermos"
+        },
+        "33-33": {
+          "description": "Devastação"
+        },
+        "34-34": {
+          "description": "Erg"
+        },
+        "35-35": {
+          "description": "Lavoura"
+        },
+        "36-36": {
+          "description": "Herdade"
+        },
+        "37-37": {
+          "description": "Glebas"
+        },
+        "38-38": {
+          "description": "Sítio"
+        },
+        "39-39": {
+          "description": "Granja"
+        },
+        "40-40": {
+          "description": "Fazenda"
+        },
+        "41-41": {
+          "description": "Brenha"
+        },
+        "42-42": {
+          "description": "Matas"
+        },
+        "43-43": {
+          "description": "Arvoredo"
+        },
+        "44-44": {
+          "description": "Mata"
+        },
+        "45-45": {
+          "description": "Bosque"
+        },
+        "46-46": {
+          "description": "Capão"
+        },
+        "47-47": {
+          "description": "Pasto"
+        },
+        "48-48": {
+          "description": "Campos"
+        },
+        "49-49": {
+          "description": "Savana"
+        },
+        "50-50": {
+          "description": "Relvado"
+        },
+        "51-51": {
+          "description": "Morrote"
+        },
+        "52-52": {
+          "description": "Montículo"
+        },
+        "53-53": {
+          "description": "Monte"
+        },
+        "54-54": {
+          "description": "Cômoro"
+        },
+        "55-55": {
+          "description": "Cabeço"
+        },
+        "56-56": {
+          "description": "Encosta"
+        },
+        "57-57": {
+          "description": "Baixada"
+        },
+        "58-58": {
+          "description": "Buraco"
+        },
+        "59-59": {
+          "description": "Fosso"
+        },
+        "60-60": {
+          "description": "Cavidade"
+        },
+        "61-61": {
+          "description": "Cratera"
+        },
+        "62-62": {
+          "description": "Calha"
+        },
+        "63-63": {
+          "description": "Buracos"
+        },
+        "64-64": {
+          "description": "Açude"
+        },
+        "65-65": {
+          "description": "Lagoa"
+        },
+        "66-66": {
+          "description": "Lagoa Serrana"
+        },
+        "67-67": {
+          "description": "Laguna"
+        },
+        "68-68": {
+          "description": "Lago"
+        },
+        "69-69": {
+          "description": "Igarapé"
+        },
+        "70-70": {
+          "description": "Picos"
+        },
+        "71-71": {
+          "description": "Serra"
+        },
+        "72-72": {
+          "description": "Cordilheira"
+        },
+        "73-73": {
+          "description": "Cume"
+        },
+        "74-74": {
+          "description": "Pináculo"
+        },
+        "75-75": {
+          "description": "Morro"
+        },
+        "76-76": {
+          "description": "Nascente"
+        },
+        "77-77": {
+          "description": "Poço"
+        },
+        "78-78": {
+          "description": "Fonte"
+        },
+        "79-79": {
+          "description": "Abrigo"
+        },
+        "80-80": {
+          "description": "Bebedouro"
+        },
+        "81-81": {
+          "description": "Refúgio"
+        },
+        "82-82": {
+          "description": "Charneca"
+        },
+        "83-83": {
+          "description": "Prado"
+        },
+        "84-84": {
+          "description": "Estepe"
+        },
+        "85-85": {
+          "description": "Rasos"
+        },
+        "86-86": {
+          "description": "Terras Baixas"
+        },
+        "87-87": {
+          "description": "Relva"
+        },
+        "88-88": {
+          "description": "Terras Altas"
+        },
+        "89-89": {
+          "description": "Mesa"
+        },
+        "90-90": {
+          "description": "Planalto"
+        },
+        "91-91": {
+          "description": "Coxilhas"
+        },
+        "92-92": {
+          "description": "Chapada"
+        },
+        "93-93": {
+          "description": "Curso d’Água"
+        },
+        "94-94": {
+          "description": "Ribeiro"
+        },
+        "95-95": {
+          "description": "Riacho"
+        },
+        "96-96": {
+          "description": "Regato"
+        },
+        "97-97": {
+          "description": "Córrego"
+        },
+        "98-98": {
+          "description": "Canal"
+        },
+        "99-99": {
+          "description": "Charnecas"
+        },
+        "100-100": {
+          "description": "Alagados"
+        },
+        "101-101": {
+          "description": "Chaparral"
+        },
+        "102-102": {
+          "description": "Moitas"
+        },
+        "103-103": {
+          "description": "Esconderijo"
+        },
+        "104-104": {
+          "description": "Talhadia"
+        },
+        "105-105": {
+          "description": "Silvados"
+        },
+        "106-106": {
+          "description": "Vastidão"
+        },
+        "107-107": {
+          "description": "Boreal"
+        },
+        "108-108": {
+          "description": "Pousio"
+        },
+        "109-109": {
+          "description": "Vale"
+        },
+        "110-110": {
+          "description": "Valada"
+        },
+        "111-111": {
+          "description": "Bacia"
+        },
+        "112-112": {
+          "description": "Garganta"
+        },
+        "113-113": {
+          "description": "Brecha"
+        },
+        "114-114": {
+          "description": "Grotão"
+        }
+      }
     }
   }
 }

@@ -30,6 +30,9 @@
     },
     "Rules Summary": {
       "name": "Resumo das Regras"
+    },
+    "Calendar": {
+      "name": "Calendário"
     }
   }
 }

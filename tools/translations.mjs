@@ -97,6 +97,14 @@ function englishEntries(pack) {
       }
       if (Object.keys(results).length) e.results = results;
     }
+    // Babele's default JournalEntry mapping matches a page by `_id`, then by name.
+    if (d.pages?.length) {
+      e.pages = {};
+      for (const pg of d.pages) {
+        e.pages[pg.name] = { name: pg.name };
+        if (pg.text?.content) e.pages[pg.name].text = pg.text.content;
+      }
+    }
     if (d.items?.length) {
       e.items = {};
       for (const i of d.items) {
@@ -166,6 +174,12 @@ function compareEntry(en, pt, where, report) {
     if (!p) { report.errors.push(`${where} result ${k}: missing`); continue; }
     if (r.name) compareName(r.name, p.name, `${where} result ${k} name`, report);
     if (r.description) compareText(r.description, p.description, `${where} result ${k}`, report);
+  }
+  for (const [k, pg] of Object.entries(en.pages ?? {})) {
+    const p = pt.pages?.[k];
+    if (!p) { report.errors.push(`${where} page "${k}": missing`); continue; }
+    compareName(pg.name, p.name, `${where} page "${k}" name`, report);
+    if (pg.text) compareText(pg.text, p.text, `${where} page "${k}"`, report);
   }
   for (const [k, i] of Object.entries(en.items ?? {})) {
     const p = pt.items?.[k];

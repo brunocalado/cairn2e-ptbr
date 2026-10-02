@@ -1,0 +1,221 @@
+{
+  "label": "Calendário de Vald",
+  "entries": {
+    "Bartermoot": {
+      "name": "Conselho da Troca",
+      "pages": {
+        "Bartermoot": {
+          "name": "Conselho da Troca",
+          "text": "<p>Manhã do dia 14 (Dia da Horta). Representantes das cidades e aldeias menores trocam aço por madeira, num acordo ritual com os habitantes do Bosque.</p>"
+        }
+      }
+    },
+    "Boughmeal": {
+      "name": "Banquete dos Ramos",
+      "pages": {
+        "Boughmeal": {
+          "name": "Banquete dos Ramos",
+          "text": "<p>Do amanhecer até a tarde do dia 16 (Dia do Dízimo). Um dia de mercado feito só dentro do Bosque, onde artesãos e mercadores de todo o reino se encontram para trocar suas mercadorias.</p>"
+        }
+      }
+    },
+    "Dead Solstice": {
+      "name": "Solstício Morto",
+      "pages": {
+        "Dead Solstice": {
+          "name": "Solstício Morto",
+          "text": "<p>Meia-noite do dia 10 (Dia do Dízimo). Marca o dia mais curto do ano e o meio da Estação Morta.</p>"
+        }
+      }
+    },
+    "Dry Equinox": {
+      "name": "Equinócio Seco",
+      "pages": {
+        "Dry Equinox": {
+          "name": "Equinócio Seco",
+          "text": "<p>Meia-noite do dia 10 (Dia do Dízimo). Marca o meio da Estação Seca.</p>"
+        }
+      }
+    },
+    "Dustset": {
+      "name": "Poeirada",
+      "pages": {
+        "Dustset": {
+          "name": "Poeirada",
+          "text": "<p>Da tarde até a meia-noite do dia 9 (Dia do Canto). Um carnaval de desfiles e bailes de máscaras, em que os participantes usam máscaras para se proteger da poeira e do vento.</p>"
+        }
+      }
+    },
+    "Ember": {
+      "name": "Brasa",
+      "pages": {
+        "Ember": {
+          "name": "Brasa",
+          "text": "<p>Noite do dia 11 (Dia do Banho). Homenageia o sol poente e o trabalho duro que vem pela frente na preparação para a Estação Morta. Soltar lanternas é um costume comum.</p>"
+        }
+      }
+    },
+    "Firelight": {
+      "name": "Luz do Fogo",
+      "pages": {
+        "Firelight": {
+          "name": "Luz do Fogo",
+          "text": "<p>O dia todo, no dia 18 (Dia de Folga). Um dia de pipas, sinos de vento e matracas. À noite, acendem-se fogueiras enormes enquanto dançarinos fazem impressionantes danças do fogo.</p>"
+        }
+      }
+    },
+    "First Light": {
+      "name": "Primeira Luz",
+      "pages": {
+        "First Light": {
+          "name": "Primeira Luz",
+          "text": "<p>Crepúsculo do dia 24 (Dia de Folga). Celebra o fim do primeiro mês do ano novo. Tochas e fogueiras ficam acesas a noite toda, fazendo da noite dia.</p>"
+        }
+      }
+    },
+    "First Plant": {
+      "name": "Primeiro Plantio",
+      "pages": {
+        "First Plant": {
+          "name": "Primeiro Plantio",
+          "text": "<p>Tarde do dia 18 (Dia de Folga). Uma festa que marca o começo da época de plantio. As comunidades se reúnem para plantar juntas as primeiras sementes do ano.</p>"
+        }
+      }
+    },
+    "Float": {
+      "name": "Flutuação",
+      "pages": {
+        "Float": {
+          "name": "Flutuação",
+          "text": "<p>O dia todo, no dia 14 (Dia da Horta). As comunidades constroem e enfeitam barcos ou balsas enormes para descer os rios.</p>"
+        }
+      }
+    },
+    "Gathering Night": {
+      "name": "Noite da Reunião",
+      "pages": {
+        "Gathering Night": {
+          "name": "Noite da Reunião",
+          "text": "<p>Crepúsculo do dia 24 (Dia de Folga). As comunidades se juntam para recolher e guardar a colheita, e depois vem uma noite de histórias e música.</p>"
+        }
+      }
+    },
+    "Gloam": {
+      "name": "Lusco-Fusco",
+      "pages": {
+        "Gloam": {
+          "name": "Lusco-Fusco",
+          "text": "<p>Noite do dia 24 (Dia de Folga). O último grande banquete do ano, em gratidão pela colheita, com o sol como peça central. Gravidezes são comuns.</p>"
+        }
+      }
+    },
+    "Harvest Equinox": {
+      "name": "Equinócio da Colheita",
+      "pages": {
+        "Harvest Equinox": {
+          "name": "Equinócio da Colheita",
+          "text": "<p>Meia-noite do dia 10 (Dia do Dízimo). Marca o meio da Colheita.</p>"
+        }
+      }
+    },
+    "Harvest Festival": {
+      "name": "Festa da Colheita",
+      "pages": {
+        "Harvest Festival": {
+          "name": "Festa da Colheita",
+          "text": "<p>Tarde do dia 4 (Dia do Dízimo). Celebra o começo da colheita com banquetes e reuniões comunitárias para começar a colher.</p>"
+        }
+      }
+    },
+    "Highwater Fair": {
+      "name": "Feira da Preamar",
+      "pages": {
+        "Highwater Fair": {
+          "name": "Feira da Preamar",
+          "text": "<p>Do amanhecer até a meia-noite do dia 1 (Dia de Feira). Um grande evento de comércio, quando as águas estão mais altas. Toda cidade grande comemora com feiras e mercados.</p>"
+        }
+      }
+    },
+    "Lift the Veil": {
+      "name": "Erguer o Véu",
+      "pages": {
+        "Lift the Veil": {
+          "name": "Erguer o Véu",
+          "text": "<p>Meia-noite do dia 9 (Dia do Canto). O fim da Estação Morta é celebrado com votos solenes e gestos humildes.</p>"
+        }
+      }
+    },
+    "Parade of Ash": {
+      "name": "Desfile das Cinzas",
+      "pages": {
+        "Parade of Ash": {
+          "name": "Desfile das Cinzas",
+          "text": "<p>Tarde do dia 24 (Dia de Folga). Para celebrar o último dia da Estação Seca, os participantes marcam o rosto com cinzas e tocam música. Quase todo tipo de trabalho é malvisto.</p>"
+        }
+      }
+    },
+    "Splash Festival": {
+      "name": "Festa dos Respingos",
+      "pages": {
+        "Splash Festival": {
+          "name": "Festa dos Respingos",
+          "text": "<p>3 dias a partir do dia 5 (do Dia do Banho ao Dia de Feira). Celebra a fartura de água, com corridas de barco, competições, presentes e bênçãos da água.</p>"
+        }
+      }
+    },
+    "Storm Dance": {
+      "name": "Dança da Tormenta",
+      "pages": {
+        "Storm Dance": {
+          "name": "Dança da Tormenta",
+          "text": "<p>Cinco dias a partir do dia 19 (do Dia de Feira ao Dia do Banho). Danças e noivados para agradar os senhores da tempestade e da chuva, por uma Colheita farta.</p>"
+        }
+      }
+    },
+    "The Golden Hind": {
+      "name": "A Corça Dourada",
+      "pages": {
+        "The Golden Hind": {
+          "name": "A Corça Dourada",
+          "text": "<p>Horas de sol do dia 12 (Dia de Folga). Caçadores de toda parte se juntam a uma grande caçada, em meio a muita festa, atrás de um cervo mítico.</p>"
+        }
+      }
+    },
+    "Veil’s Edge": {
+      "name": "Beira do Véu",
+      "pages": {
+        "Veil’s Edge": {
+          "name": "Beira do Véu",
+          "text": "<p>Da tarde ao crepúsculo do dia 17 (Dia do Banho). Um dia para honrar os ancestrais com oferendas e preces nos altares de família.</p>"
+        }
+      }
+    },
+    "Waterwish": {
+      "name": "Pedra dos Desejos",
+      "pages": {
+        "Waterwish": {
+          "name": "Pedra dos Desejos",
+          "text": "<p>Hora do almoço do dia 14 (Dia da Horta). Os participantes escrevem desejos em pergaminhos, enfiam-nos nos buracos de uma rocha e a rolam morro abaixo. Quando ela para, os desejos que ficaram nela vão se realizar, dizem.</p>"
+        }
+      }
+    },
+    "Wet Solstice": {
+      "name": "Solstício Chuvoso",
+      "pages": {
+        "Wet Solstice": {
+          "name": "Solstício Chuvoso",
+          "text": "<p>Meia-noite do dia 10 (Dia do Dízimo). Marca o dia mais longo do ano e o meio da Estação Chuvosa.</p>"
+        }
+      }
+    },
+    "Whisper": {
+      "name": "Sussurro",
+      "pages": {
+        "Whisper": {
+          "name": "Sussurro",
+          "text": "<p>Do amanhecer ao anoitecer do dia 11 (Dia do Banho). Falar mais alto que um sussurro é tabu. Leilões silenciosos são comuns.</p>"
+        }
+      }
+    }
+  }
+}
