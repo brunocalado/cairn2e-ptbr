@@ -1,3 +1,17 @@
+# 0.0.8
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.1.0.** Traduz os textos novos do sistema: as **lojas que os jogadores visitam** pela ficha e as **dez lojas padrão** (Armeiro, Armadureiro, Estábulo, Armazém, Loja de Expedição, Boticário, Ferramenteiro, Curiosidades, Alfaiate, Taverna), qualquer **item desconhecido** de quem o carrega e a aba **Disfarce**, **Rolar o clima** no calendário, as **ações da exploração de masmorra** com suas regras e a ajuda, a ajuda dos **Pontos de Guarda** e os campos de **Vínculo** e **Presságio** do criador de personagem.
+* O compêndio **Guia do Jogador**, com os cinco capítulos de regras do SRD: Visão Geral e Princípios, Criação de Personagem, Regras Básicas, Procedimentos e Mercado. Os links que abrem uma página direto num título continuam funcionando com os títulos em português.
+* As tabelas **Clima em Vald** (Morta, Seca, Chuvosa, Colheita) do compêndio do Guardião e a macro **Restaurar Lojas Padrão**.
+
+  Agora o módulo exige o Cairn 2e 0.1.0 ou mais novo.
+
+### Removido
+
+* Os textos de **relíquia desconhecida**, que saíram do sistema: agora qualquer item pode ser desconhecido.
+
 # 0.0.7
 
 ### Adicionado
