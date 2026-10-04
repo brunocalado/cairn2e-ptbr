@@ -45,7 +45,7 @@ cicatrizes, crescimento, facções, cartões de chat, notificações e configura
 | Criação de Personagem | Antecedentes, Tabelas de Antecedentes, Itens de Antecedentes, Companheiros, Características, Vínculos, Presságios |
 | Equipamento | Equipamento, Armas, Armaduras |
 | Magia | Grimórios, Pergaminhos, Relíquias |
-| Referência | Tabelas de Jogo, Bestiário, Mercenários |
+| Referência | Guia do Jogador, Tabelas de Jogo, Bestiário, Mercenários, Calendário de Vald |
 | Guardião | Tabelas do Guardião |
 | Caseiro | Mais Equipamento, Mais Grimórios, Mais Pergaminhos |
 

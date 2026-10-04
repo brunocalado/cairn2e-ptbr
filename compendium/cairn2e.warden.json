@@ -3530,6 +3530,102 @@
           "description": "Grotão"
         }
       }
+    },
+    "Vald Weather (Dead)": {
+      "name": "Clima em Vald (Morta)",
+      "description": "<p>Role a coluna Morta da tabela Clima em Vald para um dia da Estação Morta. Ela descreve o dia; o clima em que uma jornada viaja é a rolagem da própria Jornada.</p>",
+      "results": {
+        "1-1": {
+          "description": "Frio e limpo"
+        },
+        "2-2": {
+          "description": "Manhãs geladas"
+        },
+        "3-3": {
+          "description": "Céu encoberto"
+        },
+        "4-4": {
+          "description": "Neve leve"
+        },
+        "5-5": {
+          "description": "Pancadas de neve"
+        },
+        "6-6": {
+          "description": "Chuva congelante"
+        }
+      }
+    },
+    "Vald Weather (Dry)": {
+      "name": "Clima em Vald (Seca)",
+      "description": "<p>Role a coluna Seca da tabela Clima em Vald para um dia da Estação Seca. Ela descreve o dia; o clima em que uma jornada viaja é a rolagem da própria Jornada.</p>",
+      "results": {
+        "1-1": {
+          "description": "Quente e ensolarado"
+        },
+        "2-2": {
+          "description": "Morno e ensolarado"
+        },
+        "3-3": {
+          "description": "Morno e com brisa"
+        },
+        "4-4": {
+          "description": "Quente e úmido"
+        },
+        "5-5": {
+          "description": "Onda de calor ocasional"
+        },
+        "6-6": {
+          "description": "Seco e com vento"
+        }
+      }
+    },
+    "Vald Weather (Harvest)": {
+      "name": "Clima em Vald (Colheita)",
+      "description": "<p>Role a coluna Colheita da tabela Clima em Vald para um dia da Colheita. Ela descreve o dia; o clima em que uma jornada viaja é a rolagem da própria Jornada.</p>",
+      "results": {
+        "1-1": {
+          "description": "Ameno e ensolarado"
+        },
+        "2-2": {
+          "description": "Fresco e limpo"
+        },
+        "3-3": {
+          "description": "Morno e ensolarado"
+        },
+        "4-4": {
+          "description": "Morno e com brisa"
+        },
+        "5-5": {
+          "description": "Chuva fraca"
+        },
+        "6-6": {
+          "description": "Chuva forte"
+        }
+      }
+    },
+    "Vald Weather (Wet)": {
+      "name": "Clima em Vald (Chuvosa)",
+      "description": "<p>Role a coluna Chuvosa da tabela Clima em Vald para um dia da Estação Chuvosa. Ela descreve o dia; o clima em que uma jornada viaja é a rolagem da própria Jornada.</p>",
+      "results": {
+        "1-1": {
+          "description": "Chuva fraca"
+        },
+        "2-2": {
+          "description": "Encoberto"
+        },
+        "3-3": {
+          "description": "Com brisa"
+        },
+        "4-4": {
+          "description": "Chuva forte"
+        },
+        "5-5": {
+          "description": "Tempestades"
+        },
+        "6-6": {
+          "description": "Pancadas ocasionais"
+        }
+      }
     }
   }
 }

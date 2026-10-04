@@ -14,7 +14,8 @@
  *   node tools/translations.mjs todo       write tools/work/*.json holding only the English that
  *                                         needs translating: translate the values in place
  *   node tools/translations.mjs apply      merge tools/work/*.json into compendium/ and lang/,
- *                                         regenerate the scroll packs, update the snapshot
+ *                                         regenerate the scroll packs, point heading links at the
+ *                                         translated headings, update the snapshot
  *   node tools/translations.mjs snapshot   accept the current system source as translated
  *
  * The system is read from ../../systems/cairn2e (its packs/_source and lang/en.json); set
@@ -143,6 +144,8 @@ const LINKS = /@[A-Za-z]+\[[^\]]*\]|\[\[[^\]]*\]\]/g;
 const PLACEHOLDER = /\{\w+\}/g;
 const tags = (s) => [...s.matchAll(TAG)].map((m) => m[0].slice(0, 2) + m[1]).join(" ");
 const sorted = (s, re) => (s.match(re) ?? []).map((x) => x.replace(/\s/g, "")).sort().join(" ");
+// A link's `#slug` names a heading by its text, so it changes with the translated heading.
+const unanchored = (s) => s.replace(/#[^\]]*\]/g, "]");
 
 /** Names are shown in narrow rows and chips: at most 4 characters over the English, or 18. */
 const nameBudget = (en) => Math.max(en.length + 4, 18);
@@ -152,7 +155,7 @@ const isSentence = (en) => en.length > 30 && /\s/.test(en);
 function compareText(en, pt, where, report) {
   if (typeof pt !== "string" || (en.trim() && !pt.trim())) return report.errors.push(`${where}: missing translation`);
   if (tags(en) !== tags(pt)) report.errors.push(`${where}: HTML tags differ from the English`);
-  if (sorted(en, LINKS) !== sorted(pt, LINKS)) report.errors.push(`${where}: @UUID or [[...]] changed`);
+  if (sorted(unanchored(en), LINKS) !== sorted(unanchored(pt), LINKS)) report.errors.push(`${where}: @UUID or [[...]] changed`);
   if (sorted(en, DICE) !== sorted(pt, DICE)) report.warnings.push(`${where}: dice differ (${en.match(DICE) ?? []} → ${pt.match(DICE) ?? []})`);
   if (en.endsWith("*") && !pt.endsWith("*")) report.errors.push(`${where}: lost the trailing *`);
 }
@@ -190,6 +193,74 @@ function compareEntry(en, pt, where, report) {
 }
 
 /* -------------------------------------------- */
+/*  Heading links                               */
+/* -------------------------------------------- */
+
+// A link may open a journal page at a heading: `@UUID[…JournalEntryPage.<id>#slug]`. Headings
+// carry no id here, so Foundry finds one by JournalEntryPage.slugifyHeading of its text, and a
+// translated heading has a new slug. String#slugify maps symbols and accented letters through
+// its CHAR_MAP ("&" → "and", "ç" → "c"), lowercases, turns runs of spaces and dashes into one
+// dash; slugifyHeading then drops quotes and cuts at 64. These are the CHAR_MAP entries Latin
+// text can hit; NFD covers the accented letters.
+const SLUG_CHARS = { "&": "and", "$": "dollar", "%": "percent", "<": "less", ">": "greater", "|": "or", "ª": "a", "º": "o", "…": "..." };
+const ENTITIES = { amp: "&", lt: "<", gt: ">", quot: "\"", apos: "'", "#39": "'", nbsp: " " };
+const ANCHORED_LINK = /(@UUID\[)([^\]#]+)#([^\]]+)\]/g;
+
+function headingSlugs(html) {
+  return [...html.matchAll(/<h([1-6])[^>]*>(.*?)<\/h\1>/gs)].map(([, , inner]) => {
+    const text = inner.replace(/<[^>]*>/g, "").replace(/&(amp|lt|gt|quot|apos|#39|nbsp);/g, (_, e) => ENTITIES[e]);
+    return [...text].map((c) => SLUG_CHARS[c] ?? c).join("").normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+      .trim().toLowerCase().replace(/[\s-]+/g, "-").replace(/["'‘’“”]/g, "").substring(0, 64);
+  });
+}
+
+/** Each journal page's heading slugs, English and translated, by the UUID a link names it with. */
+function pageAnchors() {
+  const anchors = new Map();
+  for (const pack of systemPacks()) {
+    const { docs } = englishEntries(pack);
+    if (!docs.some((d) => d.pages?.length)) continue;
+    const pt = existsSync(packFile(pack)) ? readJson(packFile(pack)).entries : {};
+    for (const d of docs) for (const pg of d.pages ?? []) {
+      const ptText = (pt[d.name] ?? pt[d._id])?.pages?.[pg.name]?.text ?? "";
+      anchors.set(`Compendium.${SYSTEM_ID}.${pack}.JournalEntry.${d._id}.JournalEntryPage.${pg._id}`,
+        { en: headingSlugs(pg.text?.content ?? ""), pt: headingSlugs(ptText) });
+    }
+  }
+  return anchors;
+}
+
+/** The slugs a link into this page may use: the translated headings, or the English while it has none. */
+const validSlugs = (anchor) => (anchor.pt.length ? anchor.pt : anchor.en);
+
+const mapStrings = (v, fn) => typeof v === "string" ? fn(v)
+  : Array.isArray(v) ? v.map((x) => mapStrings(x, fn))
+  : v && typeof v === "object" ? Object.fromEntries(Object.entries(v).map(([k, x]) => [k, mapStrings(x, fn)]))
+  : v;
+
+/** Point every heading link at the translated heading in the place of the English one it named. */
+function retargetAnchors() {
+  const anchors = pageAnchors();
+  let n = 0;
+  const fix = (s) => s.replace(ANCHORED_LINK, (link, at, uuid, slug) => {
+    const anchor = anchors.get(uuid);
+    if (!anchor || validSlugs(anchor).includes(slug)) return link;
+    const translated = anchor.pt[anchor.en.indexOf(slug)];
+    if (!translated) return link;
+    n++;
+    return `${at}${uuid}#${translated}]`;
+  });
+  for (const pack of systemPacks()) {
+    if (!existsSync(packFile(pack))) continue;
+    const data = readJson(packFile(pack));
+    const before = n;
+    data.entries = mapStrings(data.entries, fix);
+    if (n > before) writeJson(packFile(pack), data);
+  }
+  return n ? `${n} heading link(s) pointed at the translated heading` : null;
+}
+
+/* -------------------------------------------- */
 /*  Commands                                    */
 /* -------------------------------------------- */
 
@@ -201,6 +272,7 @@ function loadSnapshot() {
 function diff() {
   const snapshot = loadSnapshot();
   const result = { packs: {}, lang: null, packFolders: [] };
+  const anchors = pageAnchors();
   for (const pack of systemPacks()) {
     const { entries, folders } = englishEntries(pack);
     const file = existsSync(packFile(pack)) ? readJson(packFile(pack)) : { entries: {}, folders: {} };
@@ -214,6 +286,13 @@ function diff() {
     }
     report.removed = Object.keys(pt).filter((k) => !entries[k]);
     report.folders = folders.filter((f) => !file.folders?.[f]);
+    mapStrings(pt, (s) => {
+      for (const [, , uuid, slug] of s.matchAll(ANCHORED_LINK)) {
+        const anchor = anchors.get(uuid);
+        if (anchor && !validSlugs(anchor).includes(slug)) report.errors.push(`link to #${slug} finds no heading in ${uuid}`);
+      }
+      return s;
+    });
     result.packs[pack] = report;
   }
 
@@ -339,6 +418,7 @@ function apply() {
   }
   for (const [pack, from] of Object.entries(DERIVED)) applied.push(deriveScrolls(pack, from, snapshot));
   applied.push(prune(snapshot));
+  applied.push(retargetAnchors());
   if (!existsSync(join(WORK_DIR, "lang.json"))) applyLang({}, snapshot);
   writeJson(SNAPSHOT_FILE, snapshot);
   rmSync(WORK_DIR, { recursive: true, force: true });

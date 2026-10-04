@@ -33,6 +33,9 @@
     },
     "Calendar": {
       "name": "Calendário"
+    },
+    "Restore Default Stores": {
+      "name": "Restaurar Lojas Padrão"
     }
   }
 }
