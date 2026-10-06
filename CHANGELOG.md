@@ -1,3 +1,17 @@
+# 0.0.9
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.1.2.** Traduz os textos novos do sistema: os itens que o **Vínculo** dá no criador de personagem (e o botão de deixá-los para trás), o **lembrete de teste de Moral** com seus gatilhos, o resultado **Em debandada** de um destacamento, os avisos do **grupo** (ator ausente, grupo não carrega itens), da **jornada** sem ninguém, do **carrinho de venda** e do limite da **importação do Kettlewright**.
+* Os 21 itens da pasta **Vínculos** dos Itens de Antecedentes (Bússola Estranha, Coração de Pedra, Meia Chave Ancestral, Gema Única e os demais, além de Presságio e Segundo Vínculo), que agora chegam ao inventário quando um Vínculo é rolado. O texto de cada item é o mesmo do resultado da tabela.
+
+  Agora o módulo exige o Cairn 2e 0.1.2 ou mais novo.
+
+### Corrigido
+
+* Resultados de tabela que apontam para itens de nome repetido (**Ouro**, **Rapieira**, **Gibão de Couro**, **Gazuas**) apareciam em inglês nas tabelas de Vínculos e de Antecedentes.
+* Os textos da macro de arma sumida e da configuração de animações acompanham a nova redação do sistema.
+
 # 0.0.8
 
 ### Adicionado
