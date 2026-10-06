@@ -183,12 +183,15 @@
     "Attributes": "Atributos",
     "Back": "Voltar",
     "Background": "Role ou escolha um Antecedente",
+    "BondGold": "{value} Peças de Ouro",
+    "BondGrants": "O Vínculo lhe dá",
     "BondPlaceholder": "Role um Vínculo, ou escreva o seu…",
     "Change": "Trocar",
     "ChooseBackgroundFirst": "Role ou escolha um antecedente para começar.",
     "CustomBackgrounds": "Outros Antecedentes",
     "Create": "Criar Personagem",
     "DefaultName": "Novo Personagem",
+    "DropBondGrant": "Deixar para trás",
     "HitProtection": "Pontos de Guarda",
     "Missing": "pendente",
     "MissingFields": "Escolha um antecedente e um nome, e role atributos e PG antes.",
@@ -266,8 +269,11 @@
     },
     "DexSavePrompt": "Rolar o teste de DES da primeira rodada",
     "Morale": {
-      "firstCasualty": "Primeira baixa — os oponentes devem um teste de Moral",
-      "half": "Metade deles caiu — os oponentes devem um teste de Moral"
+      "firstCasualty": "a primeira baixa deles",
+      "half": "metade deles abatida",
+      "lone": "um inimigo sozinho com 0 PG",
+      "Reminder": "Os oponentes devem um teste de Moral: {triggers}.",
+      "Hint": "Role-o pela bandeira na linha de um oponente no rastreador de combate."
     },
     "MoralePrompt": "Rolar Moral para este oponente",
     "Side": {
@@ -347,7 +353,7 @@
     "FatigueLead": "Cada personagem adiciona uma Fadiga.",
     "FatigueNoRoom": "Sem espaço livre, então nenhuma Fadiga foi adicionada: {names}. É preciso largar um item para recebê-la.",
     "Fight": "Começa uma luta",
-    "Help": "<strong>Exploração de masmorra</strong>, turno a turno.<br>1. O Guardião descreve; cada jogador declara um movimento e uma ação — o botão de lista na sua linha as oferece.<br>2. O Guardião resolve as ações de todos de uma vez.<br>3. Registre o que foi usado; o Guardião pode rolar um Evento de Masmorra.<br>Um turno é cerca de 12 m e uma ação, ou a ação gasta para se mover até 36 m. Moveu-se demais? O desfazer ao lado da distância leva o token de volta para onde o turno começou.<br>Clique para abrir o Resumo das Regras.",
+    "Help": "<strong>Exploração de masmorra</strong>, turno a turno.<br/>1. O Guardião descreve; cada jogador declara um movimento e uma ação — o botão de lista na sua linha as oferece.<br/>2. O Guardião resolve as ações de todos de uma vez.<br/>3. Registre o que foi usado; o Guardião pode rolar um Evento de Masmorra.<br/>Um turno é cerca de 12 m e uma ação, ou a ação gasta para se mover até 36 m. Moveu-se demais? O desfazer ao lado da distância leva o token de volta para onde o turno começou.<br/>Clique para abrir o Resumo das Regras.",
     "HelpLabel": "Como funciona a exploração de masmorra",
     "Moved": "Moveu-se neste turno",
     "NextTurn": "Próximo turno",
@@ -399,6 +405,7 @@
     "FolderName": "Encontros",
     "NoActor": "Essa linha de encontro aponta para uma criatura que não existe mais.",
     "NoScene": "Abra uma cena antes de adicionar um encontro a ela.",
+    "NothingPlaced": "Nada foi adicionado à cena.",
     "PickPoint": "Clique no mapa onde eles aparecem — Esc para cancelar.",
     "Placed": "Adicionados à cena: {summary}.",
     "RandomNpc": "PNJ aleatório"
@@ -621,6 +628,7 @@
     "NeedWeather": "Defina o clima deste turno.",
     "Needed": "Necessário",
     "NeedsWatches": "A jornada leva {n} turno(s).",
+    "NoCrewFor": "Não há ninguém na jornada para: {action}. Arraste o grupo para a lista da jornada primeiro.",
     "NoParty": "o grupo",
     "NoSleep": "Ninguém acampou: cada personagem adiciona uma Fadiga e fica Privado, e o terreno de amanhã fica um passo mais difícil.",
     "NoTable": "A tabela {uuid} do sistema está faltando no compêndio.",
@@ -728,6 +736,7 @@
     "SourceLabel": "JSON do Kettlewright",
     "SummaryBackgroundUnmatched": "O antecedente \"{name}\" não é de Cairn 2e — mantido como texto livre.",
     "SummaryBespoke": "{count} item(ns) criado(s) a partir do texto do arquivo",
+    "SummaryClamped": "No máximo {max} de uma mesma coisa é importado; o arquivo pedia mais de: {names}.",
     "SummaryClean": "Tudo no arquivo foi importado.",
     "SummaryContainers": "{count} recipiente(s) criado(s) e vinculado(s)",
     "SummaryDropped": "{count} item(ns) não pôde(puderam) ser importado(s):",
@@ -877,7 +886,7 @@
     "HotbarsNoMacros": "Nenhuma das macros de jogador está no diretório de Macros deste mundo — importe-as do compêndio de Macros primeiro.",
     "HotbarsReset": "Macros de jogador colocadas em {count} barra(s) de atalhos.",
     "HotbarsWardenOnly": "Só o Guardião pode repor as barras de atalhos dos jogadores.",
-    "MacroItemMissing": "{actor} não tem item chamado {item}.",
+    "MacroItemMissing": "A arma desta macro não existe mais: {uuid}.",
     "MacroNoTarget": "Selecione um token, ou tenha um personagem atribuído a você.",
     "MacroOwnedItemsOnly": "Você só pode criar botões de macro para Itens que possui.",
     "MacroWeaponsOnly": "Macros só funcionam com armas.",
@@ -904,8 +913,10 @@
     "GatheringFromCombat": "{names} sairá(ão) do combate atual e não voltará(ão) à ordem.",
     "MakeActive": "Tornar este o grupo ativo",
     "Members": "Grupo",
+    "Missing": "Ator ausente",
     "NoActiveParty": "Não há grupo ativo. Crie um, ou escolha um no diretório de Atores.",
     "NoFollowers": "Ninguém viaja com eles.",
+    "NoItems": "Um grupo não carrega nada. Solte o item na ficha de um membro.",
     "NoMembers": "Solte um personagem aqui.",
     "NoPartyInParty": "Um grupo não pode entrar em outro grupo.",
     "OpenKey": "Abrir o grupo",
@@ -988,6 +999,7 @@
   "CAIRN.Route": {
     "SheetLabel": "Rota de Cairn 2e"
   },
+  "CAIRN.Routed": "Em debandada, ou muito enfraquecido",
   "CAIRN.Rule": {
     "Critical": {
       "Label": "Dano Crítico",
@@ -1179,7 +1191,7 @@
     },
     "Animations": {
       "Name": "Animações do Cairn no Automated Animations",
-      "Hint": "Adiciona as armas, os ataques de monstros e as magias do Cairn ao menu de Reconhecimento Automático, com animações do JB2A Patreon e sons do PSFX. Cada entrada é adicionada uma única vez: uma entrada que você editar ou apagar fica assim. Desligar isto impede novas adições; o que já foi adicionado continua no menu."
+      "Hint": "Substitui o menu de Reconhecimento Automático, uma única vez, pelas armas, ataques de monstros e magias do Cairn, com animações do JB2A Patreon e sons do PSFX. Uma versão posterior só adiciona suas entradas novas: uma entrada que você editar ou apagar fica assim. Desligar isto impede novas mudanças; o que já está no menu continua."
     }
   },
   "CAIRN.Sidebar": {
@@ -1235,6 +1247,7 @@
     "New": "Nova loja",
     "NewTitle": "Nova loja",
     "NoCharacter": "Você não tem personagem para fazer compras.",
+    "NoLongerSellable": "Algo no carrinho de venda não pode mais ser vendido — um recipiente que agora tem algo dentro, ou uma coisa que sumiu. Foi tirado do carrinho: confira o total e confirme de novo.",
     "NoRoom": "Isso não caberia nos seus dez espaços.",
     "NoneOpen": "Nenhuma loja está aberta para visitas agora.",
     "NoStore": "Nenhuma loja ainda — crie uma.",

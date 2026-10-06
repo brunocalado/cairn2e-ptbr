@@ -228,6 +228,9 @@
         "1-1": {
           "description": "<p>A casa de verão de um nobre. O lugar estava cheio de vinhos finos (+20po), mas pouco mais. Pegue um <strong>Corta-Cercas</strong>.</p>"
         },
+        "ADji6nYTyFyvAkv2": {
+          "name": "Ouro"
+        },
         "2-2": {
           "description": "<p>Um banco. (Você foi pego.) Você carrega uma marca visível apenas à luz do fogo, e qualquer um que a veja pode lhe pedir uma cerveja. Pegue <strong>Fios Retráteis</strong>.</p>"
         },
@@ -372,6 +375,9 @@
         "1-1": {
           "description": "<p>Um velho caçador. Vocês foram bem felizes, até que tudo acabou. Pegue um <strong>Arco Longo Surrado</strong> (d8, <em>volumoso</em>) e um <strong>Gibão de Couro</strong> (1 Armadura).</p>"
         },
+        "hQc5nODhFzhzknIo": {
+          "name": "Gibão de Couro"
+        },
         "2-2": {
           "description": "<p>Um boticário experiente, que lhe ensinou as artes da cura, mas manteve uma frieza clínica. Pegue um <strong>Unguento de Cura</strong> (restaura d4 FOR, 1 uso).</p>"
         },
@@ -455,6 +461,9 @@
         },
         "5-5": {
           "description": "<p>Sua impressionante flor-cadáver venceu um concurso local e logo em seguida matou um jurado. Você fugiu, mas não sem o <strong>Prêmio em Dinheiro (100po)</strong> e um mandado de prisão.</p>"
+        },
+        "NafIwkWXnt5vkZ4D": {
+          "name": "Ouro"
         },
         "6-6": {
           "description": "<p>Você criou uma tintura restauradora que também causa infertilidade acidental. Pegue uma <strong>Poção de Cura</strong> que restaura toda a FOR. Só você conhece seus efeitos colaterais.</p>"
@@ -588,6 +597,9 @@
         "1-1": {
           "description": "<p>Apesar do seu treino nas artes mortais, um ator morreu e a culpa caiu sobre você. Pegue uma <strong>Rapieira</strong> leve (d6) e uma identidade falsa.</p>"
         },
+        "InhUfkEr5cwJUK5X": {
+          "name": "Rapieira"
+        },
         "2-2": {
           "description": "<p>O público adorou sua música grudenta sobre um nobre e seus fracassos amorosos. O nobre em questão, nem tanto. Pegue o <em>Ler Mentes</em>, um <strong>Grimório</strong>, e um mandado de prisão em seu nome. Ler Mentes: você ouve os pensamentos superficiais das criaturas próximas. <em>A posse prolongada pode fazer o leitor confundir os pensamentos alheios com os próprios.</em></p>"
         },
@@ -636,8 +648,14 @@
         "1-1": {
           "description": "<p>Você constrói pequenas engenhocas para guildas locais (e não faz muitas perguntas). Pegue 40po extras e um cartaz de procurado com seu rosto. Com tempo e materiais, você consegue abrir quase qualquer porta ou cofre.</p>"
         },
+        "OWZvxSwC7D8qCe32": {
+          "name": "Ouro"
+        },
         "2-2": {
           "description": "<p>Você negocia utensílios domésticos e ferramentas, vendendo suas mercadorias aos moradores das vilas por todas as terras. Pegue 20po em itens da tabela de [equipamentos](/second-edition/players-guide/marketplace#gear). Você é fluente na <em>Gíria dos Viajantes</em>.</p>"
+        },
+        "88bvIeq00E05GvCA": {
+          "name": "Ouro"
         },
         "3-3": {
           "description": "<p>Você era fundidor militar, até a paz destruir seu sustento. Pegue um <strong>Martelo de Fundição</strong> (d10, <em>volumoso</em>) e um <strong>Elmo de Estanho</strong> (+1 Armadura). Com tempo e materiais adequados, você consegue consertar armaduras.</p>"
@@ -710,6 +728,9 @@
         },
         "2-2": {
           "description": "<p>Como condenado, o Juramento foi apenas uma forma de evitar a punição. Pegue um conjunto de <strong>Gazuas</strong> e a <strong>Chave</strong> (<em>miudeza</em>) de um esconderijo.</p>"
+        },
+        "zkHdPGuJ0zBSvHly": {
+          "name": "Gazuas"
         },
         "3-3": {
           "description": "<p>De berço nobre, você se alistou para fugir de problemas familiares. Pegue uma <strong>Lona de Ganso</strong> (cabem dois) que você roubou antes de sair de casa.</p>"
@@ -813,6 +834,9 @@
         "4-4": {
           "description": "<p><strong>Honrar os Mortos</strong>: a morte é uma jornada que todos fazemos, e merece respeito. Pegue <strong>30po</strong> extras. Você sempre põe duas peças de ouro sobre as pálpebras de um inimigo abatido. De algum modo, você sempre encontra a moeda.</p>"
         },
+        "QC7LgS0zghe5DmIg": {
+          "name": "Ouro"
+        },
         "5-5": {
           "description": "<p><strong>Lealdade ao trabalho</strong>: sua palavra é seu compromisso. Depois de aceitar um serviço, você o leva até o fim. Pegue um <strong>Bastão de Contagem</strong> desgastado. Quando um voto é marcado em sua face, o bastão endurece (d8) até ser cumprido. O bastão se parte ao meio se o voto for quebrado.</p>"
         },
@@ -842,6 +866,9 @@
         },
         "6-6": {
           "description": "<p>Uma <em>toutinegra-azul</em>. Seus gametas rendem um bom lucro, se extraídos corretamente. Você conseguiu, mas deixou o ninho para os lobos. Pegue uma <strong>Faca de Descascar</strong> (d6), <strong>20po extras</strong> e uma pontada de arrependimento.</p>"
+        },
+        "GWqMZftnf7HHcdSm": {
+          "name": "Ouro"
         }
       }
     },
@@ -876,11 +903,20 @@
         "1-1": {
           "description": "<p><strong>Apresentações</strong> Tocar em tavernas sempre rende cama e comida. Às vezes você até ganha gorjetas! Comece com <strong>10po</strong> extras.</p>"
         },
+        "wFkLvHaTna8Uf2hA": {
+          "name": "Ouro"
+        },
         "2-2": {
           "description": "<p><strong>Guarda-Costas</strong> Você protege quem tem medo de viajar sozinho. Comece com uma <strong>Rapieira</strong> (d8).</p>"
         },
+        "IDQxSw3o193bt29I": {
+          "name": "Rapieira"
+        },
         "3-3": {
           "description": "<p><strong>Mercadorias</strong> Você compra barato e vende caro, sempre ganhando só o suficiente para se virar. Pegue um <strong>único item</strong> que valha <strong>20po</strong> (ou menos) da tabela de [equipamentos](/second-edition/players-guide/marketplace#gear).</p>"
+        },
+        "EnUfY8zkAFccQd3S": {
+          "name": "Ouro"
         },
         "4-4": {
           "description": "<p><strong>Transporte</strong> Você entrega pacotes “delicados” por todas as terras. Você tem ao menos um contato em qualquer cidade grande.</p>"

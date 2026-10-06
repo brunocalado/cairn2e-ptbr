@@ -68,6 +68,15 @@ function loadSource(pack) {
   return { docs, folders };
 }
 
+/** Whether a document result links into a system pack where its name belongs to several documents. */
+const packNames = new Map();
+function sharedName(result) {
+  const [, system, pack] = result.documentUuid?.split(".") ?? [];
+  if (system !== SYSTEM_ID || !result.name) return false;
+  if (!packNames.has(pack)) packNames.set(pack, loadSource(pack).docs.map((d) => d.name));
+  return packNames.get(pack).filter((n) => n === result.name).length > 1;
+}
+
 /**
  * The translatable English of one pack, keyed the way the Babele file is keyed: by name, or by
  * `_id` where two documents share a name. Mirrors what Babele reads through the mappings that
@@ -92,7 +101,10 @@ function englishEntries(pack) {
         let key = isText ? `${r.range[0]}-${r.range[1]}` : r._id;
         if (results[key]) key = r._id;
         const re = {};
-        if (isText && r.name) re.name = r.name;
+        // Babele names a document result after the linked document, looked up by name — which
+        // misses when that name is shared in the linked pack (the Bonds table's "Gold"), since
+        // those entries are keyed by `_id`. Such a result carries its own name instead.
+        if (isText ? r.name : sharedName(r)) re.name = r.name;
         if (r.description) re.description = r.description;
         if (Object.keys(re).length) results[key] = re;
       }

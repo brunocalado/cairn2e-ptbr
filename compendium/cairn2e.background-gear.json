@@ -21,7 +21,8 @@
     "Prowler": "Vigilante",
     "Rill Runner": "Corredor do Riacho",
     "Scrivener": "Escriba",
-    "Shared": "Compartilhado"
+    "Shared": "Compartilhado",
+    "Bonds": "Vínculos"
   },
   "entries": {
     "A Treatise on the Abyss": {
@@ -1275,6 +1276,90 @@
     "Werewolf Claws": {
       "name": "Garras Lupinas",
       "description": "<p>garras (d6+d6), transformado</p>"
+    },
+    "Ancient Key (half)": {
+      "name": "Meia Chave Ancestral",
+      "description": "<p>Você protege um segredo de família há muito adormecido. Pegue metade de uma <strong>Chave Ancestral</strong> (<em>miudeza</em>). Dizem que, se unida à sua gêmea, ela abre um <strong>Portal</strong> através de qualquer porta.</p>"
+    },
+    "Blood-Red Flower": {
+      "name": "Flor Vermelho-Sangue",
+      "description": "<p>A <strong>Brigada da Aurora</strong> prestou um serviço à sua família e lhe deu uma <strong>Flor Vermelho-Sangue</strong> seca (<em>miudeza</em>) como prova. Quando a flor ficar branca, significa que o favor será cobrado.</p>"
+    },
+    "TFBn50KLgZ5IcZ1S": {
+      "name": "Ouro",
+      "description": "<p>Um primo distante lhe deixou uma pequena herança. Receba <strong>20po</strong> e uma <strong>Bússola Estranha</strong> (<em>miudeza</em>) que sempre aponta para algo nas profundezas do Bosque.</p>"
+    },
+    "Bracelet": {
+      "name": "Pulseira",
+      "description": "<p>Você prometeu a um amigo de infância que lhe traria um presente raro, algo único em todo o mundo. Pegue uma <strong>Pulseira</strong> (<em>miudeza</em>) trançada com barbante e flores silvestres.</p>"
+    },
+    "Journal": {
+      "name": "Diário",
+      "description": "<p>Você herdou um velho <strong>Diário</strong>, encadernado em casca de árvore. Todas as noites, suas páginas se enchem com os eventos do dia, escritos grosseiramente sob a perspectiva do próprio diário. A escrita é rude, mas precisa.</p>"
+    },
+    "Letter of Fae Parentage": {
+      "name": "Carta de Linhagem Feérica",
+      "description": "<p>Você recebeu uma <strong>Carta</strong> (<em>miudeza</em>) com provas irrefutáveis de que sua verdadeira linhagem é da nobreza feérica. A carta também indica uma data e um local onde você deve encontrar seu autor, nas profundezas do Bosque.</p>"
+    },
+    "Letter to the Lord of Winter": {
+      "name": "Carta ao Senhor do Inverno",
+      "description": "<p>Durante suas viagens, você encontrou um caçador moribundo que lhe pediu para entregar uma mensagem a seus entes queridos. Pegue uma <strong>Carta</strong> (<em>miudeza</em>), selada com seiva de árvore. Ela está endereçada apenas ao <strong>Senhor do Inverno</strong>.</p>"
+    },
+    "Miniature Lute": {
+      "name": "Alaúde Miniatura",
+      "description": "<p>Um artista itinerante certa vez visitou sua casa, enchendo-a de histórias e canções. Um dia ele partiu sem dizer uma palavra, deixando para trás apenas <strong>Um Alaúde em Miniatura</strong>. Algo chacoalha lá dentro.</p>"
+    },
+    "Mischievous Spirit": {
+      "name": "Espírito Travesso",
+      "description": "<p>Você ingeriu um <strong>Espírito Travesso</strong> que faz estragos em suas entranhas, exigindo ser levado para casa, nas profundezas do Bosque. Ele ocupa um espaço, mas absorve uma <strong>Fadiga</strong> por dia. Ele quer você vivo (por enquanto).</p>"
+    },
+    "Oak Lord's Whistle": {
+      "name": "Apito do Senhor Carvalho",
+      "description": "<p>Você esculpiu um <strong>Apito</strong> (<em>miudeza</em>) no galho de um <strong>Senhor Carvalho</strong>. Seu ato não passou despercebido. E você não consegue se livrar do apito.</p>"
+    },
+    "Omen": {
+      "name": "Presságio",
+      "description": "<p>Uma marca de nascença estranha, um cheiro incomum: de algum modo, o toque do <em>alhures</em> ainda persiste. Role na tabela de <strong>Presságios</strong> (mesmo que você não seja o jogador mais jovem), mas mantenha o resultado em segredo por enquanto.</p>"
+    },
+    "Portrait": {
+      "name": "Retrato",
+      "description": "<p>Você carrega um <strong>Retrato</strong> num medalhão (<em>miudeza</em>) de um antigo amor que desapareceu no Bosque há muito tempo. De alguma forma, você sabe que essa pessoa ainda está viva.</p>"
+    },
+    "Rolled-Up Map": {
+      "name": "Mapa Enrolado",
+      "description": "<p>Um contador de histórias errante certa vez lhe falou de um grande tesouro escondido nas profundezas do Bosque. Você achou que fosse só fantasia, até que ele lhe deu <strong>Um Mapa Enrolado</strong> (<em>miudeza</em>) marcado com um X.</p>"
+    },
+    "Second Bond": {
+      "name": "Segundo Vínculo",
+      "description": "<p>Uma posição de grande honra, enquanto dura: muitos guardas não vivem até o fim natural de suas vidas. Role uma segunda vez na tabela de <strong>Vínculos</strong>.</p>"
+    },
+    "Signet Ring": {
+      "name": "Anel de Sinete",
+      "description": "<p>Você deve um grande favor a um membro da nobreza e carrega seu <strong>Anel de Sinete</strong> (<em>miudeza</em>), que serve tanto como prova da proteção dele quanto da sua obrigação.</p>"
+    },
+    "Silver Moss": {
+      "name": "Musgo Prateado",
+      "description": "<p>Certa vez, você libertou uma Náiade de um riacho sufocado. Em troca, ela lhe deu um pouco de <strong>Musgo Prateado</strong> (miudeza). Engula-o perto da água e a criatura virá, uma única vez, para saldar sua dívida.</p>"
+    },
+    "Single Gem": {
+      "name": "Gema Única",
+      "description": "<p>Você herdou uma <strong>Gema Única</strong> (500po, fria e quebradiça) de um parente há muito falecido. Ela veio com um aviso: desperdice sua nova fortuna e uma dívida há muito esquecida será cobrada.</p>"
+    },
+    "Stone Heart": {
+      "name": "Coração de Pedra",
+      "description": "<p>Você cruzou o caminho de uma criatura do Bosque, e ela o amaldiçoou com um <strong>Coração de Pedra</strong>. A cada mês que passa, a pedra fica mais pesada e ocupa mais um espaço. Até que sua dívida seja quitada, você não pode morrer de verdade.</p>"
+    },
+    "Strange Compass": {
+      "name": "Bússola Estranha",
+      "description": "<p>Um primo distante lhe deixou uma pequena herança. Receba <strong>20po</strong> e uma <strong>Bússola Estranha</strong> (<em>miudeza</em>) que sempre aponta para algo nas profundezas do Bosque.</p>"
+    },
+    "Tiny Crystal Prism": {
+      "name": "Pequeno Prisma de Cristal",
+      "description": "<p>Você encontrou um <strong>Pequeno Prisma de Cristal</strong> (<em>miudeza</em>) enterrado na terra. Quando erguido contra a luz, ele mostra visões de um lugar desconhecido nas profundezas do Bosque. Às vezes, você sente uma presença olhando de volta.</p>"
+    },
+    "Twig": {
+      "name": "Graveto",
+      "description": "<p>Um corvo branco apareceu para você em um sonho, segurando um graveto no bico. Você acordou na manhã seguinte com o <strong>Graveto</strong> (<em>miudeza</em>) na mão. Você acredita que ele lhe traz sorte. Tem um leve cheiro de enxofre.</p>"
     }
   }
 }
