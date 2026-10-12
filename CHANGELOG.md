@@ -1,3 +1,19 @@
+# 0.0.10
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.1.5.** Traduz os textos novos do sistema: a janela de **Perigos** (queda, esmagamento, afogamento e exposição, com seus testes), o **Tesouro**, o **Depósito** do grupo, os itens largados, arremessados e apanhados no mapa, as categorias de **criação** do Grid Crafter e a macro **Forja**, os recursos de **coleta** do Canvas Harvest, a escuridão da cena que **segue o relógio** e a distância mostrada ao medir ou arrastar um token.
+* Os compêndios **Materiais** (45 materiais, de Bolotas a Sebo de Troll) e **Poções** (17 poções, comuns e superiores).
+* Os 46 **Itens Estranhos** e os 13 pratos novos do **Mais Equipamento** (tortas, ensopados, sopas e outros), além do Kit de Alquimia, do Kit de Ferreiro e da Pepita de Ouro.
+
+  Agora o módulo exige o Cairn 2e 0.1.5 ou mais novo.
+
+### Alterado
+
+* As distâncias seguem o sistema: metros com os pés ao lado, como **12 m (40 ft)**, já que a régua e as cenas medem em pés.
+* Acampar e a exploração de masmorra falam em **refeição** em vez de Ração.
+* O resumo das regras diz o que 0 de DES ou VON faz à mesa, e o Unguento Curativo do Guia do Jogador recupera **1d4 de FOR, 1 uso**.
+
 # 0.0.9
 
 ### Adicionado
