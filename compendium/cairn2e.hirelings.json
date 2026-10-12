@@ -53,7 +53,7 @@
         },
         "Rope": {
           "name": "Corda",
-          "description": "<p>Corda (7,5 m)</p>"
+          "description": "<p>Corda (7,5 m / 25 ft)</p>"
         },
         "Hawk": {
           "name": "Falcão",
@@ -140,7 +140,7 @@
         },
         "Rope": {
           "name": "Corda",
-          "description": "<p>Corda (7,5 m)</p>"
+          "description": "<p>Corda (7,5 m / 25 ft)</p>"
         },
         "Shovel": {
           "name": "Pá",
@@ -230,7 +230,7 @@
         },
         "Rope": {
           "name": "Corda",
-          "description": "<p>Corda (7,5 m)</p>"
+          "description": "<p>Corda (7,5 m / 25 ft)</p>"
         }
       }
     },
@@ -282,7 +282,7 @@
         },
         "Chain": {
           "name": "Corrente",
-          "description": "<p>Corrente (3 m)</p>"
+          "description": "<p>Corrente (3 m / 10 ft)</p>"
         }
       }
     },

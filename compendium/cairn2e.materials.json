@@ -1,0 +1,194 @@
+{
+  "label": "Materiais",
+  "entries": {
+    "Acorns": {
+      "name": "Bolotas",
+      "description": "<p>Bolotas (<em>miudeza</em>)</p>"
+    },
+    "Berries": {
+      "name": "Frutas Silvestres",
+      "description": "<p>Frutas Silvestres (<em>miudeza</em>)</p>"
+    },
+    "Bone": {
+      "name": "Osso",
+      "description": "<p>Osso</p>"
+    },
+    "Cloth": {
+      "name": "Tecido",
+      "description": "<p>Tecido</p>"
+    },
+    "Eggs": {
+      "name": "Ovos",
+      "description": "<p>Ovos</p>"
+    },
+    "Feather": {
+      "name": "Pena",
+      "description": "<p>Pena (<em>miudeza</em>)</p>"
+    },
+    "Flax": {
+      "name": "Linho",
+      "description": "<p>Linho (miudeza)</p>"
+    },
+    "Flour": {
+      "name": "Farinha",
+      "description": "<p>Farinha</p>"
+    },
+    "Fruit": {
+      "name": "Frutas",
+      "description": "<p>Frutas (<em>miudeza</em>)</p>"
+    },
+    "Gargoyle Grit": {
+      "name": "Areia de Gárgula",
+      "description": "<p>Pó de pedra raspado de uma Gárgula enquanto a luz do dia a mantém congelada. À noite, ele se mexe dentro da bolsa.</p>"
+    },
+    "Glass": {
+      "name": "Vidro",
+      "description": "<p>Vidro</p>"
+    },
+    "Grain": {
+      "name": "Grãos",
+      "description": "<p>Grãos (<em>miudeza</em>)</p>"
+    },
+    "Herbs": {
+      "name": "Ervas",
+      "description": "<p>Ervas (<em>miudeza</em>)</p>"
+    },
+    "Hide": {
+      "name": "Pele",
+      "description": "<p>Pele</p>"
+    },
+    "Iron Ingot": {
+      "name": "Lingote de Ferro",
+      "description": "<p>Lingote de Ferro</p>"
+    },
+    "Iron Ore": {
+      "name": "Minério de Ferro",
+      "description": "<p>Minério de Ferro</p>"
+    },
+    "Leather Strip": {
+      "name": "Tira de Couro",
+      "description": "<p>Tira de Couro (<em>miudeza</em>)</p>"
+    },
+    "Leather": {
+      "name": "Couro",
+      "description": "<p>Couro</p>"
+    },
+    "Log": {
+      "name": "Tora",
+      "description": "<p>Tora (volumosa)</p>"
+    },
+    "Manticore Spike": {
+      "name": "Espinho de Mantícora",
+      "description": "<p>Um espinho da cauda de uma mantícora. Um colecionador paga bem por um.</p>"
+    },
+    "Milk": {
+      "name": "Leite",
+      "description": "<p>Leite</p>"
+    },
+    "Mushrooms": {
+      "name": "Cogumelos",
+      "description": "<p>Cogumelos (<em>miudeza</em>)</p>"
+    },
+    "Nails": {
+      "name": "Pregos",
+      "description": "<p>Pregos (<em>miudeza</em>)</p>"
+    },
+    "Phoenix Feather": {
+      "name": "Pena de Fênix",
+      "description": "<p>Peneirada das cinzas de uma fênix, continua morna por mais tempo que seja guardada. Muito procurada por seu poder de cura.</p>"
+    },
+    "Pixie Scale": {
+      "name": "Escama de Pixie",
+      "description": "<p>Um pó cintilante encontrado onde uma Pixie dormiu, invisível até alguém soprar sobre ele.</p>"
+    },
+    "Plank": {
+      "name": "Tábua",
+      "description": "<p>Tábua</p>"
+    },
+    "Raw Fish": {
+      "name": "Peixe Cru",
+      "description": "<p>Peixe Cru</p>"
+    },
+    "Raw Fowl": {
+      "name": "Ave Crua",
+      "description": "<p>Ave Crua</p>"
+    },
+    "Raw Meat": {
+      "name": "Carne Crua",
+      "description": "<p>Carne Crua</p>"
+    },
+    "Reeds": {
+      "name": "Juncos",
+      "description": "<p>Juncos (<em>miudeza</em>)</p>"
+    },
+    "Resin": {
+      "name": "Resina",
+      "description": "<p>Resina (<em>miudeza</em>)</p>"
+    },
+    "Rubble": {
+      "name": "Cascalho",
+      "description": "<p>Rocha quebrada sem nada dentro (volumoso).</p>"
+    },
+    "Salt": {
+      "name": "Sal",
+      "description": "<p>Sal (<em>miudeza</em>)</p>"
+    },
+    "Sand": {
+      "name": "Areia",
+      "description": "<p>Areia</p>"
+    },
+    "Sinew": {
+      "name": "Tendão",
+      "description": "<p>Tendão (<em>miudeza</em>)</p>"
+    },
+    "Steel Ingot": {
+      "name": "Lingote de Aço",
+      "description": "<p>Lingote de Aço</p>"
+    },
+    "Steel Plate": {
+      "name": "Chapa de Aço",
+      "description": "<p>Chapa de Aço</p>"
+    },
+    "Stick": {
+      "name": "Graveto",
+      "description": "<p>Graveto (<em>miudeza</em>)</p>"
+    },
+    "Stone": {
+      "name": "Pedra",
+      "description": "<p>Pedra</p>"
+    },
+    "Tallow": {
+      "name": "Sebo",
+      "description": "<p>Sebo (<em>miudeza</em>)</p>"
+    },
+    "Thread": {
+      "name": "Linha",
+      "description": "<p>Linha (<em>miudeza</em>)</p>"
+    },
+    "Troll Tallow": {
+      "name": "Sebo de Troll",
+      "description": "<p>Um naco de gordura amarela que volta a crescer quando cortado. Cheira a casca de árvore molhada.</p>"
+    },
+    "Vegetables": {
+      "name": "Legumes",
+      "description": "<p>Legumes</p>"
+    },
+    "Viper Venom Sac": {
+      "name": "Glândula de Víbora",
+      "description": "<p>A bolsa de veneno de uma víbora, retirada inteira. Dela se prepara uma antitoxina (miudeza).</p>"
+    },
+    "Wax": {
+      "name": "Cera",
+      "description": "<p>Cera (<em>miudeza</em>)</p>"
+    }
+  },
+  "folders": {
+    "Cloth": "Tecidos",
+    "Herbs": "Ervas",
+    "Hide & Bone": "Couro e Osso",
+    "Metal": "Metal",
+    "Monster Parts": "Partes de Monstro",
+    "Raw Food": "Alimentos Crus",
+    "Wood & Stone": "Madeira e Pedra"
+  }
+}

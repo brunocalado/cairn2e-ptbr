@@ -43,7 +43,7 @@
     },
     "Architect's Eye": {
       "name": "Olho do Arquiteto",
-      "description": "<p>Portas ocultas a até 18 m se iluminam como se estivessem em chamas.</p>"
+      "description": "<p>Portas ocultas a até 18 m (60 ft) se iluminam como se estivessem em chamas.</p>"
     },
     "Architect's Perfection": {
       "name": "Perfeição do Arquiteto",
@@ -67,7 +67,7 @@
     },
     "Bewildering Fog": {
       "name": "Névoa Desnorteante",
-      "description": "<p>Uma névoa turva o envolve num raio de 6 m. Ataques dentro da névoa têm desvantagem.</p>"
+      "description": "<p>Uma névoa turva o envolve num raio de 6 m (20 ft). Ataques dentro da névoa têm desvantagem.</p>"
     },
     "Blazing Defense": {
       "name": "Defesa Flamejante",
@@ -119,7 +119,7 @@
     },
     "Circle of Arcane Protection": {
       "name": "Círculo de Proteção Arcana",
-      "description": "<p>Seres mágicos ou divinos não podem entrar num círculo de 3 m.</p>"
+      "description": "<p>Seres mágicos ou divinos não podem entrar num círculo de 3 m (10 ft).</p>"
     },
     "Cleanse": {
       "name": "Purificar",
@@ -127,7 +127,7 @@
     },
     "Cold Spray": {
       "name": "Jato Gélido",
-      "description": "<p>Um jato de ar frio causa d6 de dano a até 6 m em uma direção.</p>"
+      "description": "<p>Um jato de ar frio causa d6 de dano a até 6 m (20 ft) em uma direção.</p>"
     },
     "Conceal Object": {
       "name": "Ocultar Objeto",
@@ -171,7 +171,7 @@
     },
     "Darksight": {
       "name": "Visão no Escuro",
-      "description": "<p>O alvo enxerga a 18 m na escuridão total.</p>"
+      "description": "<p>O alvo enxerga a 18 m (60 ft) na escuridão total.</p>"
     },
     "Death's Breath": {
       "name": "Sopro da Morte",
@@ -183,7 +183,7 @@
     },
     "Disaster Fluid": {
       "name": "Fluido Desastroso",
-      "description": "<p>Tudo num quadrado de 3 m fica escorregadio; salvaguarda de DES para não escorregar.</p>"
+      "description": "<p>Tudo num quadrado de 3 m (10 ft) fica escorregadio; salvaguarda de DES para não escorregar.</p>"
     },
     "Doppelganger": {
       "name": "Sósias",
@@ -211,7 +211,7 @@
     },
     "Edifice": {
       "name": "Edifício",
-      "description": "<p>Você invoca uma parede de pedra de até 6 m de largura que pode controlar.</p>"
+      "description": "<p>Você invoca uma parede de pedra de até 6 m (20 ft) de largura que pode controlar.</p>"
     },
     "Ensorcelled": {
       "name": "Enfeitiçado",
@@ -239,7 +239,7 @@
     },
     "Find Virulence": {
       "name": "Achar Virulência",
-      "description": "<p>Detecta veneno em qualquer criatura ou objeto a até 9 m.</p>"
+      "description": "<p>Detecta veneno em qualquer criatura ou objeto a até 9 m (30 ft).</p>"
     },
     "Flicker": {
       "name": "Piscar",
@@ -271,7 +271,7 @@
     },
     "Great Ball of Fire": {
       "name": "Grande Bola de Fogo",
-      "description": "<p>Você dispara uma bola de chamas (1d10 de dano) a até 6 m de distância.</p>"
+      "description": "<p>Você dispara uma bola de chamas (1d10 de dano) a até 6 m (20 ft) de distância.</p>"
     },
     "Hand of the Protector": {
       "name": "Mão do Protetor",
@@ -299,7 +299,7 @@
     },
     "Icy Tempest": {
       "name": "Tempestade Gélida",
-      "description": "<p>Granizo causa 1d10 de dano num raio de 6 m.</p>"
+      "description": "<p>Granizo causa 1d10 de dano num raio de 6 m (20 ft).</p>"
     },
     "Ill Fate": {
       "name": "Má Sina",
@@ -323,7 +323,7 @@
     },
     "Kraken's Curse": {
       "name": "Maldição do Kraken",
-      "description": "<p>Tentáculos agarram todos a até 6 m; salvaguarda de FOR para se soltar.</p>"
+      "description": "<p>Tentáculos agarram todos a até 6 m (20 ft); salvaguarda de FOR para se soltar.</p>"
     },
     "Latch": {
       "name": "Trinco",
@@ -331,7 +331,7 @@
     },
     "Lichsense": {
       "name": "Sentido do Lich",
-      "description": "<p>Você sente qualquer morto-vivo a até 18 m. Salvaguarda de VON para não ser detectado por mortos-vivos inteligentes.</p>"
+      "description": "<p>Você sente qualquer morto-vivo a até 18 m (60 ft). Salvaguarda de VON para não ser detectado por mortos-vivos inteligentes.</p>"
     },
     "Light Show": {
       "name": "Espetáculo de Luz",
@@ -375,7 +375,7 @@
     },
     "Murky Bubble": {
       "name": "Bolha Turva",
-      "description": "<p>Você cria uma bolha de sombra sobrenatural num raio de 6 m.</p>"
+      "description": "<p>Você cria uma bolha de sombra sobrenatural num raio de 6 m (20 ft).</p>"
     },
     "Obfuscate": {
       "name": "Ofuscar",
@@ -391,7 +391,7 @@
     },
     "Orb of Immortality": {
       "name": "Orbe da Imortalidade",
-      "description": "<p>Ataques comuns não podem ferir ninguém num raio de 3 m, e vice-versa.</p>"
+      "description": "<p>Ataques comuns não podem ferir ninguém num raio de 3 m (10 ft), e vice-versa.</p>"
     },
     "Otherworldly Pet": {
       "name": "Mascote Sobrenatural",
@@ -419,7 +419,7 @@
     },
     "Phase Sneak": {
       "name": "Furtivo de Fase",
-      "description": "<p>Qualquer um num raio de 3 m fica invisível.</p>"
+      "description": "<p>Qualquer um num raio de 3 m (10 ft) fica invisível.</p>"
     },
     "Phase Touch": {
       "name": "Toque de Fase",
@@ -439,7 +439,7 @@
     },
     "Pocket Sun": {
       "name": "Sol de Bolso",
-      "description": "<p>Você cria um halo de luz brilhante num raio de 18 m.</p>"
+      "description": "<p>Você cria um halo de luz brilhante num raio de 18 m (60 ft).</p>"
     },
     "Prisma Shard": {
       "name": "Fragmento Prisma",
@@ -455,7 +455,7 @@
     },
     "Ravenless Message": {
       "name": "Mensagem sem Corvo",
-      "description": "<p>Você envia uma mensagem curta a 1,5 km que qualquer um ao longo do caminho pode ouvir.</p>"
+      "description": "<p>Você envia uma mensagem curta a 1,6 km que qualquer um ao longo do caminho pode ouvir.</p>"
     },
     "Reject Unlife": {
       "name": "Repelir Mortos",
@@ -511,7 +511,7 @@
     },
     "Sky Raft": {
       "name": "Jangada Celeste",
-      "description": "<p>Você invoca um disco flutuante de 90 cm de largura que suporta até 50 kg.</p>"
+      "description": "<p>Você invoca um disco flutuante de 0,9 m (3 ft) de largura que suporta até 50 kg.</p>"
     },
     "Sonic Shattering": {
       "name": "Estilhaço Sônico",

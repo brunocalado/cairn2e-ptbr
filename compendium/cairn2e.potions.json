@@ -1,0 +1,77 @@
+{
+  "label": "Poções",
+  "entries": {
+    "Aspect of Nature": {
+      "name": "Aspecto da Natureza",
+      "description": "<p>Preparada com uma parte de um animal — uma pena, um dente, uma tira de couro. Até o Guardião dizer que o efeito passa, você tem um dom desse animal: os olhos de uma águia, o faro de um cão, o equilíbrio de um gato, o sentido da terra de uma toupeira. Fazer o que esse animal faz de melhor não exige teste.</p>"
+    },
+    "Astral Sight": {
+      "name": "Visão Astral",
+      "description": "<p>Até o Guardião dizer que o efeito passa, você vê o que está oculto aos vivos a até 4,5 m (15 ft): espíritos, fantasmas, coisas invisíveis, magia em ação. O que você consegue ver também consegue ver você — e sabe que você o vê.</p>"
+    },
+    "Bane Oil": {
+      "name": "Óleo da Perdição",
+      "description": "<p>Preparado com o osso de um tipo de criatura — lobo, carniçal, troll. Unte uma arma com ele: até o Guardião dizer que o efeito passa, seus ataques contra esse tipo têm <em>vantagem</em>. Criaturas desse tipo sentem o cheiro de muito longe.</p>"
+    },
+    "Borrowed Vigor": {
+      "name": "Vigor Emprestado",
+      "description": "<p>Remova uma Fadiga do seu inventário. Quando o Guardião disser que o vigor acabou, adicione duas.</p>"
+    },
+    "Discerning Fire": {
+      "name": "Fogo Seletivo",
+      "description": "<p>Quebre o frasco e nomeie uma coisa que queima: madeira, corda, tecido, papel, couro, cabelo ou osso. Uma chama pálida e sem fumaça se espalha por tudo desse tipo a até 3 m (10 ft) e o consome, deixando todo o resto intacto. Não pode ser mandada queimar carne, e se apaga quando não resta nada do seu tipo.</p>"
+    },
+    "Dragon's Roar": {
+      "name": "Rugido do Dragão",
+      "description": "<p>Beba e mantenha a boca fechada. Na próxima vez que abri-la, você ruge como um dragão. Todo inimigo que ouvir faz um teste de Moral: VON, ou foge. Depois, sua voz vira um sussurro seco como cinza até o Guardião dizer que ela volta.</p>"
+    },
+    "Heartstopper": {
+      "name": "Para-Coração",
+      "description": "<p>Até o Guardião dizer que o efeito passa, seu coração bate fraco demais para ser encontrado: sem pulso, sem fôlego para embaçar um espelho, a pele fria ao toque. Quem examinar você o toma por morto.</p>"
+    },
+    "Honeytongue": {
+      "name": "Língua de Mel",
+      "description": "<p>Até o Guardião dizer que o efeito passa, sempre que o Guardião rolar a reação de um PNJ a você, role duas vezes e fique com o resultado que preferir. Abelhas, cães e passarinhos seguem você e não vão embora.</p>"
+    },
+    "Ironheart Tonic": {
+      "name": "Tônico Férreo",
+      "description": "<p>Beba-o <em>em pânico</em> e o pânico se desfaz na hora, sem teste. Até o Guardião dizer que o efeito passa, você não pode ficar <em>em pânico</em>. Quando o efeito passa, o medo que você segurou chega todo de uma vez: você fica <em>privado</em> até descansar.</p>"
+    },
+    "Last Stand Cordial": {
+      "name": "Último Fôlego",
+      "description": "<p>Beba-o, ou deixe que o despejem na sua boca, depois de sofrer Dano Crítico. Você se levanta e age como se estivesse ileso até o Guardião dizer que o efeito passa. Então você cai de novo e, a menos que tenha sido estabilizado, morre dentro de uma hora, como de costume.</p>"
+    },
+    "Lethe Water": {
+      "name": "Água do Lete",
+      "description": "<p>Posta escondida numa bebida, faz quem a beber esquecer a hora anterior. A pessoa não percebe a lacuna.</p>"
+    },
+    "Liquid Luck": {
+      "name": "Sorte Líquida",
+      "description": "<p>Uma vez, antes de o Guardião dizer que a sorte acabou, você pode rolar de novo um teste que acabou de fazer. O novo resultado vale.</p>"
+    },
+    "New Potential": {
+      "name": "Novo Potencial",
+      "description": "<p>Troque os valores de dois atributos, máximo e atual juntos. A mudança é permanente. Corpo e mente resistem: faça um teste de VON, usando a sua nova VON. Numa falha, você fica <em>privado</em> até descansar por algumas horas.</p>"
+    },
+    "Owl-Eye Drops": {
+      "name": "Colírio de Coruja",
+      "description": "<p>Duas gotas em cada olho. Até o Guardião dizer que o efeito passa, você enxerga no escuro como se fosse o crepúsculo, e a escuridão sozinha não pode deixar você <em>em pânico</em>. Luz forte — uma tocha de perto, o sol aberto — o ofusca: seus ataques têm <em>desvantagem</em>.</p>"
+    },
+    "Phoenix Draught": {
+      "name": "Elixir da Fênix",
+      "description": "<p>Beba e queime por dentro, sem deixar marca. Todo atributo que você perdeu volta ao máximo de uma vez: a semana de repouso que um curandeiro pediria, gasta numa hora febril. Até dormir uma noite inteira depois disso, você fica <em>privado</em>.</p>"
+    },
+    "Stoneform": {
+      "name": "Forma de Pedra",
+      "description": "<p>Você vira uma pedra cinza comum de cerca de 0,9 m (3 ft) de largura. Pode ouvir e sentir, mas não se mover nem falar, e o mal feito à pedra é feito a você. O Guardião diz quando você volta à sua forma. Você pode tentar voltar antes com um teste de VON; numa falha, continua como está.</p>"
+    },
+    "Water Deflector": {
+      "name": "Defletor de Água",
+      "description": "<p>Beba-o, ou despeje-o sobre um objeto. Até o Guardião dizer que o efeito passa, a água não o toca: a chuva se abre, os rios se desviam, a lama escorre. Uma criatura que o beber não consegue nadar — afunda, e pode andar seca pelo fundo enquanto o fôlego durar.</p>"
+    }
+  },
+  "folders": {
+    "Common (50gp)": "Comum (50po)",
+    "Greater (100gp)": "Superior (100po)"
+  }
+}

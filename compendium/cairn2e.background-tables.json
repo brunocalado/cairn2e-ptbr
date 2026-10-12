@@ -235,13 +235,13 @@
           "description": "<p>Um banco. (Você foi pego.) Você carrega uma marca visível apenas à luz do fogo, e qualquer um que a veja pode lhe pedir uma cerveja. Pegue <strong>Fios Retráteis</strong>.</p>"
         },
         "3-3": {
-          "description": "<p>Um armazém de guilda. Pegue uma <strong>Escada</strong> (<em>volumosa</em>, 3 m) e <strong>Pó Cegante</strong> (1 uso).</p>"
+          "description": "<p>Um armazém de guilda. Pegue uma <strong>Escada</strong> (<em>volumosa</em>, 3 m / 10 ft) e <strong>Pó Cegante</strong> (1 uso).</p>"
         },
         "4-4": {
           "description": "<p>Um agiota. Alguém chegou antes de você, mas deixou para trás um <strong>Pergaminho</strong> de <em>Olho Arcano</em> (<em>miudeza</em>). <em>Olho Arcano</em>: Você enxerga através de um globo ocular mágico flutuante que voa sob seu comando.</p>"
         },
         "5-5": {
-          "description": "<p>Os aposentos do delegado. Você escapou, mas deixou alguns amigos para trás. Pegue uma <strong>Corda de Seda Forte</strong> (9 m) e um peso na consciência.</p>"
+          "description": "<p>Os aposentos do delegado. Você escapou, mas deixou alguns amigos para trás. Pegue uma <strong>Corda de Seda Forte</strong> (9 m / 30 ft) e um peso na consciência.</p>"
         },
         "6-6": {
           "description": "<p>Uma universidade. Você foi visto, mas não perseguido. Ainda não sabe por quê. Pegue <strong>Pelotas de Fumaça</strong> (3 usos).</p>"
@@ -709,7 +709,7 @@
           "description": "<p><strong>Pedras-Ímã</strong> Duas pedras negras como azeviche. Quando separadas, sempre rolam uma em direção à outra.</p>"
         },
         "4-4": {
-          "description": "<p><strong>Frasco de Fogo</strong> Altamente alcoólico, mas estranhamente delicioso. Quando arremessado, cria uma parede de chamas de 3 m de altura que se apaga após alguns minutos. 1 uso.</p>"
+          "description": "<p><strong>Frasco de Fogo</strong> Altamente alcoólico, mas estranhamente delicioso. Quando arremessado, cria uma parede de chamas de 3 m (10 ft) de altura que se apaga após alguns minutos. 1 uso.</p>"
         },
         "5-5": {
           "description": "<p><strong>Anel da Dor</strong> Toque uma criatura ferida para transferir os ferimentos dela para você. (Troque a FOR que ela perdeu pela sua.) <strong>Recarga</strong>: use o anel estando em perfeita saúde. Você perderá 1 FOR permanentemente. <em>Miudeza</em>.</p>"

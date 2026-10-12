@@ -297,6 +297,23 @@
   "CAIRN.ContainerDropHint": "Arraste um item aqui para guardá-lo dentro.",
   "CAIRN.Contents": "Conteúdo",
   "CAIRN.Cost": "Custo",
+  "CAIRN.Crafting": {
+    "Category": {
+      "Alchemy": "Alquimia",
+      "Armour": "Armaduras",
+      "Cooking": "Culinária",
+      "Food": "Comida",
+      "Gear": "Equipamento",
+      "Materials": "Materiais",
+      "Potions": "Poções",
+      "Sewing": "Costura",
+      "Smithing": "Forja",
+      "Weapons": "Armas",
+      "WithoutTools": "Sem Ferramentas"
+    },
+    "DismantleNeedsTool": "Desmontar {item} exige {tool}.",
+    "ForgeMacro": "Forja"
+  },
   "CAIRN.CreateItem": "Criar Item",
   "CAIRN.CriticalDamageFull": "Dano Crítico",
   "CAIRN.CriticalDamageSuccess": "Ainda na luta, mas com a FOR reduzida.",
@@ -333,7 +350,7 @@
       "disarm": "Lide com uma armadilha que você encontrou. Vasculhar costuma revelar armadilhas; o Guardião resolve o resto.",
       "dodge": "Saia do caminho de uma armadilha disparada — em geral um teste de DES. O dano de armadilha sai da FOR ou da DES, não dos PG.",
       "force": "Force uma porta trancada, emperrada ou bloqueada — ou trave-a — com ferramentas ou força bruta. Ações barulhentas podem atrair um encontro.",
-      "hurry": "Gaste a ação para se mover até 36 m em vez de 12 m. Mover-se depressa arrisca uma rolagem de Eventos de Masmorra.",
+      "hurry": "Gaste a ação para se mover até 36 m (120 ft) em vez de 12 m (40 ft). Mover-se depressa arrisca uma rolagem de Eventos de Masmorra.",
       "listen": "Escute, fareje ou observe junto a uma porta ou parede à procura de sinais de vida e de outros perigos do outro lado.",
       "panic": "Faça um teste de VON para superar o pânico. Com um sucesso, a condição termina.",
       "rest": "Recupera todos os PG. Exige luz e um lugar seguro, e o perigo o impede. Não remove a Fadiga.",
@@ -341,8 +358,8 @@
     },
     "AddFatigue": "Cada um adiciona uma Fadiga",
     "Begin": "Começar a explorar",
-    "BeyondHurry": "Passou dos 36 m que uma ação cobre neste turno",
-    "BeyondTorch": "Passou dos 12 m de luz da tocha neste turno — movendo-se depressa",
+    "BeyondHurry": "Passou dos 36 m (120 ft) que uma ação cobre neste turno",
+    "BeyondTorch": "Passou dos 12 m (40 ft) de luz da tocha neste turno — movendo-se depressa",
     "ChooseAction": "Escolha uma ação",
     "Create": "Iniciar uma exploração de masmorra",
     "DeclareLabel": "O que {name} faz neste turno",
@@ -353,7 +370,7 @@
     "FatigueLead": "Cada personagem adiciona uma Fadiga.",
     "FatigueNoRoom": "Sem espaço livre, então nenhuma Fadiga foi adicionada: {names}. É preciso largar um item para recebê-la.",
     "Fight": "Começa uma luta",
-    "Help": "<strong>Exploração de masmorra</strong>, turno a turno.<br/>1. O Guardião descreve; cada jogador declara um movimento e uma ação — o botão de lista na sua linha as oferece.<br/>2. O Guardião resolve as ações de todos de uma vez.<br/>3. Registre o que foi usado; o Guardião pode rolar um Evento de Masmorra.<br/>Um turno é cerca de 12 m e uma ação, ou a ação gasta para se mover até 36 m. Moveu-se demais? O desfazer ao lado da distância leva o token de volta para onde o turno começou.<br/>Clique para abrir o Resumo das Regras.",
+    "Help": "<strong>Exploração de masmorra</strong>, turno a turno.<br/>1. O Guardião descreve; cada jogador declara um movimento e uma ação — o botão de lista na sua linha as oferece.<br/>2. O Guardião resolve as ações de todos de uma vez.<br/>3. Registre o que foi usado; o Guardião pode rolar um Evento de Masmorra.<br/>Um turno é cerca de 12 m (40 ft) e uma ação, ou a ação gasta para se mover até 36 m (120 ft). Moveu-se demais? O desfazer ao lado da distância leva o token de volta para onde o turno começou.<br/>Clique para abrir o Resumo das Regras.",
     "HelpLabel": "Como funciona a exploração de masmorra",
     "Moved": "Moveu-se neste turno",
     "NextTurn": "Próximo turno",
@@ -362,9 +379,9 @@
     "NotStarted": "Exploração não iniciada",
     "Party": "O grupo",
     "PreviousTurn": "Turno anterior",
-    "RationEaten": "Uma Ração comida: {names}.",
+    "RationEaten": "Uma refeição comida: {names}.",
     "RationLead": "Cada personagem come uma Ração.",
-    "RationNone": "Sem Ração para comer: {names}.",
+    "RationNone": "Nada para comer: {names}.",
     "RevertMovement": "Desfazer o movimento deste turno",
     "RollEvent": "Rolar um Evento de Masmorra",
     "Trigger": {
@@ -397,6 +414,7 @@
   "CAIRN.EditCharacter": "Editar Personagem",
   "CAIRN.EditItem": "Editar Item",
   "CAIRN.EditNpc": "Editar PNJ",
+  "CAIRN.ElevationMetres": "{metres} m",
   "CAIRN.Encounter": {
     "Add": "Pôr na cena",
     "Added": "Na cena",
@@ -495,6 +513,7 @@
   "CAIRN.Fatigue": "Fadiga",
   "CAIRN.FatigueHint": "A Fadiga ocupa um espaço de inventário. É removida com uma noite inteira de descanso em local seguro.",
   "CAIRN.Features": "Habilidades",
+  "CAIRN.Food": "Comida",
   "CAIRN.GenerateHireling": "Gerar Mercenário",
   "CAIRN.GenerateMonster": "Gerar Monstro",
   "CAIRN.GenerateNpc": "Gerar PNJ",
@@ -529,6 +548,258 @@
     "None": "Nada ainda. O crescimento vem do que acontece em jogo.",
     "Title": "Crescimento",
     "Zone": "Crescimento"
+  },
+  "CAIRN.Harvest": {
+    "Category": {
+      "Carcasses": "Carcaças",
+      "Foraging": "Coleta",
+      "HuntingAndFishing": "Caça e Pesca",
+      "MonsterParts": "Partes de Monstro",
+      "Remains": "Restos",
+      "StoneAndOre": "Pedra e Minério",
+      "Timber": "Madeira"
+    },
+    "Hive": {
+      "Hint": "O que as abelhas fazem é você quem decide.",
+      "Lead": "{name} mexeu em {resource}. Ela despertou."
+    },
+    "Night": "{resource}: algo se agita no escuro. Só dá para trabalhar aqui com a luz do sol.",
+    "Noise": {
+      "Hint": "O barulho chama atenção: verifique se há um encontro.",
+      "Lead": "{name} está trabalhando em {resource}, e o som se espalha."
+    },
+    "Resource": {
+      "Bear": {
+        "Name": "Urso",
+        "Verb": "Carnear"
+      },
+      "BirdNest": {
+        "Name": "Ninho de Pássaro",
+        "Verb": "Recolher"
+      },
+      "Bramble": {
+        "Name": "Amoreira-Brava",
+        "Verb": "Colher"
+      },
+      "Deadfall": {
+        "Name": "Galhos Caídos",
+        "Verb": "Recolher"
+      },
+      "FishCatch": {
+        "Name": "Peixes Pescados",
+        "Verb": "Limpar"
+      },
+      "FishingSpot": {
+        "Name": "Ponto de Pesca",
+        "Verb": "Pescar"
+      },
+      "Fowl": {
+        "Name": "Ave",
+        "Verb": "Depenar"
+      },
+      "FrozenGargoyle": {
+        "Name": "Gárgula Congelada",
+        "Verb": "Raspar"
+      },
+      "FruitTree": {
+        "Name": "Árvore Frutífera",
+        "Verb": "Colher"
+      },
+      "GameTrail": {
+        "Name": "Trilha de Caça",
+        "Verb": "Armar Armadilha"
+      },
+      "GemVein": {
+        "Name": "Veio de Gemas",
+        "Verb": "Minerar"
+      },
+      "HazelThicket": {
+        "Name": "Moita de Avelãs",
+        "Verb": "Recolher"
+      },
+      "HerbPatch": {
+        "Name": "Canteiro de Ervas",
+        "Verb": "Recolher"
+      },
+      "IronVein": {
+        "Name": "Veio de Ferro",
+        "Verb": "Minerar"
+      },
+      "KillerBeeHive": {
+        "Name": "Colmeia de Abelhas Assassinas",
+        "Verb": "Recolher"
+      },
+      "LargeGame": {
+        "Name": "Caça Grande",
+        "Verb": "Carnear"
+      },
+      "ManticoreCarcass": {
+        "Name": "Carcaça de Mantícora",
+        "Verb": "Arrancar"
+      },
+      "MushroomRing": {
+        "Name": "Círculo de Cogumelos",
+        "Verb": "Recolher"
+      },
+      "OakMast": {
+        "Name": "Bolotas de Carvalho",
+        "Verb": "Recolher"
+      },
+      "OldBattlefield": {
+        "Name": "Antigo Campo de Batalha",
+        "Verb": "Vasculhar"
+      },
+      "PhoenixAshes": {
+        "Name": "Cinzas de Fênix",
+        "Verb": "Peneirar"
+      },
+      "PixieBed": {
+        "Name": "Leito de Pixie",
+        "Verb": "Recolher"
+      },
+      "Predator": {
+        "Name": "Predador",
+        "Verb": "Esfolar"
+      },
+      "ReedBed": {
+        "Name": "Juncal",
+        "Verb": "Cortar"
+      },
+      "RockFace": {
+        "Name": "Paredão de Rocha",
+        "Verb": "Talhar"
+      },
+      "SaltCrust": {
+        "Name": "Crosta de Sal",
+        "Verb": "Raspar"
+      },
+      "SandBank": {
+        "Name": "Banco de Areia",
+        "Verb": "Cavar"
+      },
+      "SkeletonRemains": {
+        "Name": "Restos de Esqueleto",
+        "Verb": "Espalhar"
+      },
+      "SmallGame": {
+        "Name": "Caça Pequena",
+        "Verb": "Esfolar"
+      },
+      "SpiderNest": {
+        "Name": "Ninho de Aranha",
+        "Verb": "Cortar"
+      },
+      "Tree": {
+        "Name": "Árvore",
+        "Verb": "Derrubar"
+      },
+      "TrollCarcass": {
+        "Name": "Carcaça de Troll",
+        "Verb": "Retalhar"
+      },
+      "ViperCarcass": {
+        "Name": "Carcaça de Víbora",
+        "Verb": "Extrair"
+      },
+      "WildFlax": {
+        "Name": "Linho Selvagem",
+        "Verb": "Arrancar"
+      },
+      "WildGrain": {
+        "Name": "Grãos Selvagens",
+        "Verb": "Ceifar"
+      },
+      "WildHive": {
+        "Name": "Colmeia Selvagem",
+        "Verb": "Recolher"
+      },
+      "WildRoots": {
+        "Name": "Raízes Selvagens",
+        "Verb": "Cavar"
+      },
+      "WingedBeast": {
+        "Name": "Fera Alada",
+        "Verb": "Carnear"
+      }
+    },
+    "Venom": {
+      "Fail": "{name} tentou e falhou: o veneno chegou à pele. O Guardião diz o que ele faz.",
+      "Lead": "{name} trabalha em {resource}, perto do veneno."
+    }
+  },
+  "CAIRN.Hazards": {
+    "Button": "Perigos",
+    "Crushing": {
+      "Name": "Esmagamento",
+      "Summary": "Objetos pesados, escombros, paredes e tetos que se fecham. O dano vai direto para a FOR. Alguém preso, mas sem nada fazendo pressão, não sofre nada só por esperar.",
+      "Repeats": "Role de novo só quando a pressão continua, enquanto uma estrutura cede. Soterrado: primeiro o impacto, depois esmagamento ou Afogamento se não conseguir respirar.",
+      "Light": "Algumas pedras de um teto desabando.",
+      "Serious": "Um caixote caindo, uma porta batida por um mecanismo.",
+      "Severe": "Uma viga pesada sobre as pernas.",
+      "Extreme": "Pego inteiro sob uma parede que desaba, ainda vivo.",
+      "Saves": {
+        "STR": "Segurar a viga enquanto os outros saem.",
+        "DEX": "Saltar para longe antes que caia.",
+        "WIL": "Fazer quem opera o mecanismo parar."
+      }
+    },
+    "Drowning": {
+      "Name": "Afogamento",
+      "Summary": "Afogamento, fumaça, gás: qualquer coisa que impeça um personagem de respirar. O dano vai direto para a FOR.",
+      "Repeats": "Role de novo sempre que a exposição durar o bastante para merecer uma nova consequência. Não há intervalo fixo.",
+      "Light": "Uma exposição breve, mas real: uma golfada de fumaça.",
+      "Serious": "Ainda preso enquanto a fumaça engrossa.",
+      "Severe": "Debaixo d'água, sem ar.",
+      "Extreme": "Arrastado para o fundo por uma correnteza, ou trancado com a fumaça.",
+      "Saves": {
+        "STR": "Nadar contra a correnteza.",
+        "DEX": "Escapar por uma fresta até o ar.",
+        "WIL": "Manter a calma e não respirar."
+      }
+    },
+    "Exposure": {
+      "Name": "Exposição",
+      "Summary": "Fogo, ácido, calor intenso, frio cortante. O dano vai direto para a FOR. Um toque breve pode não causar mal algum.",
+      "Repeats": "Role de novo sempre que a exposição durar o bastante para merecer uma nova consequência. Não há intervalo fixo.",
+      "Light": "Uma mão numa superfície quente.",
+      "Serious": "Preso num cômodo em chamas.",
+      "Severe": "Uma queda em ácido concentrado.",
+      "Extreme": "Envolto em chamas, ou uma noite ao relento em pleno inverno.",
+      "Saves": {
+        "STR": "Suportar o calor ou o frio.",
+        "DEX": "Pular para fora das chamas.",
+        "WIL": "Uma magia contra o efeito."
+      }
+    },
+    "Fall": {
+      "Name": "Queda",
+      "Summary": "O dano vai direto para a FOR. A altura é o guia; o pouso decide o dado: água, neve ou galhos descem um passo, rocha ou estacas sobem um. Um pulinho não faz mal; de cerca de 18 m (60 ft) sobre chão duro, a queda é Fatal.",
+      "Repeats": "Rolado uma vez, no pouso.",
+      "Light": "Cerca de 3 m (10 ft), um andar.",
+      "Serious": "Cerca de 6 m (20 ft), dois andares.",
+      "Severe": "Cerca de 9 m (30 ft), três andares.",
+      "Extreme": "Cerca de 12 m (40 ft), quatro andares: só se sobrevive por sorte ou num pouso macio.",
+      "Saves": {
+        "STR": "Segurar-se numa corda.",
+        "DEX": "Agarrar uma saliência, ou rolar ao cair.",
+        "WIL": "Uma magia ou uma relíquia no último instante."
+      }
+    },
+    "FatalNote": "Sem rolagem. Só quando sobreviver não é plausível, e só depois que o perigo ficou claro.",
+    "Flavor": "{hazard}: {step}",
+    "Principle": "Decida primeiro o que a ficção torna possível; role só para a incerteza que realmente existe.",
+    "SaveCard": "Quem foi pego rola.",
+    "SaveHelp": "O que um teste de {key} cobre aqui",
+    "SaveLabel": "Evitar",
+    "SaveRule": "Ofereça um só quando a ficção deixa uma saída, e diga o que significam o sucesso e a falha antes que alguém role. O botão envia um cartão; quem estiver preso rola o seu.",
+    "Step": {
+      "Light": "Leve",
+      "Serious": "Sério",
+      "Severe": "Grave",
+      "Extreme": "Extremo",
+      "Fatal": "Fatal"
+    },
+    "Title": "Perigos"
   },
   "CAIRN.Hireling": {
     "Career": {
@@ -589,8 +860,8 @@
     "Arrived": "O grupo chegou.",
     "BadRoute": "Essa rota cita um caminho, distância, terreno ou estação que o procedimento não tem.",
     "Button": "Jornada",
-    "Camped": "{name} acampou: uma Ração comida, toda Fadiga removida.",
-    "CampedHungry": "{name} acampou sem Ração para comer e está Privado.",
+    "Camped": "{name} acampou: uma refeição comida, toda Fadiga removida.",
+    "CampedHungry": "{name} acampou sem nada para comer e está Privado.",
     "CrewFromWorld": "Só um Ator deste mundo pode caminhar. Importe-o do compêndio primeiro.",
     "CrewUnlinked": "Não adicionados à jornada: {names}. Tokens não vinculados são cópias, então Rações e Fadiga não cairiam em nenhum deles. Marque Vincular Dados do Ator no token protótipo, e em qualquer token já no mapa, e arraste de novo.",
     "DropCrew": "Arraste um personagem, um mercenário, uma montaria ou um grupo inteiro aqui.",
@@ -620,6 +891,7 @@
     "LostFlag": "Perdido",
     "LostFlavor": "Perdendo-se",
     "LostOdds": "{odds} em 6 numa {path}.",
+    "Meals": "Refeições levadas",
     "MoreNeeded": "Um turno a mais necessário",
     "MoreTravelled": "Um turno a mais viajado",
     "NeedAction": "Escolha o que o grupo faz neste turno.",
@@ -655,7 +927,6 @@
     "Push": "Mostrar a todos",
     "Pushed": "A jornada foi mostrada a todos os jogadores conectados.",
     "Raised": "(elevado)",
-    "Rations": "Rações levadas",
     "RerollEvent": "Rerrolar este evento",
     "RemoveCrew": "Tirar desta jornada",
     "Resolve": "Gastar o turno",
@@ -744,6 +1015,14 @@
     "SummaryNon2e": "Este arquivo não parece um personagem de Cairn 2e. Foi importado o que pôde ser mapeado.",
     "SummaryResolved": "{count} item(ns) correspondeu(ram) a uma entrada de compêndio",
     "SummaryTitle": "Importação do Kettlewright — {name}"
+  },
+  "CAIRN.Loot": {
+    "Place": "Colocado no mapa.",
+    "Drop": "Largado no chão.",
+    "Throw": "Arremessado a {distance}.",
+    "Pickup": "Apanhado.",
+    "Show": "Mostrar no mapa",
+    "Stack": "{quantity} × {name}"
   },
   "CAIRN.MacroFolder": "Cairn 2e",
   "CAIRN.Magic": "Magia",
@@ -914,9 +1193,9 @@
     "MakeActive": "Tornar este o grupo ativo",
     "Members": "Grupo",
     "Missing": "Ator ausente",
+    "NewName": "O Grupo",
     "NoActiveParty": "Não há grupo ativo. Crie um, ou escolha um no diretório de Atores.",
     "NoFollowers": "Ninguém viaja com eles.",
-    "NoItems": "Um grupo não carrega nada. Solte o item na ficha de um membro.",
     "NoMembers": "Solte um personagem aqui.",
     "NoPartyInParty": "Um grupo não pode entrar em outro grupo.",
     "OpenKey": "Abrir o grupo",
@@ -926,7 +1205,10 @@
     "Remove": "Tirar do grupo",
     "RemoveConfirm": "Tirar {name} do grupo? A ficha dele não é alterada.",
     "RemoveTitle": "Sair do grupo",
-    "SetDown": "Pôr o grupo no mapa"
+    "SetDown": "Pôr o grupo no mapa",
+    "Stash": "Depósito",
+    "StashEmpty": "Nada no depósito. Solte equipamento ou moedas aqui.",
+    "StashRefused": "{name} não pode ir para o depósito do grupo: ele guarda equipamento e moedas, e nada que faça parte de alguém."
   },
   "CAIRN.PerDay": "{rate} po por dia",
   "CAIRN.Petty": "Miudeza",
@@ -958,7 +1240,6 @@
     "Title": "Promover a Personagem de Jogador"
   },
   "CAIRN.Quirk": "Mania",
-  "CAIRN.Ration": "Ração",
   "CAIRN.Reaction": "Reação",
   "CAIRN.Reactions": {
     "Curious": "Curioso",
@@ -1044,7 +1325,7 @@
       "Dex": "<strong>Destreza (DES)</strong> — equilíbrio, rapidez e reflexos: esquivar, escalar, esgueirar-se, equilibrar-se.",
       "Wil": "<strong>Vontade (VON)</strong> — persuadir, enganar, interrogar, intimidar, encantar, provocar, manipular magias.",
       "Outside": "O dano sofrido fora de combate vai para um Atributo, em geral a FOR.",
-      "Zero": "Com 0 FOR um PJ morre, com 0 DES fica paralisado e com 0 VON fica delirante."
+      "Zero": "Com 0 FOR um PJ morre, com 0 DES fica paralisado e com 0 VON fica delirante. Com 0 DES ou VON, não consegue agir até ser restaurado por um descanso prolongado ou por meios extraordinários."
     },
     "Saves": {
       "Title": "Testes",
@@ -1086,7 +1367,7 @@
       "Title": "Combate",
       "Round": "Uma rodada dura cerca de dez segundos. Os PJs agem primeiro, depois os oponentes; as ações de cada lado são simultâneas.",
       "First": "Na primeira rodada, cada PJ precisa passar num teste de DES para agir, ou perde o turno.",
-      "Turn": "No seu turno, um personagem se move até 12 m e faz uma ação, declarada antes de rolar os dados; algo arriscado pede um teste.",
+      "Turn": "No seu turno, um personagem se move até 12 m (40 ft) e faz uma ação, declarada antes de rolar os dados; algo arriscado pede um teste.",
       "Hit": "Ataques sempre acertam: role o dado da arma, subtraia a Armadura do alvo e aplique o resto aos PG.",
       "Many": "Vários atacantes contra um só alvo rolam todos os dados e ficam com o maior. Duas armas de uma vez: role as duas, fique com o maior.",
       "Modifiers": "Ataques <em>com desvantagem</em> (fraqueza, cobertura, mãos atadas, alvo muito distante) e desarmados rolam d4. Ataques <em>com vantagem</em> (posição favorável, inimigo indefeso) rolam d12.",
@@ -1110,7 +1391,7 @@
     },
     "Dungeon": {
       "Title": "Exploração de Masmorra",
-      "Turn": "No seu turno, um personagem se move cerca de 12 m e faz uma ação, ou gasta a ação para se mover até três vezes essa distância — o que arrisca uma rolagem de Evento de Masmorra.",
+      "Turn": "No seu turno, um personagem se move cerca de 12 m (40 ft) e faz uma ação, ou gasta a ação para se mover até três vezes essa distância — o que arrisca uma rolagem de Evento de Masmorra.",
       "Actions": "Ações são qualquer atividade não passiva: vasculhar, forçar portas, escutar, desarmar armadilhas, lutar, conjurar, descansar. As barulhentas podem atrair um encontro, e algumas levam vários turnos.",
       "Search": "Uma busca minuciosa num objeto ou local leva um turno e revela tesouros escondidos, armadilhas ou portas secretas.",
       "Rest": "Descansar um turno restaura todos os PG, mas exige luz e um local seguro, e não remove Fadiga."
@@ -1166,6 +1447,12 @@
     "Take": "Sofrer Cicatriz",
     "Title": "Cicatrizes"
   },
+  "CAIRN.Scene": {
+    "FollowsClock": {
+      "Name": "Segue o relógio",
+      "Hint": "Enquanto esta for a cena ativa, sua escuridão segue a hora do mundo: escura das 20:00 às 04:00, clara das 06:30 às 17:30, com o amanhecer e o anoitecer entre elas. Deixe desligado em masmorras e interiores."
+    }
+  },
   "CAIRN.ScrollHint": "Um Pergaminho é miudeza, não causa Fadiga e é consumido após um único uso.",
   "CAIRN.SecondWeapon": "Segunda arma",
   "CAIRN.SetAside": "Deixar de lado — continua anotado e sai das suas mãos",
@@ -1189,6 +1476,10 @@
       "Name": "Pasta de arte do bestiário",
       "Hint": "Uma pasta dentro de Data/ com portraits/ e tokens/. Padrão: cairn2e-assets."
     },
+    "ClockDarkness": {
+      "Name": "A escuridão da cena segue o relógio",
+      "Hint": "Uma cena com “Segue o relógio” marcado nas configurações de Ambiente escurece ao anoitecer e clareia ao amanhecer enquanto for a cena ativa. Desligue se um módulo de iluminação já faz isso, ou os dois vão se sobrescrever."
+    },
     "Animations": {
       "Name": "Animações do Cairn no Automated Animations",
       "Hint": "Substitui o menu de Reconhecimento Automático, uma única vez, pelas armas, ataques de monstros e magias do Cairn, com animações do JB2A Patreon e sons do PSFX. Uma versão posterior só adiciona suas entradas novas: uma entrada que você editar ou apagar fica assim. Desligar isto impede novas mudanças; o que já está no menu continua."
@@ -1203,6 +1494,7 @@
   },
   "CAIRN.SlotCost": "Espaços",
   "CAIRN.SlotCostLocked": "Um Pergaminho é miudeza por regra: não ocupa espaços.",
+  "CAIRN.SlotHeavy": "3+",
   "CAIRN.Slots": "Espaços",
   "CAIRN.SpellbookHint": "Conjure segurando-o com as duas mãos e lendo em voz alta; depois adicione uma Fadiga.",
   "CAIRN.StartingGear": "Equip. Inicial",
@@ -1295,6 +1587,7 @@
   "CAIRN.TakeOut": "Tirar",
   "CAIRN.TakesSlots": "Ocupa Espaços",
   "CAIRN.TakesSlotsHint": "Você o carrega — uma bolsa nas costas, uma carroça puxada com as duas mãos —, então ocupa espaços como qualquer outra coisa. Desligado, ele se carrega sozinho, não ocupa espaço e fica sempre na sua aba À Parte.",
+  "CAIRN.TokenDistance": "{metres} m ({feet} ft)",
   "CAIRN.Trait": {
     "Clothing": "Roupas",
     "Face": "Rosto",
@@ -1304,6 +1597,36 @@
     "Speech": "Fala",
     "Vice": "Vício",
     "Virtue": "Virtude"
+  },
+  "CAIRN.Treasure": {
+    "AlreadyListed": "Isso já está na lista.",
+    "Button": "Tesouro",
+    "CardFlavor": "Tesouro para {party}",
+    "Clear": "Limpar",
+    "Coin": "Moedas",
+    "Count": "Quantas vezes é sorteado",
+    "CreateParty": "Criar um grupo",
+    "DragHint": "Arraste para um ator ou para o chat. A linha fica: risque-a depois de entregue.",
+    "Drawn": "Sorteado",
+    "DropHere": "Solte aqui uma Tabela ou uma pasta de Itens para oferecê-la.",
+    "Empty": "Nada sorteado. Marque em que rolar, e role.",
+    "Formula": "Fórmula de dados, em peças de ouro",
+    "FormulaInvalid": "“{formula}” não é uma fórmula de dados.",
+    "NotAnItem": "{count} resultado(s) não eram equipamento nem moedas e ficaram de fora.",
+    "NotASource": "Só uma Tabela ou uma pasta de Itens pode ser oferecida.",
+    "OpenStash": "Abrir o Depósito",
+    "Refused": "{count} coisa(s) não entraram no Depósito e continuam sorteadas.",
+    "Remove": "Tirar da lista",
+    "RemoveConfirm": "Tirar {name} da lista? Nada é apagado do mundo. Arraste a tabela ou a pasta de volta para oferecê-la outra vez.",
+    "RemoveTitle": "Tirar da lista?",
+    "Roll": "Rolar",
+    "RollOne": "Rolar esta",
+    "Send": "Enviar para {party}",
+    "SendNowhere": "Enviar",
+    "SourceMissing": "{source} não existe mais e não sorteou nada.",
+    "Sources": "Rolar em",
+    "Strike": "Riscar",
+    "Title": "Tesouro"
   },
   "CAIRN.Type": "Tipo",
   "CAIRN.Unarmed": "Desarmado",

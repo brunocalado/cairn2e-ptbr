@@ -114,7 +114,7 @@
     },
     "Muffle Dust": {
       "name": "Pó Abafador",
-      "description": "<p>Uma bolsinha de pó fino que, quando espalhado, abafa todo som num raio de 12 m.</p>"
+      "description": "<p>Uma bolsinha de pó fino que, quando espalhado, abafa todo som num raio de 12 m (40 ft).</p>"
     },
     "Nightstone": {
       "name": "Pedra da Noite",
@@ -156,13 +156,13 @@
     },
     "Spystone": {
       "name": "Pedra-Espiã",
-      "description": "<p>Uma pedra lisa e chata, levemente morna ao toque. Aperte para gravar sons num raio de 12 m. Aperte de novo para reproduzi-los, quantas vezes quiser.</p>",
+      "description": "<p>Uma pedra lisa e chata, levemente morna ao toque. Aperte para gravar sons num raio de 12 m (40 ft). Aperte de novo para reproduzi-los, quantas vezes quiser.</p>",
       "recharge": "<p>Para gravar um novo som, faça a pedra quicar pelo menos três vezes na superfície da água e recupere-a.</p>"
     },
     "Sticky Rope": {
       "name": "Corda Grudenta",
-      "description": "<p>Uma corda de 30 m que gruda em qualquer superfície.</p>",
-      "recharge": "<p>Corte 3 m da corda, que então se desfaz.</p>"
+      "description": "<p>Uma corda de 30 m (100 ft) que gruda em qualquer superfície.</p>",
+      "recharge": "<p>Corte 3 m (10 ft) da corda, que então se desfaz.</p>"
     },
     "Stone Eater": {
       "name": "Come-Pedras",
@@ -187,7 +187,7 @@
     },
     "Ward Stone": {
       "name": "Pedra de Proteção",
-      "description": "<p>Uma pedra de rio chata e modesta, entalhada com símbolos desbotados. Esmague-a para liberar um pó prateado num raio de 6 m que pacifica quem o respira.</p>"
+      "description": "<p>Uma pedra de rio chata e modesta, entalhada com símbolos desbotados. Esmague-a para liberar um pó prateado num raio de 6 m (20 ft) que pacifica quem o respira.</p>"
     },
     "Whispergale": {
       "name": "Vento Sussurrante",
@@ -195,7 +195,7 @@
     },
     "Whistle-Rope": {
       "name": "Corda-Apito",
-      "description": "<p>4,5 m de couro muito flexível. Gire-a no ar para gerar um poderoso efeito infrassônico que afugenta animais selvagens. Também funciona debaixo d'água.</p>"
+      "description": "<p>4,5 m (15 ft) de couro muito flexível. Gire-a no ar para gerar um poderoso efeito infrassônico que afugenta animais selvagens. Também funciona debaixo d'água.</p>"
     },
     "Wonder Bar": {
       "name": "Barra Maravilha",

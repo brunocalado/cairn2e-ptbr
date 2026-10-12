@@ -46,7 +46,7 @@
     },
     "Chain": {
       "name": "Corrente",
-      "description": "<p>Corrente (3 m)</p>"
+      "description": "<p>Corrente (3 m / 10 ft)</p>"
     },
     "Chalk": {
       "name": "Giz",
@@ -150,7 +150,7 @@
     },
     "Pole": {
       "name": "Vara",
-      "description": "<p>Vara (3 m)</p>"
+      "description": "<p>Vara (3 m / 10 ft)</p>"
     },
     "Rations": {
       "name": "Rações",
@@ -162,7 +162,7 @@
     },
     "Rope": {
       "name": "Corda",
-      "description": "<p>Corda (7,5 m)</p>"
+      "description": "<p>Corda (7,5 m / 25 ft)</p>"
     },
     "Sedative": {
       "name": "Sedativo",

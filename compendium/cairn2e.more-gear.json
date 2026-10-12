@@ -10,7 +10,10 @@
     "Ornamental (25gp)": "Ornamental (25po)",
     "Precious (500gp)": "Preciosa (500po)",
     "Semiprecious (100gp)": "Semipreciosa (100po)",
-    "Valuables": "Objetos de Valor"
+    "Valuables": "Objetos de Valor",
+    "100gp": "100po",
+    "25gp": "25po",
+    "Strange Items": "Itens Estranhos"
   },
   "entries": {
     "Agate": {
@@ -271,7 +274,7 @@
     },
     "Ladder": {
       "name": "Escada",
-      "description": "<p>Escada (3 m, <em>volumosa</em>)</p>"
+      "description": "<p>Escada (3 m / 10 ft, <em>volumosa</em>)</p>"
     },
     "Lapis Lazuli": {
       "name": "Lápis-lazúli",
@@ -367,7 +370,7 @@
     },
     "Rope Ladder": {
       "name": "Escada de Corda",
-      "description": "<p>Escada de Corda (7,5 m)</p>"
+      "description": "<p>Escada de Corda (7,5 m / 25 ft)</p>"
     },
     "Rose Quartz": {
       "name": "Quartzo Rosa",
@@ -488,6 +491,254 @@
     "Zircon": {
       "name": "Zircão",
       "description": "<p>Incolor e intensamente brilhante, lapidado redondo.</p>"
+    },
+    "Alchemy Kit": {
+      "name": "Kit de Alquimia",
+      "description": "<p>Kit de Alquimia (Alambique, Pilão, Frascos, etc.)</p>"
+    },
+    "Ashen Hourglass": {
+      "name": "Ampulheta de Cinzas",
+      "description": "<p>As cinzas correm para cima em vez de para baixo. Quando chegam ao topo, muitas vezes algo pequeno e há muito esquecido é encontrado por perto.</p>"
+    },
+    "Berry Tart": {
+      "name": "Torta de Amoras",
+      "description": "<p>Torta de Amoras (duas refeições)</p>"
+    },
+    "Book of Shy Pages": {
+      "name": "Livro de Páginas Tímidas",
+      "description": "<p>Suas palavras somem quando lidas em voz alta. Se for deixado em paz, novas anotações aparecem nas margens.</p>"
+    },
+    "Bottle of Ancient Rain": {
+      "name": "Garrafa de Chuva Antiga",
+      "description": "<p>Uma tempestade minúscula e silenciosa gira dentro do vidro. Tocar a rolha enche o ar com o cheiro de chuva caindo sobre a terra em algum lugar distante.</p>"
+    },
+    "Box of Last Losses": {
+      "name": "Caixa das Últimas Perdas",
+      "description": "<p>Uma caixa do tamanho de uma caixa de sapatos. Aberta, guarda a última miudeza que seu dono perdeu. Cada vez que algo volta, outra coisa dele desaparece.</p>"
+    },
+    "Buckle of the Broken Promise": {
+      "name": "Fivela da Promessa Quebrada",
+      "description": "<p>Seu metal fica opaco perto de pessoas que um dia se conheceram bem. Há uma frase gravada no verso, mas falta a última palavra.</p>"
+    },
+    "Button from the Green Coat": {
+      "name": "Botão do Casaco Verde",
+      "description": "<p>Um botão de madeira simples que reaparece no bolso de quem o joga fora. No frio, parece preso a um pedaço de tecido invisível.</p>"
+    },
+    "Clear-Sky Umbrella": {
+      "name": "Sombrinha de Céu Limpo",
+      "description": "<p>Só abre quando não há nuvens no céu. Debaixo dele se ouvem gotas de chuva e conversas abafadas do que parece uma rua encharcada.</p>"
+    },
+    "Clock of the Motionless Hour": {
+      "name": "Relógio da Hora Parada",
+      "description": "<p>Seus ponteiros nunca avançam, mas o tique-taque acelera em certos corredores. A hora mostrada muda sempre que o relógio é dado a outra pessoa.</p>"
+    },
+    "Coin of the Erased King": {
+      "name": "Moeda do Rei Apagado",
+      "description": "<p>Um lado traz uma coroa; o outro, um rosto raspado de propósito. Às vezes ela cai de pé e fica assim muito mais tempo do que deveria.</p>"
+    },
+    "Cold Ivory Comb": {
+      "name": "Pente de Marfim Frio",
+      "description": "<p>Seus dentes nunca prendem nem embaraçam o cabelo. Depois de usado, uma melodia conhecida fica no ar, embora ninguém se lembre da letra.</p>"
+    },
+    "Compass of the Broken Circle": {
+      "name": "Compasso do Círculo Partido",
+      "description": "<p>Traça arcos perfeitos, mas nunca fecha um círculo. A pequena abertura sempre aponta para o mesmo ponto do horizonte.</p>"
+    },
+    "Crown of Dry Branches": {
+      "name": "Coroa de Galhos Secos",
+      "description": "<p>Brotos minúsculos aparecem nela durante discussões e murcham depois de um pedido de desculpas. Ninguém reconhece a árvore de onde vieram seus galhos.</p>"
+    },
+    "Curtain from the Closed Window": {
+      "name": "Cortina da Janela Fechada",
+      "description": "<p>Um retalho translúcido de tecido que se agita mesmo sem vento. Encostado numa parede, revela uma paisagem que não está realmente ali.</p>"
+    },
+    "Dragon Tooth Far Too Small": {
+      "name": "Dente de Dragão Pequeno Demais",
+      "description": "<p>Branco, curvo e do tamanho de uma unha. Cobre-se de fuligem sempre que alguém fala de um tesouro escondido.</p>"
+    },
+    "Drowned Music Box": {
+      "name": "Caixa de Música Afogada",
+      "description": "<p>Não faz som nenhum ao ser aberta, mas gotas de água brotam da madeira. Peixes próximos parecem seguir uma melodia que ninguém mais ouve.</p>"
+    },
+    "Feather from a Bird Without a Sky": {
+      "name": "Pena de um Pássaro sem Céu",
+      "description": "<p>Azul de um lado e preta do outro. Perto de uma chama, sua sombra bate as asas mesmo com a pena parada.</p>"
+    },
+    "Fish Pie": {
+      "name": "Torta de Peixe",
+      "description": "<p>Torta de Peixe (três refeições)</p>"
+    },
+    "Fish Stew": {
+      "name": "Ensopado de Peixe",
+      "description": "<p>Ensopado de Peixe (quatro refeições)</p>"
+    },
+    "Fowl Soup": {
+      "name": "Sopa de Ave",
+      "description": "<p>Sopa de Ave (quatro refeições)</p>"
+    },
+    "Frosted-Glass Hammer": {
+      "name": "Martelo de Vidro Fosco",
+      "description": "<p>Parece frágil, mas não tem trincas nem lascas. Batido contra pedra, soa como uma batida do outro lado de uma porta. Num combate é uma arma d4: depois de cada ataque feito com ele, role o Dado de Sorte e, num 1–3, ele se estilhaça. Bater em pedra nunca o quebra.</p>"
+    },
+    "Goblet of the Forgotten Toast": {
+      "name": "Cálice do Brinde Esquecido",
+      "description": "<p>Qualquer líquido servido nele ganha o aroma de uma bebida da infância de quem o segura. Depois do primeiro gole, alguém muito longe parece erguer uma taça igual.</p>"
+    },
+    "Gold Nugget": {
+      "name": "Pepita de Ouro",
+      "description": "<p>Ouro bruto do tamanho de um polegar, arrancado da rocha.</p>"
+    },
+    "Golden Nail": {
+      "name": "Prego Dourado",
+      "description": "<p>Não tem ponta e não pode ser entortado. Perto de madeira velha, solta o cheiro de uma casa recém-construída.</p>"
+    },
+    "Helm of the Delayed Echo": {
+      "name": "Elmo do Eco Atrasado",
+      "description": "<p>Tudo o que quem o usa diz é repetido, palavra por palavra, alguns minutos depois, do lugar onde foi dito. Algumas das frases repetidas nunca foram ditas.</p>"
+    },
+    "Honey Cakes": {
+      "name": "Bolos de Mel",
+      "description": "<p>Bolos de Mel (três refeições)</p>"
+    },
+    "Hungry Silver Spoon": {
+      "name": "Colher de Prata Faminta",
+      "description": "<p>A comida provada com ela perde o cheiro. Sua concha traz o brasão de uma família que jura nunca ter tido tal objeto.</p>"
+    },
+    "Hunter's Stew": {
+      "name": "Ensopado do Caçador",
+      "description": "<p>Ensopado do Caçador (quatro refeições)</p>"
+    },
+    "Key to the Room That Isn’t There": {
+      "name": "Chave do Quarto que Não Existe",
+      "description": "<p>Uma chave longa de ferro escuro, sempre morna ao toque. O cabo traz um número estranho — ou talvez um símbolo — que ninguém consegue identificar.</p>"
+    },
+    "Killer Bee Honey": {
+      "name": "Mel Assassino",
+      "description": "<p>Mel escuro de uma colmeia de Abelhas Assassinas. Cada uso cura 1d6 de FOR.</p>"
+    },
+    "Letter Addressed to No One": {
+      "name": "Carta Endereçada a Ninguém",
+      "description": "<p>Seu lacre continua intacto, e o nome do destinatário está em branco. Mesmo assim, cada pessoa reconhece a letra como sendo de alguém diferente.</p>"
+    },
+    "Locket of Two Mornings": {
+      "name": "Medalhão de Duas Manhãs",
+      "description": "<p>Contém duas imagens minúsculas do mesmo campo: uma ao nascer do sol, a outra sob uma névoa espessa. De vez em quando, o sol passa de uma imagem para a outra.</p>"
+    },
+    "Map of Lost Streets": {
+      "name": "Mapa das Ruas Perdidas",
+      "description": "<p>As vielas desenhadas nele mudam um pouco sempre que o pergaminho é dobrado. Nenhum nome de cidade aparece em parte alguma do mapa.</p>"
+    },
+    "Meat Pie": {
+      "name": "Torta de Carne",
+      "description": "<p>Torta de Carne (três refeições)</p>"
+    },
+    "Mirror of the Third Figure": {
+      "name": "Espelho da Terceira Figura",
+      "description": "<p>O reflexo mostra todos por perto, menos quem o segura. Em certas noites, uma figura a mais aparece ao fundo.</p>"
+    },
+    "Mushroom Omelette": {
+      "name": "Omelete de Cogumelos",
+      "description": "<p>Omelete de Cogumelos (duas refeições)</p>"
+    },
+    "Mushroom Soup": {
+      "name": "Sopa de Cogumelos",
+      "description": "<p>Sopa de Cogumelos (três refeições)</p>"
+    },
+    "Needle That Points Home": {
+      "name": "Agulha que Aponta para Casa",
+      "description": "<p>Posta numa superfície plana, gira devagar até uma certa direção. Pessoas diferentes juram que ela aponta para lugares diferentes.</p>"
+    },
+    "New-Moon Salt": {
+      "name": "Sal de Lua Nova",
+      "description": "<p>Cristais negros guardados num pequeno saleiro de osso. Sob a luz das estrelas, alguns grãos se arrumam em constelações desconhecidas.</p>"
+    },
+    "Night Gardener’s Gloves": {
+      "name": "Luvas do Jardineiro Noturno",
+      "description": "<p>São cobertas de terra que não sai de jeito nenhum. Sementes seguras nelas tremem de leve, como se sonhassem.</p>"
+    },
+    "Notebook of Crossed-Out Names": {
+      "name": "Caderno de Nomes Riscados",
+      "description": "<p>Cada página traz listas de nomes escondidos sob tinta grossa. Resta uma única linha em branco no pé da última página.</p>"
+    },
+    "Pale-Skinned Drum": {
+      "name": "Tambor de Pele Pálida",
+      "description": "<p>Treme sem fazer som sempre que cavalos se aproximam. Depois da chuva, a marca de uma mão do tamanho da de uma criança aparece na sua superfície.</p>"
+    },
+    "Pemmican": {
+      "name": "Pemmican",
+      "description": "<p>Pemmican (quatro refeições)</p>"
+    },
+    "Porridge": {
+      "name": "Mingau",
+      "description": "<p>Mingau (duas refeições)</p>"
+    },
+    "Portrait of the Unknown Relative": {
+      "name": "Retrato do Parente Desconhecido",
+      "description": "<p>Mostra alguém cujos traços parecem vagamente familiares. O rosto pintado envelhece a cada lua cheia, enquanto o resto do retrato continua igual.</p>"
+    },
+    "Ring for the Missing Finger": {
+      "name": "Anel para o Dedo que Falta",
+      "description": "<p>Grande demais para qualquer dedo e pequeno demais para um pulso. Por dentro, tem marcas que lembram arranhões de unhas.</p>"
+    },
+    "Rope of Eleven Knots": {
+      "name": "Corda de Onze Nós",
+      "description": "<p>Cada nó tem uma textura diferente. Um nó sempre se desfaz quando são contados, mas o total continua sendo onze.</p>"
+    },
+    "Single Velvet Shoe": {
+      "name": "Pé de Sapato de Veludo",
+      "description": "<p>Não serve direito em pé nenhum. Deixado no chão durante a noite, é encontrado ao amanhecer coberto de lama fresca.</p>"
+    },
+    "Smithing Tools": {
+      "name": "Kit de Ferreiro",
+      "description": "<p>Kit de Ferreiro (Martelo, Tenaz, Bigorna, <em>volumoso</em>)</p>"
+    },
+    "Spinning Top That Wakes for Sleepers": {
+      "name": "Pião que Vela os Adormecidos",
+      "description": "<p>Começa a girar sempre que alguém por perto adormece. Para pouco antes de a pessoa acordar e cai apontando para ela.</p>"
+    },
+    "Stone with a Pulse": {
+      "name": "Pedra com Pulso",
+      "description": "<p>Lisa, pesada e levemente morna. Apertada contra o peito, seu ritmo parece seguir um coração que não é o de quem a segura.</p>"
+    },
+    "Tear-Embroidered Handkerchief": {
+      "name": "Lenço Bordado de Lágrimas",
+      "description": "<p>O tecido está sempre úmido e tem um leve cheiro de lavanda. Iniciais diferentes aparecem num canto dependendo de quem o segura.</p>"
+    },
+    "The Blind Seamstress’s Scissors": {
+      "name": "Tesoura da Costureira Cega",
+      "description": "<p>Corta tecido sem deixar retalhos. Os fios cortados por suas lâminas aparecem depois amarrados em outro lugar.</p>"
+    },
+    "The Pilgrim’s Folding Chair": {
+      "name": "Cadeira Dobrável do Peregrino",
+      "description": "<p>Leve demais para sua grossa armação de madeira. Quem se senta nela se lembra por um instante de uma viagem que talvez nunca tenha feito.</p>"
+    },
+    "Three-Holed Flute": {
+      "name": "Flauta de Três Furos",
+      "description": "<p>Produz quatro notas. A quarta não é bem ouvida, mas pequenos animais param o que estão fazendo quando ela é tocada.</p>"
+    },
+    "Trail Mix": {
+      "name": "Mix de Trilha",
+      "description": "<p>Mix de Trilha (quatro refeições)</p>"
+    },
+    "Uneven Bone Die": {
+      "name": "Dado de Osso Irregular",
+      "description": "<p>Tem sete faces, mas só seis números. A face sem marca parece virar para cima sempre que ninguém está olhando.</p>"
+    },
+    "Vegetable Pottage": {
+      "name": "Caldo de Legumes",
+      "description": "<p>Caldo de Legumes (três refeições)</p>"
+    },
+    "Vial of Liquid Shadow": {
+      "name": "Frasco de Sombra Líquida",
+      "description": "<p>A substância escura lá dentro se move contra a inclinação do vidro. Ao meio-dia, o frasco parece quase vazio.</p>"
+    },
+    "Warm-Bottomed Pouch": {
+      "name": "Bolsinha de Fundo Morno",
+      "description": "<p>Parece vazia, mas algo pequeno se mexe lá dentro sempre que ela é fechada. Aberta de repente, não contém nada além de uma pena cinza.</p>"
+    },
+    "Whispering Violet Orb": {
+      "name": "Orbe Violeta Sussurrante",
+      "description": "<p>Luzes roxas flutuam sob sua superfície como criaturas debaixo d'água. Quem o observa por tempo demais sente que os sussurros estão quase formando seu nome.</p>"
     }
   }
 }

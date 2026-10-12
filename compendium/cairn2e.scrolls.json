@@ -11,7 +11,7 @@
     },
     "Anchor": {
       "name": "Âncora",
-      "description": "<p>Um arame resistente brota dos seus braços e se prende a dois pontos a até 15 m de cada lado.</p>"
+      "description": "<p>Um arame resistente brota dos seus braços e se prende a dois pontos a até 15 m (50 ft) de cada lado.</p>"
     },
     "Animate Object": {
       "name": "Animar Objeto",
@@ -31,7 +31,7 @@
     },
     "Attract": {
       "name": "Atração",
-      "description": "<p>Dois objetos se atraem com forte magnetismo se ficarem a até 3 m um do outro.</p>"
+      "description": "<p>Dois objetos se atraem com forte magnetismo se ficarem a até 3 m (10 ft) um do outro.</p>"
     },
     "Auditory Illusion": {
       "name": "Ilusão Auditiva",
@@ -103,7 +103,7 @@
     },
     "Displace": {
       "name": "Deslocamento",
-      "description": "<p>Um objeto parece estar a até 4,5 m de sua posição real.</p>"
+      "description": "<p>Um objeto parece estar a até 4,5 m (15 ft) de sua posição real.</p>"
     },
     "Earthquake": {
       "name": "Terremoto",
@@ -111,11 +111,11 @@
     },
     "Elasticity": {
       "name": "Elasticidade",
-      "description": "<p>Seu corpo pode se esticar até 3 m.</p>"
+      "description": "<p>Seu corpo pode se esticar até 3 m (10 ft).</p>"
     },
     "Elemental Wall": {
       "name": "Muralha Elemental",
-      "description": "<p>Uma muralha reta de gelo ou fogo, com 15 m de comprimento e 3 m de altura, ergue-se do chão.</p>"
+      "description": "<p>Uma muralha reta de gelo ou fogo, com 15 m (50 ft) de comprimento e 3 m (10 ft) de altura, ergue-se do chão.</p>"
     },
     "Filch": {
       "name": "Surrupiar",
@@ -163,7 +163,7 @@
     },
     "Hover": {
       "name": "Flutuar",
-      "description": "<p>Um objeto paira, sem atrito, a 60 cm do chão. Ele suporta até um humanoide.</p>"
+      "description": "<p>Um objeto paira, sem atrito, a 0,6 m (2 ft) do chão. Ele suporta até um humanoide.</p>"
     },
     "Hypnotize": {
       "name": "Hipnotizar",
@@ -171,7 +171,7 @@
     },
     "Icy Touch": {
       "name": "Toque Gélido",
-      "description": "<p>Uma camada grossa de gelo se espalha pela superfície tocada, num raio de até 3 m.</p>"
+      "description": "<p>Uma camada grossa de gelo se espalha pela superfície tocada, num raio de até 3 m (10 ft).</p>"
     },
     "Identify Owner": {
       "name": "Identificar Dono",
@@ -183,7 +183,7 @@
     },
     "Invisible Tether": {
       "name": "Amarra Invisível",
-      "description": "<p>Dois objetos a até 3 m um do outro não podem ser afastados mais de 3 m.</p>"
+      "description": "<p>Dois objetos a até 3 m (10 ft) um do outro não podem ser afastados mais de 3 m (10 ft).</p>"
     },
     "Knock": {
       "name": "Arrombar",
@@ -191,7 +191,7 @@
     },
     "Leap": {
       "name": "Salto",
-      "description": "<p>Você salta até 3 m de altura, uma vez.</p>"
+      "description": "<p>Você salta até 3 m (10 ft) de altura, uma vez.</p>"
     },
     "Liquid Air": {
       "name": "Ar Líquido",
@@ -231,7 +231,7 @@
     },
     "Night Sphere": {
       "name": "Esfera Noturna",
-      "description": "<p>Uma esfera de escuridão com 15 m de largura, mostrando o céu noturno, aparece diante de você.</p>"
+      "description": "<p>Uma esfera de escuridão com 15 m (50 ft) de largura, mostrando o céu noturno, aparece diante de você.</p>"
     },
     "Objectify": {
       "name": "Forma de Objeto",
@@ -255,7 +255,7 @@
     },
     "Pit": {
       "name": "Fosso",
-      "description": "<p>Um fosso de 3 m de largura e 3 m de profundidade se abre no chão.</p>"
+      "description": "<p>Um fosso de 3 m (10 ft) de largura e 3 m (10 ft) de profundidade se abre no chão.</p>"
     },
     "Primal Surge": {
       "name": "Surto Primal",
@@ -279,7 +279,7 @@
     },
     "Repel": {
       "name": "Repulsão",
-      "description": "<p>Dois objetos se repelem com forte magnetismo a até 3 m um do outro.</p>"
+      "description": "<p>Dois objetos se repelem com forte magnetismo a até 3 m (10 ft) um do outro.</p>"
     },
     "Scry": {
       "name": "Vidência",
@@ -315,7 +315,7 @@
     },
     "Slick": {
       "name": "Escorregadio",
-      "description": "<p>Toda superfície num raio de 9 m fica extremamente escorregadia.</p>"
+      "description": "<p>Toda superfície num raio de 9 m (30 ft) fica extremamente escorregadia.</p>"
     },
     "Smoke Form": {
       "name": "Forma de Fumaça",
@@ -359,15 +359,15 @@
     },
     "Teleport": {
       "name": "Teletransporte",
-      "description": "<p>Um objeto ou pessoa que você possa ver é transportado de um lugar para outro num raio de 15 m.</p>"
+      "description": "<p>Um objeto ou pessoa que você possa ver é transportado de um lugar para outro num raio de 15 m (50 ft).</p>"
     },
     "Thicket": {
       "name": "Matagal",
-      "description": "<p>Um matagal de árvores e arbustos densos, com até 15 m de largura, brota de repente.</p>"
+      "description": "<p>Um matagal de árvores e arbustos densos, com até 15 m (50 ft) de largura, brota de repente.</p>"
     },
     "Time Control": {
       "name": "Controle do Tempo",
-      "description": "<p>O tempo numa bolha de 15 m desacelera ou acelera em 10% por 30 segundos.</p>"
+      "description": "<p>O tempo numa bolha de 15 m (50 ft) desacelera ou acelera em 10% por 30 segundos.</p>"
     },
     "True Sight": {
       "name": "Visão da Verdade",
@@ -387,7 +387,7 @@
     },
     "Ward": {
       "name": "Proteção",
-      "description": "<p>Um círculo prateado de 15 m de diâmetro surge no chão. Escolha uma espécie que não pode atravessá-lo.</p>"
+      "description": "<p>Um círculo prateado de 15 m (50 ft) de diâmetro surge no chão. Escolha uma espécie que não pode atravessá-lo.</p>"
     },
     "Web": {
       "name": "Teia",

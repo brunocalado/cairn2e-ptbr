@@ -115,7 +115,7 @@
     },
     "Blinding Powder": {
       "name": "Pó Cegante",
-      "description": "<p>Um armazém de guilda. Pegue uma <strong>Escada</strong> (<em>volumosa</em>, 3 m) e <strong>Pó Cegante</strong> (1 uso).</p>"
+      "description": "<p>Um armazém de guilda. Pegue uma <strong>Escada</strong> (<em>volumosa</em>, 3 m / 10 ft) e <strong>Pó Cegante</strong> (1 uso).</p>"
     },
     "Blood Pail": {
       "name": "Balde de Sangue",
@@ -315,7 +315,7 @@
     },
     "Fireflask": {
       "name": "Frasco de Fogo",
-      "description": "<p><strong>Frasco de Fogo</strong> Altamente alcoólico, mas estranhamente delicioso. Quando arremessado, cria uma parede de chamas de 3 m de altura que se apaga após alguns minutos. 1 uso.</p>"
+      "description": "<p><strong>Frasco de Fogo</strong> Altamente alcoólico, mas estranhamente delicioso. Quando arremessado, cria uma parede de chamas de 3 m (10 ft) de altura que se apaga após alguns minutos. 1 uso.</p>"
     },
     "Fireseeds": {
       "name": "Sementes de Fogo",
@@ -523,7 +523,7 @@
     },
     "Ladder": {
       "name": "Escada",
-      "description": "<p>Um armazém de guilda. Pegue uma <strong>Escada</strong> (<em>volumosa</em>, 3 m) e <strong>Pó Cegante</strong> (1 uso).</p>"
+      "description": "<p>Um armazém de guilda. Pegue uma <strong>Escada</strong> (<em>volumosa</em>, 3 m / 10 ft) e <strong>Pó Cegante</strong> (1 uso).</p>"
     },
     "Large Net": {
       "name": "Rede Grande",
@@ -1043,7 +1043,7 @@
     },
     "Strong Silk Rope": {
       "name": "Corda de Seda Forte",
-      "description": "<p>Os aposentos do delegado. Você escapou, mas deixou alguns amigos para trás. Pegue uma <strong>Corda de Seda Forte</strong> (9 m) e um peso na consciência.</p>"
+      "description": "<p>Os aposentos do delegado. Você escapou, mas deixou alguns amigos para trás. Pegue uma <strong>Corda de Seda Forte</strong> (9 m / 30 ft) e um peso na consciência.</p>"
     },
     "Sun Stick": {
       "name": "Bastão Solar",
@@ -1155,7 +1155,7 @@
     },
     "Twine Bauble": {
       "name": "Amuleto de Cordel",
-      "description": "<p>Amuleto de Cordel (<em>miudeza</em>, <em>Proteção</em> uma vez por dia)</p><p><em>Proteção</em>: Um círculo prateado de 15 m de diâmetro surge no chão. Escolha uma espécie que não pode atravessá-lo.</p>"
+      "description": "<p>Amuleto de Cordel (<em>miudeza</em>, <em>Proteção</em> uma vez por dia)</p><p><em>Proteção</em>: Um círculo prateado de 15 m (50 ft) de diâmetro surge no chão. Escolha uma espécie que não pode atravessá-lo.</p>"
     },
     "Uncanny Hand-Puppet": {
       "name": "Fantoche Inquietante",
