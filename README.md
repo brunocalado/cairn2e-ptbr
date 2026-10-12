@@ -139,6 +139,7 @@ https://github.com/brunocalado/cairn2e-ptbr/releases/latest/download/module.json
 - [Cairn](https://cairnrpg.com) é um RPG criado por [Yochai Gal](https://newschoolrevolution.com).
 - Tradução de referência do Cairn 2e por [robsonfvilela](https://github.com/robsonfvilela/Cairn-2e-ptbr),
   que aproveitou termos da tradução da Primeira Edição feita por [Xenio](https://xenioinabottle.blogspot.com/).
+- [SRD oficial do Cairn 2e em português](https://github.com/RenanStigliani/cairn).
 
 ---
 
