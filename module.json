@@ -19,6 +19,9 @@
   "esmodules": [
     "scripts/main.js"
   ],
+  "styles": [
+    "styles/language-panel.css"
+  ],
   "languages": [
     {
       "lang": "pt-BR",

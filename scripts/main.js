@@ -6,7 +6,8 @@
  * it under the terms of the GNU General Public License version 3.
  */
 
-import { MODULE_ID, SETTING_LANGUAGE_PROMPTED } from "./constants.js";
+import { MODULE_ID, SETTING_LANGUAGE_PROMPTED, LANGUAGE_PANEL_MENU, QUERIES } from "./constants.js";
+import LanguagePanel from "./language-panel.js";
 
 // Babele reads compendium/<system>.<pack>.json; the system's docs/translating.md is the contract
 // for what those files may translate.
@@ -102,10 +103,48 @@ Hooks.once("init", () => {
     type: Boolean,
     default: false
   });
+
+  // Hardcoded in Portuguese like the offer dialog: the GM opening it may not be in pt-BR yet.
+  game.settings.registerMenu(MODULE_ID, LANGUAGE_PANEL_MENU, {
+    name: "Idioma dos jogadores",
+    label: "Abrir painel",
+    hint: "Veja o idioma de cada jogador, reative a oferta de troca para Português (Brasil) ou mude o idioma de quem está conectado.",
+    icon: "fa-solid fa-language",
+    type: LanguagePanel,
+    restricted: true
+  });
+
+  // The language panel's requests. Any client can call a registered query, so each one checks the
+  // server-supplied sender before acting.
+  CONFIG.queries[QUERIES.GET_LANGUAGE] = async (data, { user }) => {
+    if (!user?.isGM) throw new Error("Only a GM can read a player's language");
+    return { lang: game.i18n.lang };
+  };
+  CONFIG.queries[QUERIES.SET_LANGUAGE] = async (data, { user }) => {
+    if (!user?.isGM) throw new Error("Only a GM can change a player's language");
+    await game.settings.set("core", "language", "pt-BR");
+    // Not awaited: the GM's query resolves now, not when the player answers the reload prompt.
+    foundry.applications.settings.SettingsConfig.reloadConfirm({ world: false });
+    return { ok: true };
+  };
+  CONFIG.queries[QUERIES.OFFER_LANGUAGE] = async (data, { user }) => {
+    if (!user?.isGM) throw new Error("Only a GM can offer the language switch");
+    // Not awaited, for the same reason: the dialog waits on the player.
+    offerLanguage();
+    return { ok: true };
+  };
 });
 
-Hooks.once("ready", async () => {
+Hooks.once("ready", () => {
   if (game.i18n.lang === "pt-BR" || game.settings.get(MODULE_ID, SETTING_LANGUAGE_PROMPTED)) return;
+  offerLanguage();
+});
+
+/**
+ * Ask this client whether to switch Foundry to pt-BR. The user is marked as asked before the
+ * dialog opens, so closing it or reloading counts as an answer.
+ */
+async function offerLanguage() {
   await game.settings.set(MODULE_ID, SETTING_LANGUAGE_PROMPTED, true);
 
   // Hardcoded in Portuguese: this dialog only appears while the client is NOT in pt-BR, so the
@@ -126,4 +165,4 @@ Hooks.once("ready", async () => {
   if (!switchLanguage) return;
   await game.settings.set("core", "language", "pt-BR");
   foundry.utils.debouncedReload();
-});
+}

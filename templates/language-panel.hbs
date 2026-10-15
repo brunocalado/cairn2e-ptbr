@@ -1,0 +1,43 @@
+<div class="language-panel-content">
+  <p class="hint">O idioma fica no navegador de cada jogador, então só aparece para quem está conectado. “Reativar” faz a pergunta aparecer de novo no próximo login.</p>
+  <table>
+    <thead>
+      <tr>
+        <th>Jogador</th>
+        <th>Idioma</th>
+        <th>Oferta</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each users}}
+      <tr class="{{#unless active}}offline{{/unless}}">
+        <td class="user-name">
+          <span class="chip" style="background: {{color}}"></span>{{name}}
+          {{#unless active}}<span class="tag">offline</span>{{/unless}}
+        </td>
+        <td>{{#if lang}}{{lang}}{{else}}—{{/if}}</td>
+        <td>{{#if offered}}feita{{else}}pendente{{/if}}</td>
+        <td class="user-actions">
+          {{#if active}}
+          <button type="button" data-action="setLanguage" data-user-id="{{id}}" {{#if isPortuguese}}disabled{{/if}}
+                  data-tooltip="Muda o idioma do jogador para Português (Brasil) e pede para recarregar">
+            <i class="fa-solid fa-language" inert></i>Mudar
+          </button>
+          <button type="button" data-action="offerLanguage" data-user-id="{{id}}" {{#if isPortuguese}}disabled{{/if}}
+                  data-tooltip="Abre agora a pergunta de troca de idioma na tela do jogador">
+            <i class="fa-solid fa-paper-plane" inert></i>Oferecer
+          </button>
+          {{/if}}
+          <button type="button" data-action="resetOffer" data-user-id="{{id}}" {{#unless offered}}disabled{{/unless}}
+                  data-tooltip="Faz a pergunta aparecer de novo no próximo login">
+            <i class="fa-solid fa-rotate-left" inert></i>Reativar
+          </button>
+        </td>
+      </tr>
+      {{else}}
+      <tr><td colspan="4" class="empty">Nenhum jogador neste mundo.</td></tr>
+      {{/each}}
+    </tbody>
+  </table>
+</div>
