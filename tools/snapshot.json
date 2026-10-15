@@ -2900,6 +2900,10 @@
     "CAIRN.Treasure.SourceMissing": "4fa8e6d4b44f",
     "CAIRN.Treasure.Sources": "ff36d0b53c5b",
     "CAIRN.Treasure.Strike": "5b444d48dac2",
-    "CAIRN.Treasure.Title": "1098e5f81ec8"
+    "CAIRN.Treasure.Title": "1098e5f81ec8",
+    "CAIRN.Party.FolderFromCompendium": "3b92c7a06fcf",
+    "CAIRN.Party.FolderJoined": "82b54a20008f",
+    "CAIRN.Party.FolderNobodyNew": "6ad5183bc013",
+    "CAIRN.Party.FolderNotActors": "9eec5edb9749"
   }
 }
