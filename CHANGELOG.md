@@ -1,3 +1,9 @@
+# 0.0.12
+
+### Adicionado
+
+* Painel **Idioma dos jogadores** nas configurações do módulo, só para o GM: mostra o idioma de cada jogador conectado e se a troca para Português (Brasil) já foi oferecida. Dá para **reativar a oferta** (ela volta no próximo login, mesmo com o jogador offline), **oferecer agora** na tela do jogador ou **mudar o idioma** de quem está conectado, que então confirma o recarregamento. Útil quando uma conta é reaproveitada por outro jogador e a pergunta não aparece mais.
+
 # 0.0.11
 
 ### Adicionado
