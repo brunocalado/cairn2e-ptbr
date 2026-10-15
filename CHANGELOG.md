@@ -1,3 +1,11 @@
+# 0.0.11
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.1.6.** Traduz os avisos novos do sistema para soltar uma **pasta de atores** na ficha do grupo: quantos entraram, ninguém novo na pasta, pasta que não é de atores e pasta de compêndio (que precisa ser importada antes).
+
+  Agora o módulo exige o Cairn 2e 0.1.6 ou mais novo.
+
 # 0.0.10
 
 ### Adicionado
