@@ -1,3 +1,16 @@
+# 0.0.13
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.2.0.** Traduz os textos novos do sistema: o **rastreador de masmorra** refeito (a janela para **declarar** o que cada personagem faz no turno, com ideias de ações, o **trabalho em andamento** com seus turnos de esforço, os botões de **Fadiga**, **Refeição** e **Luz** para escolher quem é afetado e os gatilhos de **Evento de Masmorra**), o diálogo **Sofrer dano**, o aviso de **pânico** no teste de DES da primeira rodada e o novo card de **Cicatriz**.
+* As macros **Lojas** e **Sofrer Dano**.
+
+  Agora o módulo exige o Cairn 2e 0.2.0 ou mais novo.
+
+### Alterado
+
+* Nomes curtos para itens e tabelas que não cabiam nas linhas: Apito do Sr. Carvalho, Prisminha de Cristal, Equinócio da Ceifa, Subst. de Floresta, Subst. de Nome, Clima em Vald (Chuva), Livro Tímido, Caixa da Última Perda, Pente de Marfim, Caixa Musical Afogada, Guisado do Caçador, Dado de Osso Torto e Ferrão de Mantícora.
+
 # 0.0.12
 
 ### Adicionado
