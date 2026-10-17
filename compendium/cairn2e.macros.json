@@ -36,6 +36,12 @@
     },
     "Restore Default Stores": {
       "name": "Restaurar Lojas Padrão"
+    },
+    "Stores": {
+      "name": "Lojas"
+    },
+    "Take Damage": {
+      "name": "Sofrer Dano"
     }
   }
 }
