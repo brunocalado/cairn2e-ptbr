@@ -505,7 +505,7 @@
       "description": "<p>Torta de Amoras (duas refeições)</p>"
     },
     "Book of Shy Pages": {
-      "name": "Livro de Páginas Tímidas",
+      "name": "Livro Tímido",
       "description": "<p>Suas palavras somem quando lidas em voz alta. Se for deixado em paz, novas anotações aparecem nas margens.</p>"
     },
     "Bottle of Ancient Rain": {
@@ -513,7 +513,7 @@
       "description": "<p>Uma tempestade minúscula e silenciosa gira dentro do vidro. Tocar a rolha enche o ar com o cheiro de chuva caindo sobre a terra em algum lugar distante.</p>"
     },
     "Box of Last Losses": {
-      "name": "Caixa das Últimas Perdas",
+      "name": "Caixa da Última Perda",
       "description": "<p>Uma caixa do tamanho de uma caixa de sapatos. Aberta, guarda a última miudeza que seu dono perdeu. Cada vez que algo volta, outra coisa dele desaparece.</p>"
     },
     "Buckle of the Broken Promise": {
@@ -537,7 +537,7 @@
       "description": "<p>Um lado traz uma coroa; o outro, um rosto raspado de propósito. Às vezes ela cai de pé e fica assim muito mais tempo do que deveria.</p>"
     },
     "Cold Ivory Comb": {
-      "name": "Pente de Marfim Frio",
+      "name": "Pente de Marfim",
       "description": "<p>Seus dentes nunca prendem nem embaraçam o cabelo. Depois de usado, uma melodia conhecida fica no ar, embora ninguém se lembre da letra.</p>"
     },
     "Compass of the Broken Circle": {
@@ -557,7 +557,7 @@
       "description": "<p>Branco, curvo e do tamanho de uma unha. Cobre-se de fuligem sempre que alguém fala de um tesouro escondido.</p>"
     },
     "Drowned Music Box": {
-      "name": "Caixa de Música Afogada",
+      "name": "Caixa Musical Afogada",
       "description": "<p>Não faz som nenhum ao ser aberta, mas gotas de água brotam da madeira. Peixes próximos parecem seguir uma melodia que ninguém mais ouve.</p>"
     },
     "Feather from a Bird Without a Sky": {
@@ -605,8 +605,8 @@
       "description": "<p>A comida provada com ela perde o cheiro. Sua concha traz o brasão de uma família que jura nunca ter tido tal objeto.</p>"
     },
     "Hunter's Stew": {
-      "name": "Ensopado do Caçador",
-      "description": "<p>Ensopado do Caçador (quatro refeições)</p>"
+      "name": "Guisado do Caçador",
+      "description": "<p>Guisado do Caçador (quatro refeições)</p>"
     },
     "Key to the Room That Isn’t There": {
       "name": "Chave do Quarto que Não Existe",
@@ -721,7 +721,7 @@
       "description": "<p>Mix de Trilha (quatro refeições)</p>"
     },
     "Uneven Bone Die": {
-      "name": "Dado de Osso Irregular",
+      "name": "Dado de Osso Torto",
       "description": "<p>Tem sete faces, mas só seis números. A face sem marca parece virar para cima sempre que ninguém está olhando.</p>"
     },
     "Vegetable Pottage": {

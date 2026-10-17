@@ -1314,7 +1314,7 @@
       "description": "<p>Você ingeriu um <strong>Espírito Travesso</strong> que faz estragos em suas entranhas, exigindo ser levado para casa, nas profundezas do Bosque. Ele ocupa um espaço, mas absorve uma <strong>Fadiga</strong> por dia. Ele quer você vivo (por enquanto).</p>"
     },
     "Oak Lord's Whistle": {
-      "name": "Apito do Senhor Carvalho",
+      "name": "Apito do Sr. Carvalho",
       "description": "<p>Você esculpiu um <strong>Apito</strong> (<em>miudeza</em>) no galho de um <strong>Senhor Carvalho</strong>. Seu ato não passou despercebido. E você não consegue se livrar do apito.</p>"
     },
     "Omen": {
@@ -1354,8 +1354,8 @@
       "description": "<p>Um primo distante lhe deixou uma pequena herança. Receba <strong>20po</strong> e uma <strong>Bússola Estranha</strong> (<em>miudeza</em>) que sempre aponta para algo nas profundezas do Bosque.</p>"
     },
     "Tiny Crystal Prism": {
-      "name": "Pequeno Prisma de Cristal",
-      "description": "<p>Você encontrou um <strong>Pequeno Prisma de Cristal</strong> (<em>miudeza</em>) enterrado na terra. Quando erguido contra a luz, ele mostra visões de um lugar desconhecido nas profundezas do Bosque. Às vezes, você sente uma presença olhando de volta.</p>"
+      "name": "Prisminha de Cristal",
+      "description": "<p>Você encontrou um <strong>Prisminha de Cristal</strong> (<em>miudeza</em>) enterrado na terra. Quando erguido contra a luz, ele mostra visões de um lugar desconhecido nas profundezas do Bosque. Às vezes, você sente uma presença olhando de volta.</p>"
     },
     "Twig": {
       "name": "Graveto",

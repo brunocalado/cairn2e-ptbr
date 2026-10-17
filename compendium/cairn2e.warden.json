@@ -2086,7 +2086,7 @@
       }
     },
     "Forest Noun": {
-      "name": "Substantivo de Floresta",
+      "name": "Subst. de Floresta",
       "description": "<p>Role na coluna Substantivos da tabela de Nomes de Floresta dos Procedimentos de Nomeação.</p>",
       "results": {
         "1-1": {
@@ -2788,7 +2788,7 @@
       }
     },
     "Name Noun": {
-      "name": "Substantivo de Nome",
+      "name": "Subst. de Nome",
       "description": "<p>Role a tabela de Substantivos dos Procedimentos de Nomeação.</p>",
       "results": {
         "1-1": {
@@ -3604,7 +3604,7 @@
       }
     },
     "Vald Weather (Wet)": {
-      "name": "Clima em Vald (Chuvosa)",
+      "name": "Clima em Vald (Chuva)",
       "description": "<p>Role a coluna Chuvosa da tabela Clima em Vald para um dia da Estação Chuvosa. Ela descreve o dia; o clima em que uma jornada viaja é a rolagem da própria Jornada.</p>",
       "results": {
         "1-1": {
