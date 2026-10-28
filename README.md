@@ -47,7 +47,7 @@ cicatrizes, crescimento, facções, cartões de chat, notificações e configura
 | Magia | Grimórios, Pergaminhos, Relíquias |
 | Referência | Guia do Jogador, Tabelas de Jogo, Bestiário, Mercenários, Calendário de Vald |
 | Guardião | Tabelas do Guardião |
-| Caseiro | Mais Equipamento, Materiais, Mais Grimórios, Mais Pergaminhos, Poções |
+| Caseiro | Mais Equipamento, Materiais, Mais Grimórios, Mais Pergaminhos, Poções, Nomes de Pessoas |
 
 Também são traduzidos os itens dentro dos monstros e mercenários, as pastas dos compêndios e
 as macros.
