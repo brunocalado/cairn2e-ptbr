@@ -9,7 +9,7 @@
 
 ### Corrigido
 
-* **Automated Animations** volta a animar as armas e ataques traduzidos que o sistema ganhou desde o Cairn 2e 0.1.1: Espada, Montante, Adaga, Lança, Maça, Arco, Besta, Rapieira, Mordida, Garras, os arcos do Flecheiro do Vento, os ataques de monstros (Raízes, Vinhas, Jato, Ácido, Cascos…) e outros. Espada, Adaga, Lança, Maça e Mordida usavam a animação de outra arma. Vale para mundos novos: num mundo que já recebeu as animações, o sistema não substitui as entradas antigas, e Espada, Adaga, Lança, Maça e Mordida continuam com a animação anterior até o Guardião ajustá-las no Automated Animations.
+* **Automated Animations** volta a animar as armas e ataques traduzidos que o sistema ganhou desde o Cairn 2e 0.1.1: Espada, Montante, Adaga, Lança, Maça, Arco, Besta, Rapieira, Mordida, Garras, os arcos do Flecheiro do Vento, os ataques de monstros (Raízes, Vinhas, Jato, Ácido, Cascos…) e outros. Espada, Adaga, Lança, Maça e Mordida usavam a animação de outra arma. Num mundo que já recebeu as animações, as entradas novas chegam sozinhas no próximo login do Guardião. Só a Espada continua com a animação do falchião, porque o sistema nunca altera uma entrada que o mundo já tem.
 
 # 0.0.13
 
