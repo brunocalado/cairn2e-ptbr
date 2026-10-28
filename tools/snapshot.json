@@ -1525,6 +1525,10 @@
       "Phoenix Draught": "d6bb6d65c303",
       "Stoneform": "61d29977dd22",
       "Water Deflector": "0bc87bbcecec"
+    },
+    "names": {
+      "Female Person Names": "6cd37f7edea8",
+      "Male Person Names": "26ffe481746a"
     }
   },
   "lang": {
@@ -2977,6 +2981,24 @@
     "CAIRN.TakeDamage.Amount": "6f021887fbde",
     "CAIRN.TakeDamage.Button": "7d008b3db082",
     "CAIRN.TakeDamage.NoAmount": "87a93623bbd4",
-    "CAIRN.TakeDamage.Title": "01611777aef7"
+    "CAIRN.TakeDamage.Title": "01611777aef7",
+    "CAIRN.Combat.BeyondMove": "1737abdb8efe",
+    "CAIRN.Combat.BeyondRound": "4b6bf9d2eb35",
+    "CAIRN.Combat.DexSaveButton": "ed26e61c3a47",
+    "CAIRN.Combat.Moved": "22ad73156436",
+    "CAIRN.Combat.RevertMovement": "781d2b228c3d",
+    "CAIRN.DamageRecipients": "489914ab3828",
+    "CAIRN.NameGen.Hint.person": "c1b7dca44f21",
+    "CAIRN.NameGen.Gender.any": "207dec2b930e",
+    "CAIRN.NameGen.Gender.female": "62e5a31ea200",
+    "CAIRN.NameGen.Gender.male": "69d68016d6cb",
+    "CAIRN.NameGen.GenderLabel": "6414cb3680e3",
+    "CAIRN.NameGen.Kind.person": "11de3b493e24",
+    "CAIRN.NameGen.Part.given": "b2e23c6c5c66",
+    "CAIRN.Party.DrawOmens": "63ca510dca4b",
+    "CAIRN.Party.DrawOmensHint": "6de5f78d9a92",
+    "CAIRN.Party.OmenPrivate": "eb94a3a4f36d",
+    "CAIRN.Party.OmenYoungest": "a9fa7dfa9d01",
+    "CAIRN.Sidebar.Combat": "a18994432131"
   }
 }

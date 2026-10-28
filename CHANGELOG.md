@@ -1,3 +1,12 @@
+# Unreleased
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.2.3.** Traduz os textos novos do sistema: a aba **Pessoa** do Gerador de Nomes (com a escolha da lista de nomes), o botão **Sortear Presságios** da ficha do grupo e seus cards, quem sofre o dano no diálogo de dano, a distância percorrida na rodada no rastreador de combate e a seção **Combate** da aba Cairn.
+* O compêndio **Nomes de Pessoas**, com as tabelas Nomes Femininos e Nomes Masculinos. Os nomes em si ficam como no original.
+
+  Agora o módulo exige o Cairn 2e 0.2.3 ou mais novo.
+
 # 0.0.13
 
 ### Adicionado

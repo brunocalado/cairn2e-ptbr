@@ -198,7 +198,6 @@
     "NameHint": "Escolha um dos nomes do Antecedente, role um, ou digite o nome que quiser.",
     "NamePlaceholder": "Digite um nome, ou escolha acima",
     "Next": "Avançar",
-    "OmenPlaceholder": "Role um Presságio, ou escreva o seu…",
     "OnceHint": "Atributos, PG e a troca são rolados uma única vez. Eles são mantidos se você fechar esta janela.",
     "Open": "Gerar Personagem",
     "PickName": "Escolha um Nome",
@@ -211,7 +210,6 @@
     "RollD20": "Rolar (d20)",
     "RollHp": "Rolar PG (1d6)",
     "RollName": "Rolar Nome",
-    "RollOmen": "Rolar Presságio",
     "RolledOnCreate": "rolado ao criar",
     "Status": "Situação",
     "StillNeeded": "Ainda falta: {missing}",
@@ -232,8 +230,7 @@
     "Title": "Criar Personagem",
     "TitleFor": "Gerar: {name}",
     "Traits": "Traços",
-    "Years": "anos",
-    "Youngest": "Personagem mais jovem"
+    "Years": "anos"
   },
   "CAIRN.CharacterGenerator": "Gerar personagem",
   "CAIRN.CharacterRegeneratorConfirm": "Tem certeza de que deseja apagar e gerar este personagem de novo?",
@@ -263,10 +260,13 @@
   "CAIRN.Combat": {
     "Acted": "Marcar como já agiu nesta rodada",
     "ActedUndo": "Já agiu nesta rodada — clique para desfazer",
+    "BeyondMove": "Passou dos 12 m (40 ft) de um movimento nesta rodada — a ação foi gasta em mover-se de novo",
+    "BeyondRound": "Passou dos 24 m (80 ft) que dois movimentos cobrem nesta rodada",
     "DexSave": {
       "failed": "Falhou no teste de DES da 1ª rodada — perde o turno",
       "passed": "Passou no teste de DES da 1ª rodada — age"
     },
+    "DexSaveButton": "DES",
     "DexSavePrompt": "Rolar o teste de DES da primeira rodada",
     "FirstRoundActs": "Age nesta rodada, antes dos oponentes.",
     "FirstRoundLoses": "Perde o turno nesta rodada e volta a agir a partir da próxima.",
@@ -280,8 +280,10 @@
       "Hint": "Role-o pela bandeira na linha de um oponente no rastreador de combate."
     },
     "MoralePrompt": "Rolar Moral para este oponente",
+    "Moved": "Moveu-se nesta rodada",
     "PanicConfirm": "{name} está em pânico, e um personagem em pânico não age na primeira rodada. Rolar o teste de DES mesmo assim?",
     "PanicTitle": "Em pânico",
+    "RevertMovement": "Desfazer o movimento desta rodada",
     "Side": {
       "adventurers": "Aventureiros",
       "opponents": "Oponentes"
@@ -324,6 +326,7 @@
   "CAIRN.CriticalDamageFull": "Dano Crítico",
   "CAIRN.CriticalDamageSuccess": "Ainda na luta, mas com a FOR reduzida.",
   "CAIRN.Damage": "Dano",
+  "CAIRN.DamageRecipients": "Quem sofre",
   "CAIRN.DayRate": "Diária",
   "CAIRN.Dead": "Morto",
   "CAIRN.DeleteItem": "Apagar Item",
@@ -1120,15 +1123,23 @@
       "terrain": "A Fórmula de Nome, com um sinônimo do terreno no lugar do Local.",
       "faction": "A Fórmula de Facção e um Tipo de Grupo.",
       "realm": "A Fórmula de Governo e um Tipo de Governo. Com um terreno dominante, qualquer palavra pode ser trocada por um sinônimo dele.",
-      "forest": "A tabela de Nomes de Floresta: um substantivo e um adjetivo. Mude à vontade, e faça soar bem."
+      "forest": "A tabela de Nomes de Floresta: um substantivo e um adjetivo. Mude à vontade, e faça soar bem.",
+      "person": "Qualquer rola a tabela Nome de PNJ do Guia do Guardião. Feminino e Masculino rolam as listas caseiras de Nomes de Pessoas."
     },
+    "Gender": {
+      "any": "Qualquer",
+      "female": "Feminino",
+      "male": "Masculino"
+    },
+    "GenderLabel": "Lista de nomes",
     "History": "Recentes",
     "Kind": {
       "place": "Lugar",
       "terrain": "Terreno",
       "faction": "Facção",
       "realm": "Reino",
-      "forest": "Floresta"
+      "forest": "Floresta",
+      "person": "Pessoa"
     },
     "Name": "Nome",
     "NoTable": "Falta uma tabela de nomes no compêndio do Guardião e no mundo.",
@@ -1139,7 +1150,8 @@
       "place": "Lugar",
       "terrain": "Terreno",
       "faction": "Grupo",
-      "realm": "Governo"
+      "realm": "Governo",
+      "given": "Nome próprio"
     },
     "Picked": "escolhido",
     "Poi": "Tipo de lugar",
@@ -1226,6 +1238,8 @@
     "AlreadyAMember": "{name} já está neste grupo.",
     "DeployedOff": "Retido: o token do grupo o deixa onde está. Clique para ele viajar com o grupo.",
     "DeployedOn": "Viajando com o grupo: reunido no token dele e posto no mapa junto. Clique para retê-lo.",
+    "DrawOmens": "Sortear Presságios",
+    "DrawOmensHint": "O Presságio do mais jovem, lido para a mesa, e o de cada Crescimento que pede um Presságio, sussurrado ao seu dono.",
     "FolderFromCompendium": "Um grupo recebe personagens do mundo. Importe essa pasta primeiro.",
     "FolderJoined": "{count} de {folder} entraram no grupo.",
     "FolderNobodyNew": "Ninguém em {folder} pode entrar neste grupo sem já estar nele.",
@@ -1241,6 +1255,8 @@
     "NoFollowers": "Ninguém viaja com eles.",
     "NoMembers": "Solte um personagem aqui.",
     "NoPartyInParty": "Um grupo não pode entrar em outro grupo.",
+    "OmenPrivate": "Guarde-o só para você por enquanto.",
+    "OmenYoungest": "O mais jovem do grupo.",
     "OpenKey": "Abrir o grupo",
     "OpenKeyHint": "Abre a ficha do grupo ativo. Qual grupo é esse pode ser mudado no diretório de Atores.",
     "OpenSheet": "Abrir a ficha de {name}",
@@ -1549,6 +1565,7 @@
   "CAIRN.Sidebar": {
     "Campaign": "Campanha",
     "Characters": "Personagens",
+    "Combat": "Combate",
     "Generators": "Geradores",
     "Reference": "Referência",
     "Title": "Cairn 2e"

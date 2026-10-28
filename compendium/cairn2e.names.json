@@ -1,0 +1,584 @@
+{
+  "label": "Nomes de Pessoas",
+  "entries": {
+    "Female Person Names": {
+      "name": "Nomes Femininos",
+      "description": "<p>Caseiro. Um nome próprio para uma mulher do Bosque.</p>",
+      "results": {
+        "1-1": {
+          "description": "Abigail"
+        },
+        "2-2": {
+          "description": "Adelheid"
+        },
+        "3-3": {
+          "description": "Alexandra"
+        },
+        "4-4": {
+          "description": "Amalia"
+        },
+        "5-5": {
+          "description": "Anne"
+        },
+        "6-6": {
+          "description": "Appia"
+        },
+        "7-7": {
+          "description": "Astrid"
+        },
+        "8-8": {
+          "description": "Aula"
+        },
+        "9-9": {
+          "description": "Beatrice"
+        },
+        "10-10": {
+          "description": "Blanche"
+        },
+        "11-11": {
+          "description": "Britta"
+        },
+        "12-12": {
+          "description": "Brunhilde"
+        },
+        "13-13": {
+          "description": "Caesula"
+        },
+        "14-14": {
+          "description": "Callisto"
+        },
+        "15-15": {
+          "description": "Catherine"
+        },
+        "16-16": {
+          "description": "Charis"
+        },
+        "17-17": {
+          "description": "Charlotte"
+        },
+        "18-18": {
+          "description": "Chloe"
+        },
+        "19-19": {
+          "description": "Claire"
+        },
+        "20-20": {
+          "description": "Clara"
+        },
+        "21-21": {
+          "description": "Dagmar"
+        },
+        "22-22": {
+          "description": "Decima"
+        },
+        "23-23": {
+          "description": "Dorothea"
+        },
+        "24-24": {
+          "description": "Ebba"
+        },
+        "25-25": {
+          "description": "Edith"
+        },
+        "26-26": {
+          "description": "Eleanor"
+        },
+        "27-27": {
+          "description": "Elin"
+        },
+        "28-28": {
+          "description": "Elizabeth"
+        },
+        "29-29": {
+          "description": "Embla"
+        },
+        "30-30": {
+          "description": "Emma"
+        },
+        "31-31": {
+          "description": "Eudoxia"
+        },
+        "32-32": {
+          "description": "Fausta"
+        },
+        "33-33": {
+          "description": "Freja"
+        },
+        "34-34": {
+          "description": "Frida"
+        },
+        "35-35": {
+          "description": "Gaia"
+        },
+        "36-36": {
+          "description": "Gisela"
+        },
+        "37-37": {
+          "description": "Gretel"
+        },
+        "38-38": {
+          "description": "Gunhild"
+        },
+        "39-39": {
+          "description": "Harriet"
+        },
+        "40-40": {
+          "description": "Hedvig"
+        },
+        "41-41": {
+          "description": "Helena"
+        },
+        "42-42": {
+          "description": "Helga"
+        },
+        "43-43": {
+          "description": "Hildegard"
+        },
+        "44-44": {
+          "description": "Ida"
+        },
+        "45-45": {
+          "description": "Ilse"
+        },
+        "46-46": {
+          "description": "Ingrid"
+        },
+        "47-47": {
+          "description": "Joan"
+        },
+        "48-48": {
+          "description": "Kajsa"
+        },
+        "49-49": {
+          "description": "Liesl"
+        },
+        "50-50": {
+          "description": "Liv"
+        },
+        "51-51": {
+          "description": "Lucia"
+        },
+        "52-52": {
+          "description": "Lucy"
+        },
+        "53-53": {
+          "description": "Lydia"
+        },
+        "54-54": {
+          "description": "Marcia"
+        },
+        "55-55": {
+          "description": "Margaret"
+        },
+        "56-56": {
+          "description": "Martha"
+        },
+        "57-57": {
+          "description": "Mary"
+        },
+        "58-58": {
+          "description": "Mathilde"
+        },
+        "59-59": {
+          "description": "Maxima"
+        },
+        "60-60": {
+          "description": "Melania"
+        },
+        "61-61": {
+          "description": "Melissa"
+        },
+        "62-62": {
+          "description": "Mettia"
+        },
+        "63-63": {
+          "description": "Nika"
+        },
+        "64-64": {
+          "description": "Nona"
+        },
+        "65-65": {
+          "description": "Nora"
+        },
+        "66-66": {
+          "description": "Numeria"
+        },
+        "67-67": {
+          "description": "Octavia"
+        },
+        "68-68": {
+          "description": "Olympias"
+        },
+        "69-69": {
+          "description": "Ottilie"
+        },
+        "70-70": {
+          "description": "Philippa"
+        },
+        "71-71": {
+          "description": "Phoebe"
+        },
+        "72-72": {
+          "description": "Postuma"
+        },
+        "73-73": {
+          "description": "Prima"
+        },
+        "74-74": {
+          "description": "Procula"
+        },
+        "75-75": {
+          "description": "Rosamund"
+        },
+        "76-76": {
+          "description": "Runa"
+        },
+        "77-77": {
+          "description": "Saga"
+        },
+        "78-78": {
+          "description": "Sarah"
+        },
+        "79-79": {
+          "description": "Septima"
+        },
+        "80-80": {
+          "description": "Servia"
+        },
+        "81-81": {
+          "description": "Signe"
+        },
+        "82-82": {
+          "description": "Sigrid"
+        },
+        "83-83": {
+          "description": "Siri"
+        },
+        "84-84": {
+          "description": "Solveig"
+        },
+        "85-85": {
+          "description": "Sophia"
+        },
+        "86-86": {
+          "description": "Tertia"
+        },
+        "87-87": {
+          "description": "Theodora"
+        },
+        "88-88": {
+          "description": "Thyra"
+        },
+        "89-89": {
+          "description": "Tiberia"
+        },
+        "90-90": {
+          "description": "Titia"
+        },
+        "91-91": {
+          "description": "Tora"
+        },
+        "92-92": {
+          "description": "Trude"
+        },
+        "93-93": {
+          "description": "Ursula"
+        },
+        "94-94": {
+          "description": "Vibia"
+        },
+        "95-95": {
+          "description": "Walpurga"
+        },
+        "96-96": {
+          "description": "Ylva"
+        },
+        "97-97": {
+          "description": "Zoe"
+        }
+      }
+    },
+    "Male Person Names": {
+      "name": "Nomes Masculinos",
+      "description": "<p>Caseiro. Um nome próprio para um homem do Bosque.</p>",
+      "results": {
+        "1-1": {
+          "description": "Adam"
+        },
+        "2-2": {
+          "description": "Agrippa"
+        },
+        "3-3": {
+          "description": "Albert"
+        },
+        "4-4": {
+          "description": "Alexander"
+        },
+        "5-5": {
+          "description": "Alexius"
+        },
+        "6-6": {
+          "description": "Alfred"
+        },
+        "7-7": {
+          "description": "Anastasius"
+        },
+        "8-8": {
+          "description": "Anders"
+        },
+        "9-9": {
+          "description": "Appius"
+        },
+        "10-10": {
+          "description": "Archibald"
+        },
+        "11-11": {
+          "description": "Arthur"
+        },
+        "12-12": {
+          "description": "Arvid"
+        },
+        "13-13": {
+          "description": "Aulus"
+        },
+        "14-14": {
+          "description": "Bjarke"
+        },
+        "15-15": {
+          "description": "Björn"
+        },
+        "16-16": {
+          "description": "Caeso"
+        },
+        "17-17": {
+          "description": "Charles"
+        },
+        "18-18": {
+          "description": "Conrad"
+        },
+        "19-19": {
+          "description": "Damian"
+        },
+        "20-20": {
+          "description": "Decimus"
+        },
+        "21-21": {
+          "description": "Dietrich"
+        },
+        "22-22": {
+          "description": "Dysmas"
+        },
+        "23-23": {
+          "description": "Edgar"
+        },
+        "24-24": {
+          "description": "Edmund"
+        },
+        "25-25": {
+          "description": "Edward"
+        },
+        "26-26": {
+          "description": "Einar"
+        },
+        "27-27": {
+          "description": "Elias"
+        },
+        "28-28": {
+          "description": "Erik"
+        },
+        "29-29": {
+          "description": "Ernst"
+        },
+        "30-30": {
+          "description": "Faustus"
+        },
+        "31-31": {
+          "description": "Franz"
+        },
+        "32-32": {
+          "description": "Frej"
+        },
+        "33-33": {
+          "description": "Friedrich"
+        },
+        "34-34": {
+          "description": "Gaius"
+        },
+        "35-35": {
+          "description": "George"
+        },
+        "36-36": {
+          "description": "Gustav"
+        },
+        "37-37": {
+          "description": "Günther"
+        },
+        "38-38": {
+          "description": "Halvar"
+        },
+        "39-39": {
+          "description": "Hans"
+        },
+        "40-40": {
+          "description": "Harald"
+        },
+        "41-41": {
+          "description": "Harold"
+        },
+        "42-42": {
+          "description": "Heinrich"
+        },
+        "43-43": {
+          "description": "Henry"
+        },
+        "44-44": {
+          "description": "Ivar"
+        },
+        "45-45": {
+          "description": "James"
+        },
+        "46-46": {
+          "description": "John"
+        },
+        "47-47": {
+          "description": "Karl"
+        },
+        "48-48": {
+          "description": "Klaus"
+        },
+        "49-49": {
+          "description": "Knut"
+        },
+        "50-50": {
+          "description": "Konstantinos"
+        },
+        "51-51": {
+          "description": "Leonidas"
+        },
+        "52-52": {
+          "description": "Lothar"
+        },
+        "53-53": {
+          "description": "Ludwig"
+        },
+        "54-54": {
+          "description": "Magnus"
+        },
+        "55-55": {
+          "description": "Mamercus"
+        },
+        "56-56": {
+          "description": "Manius"
+        },
+        "57-57": {
+          "description": "Marcus"
+        },
+        "58-58": {
+          "description": "Mettius"
+        },
+        "59-59": {
+          "description": "Miltiades"
+        },
+        "60-60": {
+          "description": "Nestor"
+        },
+        "61-61": {
+          "description": "Nonus"
+        },
+        "62-62": {
+          "description": "Numerius"
+        },
+        "63-63": {
+          "description": "Olaf"
+        },
+        "64-64": {
+          "description": "Oliver"
+        },
+        "65-65": {
+          "description": "Opiter"
+        },
+        "66-66": {
+          "description": "Orestes"
+        },
+        "67-67": {
+          "description": "Otto"
+        },
+        "68-68": {
+          "description": "Paulus"
+        },
+        "69-69": {
+          "description": "Petros"
+        },
+        "70-70": {
+          "description": "Philip"
+        },
+        "71-71": {
+          "description": "Proculus"
+        },
+        "72-72": {
+          "description": "Publius"
+        },
+        "73-73": {
+          "description": "Quintus"
+        },
+        "74-74": {
+          "description": "Reinhard"
+        },
+        "75-75": {
+          "description": "Richard"
+        },
+        "76-76": {
+          "description": "Roar"
+        },
+        "77-77": {
+          "description": "Servius"
+        },
+        "78-78": {
+          "description": "Siegfried"
+        },
+        "79-79": {
+          "description": "Sigurd"
+        },
+        "80-80": {
+          "description": "Simon"
+        },
+        "81-81": {
+          "description": "Stellan"
+        },
+        "82-82": {
+          "description": "Sven"
+        },
+        "83-83": {
+          "description": "Theodore"
+        },
+        "84-84": {
+          "description": "Thorsten"
+        },
+        "85-85": {
+          "description": "Tiberius"
+        },
+        "86-86": {
+          "description": "Titus"
+        },
+        "87-87": {
+          "description": "Ulrich"
+        },
+        "88-88": {
+          "description": "Vidar"
+        },
+        "89-89": {
+          "description": "Viggo"
+        },
+        "90-90": {
+          "description": "Volescus"
+        },
+        "91-91": {
+          "description": "Wilhelm"
+        },
+        "92-92": {
+          "description": "William"
+        }
+      }
+    }
+  }
+}
