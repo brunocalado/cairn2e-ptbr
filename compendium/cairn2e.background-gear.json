@@ -159,7 +159,8 @@
     },
     "Breeze Knot": {
       "name": "Nó da Brisa",
-      "description": "<p><em>A Sílfide e Seu Amante</em>. Uma história picante de amor perdido. Comece com um <strong>Nó da Brisa</strong> (3 cargas). Cria uma brisa forte. <strong>Recarga</strong>: amarre-o a um mastro durante uma tempestade.</p>"
+      "description": "<p><em>A Sílfide e Seu Amante</em>. Uma história picante de amor perdido. Comece com um <strong>Nó da Brisa</strong> (3 cargas). Cria uma brisa forte.</p>",
+      "recharge": "<p>Amarre-o a um mastro durante uma tempestade.</p>"
     },
     "Briar Thorn": {
       "name": "Espinho de Sarça",
@@ -191,7 +192,8 @@
     },
     "Catring": {
       "name": "Anel Felino",
-      "description": "<p><strong>Anel Felino</strong> 2 cargas. Escale paredes e caia em segurança. <strong>Recarga</strong>: Coloque o anel na cauda de um gato de rua.</p>"
+      "description": "<p><strong>Anel Felino</strong> 2 cargas. Escale paredes e caia em segurança.</p>",
+      "recharge": "<p>Coloque o anel na cauda de um gato de rua.</p>"
     },
     "Celestial Lute": {
       "name": "Alaúde Celestial",
@@ -239,7 +241,8 @@
     },
     "Death-Whistle": {
       "name": "Apito da Morte",
-      "description": "<p><strong>Até a morte, sempre</strong>: você nunca foge de uma luta, não importa as chances. Pegue um <strong>Apito da Morte</strong>, 1 carga. Seu grito espanta todos que o ouvem (salvaguarda de VON ou fogem). <strong>Recarga</strong>: capture o último suspiro de um guerreiro moribundo.</p>"
+      "description": "<p><strong>Até a morte, sempre</strong>: você nunca foge de uma luta, não importa as chances. Pegue um <strong>Apito da Morte</strong>, 1 carga. Seu grito espanta todos que o ouvem (salvaguarda de VON ou fogem).</p>",
+      "recharge": "<p>Capture o último suspiro de um guerreiro moribundo.</p>"
     },
     "Delphinium": {
       "name": "Delfínio",
@@ -343,7 +346,8 @@
     },
     "Gildfinger": {
       "name": "Dedo Dourado",
-      "description": "<p><strong>Dedo Dourado</strong> 1 carga. Uma luva de dedo que imita qualquer chave comum. <strong>Recarga</strong>: Deixe-o junto a pelo menos 100po por uma noite.</p>"
+      "description": "<p><strong>Dedo Dourado</strong> 1 carga. Uma luva de dedo que imita qualquer chave comum.</p>",
+      "recharge": "<p>Deixe-o junto a pelo menos 100po por uma noite.</p>"
     },
     "Glamour Feather": {
       "name": "Pena da Ilusão",
@@ -1047,7 +1051,8 @@
     },
     "Sun Stick": {
       "name": "Bastão Solar",
-      "description": "<p><strong>Bastão Solar</strong> Fornece calor e luz abundantes por até uma hora. <strong>Recarga</strong>: Deixe sob sol forte por um dia inteiro. 1 uso.</p>"
+      "description": "<p><strong>Bastão Solar</strong> Fornece calor e luz abundantes por até uma hora. 1 uso.</p>",
+      "recharge": "<p>Deixe sob sol forte por um dia inteiro.</p>"
     },
     "Surgeon's Soap": {
       "name": "Sabão de Cirurgião",
@@ -1055,7 +1060,8 @@
     },
     "Sweetwhistle": {
       "name": "Apito Doce",
-      "description": "<p><strong>Apito Doce</strong> 1 carga. Os ouvintes escutam ao longe uma voz suave e familiar que não conseguem deixar de seguir. <strong>Recarga</strong>: Perca uma lembrança querida. (Descreva-a.)</p>"
+      "description": "<p><strong>Apito Doce</strong> 1 carga. Os ouvintes escutam ao longe uma voz suave e familiar que não conseguem deixar de seguir.</p>",
+      "recharge": "<p>Perca uma lembrança querida. (Descreva-a.)</p>"
     },
     "Tacky Stalk": {
       "name": "Caule Pegajoso",
@@ -1167,7 +1173,8 @@
     },
     "Vagrant's Veil": {
       "name": "Véu do Errante",
-      "description": "<p><strong>Véu do Errante</strong> 1 carga. Use-o para se misturar perfeitamente às multidões, parecendo um simples mendigo. <strong>Recarga</strong>: Doe os ganhos do dia aos pobres. <em>Miudeza</em></p>"
+      "description": "<p><strong>Véu do Errante</strong> 1 carga. Use-o para se misturar perfeitamente às multidões, parecendo um simples mendigo. <em>Miudeza</em></p>",
+      "recharge": "<p>Doe os ganhos do dia aos pobres.</p>"
     },
     "Valor": {
       "name": "Bravura",
@@ -1187,7 +1194,8 @@
     },
     "Warble-Whistle": {
       "name": "Apito Trinado",
-      "description": "<p><strong>Aves</strong> Pegue um <strong>Apito Trinado</strong> (3 cargas). Ele imita qualquer canto de pássaro e pode até ser usado para enviar mensagens simples. <strong>Recarga</strong>: Alimente um filhote como a mãe faria, depois sopre.</p>"
+      "description": "<p><strong>Aves</strong> Pegue um <strong>Apito Trinado</strong> (3 cargas). Ele imita qualquer canto de pássaro e pode até ser usado para enviar mensagens simples.</p>",
+      "recharge": "<p>Alimente um filhote como a mãe faria, depois sopre.</p>"
     },
     "Wares": {
       "name": "Mercadorias",

@@ -7,7 +7,7 @@
     },
     "Berries": {
       "name": "Frutas Silvestres",
-      "description": "<p>Frutas Silvestres (<em>miudeza</em>)</p>"
+      "description": "<p>Frutas Silvestres (uma refeição)</p>"
     },
     "Bone": {
       "name": "Osso",
@@ -19,7 +19,7 @@
     },
     "Eggs": {
       "name": "Ovos",
-      "description": "<p>Ovos</p>"
+      "description": "<p>Ovos (uma refeição)</p>"
     },
     "Feather": {
       "name": "Pena",
@@ -35,7 +35,7 @@
     },
     "Fruit": {
       "name": "Frutas",
-      "description": "<p>Frutas (<em>miudeza</em>)</p>"
+      "description": "<p>Frutas (uma refeição)</p>"
     },
     "Gargoyle Grit": {
       "name": "Areia de Gárgula",
@@ -83,11 +83,7 @@
     },
     "Milk": {
       "name": "Leite",
-      "description": "<p>Leite</p>"
-    },
-    "Mushrooms": {
-      "name": "Cogumelos",
-      "description": "<p>Cogumelos (<em>miudeza</em>)</p>"
+      "description": "<p>Leite (uma refeição)</p>"
     },
     "Nails": {
       "name": "Pregos",
@@ -107,15 +103,15 @@
     },
     "Raw Fish": {
       "name": "Peixe Cru",
-      "description": "<p>Peixe Cru</p>"
+      "description": "<p>Peixe Cru (uma refeição)</p>"
     },
     "Raw Fowl": {
       "name": "Ave Crua",
-      "description": "<p>Ave Crua</p>"
+      "description": "<p>Ave Crua (uma refeição)</p>"
     },
     "Raw Meat": {
       "name": "Carne Crua",
-      "description": "<p>Carne Crua</p>"
+      "description": "<p>Carne Crua (uma refeição)</p>"
     },
     "Reeds": {
       "name": "Juncos",
@@ -171,7 +167,7 @@
     },
     "Vegetables": {
       "name": "Legumes",
-      "description": "<p>Legumes</p>"
+      "description": "<p>Legumes (uma refeição)</p>"
     },
     "Viper Venom Sac": {
       "name": "Glândula de Víbora",
@@ -180,6 +176,18 @@
     "Wax": {
       "name": "Cera",
       "description": "<p>Cera (<em>miudeza</em>)</p>"
+    },
+    "Field Mushrooms": {
+      "name": "Cogumelos do Campo",
+      "description": "<p>Cogumelos do Campo (uma refeição)</p>"
+    },
+    "Morels": {
+      "name": "Morchelas",
+      "description": "<p>Morchelas (<em>miudeza</em>). Venenosas cruas; seguras depois de cozidas.</p>"
+    },
+    "Toadstools": {
+      "name": "Cogumelos Venenosos",
+      "description": "<p>Cogumelos Venenosos (<em>miudeza</em>). Venenosos.</p>"
     }
   },
   "folders": {

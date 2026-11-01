@@ -1,3 +1,22 @@
+# Unreleased
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.2.4.** Traduz os textos novos do sistema: a importação dos eventos do calendário que faltam (botão **Importar eventos que faltam** nas configurações), o diálogo **Quem come o quê** da refeição, a confirmação de usar o último de um item, o rótulo **Reabastecível** e a Vaca Leiteira na categoria Rebanho da colheita.
+* Materiais novos: Cogumelos do Campo, Morchelas e Cogumelos Venenosos.
+
+  Agora o módulo exige o Cairn 2e 0.2.4 ou mais novo.
+
+### Corrigido
+
+* A frase de **Recarga** das relíquias do Antecedente (Nó da Brisa, Anel Felino, Apito da Morte, Dedo Dourado, Bastão Solar, Apito Doce, Véu do Errante e Apito Trinado) agora aparece no campo próprio de recarga, em português, e não mais dentro da descrição.
+* Os alimentos crus agora valem uma refeição cada (Ovos, Frutas Silvestres, Frutas, Leite, Peixe Cru, Ave Crua, Carne Crua e Legumes), como no sistema.
+* Os avisos da Retomada no calendário agora usam o nome do evento.
+
+### Removido
+
+* O material Cogumelos, que o sistema renomeou para Cogumelos Venenosos.
+
 # 0.0.14
 
 ### Adicionado

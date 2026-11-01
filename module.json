@@ -36,7 +36,7 @@
         "id": "cairn2e",
         "type": "system",
         "compatibility": {
-          "minimum": "0.2.3"
+          "minimum": "0.2.4"
         }
       }
     ],

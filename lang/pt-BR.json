@@ -71,6 +71,7 @@
     "EditNote": "Editar a nota",
     "Everyone": "Todos veem",
     "EveryYear": "Todo ano",
+    "EventsImported": "Eventos do calendário importados: {count}.",
     "Folder": "Notas do calendário",
     "GoToToday": "Ir para hoje",
     "JourneyHint": "Há uma jornada em curso: é ela que gasta o tempo. O relógio avança quando a jornada resolve um turno.",
@@ -78,15 +79,17 @@
     "MakeToday": "Fazer deste dia hoje",
     "MonthLabel": "Mês",
     "Name": "O Calendário de Vald",
+    "NoEventsMissing": "Nenhum evento do calendário está faltando.",
     "NoNotes": "Nenhuma nota neste dia.",
-    "NoReclamation": "Esse ano não tem Retomada. Escolha um ano terminado em 0, ou faça a nota repetir todo ano.",
+    "NoReclamation": "{name} só acontece em anos terminados em 0. Escolha um, ou faça a nota repetir todo ano.",
     "NoteTitle": "Título",
+    "OtherCalendar": "Este mundo usa outro calendário, definido por um módulo. A janela do calendário do Cairn mostra apenas o Calendário de Vald.",
     "NoteWindow": "Nota · {date}",
     "Once": "Uma vez",
     "NextYear": "Próximo ano",
     "PreviousYear": "Ano anterior",
     "ReclamationDate": "{day} {year}",
-    "ReclamationSub": "Retomada, dia {day} de {days}",
+    "ReclamationSub": "{name}, dia {day} de {days}",
     "RollWeather": "Rolar o clima",
     "RollWeatherHint": "Rola o clima deste dia na tabela Clima em Vald da sua estação e o adiciona como uma nota que todos veem",
     "SaveNote": "Salvar",
@@ -597,6 +600,7 @@
       "Carcasses": "Carcaças",
       "Foraging": "Coleta",
       "HuntingAndFishing": "Caça e Pesca",
+      "Livestock": "Rebanho",
       "MonsterParts": "Partes de Monstro",
       "Remains": "Restos",
       "StoneAndOre": "Pedra e Minério",
@@ -623,6 +627,10 @@
       "Bramble": {
         "Name": "Amoreira-Brava",
         "Verb": "Colher"
+      },
+      "DairyCow": {
+        "Name": "Vaca Leiteira",
+        "Verb": "Ordenhar"
       },
       "Deadfall": {
         "Name": "Galhos Caídos",
@@ -1031,7 +1039,8 @@
       "inclement": "Inclemente",
       "nice": "Agradável",
       "unpleasant": "Ruim"
-    }
+    },
+    "WhoEatsWhat": "Quem come o quê"
   },
   "CAIRN.KWImport": {
     "BadJson": "Esse arquivo não é um JSON válido.",
@@ -1207,6 +1216,7 @@
     "CoinNoRoom": "Sem espaço para {amount} peças de ouro — nada com você nem nos seus recipientes pode guardá-las.",
     "CoinShort": "Moedas insuficientes: {amount} necessárias, {gold} somando todos os sacos.",
     "ConfirmConsume": "Ler em voz alta e consumir",
+    "ConfirmUseUp": "Usar o resto de {name}? Não sobrará nada.",
     "ConfirmDelete": "Apagar",
     "ConfirmDeleteContents": "Contém {n} item(ns), que vão junto.",
     "ContainerInItself": "{name} não pode ser guardado dentro de si mesmo.",
@@ -1313,6 +1323,7 @@
     "RestoreFlavor": "Os atributos de {name} são restaurados",
     "Line": "{label}: de {from} para {to}"
   },
+  "CAIRN.Refillable": "Reabastecível",
   "CAIRN.RegenerateCharacter": "Regerar",
   "CAIRN.RelicHint": "Uma Relíquia não causa Fadiga, tem usos limitados e recarrega quando sua condição é cumprida.",
   "CAIRN.Remove": "Remover",
@@ -1544,6 +1555,12 @@
       "Missing": "Ausente",
       "Remove": "Tirar da lista",
       "Empty": "Nenhuma macro ainda. Solte uma aqui."
+    },
+    "CalendarEvents": {
+      "Name": "Eventos do calendário",
+      "Label": "Importar eventos que faltam",
+      "Hint": "Traz os eventos datados do calendário que este mundo não tem: eventos acrescentados ao compêndio depois que o mundo começou, e os que você apagou. Um evento que você editou e uma nota que você mesmo escreveu são deixados como estão.",
+      "Confirm": "Acrescenta todos os eventos do calendário que faltam neste mundo. Um evento que você apagou volta. Um evento que você editou, e toda nota que você mesmo escreveu, continuam como estão."
     },
     "BestiaryArt": {
       "Name": "Arte do bestiário",
