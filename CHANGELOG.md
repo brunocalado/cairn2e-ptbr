@@ -1,3 +1,15 @@
+# Unreleased
+
+### Adicionado
+
+* **Acompanha o Cairn 2e 0.2.7.** Traduz a nova janela **Regras Rápidas** (busca nas regras e nos itens, envio ao chat, todos os verbetes de regras), a macro **Regras Rápidas** e a aba **Guardião** das notas do Guardião nos itens.
+
+  Agora o módulo exige o Cairn 2e 0.2.7 ou mais novo.
+
+### Corrigido
+
+* O Guia do Jogador acompanha as correções de texto do sistema: a lanterna pode ser reacesa indefinidamente com uma Lata de Óleo (6 usos), ataques desarmados causam 1d4, só quatro itens são carregados com conforto, e ajustes de redação em Pontos de Guarda, Perda de Atributos e Exploração dos Ermos.
+
 # 0.0.15
 
 ### Adicionado

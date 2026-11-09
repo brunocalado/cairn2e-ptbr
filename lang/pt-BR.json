@@ -1308,6 +1308,188 @@
     "RateSuffix": "po/dia",
     "Title": "Promover a Personagem de Jogador"
   },
+  "CAIRN.QuickRules": {
+    "Button": "Regras Rápidas",
+    "Drag": "Arraste para uma ficha de personagem",
+    "Entry": {
+      "Actions": {
+        "Title": "Ações",
+        "Text": "<p>No seu turno, um personagem pode se mover até 12 m (40 ft) e realizar até uma ação. Pode ser conjurar uma magia, atacar, mover-se uma segunda vez ou outra ação razoável. A cada rodada, os PJs declaram o que vão fazer antes de rolar os dados. Se um personagem tenta algo arriscado, o Guardião pede um teste aos jogadores ou PNJs adequados.</p>"
+      },
+      "Armor": {
+        "Title": "Armadura",
+        "Text": "<ul><li>Antes de aplicar o dano aos PG, subtraia o valor de <strong>Armadura</strong> do alvo do resultado das rolagens de dano.</li><li>Escudos e armaduras semelhantes dão um bônus de defesa (p. ex., +1 de Armadura), mas só enquanto o item estiver empunhado ou vestido. Alguns também podem dar outros benefícios, conforme a ficção.</li><li>Um PJ, PNJ ou monstro não pode ter mais de 3 de Armadura.</li></ul>"
+      },
+      "AttackModifiers": {
+        "Title": "Modificadores de Ataque",
+        "Text": "<ul><li>Se lutar em posição de fraqueza (como atrás de cobertura ou com as mãos amarradas), o ataque é <em>com desvantagem</em>, e o atacante rola 1d4 de dano, seja qual for o dado de dano do ataque. Ataques desarmados sempre causam 1d4 de dano.</li><li>Se lutar em posição de vantagem (como contra um inimigo indefeso ou com uma manobra ousada), o ataque é <em>com vantagem</em>, e o atacante rola 1d12 de dano em vez do dado normal.</li><li>Ataques com a qualidade <em>Explosão</em> afetam todos os alvos na área indicada, com uma rolagem separada para cada personagem atingido. Pode ser qualquer coisa, de explosões ao sopro de um dragão ou ao impacto de um meteorito. Na dúvida sobre quantos alvos são afetados, <em>role o dado de dano correspondente para decidir</em>.</li><li>Se atacar com duas armas ao mesmo tempo, role os dois dados de dano e fique só com o maior resultado (indicado com um sinal de mais, p. ex., d8+d8).</li></ul>"
+      },
+      "Attacking": {
+        "Title": "Ataque e Dano",
+        "Text": "<ul><li>O atacante rola o dado da arma, subtrai a armadura do alvo e aplica o restante aos PG do oponente. Ataques em combate sempre acertam.</li><li>Se vários atacantes miram o mesmo inimigo, role todos os dados de dano e fique só com o maior resultado. Todas as ações são declaradas antes de serem resolvidas.</li><li>Se um ataque levar os PG de um PJ a exatamente 0, consulte a tabela de Cicatrizes para ver como ele é marcado.</li></ul>"
+      },
+      "AttributeLoss": {
+        "Title": "Perda de Atributos",
+        "Text": "<ul><li>Se a FOR de um PJ chega a 0, ele morre. Se a DES chega a 0, fica paralisado. Se a VON chega a 0, fica delirante. Perder toda a DES ou toda a VON deixa o personagem incapaz de agir até ser restaurado por um longo descanso ou por meios extraordinários.</li><li>Se um PJ sofre dano fora de combate, o dano vai para um Atributo, normalmente FOR.</li></ul>"
+      },
+      "Attributes": {
+        "Title": "Atributos",
+        "Text": "<p>Cada um dos três <strong>Atributos</strong> é usado em circunstâncias diferentes. (Veja <strong>Testes</strong>.)</p><ul><li><strong>Força (FOR)</strong>: usada em testes que pedem vigor físico, como erguer portões, entortar barras, resistir a venenos etc.</li><li><strong>Destreza (DES)</strong>: usada em testes que pedem equilíbrio, rapidez, reflexos, esquiva, escalada, furtividade etc.</li><li><strong>Vontade (VON)</strong>: usada em testes para persuadir, enganar, interrogar, intimidar, encantar, provocar, manipular magias etc.</li></ul>"
+      },
+      "CastingSpells": {
+        "Title": "Conjurando Magias",
+        "Text": "<ul><li>Qualquer um pode conjurar uma magia segurando um Grimório com as duas mãos e lendo seu conteúdo em voz alta. Depois, precisa adicionar uma <strong>Fadiga</strong> ao inventário.</li><li>Com tempo e segurança, os PJs podem <em>ampliar</em> o efeito de uma magia (p. ex., afetar vários alvos, aumentar seu poder etc.) sem nenhum custo adicional.</li><li>Se o PJ estiver <em>privado</em> ou em perigo (como durante um combate), o Guardião pode pedir um teste de VON para evitar efeitos nocivos da conjuração. As consequências da falha estão à altura do efeito pretendido e podem incluir mais <strong>Fadiga</strong>, a destruição do Grimório, ferimentos e até a morte.</li></ul>"
+      },
+      "CharacterDeath": {
+        "Title": "Morte de Personagem",
+        "Text": "<ul><li>Quando um personagem morre, o jogador cria um novo personagem ou assume o controle de um mercenário. Ele se junta ao grupo imediatamente, para reduzir o tempo parado.</li></ul>"
+      },
+      "CriticalDamage": {
+        "Title": "Dano Crítico",
+        "Text": "<ul><li>O dano que reduz os PG do alvo abaixo de zero é subtraído <em>da sua FOR</em>, no valor do dano restante. O alvo deve então fazer imediatamente um teste de FOR para evitar sofrer <strong>Dano Crítico</strong>, usando seu <em>novo valor de FOR</em>. Num sucesso, o alvo continua na luta (ainda que com FOR menor) e deve seguir fazendo testes de dano crítico sempre que sofrer dano.</li><li>Um PJ que sofre Dano Crítico não consegue fazer nada além de rastejar debilmente, agarrando-se à vida. Se receber ajuda (como bandagens), ele se estabiliza. Sem tratamento, morre dentro de uma hora. PNJs e monstros que falham num teste de Dano Crítico são considerados mortos, a critério do <strong>Guardião</strong>. Além disso, alguns inimigos têm habilidades ou efeitos especiais que se ativam quando o alvo falha num teste de dano crítico.</li></ul>"
+      },
+      "Deprivation": {
+        "Title": "Privação e Fadiga",
+        "Text": "<ul><li>Um PJ sem uma necessidade vital (como comida ou descanso) fica <strong>Privado</strong>. Quem fica <strong>Privado</strong> por mais de um dia adiciona uma <strong>Fadiga</strong> ao inventário para cada dia. Um PJ <strong>Privado</strong> não pode recuperar PG, Atributos nem os espaços ocupados pela <strong>Fadiga</strong>.</li><li>Um PJ também pode ter que adicionar <strong>Fadiga</strong> após conjurar magias ou por acontecimentos da ficção. Cada Fadiga ocupa um espaço e dura até o PJ conseguir se recuperar (como com uma noite inteira de descanso em local seguro).</li><li>Se um personagem tiver que adicionar <strong>Fadiga</strong> ao inventário mas não tiver espaço livre, ele precisa largar um item do inventário.</li></ul>"
+      },
+      "Detachments": {
+        "Title": "Destacamentos",
+        "Text": "<ul><li>Grandes grupos de combatentes semelhantes lutando juntos são tratados como um único <em>Destacamento</em>. Quando um <em>destacamento</em> sofre <strong>Dano Crítico</strong>, ele é posto em fuga ou fica muito enfraquecido. Quando chega a 0 de FOR, é destruído.</li><li>Ataques de indivíduos contra destacamentos são <em>com desvantagem</em> (exceto dano de <em>explosão</em>). Ataques de destacamentos contra indivíduos são <em>com vantagem</em> e causam dano de <em>explosão</em>.</li></ul>"
+      },
+      "DieOfFate": {
+        "Title": "Dado de Sorte",
+        "Text": "<ul><li>Opcionalmente, role 1d6 sempre que o resultado de um evento for incerto ou para simular um elemento de aleatoriedade e acaso.</li><li>Um resultado de 4 ou mais em geral favorece os PJs, enquanto um 3 ou menos costuma significar azar para os PJs.</li></ul>"
+      },
+      "Doors": {
+        "Title": "Portas",
+        "Text": "<ul><li>Portas e passagens podem estar trancadas, emperradas ou totalmente bloqueadas. Os personagens podem tentar forçar uma porta (ou travá-la fechada) usando os recursos disponíveis (cravos, cola) ou pura capacidade.</li><li>A ordem de marcha do grupo determina quem é mais afetado pelo que estiver além de uma porta.</li><li>Um personagem pode detectar, com observação cuidadosa (escutando, farejando etc.), sinais de vida e outros perigos através de portas e paredes próximas.</li></ul>"
+      },
+      "DungeonActions": {
+        "Title": "Ações",
+        "Text": "<ul><li><strong>Ações</strong> são quaisquer atividades não passivas, como <em>procurar armadilhas</em>, <em>forçar uma porta</em>, <em>escutar à procura de perigo</em>, <em>desarmar uma armadilha</em>, <em>enfrentar um inimigo em combate</em>, <em>conjurar uma magia</em>, <em>esquivar-se de uma armadilha</em>, <em>fugir</em>, <em>descansar</em> etc.</li><li>Algumas <strong>ações</strong> têm regras especiais, enquanto outras podem levar vários <strong>turnos</strong> para serem concluídas.</li><li><strong>Ações</strong> barulhentas ou chamativas também podem provocar um <strong>encontro</strong> com os habitantes da masmorra.</li></ul>"
+      },
+      "DungeonTurns": {
+        "Title": "O Básico",
+        "Text": "<ul><li>O ciclo de exploração de masmorra se divide numa série de <strong>Turnos</strong>, <strong>Ações</strong> e suas consequências.</li><li>No seu <strong>turno</strong>, um personagem pode se mover uma distância igual ao alcance da luz da sua tocha (cerca de 12 m (40 ft)) e realizar uma <strong>ação</strong>. Os jogadores podem usar a <strong>ação</strong> para se mover até três vezes essa distância, mas isso aumenta a chance de provocar uma rolagem na tabela de <strong>Eventos de Masmorra</strong>.</li><li>O <strong>Guardião</strong> deve apresentar as informações óbvias sobre uma área e seus perigos livremente e sem custo. Mover-se depressa ou sem cuidado pode aumentar a chance de topar com um monstro errante, disparar uma armadilha ou provocar uma rolagem na tabela de <strong>Eventos de Masmorra</strong>.</li></ul>"
+      },
+      "Explore": {
+        "Title": "Explorar",
+        "Text": "<ul><li>Um ou mais membros do grupo vasculham uma área grande, procurando características ocultas, fazendo reconhecimento à frente ou avançando com cuidado.</li><li>Um Local (abrigo, aldeia, caverna etc.) ou uma Característica (gêiser, rio subterrâneo, navio encalhado etc.) é descoberto.</li><li>A ação <strong>Viajar</strong> continua necessária para <em>sair</em> da área atual, mesmo que ela tenha sido totalmente explorada.</li></ul>"
+      },
+      "Healing": {
+        "Title": "Cura e Recuperação",
+        "Text": "<ul><li>Descansar por alguns instantes e beber um gole de água restaura os PG perdidos, mas pode deixar o grupo exposto. Bandagens podem estabilizar um personagem que sofreu dano crítico.</li><li>A perda de Atributos (veja <strong>Dano Crítico</strong>) costuma ser recuperada com uma semana de descanso, com a ajuda de um curandeiro ou de outra fonte adequada de conhecimento.</li><li>Alguns serviços de cura são gratuitos, enquanto meios mágicos ou mais rápidos de recuperação podem ter um custo.</li></ul>"
+      },
+      "HitProtection": {
+        "Title": "Pontos de Guarda",
+        "Text": "<ul><li>Role 1d6 para definir os <strong>Pontos de Guarda</strong> (PG) iniciais do seu PJ, que refletem a capacidade dele de evitar dano em combate. Eles não indicam a saúde ou a resistência do personagem, e ele também não fica sem eles por muito tempo. Veja Cura e Recuperação.</li><li>Se um ataque levar os PG de um PJ a exatamente 0, o jogador deve consultar a tabela de <strong>Cicatrizes</strong>.</li></ul>"
+      },
+      "Inventory": {
+        "Title": "Inventário",
+        "Text": "<ul><li>Os personagens têm um total de dez espaços de inventário, mas só conseguem carregar quatro itens com conforto sem a ajuda de bolsas, mochilas, cavalos, carroças etc.</li><li>Cada PJ começa com uma <strong>Mochila</strong> que comporta até seis espaços de itens ou <strong>Fadiga</strong>. Carroças (que precisam ser puxadas com as duas mãos), cavalos ou mulas fazem uma enorme diferença em quanto um PJ consegue levar numa aventura. Também é possível pagar <strong>Mercenários</strong> para carregar equipamento.</li><li>O inventário é abstrato e depende apenas da ficção, conforme o Guardião decidir. Quem carrega o inventário cheio (isto é, ocupa todos os 10 espaços) fica com 0 PG. Um personagem não pode ocupar mais de dez espaços.</li><li>A maioria dos itens ocupa um espaço, salvo indicação em contrário.</li><li>Itens que são <em>miudeza</em> não ocupam espaço. Itens <em>volumosos</em> ocupam <strong>dois</strong> espaços.</li><li>Uma bolsa de moedas que valha menos de 100po é <em>miudeza</em> e não ocupa espaço.</li></ul>"
+      },
+      "Light": {
+        "Title": "Luz",
+        "Text": "<ul><li>Tochas e outras fontes de luz radiais iluminam 12 m (40 ft) da masmorra e, além disso, apenas um contorno tênue dos objetos. Tochas duram até serem apagadas por um personagem ou pelo ambiente.</li><li>Uma tocha pode ser acesa 3 vezes antes de se gastar de vez. Uma lanterna pode ser reacesa indefinidamente, mas exige uma Lata de Óleo (6 usos).</li><li>Personagens sem fonte de luz podem sofrer <em>pânico</em> até resolverem a situação.</li></ul>"
+      },
+      "MakeCamp": {
+        "Title": "Acampar",
+        "Text": "<ul><li>O grupo para e monta acampamento nos ermos. Cada membro do grupo (e suas montarias) consome uma <strong>Ração</strong>.</li><li>Define-se um <strong>revezamento de vigia</strong> para que o grupo possa dormir sem ser incomodado. Um grupo menor pode ter que arriscar dormir sem vigia ou se revezar no sono ao longo de vários dias.</li><li>Os membros do grupo que conseguiram descansar removem toda a <strong>Fadiga</strong> do inventário.</li></ul>"
+      },
+      "Morale": {
+        "Title": "Moral",
+        "Text": "<ul><li>Os inimigos precisam passar num teste de VON para não fugir quando sofrem a primeira baixa, e de novo quando perdem metade do grupo.</li><li>Alguns grupos podem usar a VON do líder no lugar da própria. Inimigos sozinhos fazem o teste quando chegam a 0 PG.</li><li>A Moral não afeta os PJs.</li></ul>"
+      },
+      "Night": {
+        "Title": "Noite",
+        "Text": "<ul><li>O grupo pode escolher viajar à noite e descansar de dia, mas viajar à noite é muito mais lento e traiçoeiro!</li><li>Viajar à noite é sempre mais perigoso! O <strong>Guardião</strong> deve rolar <em>duas vezes</em> na tabela de <strong>Eventos nos Ermos</strong>.</li><li>Alguns terrenos e climas podem ser mais fáceis de atravessar à noite (o deserto, por exemplo). O <strong>Guardião</strong> deve equilibrar esses desafios junto com os demais.</li></ul>"
+      },
+      "Panic": {
+        "Title": "Pânico",
+        "Text": "<ul><li>Um personagem cercado por inimigos, envolto em escuridão ou diante de seus maiores medos pode entrar em <em>pânico</em>. Em geral, é preciso um <strong>teste</strong> de <strong>VON</strong> para não perder o controle e ficar <em>em pânico</em>.</li><li>Um personagem <em>em pânico</em> precisa fazer um <strong>teste</strong> de <strong>VON</strong> como <strong>ação</strong> no seu <strong>turno</strong> para superar essa condição.</li><li>Um personagem <em>em pânico</em> tem 0 <strong>PG</strong>, não age na primeira rodada de combate, e todos os seus ataques são <em>com desvantagem</em>.</li></ul>"
+      },
+      "RangedAttacks": {
+        "Title": "Ataques a Distância",
+        "Text": "<ul><li>Armas a distância podem mirar qualquer inimigo perto o bastante para se ver o branco dos olhos. Ataques contra alvos especialmente distantes são <em>com desvantagem</em>.</li><li>A munição não é contada, salvo indicação em contrário.</li></ul>"
+      },
+      "Reactions": {
+        "Title": "Reações",
+        "Text": "<p>Quando os PJs encontram um PNJ cuja reação ao grupo não é óbvia, o Guardião pode rolar 2d6 e consultar a tabela a seguir:</p>"
+      },
+      "Relics": {
+        "Title": "Relíquias",
+        "Text": "<p><strong>Relíquias</strong> são itens imbuídos de uma magia ou poder. Não causam Fadiga. As relíquias costumam ter usos limitados, além de uma condição de <strong>Recarga</strong>.</p>"
+      },
+      "Resting": {
+        "Title": "Descansar",
+        "Text": "<ul><li>Um personagem pode gastar um turno <strong>descansando</strong> para recuperar todos os <strong>PG</strong>.</li><li>Uma fonte de luz e um <em>local seguro</em> são necessários para <strong>descansar</strong>. Um perigo presente ou iminente torna o <strong>descanso</strong> impossível.</li><li><strong>Descansar</strong> não remove a <strong>Fadiga</strong>, pois é impossível <strong>Acampar</strong> com segurança numa masmorra.</li></ul>"
+      },
+      "Retreat": {
+        "Title": "Fuga",
+        "Text": "<ul><li>Fugir de uma situação terrível sempre exige um teste de DES bem-sucedido, além de um destino seguro para onde correr.</li></ul>"
+      },
+      "Rounds": {
+        "Title": "Rodadas",
+        "Text": "<ul><li>Uma <strong>Rodada</strong> dura cerca de dez segundos do tempo de jogo, e cada lado age em seu turno. Cada rodada começa com os PJs que podem agir, seguidos por seus oponentes. <em>Os resultados das ações de cada lado acontecem ao mesmo tempo</em>.</li><li>Na <em>primeira rodada de combate</em>, cada PJ precisa fazer um teste de DES para agir. Circunstâncias especiais, habilidades, itens ou perícias podem dispensar esse teste. Os PJs que falham <em>perdem o turno</em> nessa rodada.</li><li>Depois os oponentes agem, e a primeira rodada termina. A rodada seguinte começa com o turno dos PJs, seguido pelo dos oponentes, e assim por diante, até o combate acabar com um dos lados derrotado ou em fuga.</li></ul>"
+      },
+      "Saves": {
+        "Title": "Testes",
+        "Text": "<ul><li>Um teste é uma rolagem para evitar as consequências ruins de escolhas arriscadas. O personagem rola um d20 e compara o resultado com o atributo adequado. Se tirar igual ou abaixo do atributo, tem sucesso. Caso contrário, falha. Um 1 é sempre um sucesso, e um 20 é sempre uma falha.</li><li>Se dois oponentes tentam superar um ao outro, quem corre mais risco faz o teste.</li><li>Se dois personagens precisam agir juntos, quem corre mais risco faz o teste (em geral, o personagem com o menor Atributo relevante).</li></ul>"
+      },
+      "Scars": {
+        "Title": "Cicatrizes",
+        "Text": "<p>Se o dano a um PJ reduzir seus PG a exatamente 0, consulte o resultado na tabela abaixo pela <em>quantidade de PG perdidos no ataque</em>. Por exemplo, se um PJ foi de 3 PG para 0 PG, ele consulta a linha nº 3 (Sacudido).</p>"
+      },
+      "Scrolls": {
+        "Title": "Pergaminhos",
+        "Text": "<p>Os <strong>Pergaminhos</strong> são parecidos com os Grimórios, mas:</p><ul><li>São <em>miudezas</em>.</li><li>Não causam <strong>Fadiga</strong>.</li><li>Desaparecem depois de um uso.</li></ul>"
+      },
+      "Searching": {
+        "Title": "Vasculhar",
+        "Text": "<ul><li>Um personagem pode gastar um <strong>turno</strong> fazendo uma busca <em>exaustiva</em> em <strong>um</strong> objeto ou local de uma área, revelando qualquer tesouro escondido, armadilha, porta secreta etc. que seja relevante.</li><li>Salas maiores e terrenos de masmorra difíceis ou complexos podem levar alguns <strong>turnos</strong> para serem vasculhados direito.</li><li>Vasculhar uma sala <em>primeiro</em> é um jeito mais seguro de explorar a masmorra, mas tem um custo alto: o tempo.</li></ul>"
+      },
+      "Sleep": {
+        "Title": "Sono",
+        "Text": "<ul><li>O último <strong>turno</strong> do dia costuma ser reservado para a ação <strong>Acampar</strong>.</li><li>Os personagens costumam precisar dormir todos os dias. Qualquer coisa além de uma pequena interrupção pode anular ou cancelar os benefícios do sono.</li><li>Se o grupo pular a ação <strong>Acampar</strong>, cada membro adiciona uma <strong>Fadiga</strong> ao inventário e fica <em>privado</em>. Além disso, viajar sem dormir aumenta a <strong>Dificuldade</strong> do terreno em um passo (por exemplo, <em>Fácil</em> vira <em>Difícil</em>).</li></ul>"
+      },
+      "Spellbooks": {
+        "Title": "Grimórios",
+        "Text": "<ul><li><strong>Grimórios</strong> contêm uma única magia e ocupam um espaço. Não podem ser copiados nem criados com facilidade; em vez disso, são encontrados em lugares como tumbas, masmorras e solares.</li><li>Às vezes, os Grimórios mostram propriedades ou limitações incomuns, como exalar um cheiro fétido ou sobrenatural quando abertos, ter uma inteligência própria ou só ser legíveis sob a luz da lua.</li><li>Os Grimórios atraem a atenção de quem busca o poder arcano que eles guardam, e é considerado perigoso exibi-los abertamente.</li></ul>"
+      },
+      "Supply": {
+        "Title": "Suprir",
+        "Text": "<ul><li>Um ou mais membros do grupo podem caçar, pescar ou forragear em busca de comida, coletando 1d4 <strong>Rações</strong> (3 usos cada). A chance de uma colheita maior aumenta a cada participante adicional (por exemplo, 1d4 vira 1d6, até o máximo de 1d12). Experiência ou equipamento relevantes também podem aumentar a colheita.</li><li>O grupo pode encontrar casas e pequenas aldeias, gastando ouro e um <strong>turno</strong> inteiro para se reabastecer.</li></ul>"
+      },
+      "Traps": {
+        "Title": "Armadilhas",
+        "Text": "<ul><li>Um personagem cauteloso deve receber toda e qualquer informação que lhe dê a oportunidade de <em>evitar</em> disparar uma armadilha. Um personagem desavisado dispara uma armadilha conforme a ficção, ou então tem uma chance de 2 em 6.</li><li><strong>Armadilhas</strong> em geral podem ser detectadas <strong>vasculhando</strong> uma sala com cuidado.</li><li>O dano de armadilhas sai dos Atributos (em geral <strong>FOR</strong> ou <strong>DES</strong>) e <em>não</em> dos <strong>PG</strong>. A armadura pode reduzir o dano, mas só quando se aplica (um escudo, por exemplo, não reduziria o dano de um gás nocivo).</li></ul>"
+      },
+      "Travel": {
+        "Title": "Viajar",
+        "Text": "<ul><li>A viagem começa. Locais, características e terrenos evidentes das áreas próximas são revelados de acordo com a distância. Essa ação costuma ser feita pelo grupo inteiro em conjunto.</li><li>O grupo rola 1d6 para ver se se perde pelo caminho. Esse risco pode aumentar ou diminuir conforme a <strong>Dificuldade</strong> do caminho, os mapas, as habilidades do grupo e os guias.</li><li>Se estiver perdido, o grupo pode precisar gastar uma <strong>Ação nos Ermos</strong> para reencontrar o rumo. Caso contrário, o grupo chega ao próximo <strong>ponto</strong> da rota.</li><li>Lembre-se de comparar o resultado de se perder com a <strong>Dificuldade</strong> do caminho correspondente.</li></ul>"
+      },
+      "Watches": {
+        "Title": "Turnos",
+        "Text": "<ul><li>Um dia é dividido em três <strong>turnos</strong>: <em>manhã</em>, <em>tarde</em> e <em>noite</em>.</li><li>Cada personagem pode escolher <em>uma</em> <strong>Ação nos Ermos</strong> por <strong>turno</strong>.</li><li>Se os personagens se separarem, cada grupo é tratado como uma entidade independente.</li></ul>"
+      }
+    },
+    "Group": {
+      "Character": "Personagem",
+      "Combat": "Combate",
+      "Core": "Regras Básicas",
+      "Dungeon": "Masmorra",
+      "Hazards": "Perigos",
+      "Magic": "Magia",
+      "Wilderness": "Ermos"
+    },
+    "Homebrew": "Caseiro",
+    "More": "Mais {count} itens correspondem; digite mais para filtrar.",
+    "NoMatch": "Nada corresponde.",
+    "Pick": "Escolha uma regra ou um item da lista.",
+    "Search": "Buscar nas regras e nos itens",
+    "SendToChat": "Enviar ao chat",
+    "Title": "Regras Rápidas"
+  },
   "CAIRN.Quirk": "Mania",
   "CAIRN.Reaction": "Reação",
   "CAIRN.Reactions": {
@@ -1417,7 +1599,7 @@
     },
     "Inventory": {
       "Title": "Inventário",
-      "Slots": "Dez espaços, mas só quatro ou cinco itens são carregados com conforto sem bolsas, montarias ou carroças. Uma Mochila guarda até seis espaços de itens ou Fadiga.",
+      "Slots": "Dez espaços, mas só quatro itens são carregados com conforto sem bolsas, montarias ou carroças. Uma Mochila guarda até seis espaços de itens ou Fadiga.",
       "Size": "A maioria dos itens ocupa um espaço. Itens <em>miúdos</em> não ocupam nenhum, itens <em>volumosos</em> ocupam dois. Menos de 100 po em moedas é miudeza.",
       "Full": "Um inventário cheio — todos os dez espaços — reduz um PJ a 0 PG. Ninguém pode ocupar mais de dez."
     },
@@ -1744,6 +1926,10 @@
     "ToHolderHint": "Quem o carrega vê só o nome, a imagem e a aparência que você escreveu para ele."
   },
   "CAIRN.Uses": "Usos",
+  "CAIRN.WardenNotes": {
+    "RowHint": "Você escreveu notas sobre isto. Elas estão na aba Guardião.",
+    "Tab": "Guardião"
+  },
   "CAIRN.WardenUserName": "Guardião",
   "CAIRN.Watches": {
     "afternoon": "tarde",

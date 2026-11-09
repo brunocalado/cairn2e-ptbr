@@ -42,6 +42,9 @@
     },
     "Take Damage": {
       "name": "Sofrer Dano"
+    },
+    "Quick Rules": {
+      "name": "Regras Rápidas"
     }
   }
 }
