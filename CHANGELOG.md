@@ -1,3 +1,7 @@
+# Unreleased
+
+- [Changed] O *watch* da viagem pelos ermos agora é **vigília**, não mais "turno": o Guia do Jogador (Exploração dos Ermos), as Regras Rápidas, a janela de jornada, o calendário e a tabela de Terminologia. "Turno" fica só para a vez de cada personagem.
+
 # 0.0.16
 
 ### Adicionado

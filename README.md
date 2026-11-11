@@ -91,7 +91,7 @@ A terminologia segue a [tradução de fã do Cairn 2e](https://github.com/robson
 | Spellbook / Scroll / Relic | Grimório / Pergaminho / Relíquia |
 | Omen / Bond / Scar / Growth | Presságio / Vínculo / Cicatriz / Crescimento |
 | Hireling | Mercenário |
-| Watch | Turno |
+| Watch | Vigília |
 | Die of Fate | Dado de Sorte |
 
 ---

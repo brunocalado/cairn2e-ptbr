@@ -74,7 +74,7 @@
     "EventsImported": "Eventos do calendário importados: {count}.",
     "Folder": "Notas do calendário",
     "GoToToday": "Ir para hoje",
-    "JourneyHint": "Há uma jornada em curso: é ela que gasta o tempo. O relógio avança quando a jornada resolve um turno.",
+    "JourneyHint": "Há uma jornada em curso: é ela que gasta o tempo. O relógio avança quando a jornada resolve uma vigília.",
     "Lasts": "Dura",
     "MakeToday": "Fazer deste dia hoje",
     "MonthLabel": "Mês",
@@ -106,7 +106,7 @@
     "Untitled": "Uma nota",
     "WardenOnly": "Só o Guardião",
     "WatchBack": "{watch}: volta para {time}",
-    "WatchJourney": "O turno da {watch}. Há uma jornada em curso, e o turno avança quando a jornada o resolve: clique para abrir a jornada.",
+    "WatchJourney": "A vigília da {watch}. Há uma jornada em curso, e a vigília avança quando a jornada a resolve: clique para abrir a jornada.",
     "WatchOn": "{watch}: avança para {time}",
     "Weather": "Clima",
     "Year": "Ano",
@@ -907,7 +907,7 @@
       "travel": "Viajar"
     },
     "AddFatigue": "Fadiga ao grupo",
-    "AddWatch": "Um turno à jornada",
+    "AddWatch": "Uma vigília à jornada",
     "Arrived": "O grupo chegou.",
     "BadRoute": "Essa rota cita um caminho, distância, terreno ou estação que o procedimento não tem.",
     "Button": "Jornada",
@@ -935,22 +935,22 @@
     "FatigueAdded": "Fadiga: {names}.",
     "FatigueLead": "Cada personagem adiciona uma Fadiga.",
     "FatigueNoRoom": "Sem espaço livre, então nenhuma Fadiga foi adicionada: {names}. É preciso largar um item para recebê-la.",
-    "FewerNeeded": "Um turno a menos necessário",
-    "FewerTravelled": "Um turno a menos viajado",
+    "FewerNeeded": "Uma vigília a menos necessária",
+    "FewerTravelled": "Uma vigília a menos viajada",
     "GotLost": "O grupo se perdeu. Viaje de novo para achar o caminho.",
     "Lost": "Perdido",
     "LostFlag": "Perdido",
     "LostFlavor": "Perdendo-se",
     "LostOdds": "{odds} em 6 numa {path}.",
     "Meals": "Refeições levadas",
-    "MoreNeeded": "Um turno a mais necessário",
-    "MoreTravelled": "Um turno a mais viajado",
-    "NeedAction": "Escolha o que o grupo faz neste turno.",
+    "MoreNeeded": "Uma vigília a mais necessária",
+    "MoreTravelled": "Uma vigília a mais viajada",
+    "NeedAction": "Escolha o que o grupo faz nesta vigília.",
     "NeedLost": "Role para ver se o grupo se perde.",
     "NeedSupply": "Forragear, ou reabastecer num povoado.",
-    "NeedWeather": "Defina o clima deste turno.",
+    "NeedWeather": "Defina o clima desta vigília.",
     "Needed": "Necessário",
-    "NeedsWatches": "A jornada leva {n} turno(s).",
+    "NeedsWatches": "A jornada leva {n} vigília(s).",
     "NoCrewFor": "Não há ninguém na jornada para: {action}. Arraste o grupo para a lista da jornada primeiro.",
     "NoParty": "o grupo",
     "NoSleep": "Ninguém acampou: cada personagem adiciona uma Fadiga e fica Privado, e o terreno de amanhã fica um passo mais difícil.",
@@ -974,14 +974,14 @@
     },
     "PlaceEncounter": "Pôr no mapa",
     "Placed": "No mapa",
-    "Progress": "{progress} de {needed} turnos viajados",
+    "Progress": "{progress} de {needed} vigílias viajadas",
     "Push": "Mostrar a todos",
     "Pushed": "A jornada foi mostrada a todos os jogadores conectados.",
     "Raised": "(elevado)",
     "RerollEvent": "Rerrolar este evento",
     "RemoveCrew": "Tirar desta jornada",
-    "Resolve": "Gastar o turno",
-    "Resupplied": "O grupo reabasteceu num povoado: um turno inteiro gasto, e o preço em ouro fica a cargo do Guardião.",
+    "Resolve": "Gastar a vigília",
+    "Resupplied": "O grupo reabasteceu num povoado: uma vigília inteira gasta, e o preço em ouro fica a cargo do Guardião.",
     "Resupply": "Reabastecer num povoado",
     "RollLost": "Rolar se perde ({odds} em 6)",
     "RollSupply": "Rolar o ganho de Suprir",
@@ -993,7 +993,7 @@
       "winter": "Inverno"
     },
     "SetWeather": "Definir o clima",
-    "SetupIntro": "Descreva o caminho até o próximo ponto. O tempo de viagem é contado em turnos, três por dia; o clima é rolado a cada manhã e aumenta a viagem conforme vem.",
+    "SetupIntro": "Descreva o caminho até o próximo ponto. O tempo de viagem é contado em vigílias, três por dia; o clima é rolado a cada manhã e aumenta a viagem conforme vem.",
     "SleepDeprived": "Sem dormir",
     "Start": "Iniciar a jornada",
     "Started": "Uma jornada começa.",
@@ -1013,10 +1013,10 @@
       "tough": "Difícil"
     },
     "Title": "Jornada",
-    "Travelled": "Viajado: {progress} de {needed} turnos.",
+    "Travelled": "Viajado: {progress} de {needed} vigílias.",
     "TravelledLabel": "Viajado",
     "Vast": "Terreno vasto",
-    "VastHint": "Até +2 turnos para terreno especialmente vasto.",
+    "VastHint": "Até +2 vigílias para terreno especialmente vasto.",
     "Waiting": "Nenhuma jornada em curso. O Guardião inicia uma pela aba Cairn da barra lateral.",
     "WatchFlavor": "Dia {day}, {watch}",
     "WayFound": "O grupo reencontra o caminho.",
@@ -1025,11 +1025,11 @@
     "WeatherAutoHint": "Deixe a rolagem da manhã decidir o clima do dia.",
     "WeatherEffects": {
       "catastrophic": "A maioria dos grupos não consegue viajar nestas condições.",
-      "extreme": "Adicione uma Fadiga e um turno. A Dificuldade do Terreno sobe um passo.",
+      "extreme": "Adicione uma Fadiga e uma vigília. A Dificuldade do Terreno sobe um passo.",
       "fair": "Condições favoráveis para viajar.",
-      "inclement": "Adicione uma Fadiga ou um turno. A Dificuldade do Terreno sobe um passo.",
+      "inclement": "Adicione uma Fadiga ou uma vigília. A Dificuldade do Terreno sobe um passo.",
       "nice": "Condições favoráveis para viajar.",
-      "unpleasant": "Adicione uma Fadiga ou um turno à jornada."
+      "unpleasant": "Adicione uma Fadiga ou uma vigília à jornada."
     },
     "WeatherFlavor": "Clima, dia {day}",
     "Weathers": {
@@ -1450,7 +1450,7 @@
       },
       "Sleep": {
         "Title": "Sono",
-        "Text": "<ul><li>O último <strong>turno</strong> do dia costuma ser reservado para a ação <strong>Acampar</strong>.</li><li>Os personagens costumam precisar dormir todos os dias. Qualquer coisa além de uma pequena interrupção pode anular ou cancelar os benefícios do sono.</li><li>Se o grupo pular a ação <strong>Acampar</strong>, cada membro adiciona uma <strong>Fadiga</strong> ao inventário e fica <em>privado</em>. Além disso, viajar sem dormir aumenta a <strong>Dificuldade</strong> do terreno em um passo (por exemplo, <em>Fácil</em> vira <em>Difícil</em>).</li></ul>"
+        "Text": "<ul><li>A última <strong>vigília</strong> do dia costuma ser reservado para a ação <strong>Acampar</strong>.</li><li>Os personagens costumam precisar dormir todos os dias. Qualquer coisa além de uma pequena interrupção pode anular ou cancelar os benefícios do sono.</li><li>Se o grupo pular a ação <strong>Acampar</strong>, cada membro adiciona uma <strong>Fadiga</strong> ao inventário e fica <em>privado</em>. Além disso, viajar sem dormir aumenta a <strong>Dificuldade</strong> do terreno em um passo (por exemplo, <em>Fácil</em> vira <em>Difícil</em>).</li></ul>"
       },
       "Spellbooks": {
         "Title": "Grimórios",
@@ -1458,7 +1458,7 @@
       },
       "Supply": {
         "Title": "Suprir",
-        "Text": "<ul><li>Um ou mais membros do grupo podem caçar, pescar ou forragear em busca de comida, coletando 1d4 <strong>Rações</strong> (3 usos cada). A chance de uma colheita maior aumenta a cada participante adicional (por exemplo, 1d4 vira 1d6, até o máximo de 1d12). Experiência ou equipamento relevantes também podem aumentar a colheita.</li><li>O grupo pode encontrar casas e pequenas aldeias, gastando ouro e um <strong>turno</strong> inteiro para se reabastecer.</li></ul>"
+        "Text": "<ul><li>Um ou mais membros do grupo podem caçar, pescar ou forragear em busca de comida, coletando 1d4 <strong>Rações</strong> (3 usos cada). A chance de uma colheita maior aumenta a cada participante adicional (por exemplo, 1d4 vira 1d6, até o máximo de 1d12). Experiência ou equipamento relevantes também podem aumentar a colheita.</li><li>O grupo pode encontrar casas e pequenas aldeias, gastando ouro e uma <strong>vigília</strong> inteira para se reabastecer.</li></ul>"
       },
       "Traps": {
         "Title": "Armadilhas",
@@ -1469,8 +1469,8 @@
         "Text": "<ul><li>A viagem começa. Locais, características e terrenos evidentes das áreas próximas são revelados de acordo com a distância. Essa ação costuma ser feita pelo grupo inteiro em conjunto.</li><li>O grupo rola 1d6 para ver se se perde pelo caminho. Esse risco pode aumentar ou diminuir conforme a <strong>Dificuldade</strong> do caminho, os mapas, as habilidades do grupo e os guias.</li><li>Se estiver perdido, o grupo pode precisar gastar uma <strong>Ação nos Ermos</strong> para reencontrar o rumo. Caso contrário, o grupo chega ao próximo <strong>ponto</strong> da rota.</li><li>Lembre-se de comparar o resultado de se perder com a <strong>Dificuldade</strong> do caminho correspondente.</li></ul>"
       },
       "Watches": {
-        "Title": "Turnos",
-        "Text": "<ul><li>Um dia é dividido em três <strong>turnos</strong>: <em>manhã</em>, <em>tarde</em> e <em>noite</em>.</li><li>Cada personagem pode escolher <em>uma</em> <strong>Ação nos Ermos</strong> por <strong>turno</strong>.</li><li>Se os personagens se separarem, cada grupo é tratado como uma entidade independente.</li></ul>"
+        "Title": "Vigílias",
+        "Text": "<ul><li>Um dia é dividido em três <strong>vigílias</strong>: <em>manhã</em>, <em>tarde</em> e <em>noite</em>.</li><li>Cada personagem pode escolher <em>uma</em> <strong>Ação nos Ermos</strong> por <strong>vigília</strong>.</li><li>Se os personagens se separarem, cada grupo é tratado como uma entidade independente.</li></ul>"
       }
     },
     "Group": {
