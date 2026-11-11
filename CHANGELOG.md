@@ -1,7 +1,11 @@
-# Unreleased
+# 0.0.17
 
-- [Changed] O *watch* da viagem pelos ermos agora é **vigília**, não mais "turno": o Guia do Jogador (Exploração dos Ermos), as Regras Rápidas, a janela de jornada, o calendário e a tabela de Terminologia. "Turno" fica só para a vez de cada personagem.
-- [Changed] O rastreador de masmorra conta **ciclos**, como o sistema: "Ciclo 3", "Próximo ciclo" / "Ciclo anterior", o gatilho de demorar-se e a ajuda, que agora explica que o ciclo é a rodada do grupo inteiro e o turno é a vez de cada personagem.
+### Alterado
+
+* **Acompanha o Cairn 2e 0.2.8.** O rastreador de masmorra conta **ciclos**, como o sistema: "Ciclo 3", "Próximo ciclo" / "Ciclo anterior", o gatilho de demorar-se e a ajuda, que agora explica que o ciclo é a rodada do grupo inteiro e o turno é a vez de cada personagem.
+* O *watch* da viagem pelos ermos agora é **vigília**, não mais "turno": o Guia do Jogador (Exploração dos Ermos), as Regras Rápidas, a janela de jornada, o calendário e a tabela de Terminologia. "Turno" fica só para a vez de cada personagem.
+
+  Agora o módulo exige o Cairn 2e 0.2.8 ou mais novo.
 
 # 0.0.16
 
